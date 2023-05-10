@@ -1,0 +1,19 @@
+{
+    "repositories" : {
+        "bumperscripter": {
+            "url": "https://github.com/publiccodenet/bumperscripter.git",
+            "branch": "main"
+        }
+    },
+    "ignore_patterns" : [
+        "^http[s]\\?://twitter\\.com",
+        "github\\.com/.*/edit/",
+        "docs\\.github\\.com/",
+        "plausible\\.io/js/plausible\\.js",
+        "opensource\\.org",
+        "belastingdienst\\.nl/wps/wcm/connect/bldcontenten",
+        "reclameland\\.nl/drukken/softcover-boeken",
+        "www\\.dta\\.gov\\.au/help-and-advice",
+        "amsterdam\\.nl/en/"
+    ]
+}

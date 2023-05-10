@@ -21,4 +21,9 @@ url-check/url-check.py:
 update-url-check: url-check/url-check.py
 	git submodule update --init --recursive
 
+.PHONY:
+check: url-check-config.json url-check/url-check.py check-no-fails.sh
+	./check-no-fails.sh
+	@echo SUCCESS $@
+
 all: url-check/url-check.py
