@@ -15,7 +15,8 @@
 default: all
 
 url-check/url-check.py:
-	git submodule add https://github.com/publiccodenet/url-check.git
+	# git submodule add https://github.com/publiccodenet/url-check.git
+	git submodule update --init --recursive
 
 .PHONY: update-url-check
 update-url-check: url-check/url-check.py
