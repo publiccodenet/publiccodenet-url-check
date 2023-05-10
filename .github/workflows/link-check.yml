@@ -35,4 +35,5 @@ jobs:
           sudo apt-get install -y
           make
           python3
+          python3-docopt
       - run: make check
