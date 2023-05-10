@@ -9,25 +9,19 @@
             "branch": "main"
         }
     },
-    "ignore_patterns" : [
-        "^http[s]\\?://twitter\\.com",
-        "github\\.com/.*/edit/",
-        "docs\\.github\\.com/",
-        "plausible\\.io/js/plausible\\.js",
-        "opensource\\.org",
-        "belastingdienst\\.nl/wps/wcm/connect/bldcontenten",
-        "reclameland\\.nl/drukken/softcover-boeken",
-        "www\\.dta\\.gov\\.au/help-and-advice",
-	"^https://commons\\.wikimedia\\.org/wiki/File:Trains_icons_",
-        "^https://pixabay\\.com/",
-	"^https://fonts.google.com/download?family=",
-        "https://standard.publiccode.net/criteria/\\2.html",
-        "amsterdam\\.nl/en/"
-    ],
-    "ignore_patterns_comments" : [
-        "pixbay gives 403 to curl",
-        "fontname is a bash script parameter in the fonts.google download URL",
-        "criteria page is the 2nd regex parameter in generate-review-template",
-        "File:Trains_icons_ workaround for parenthesis in URL"
-    ]
+    "ignore_patterns" : {
+        "^http[s]\\?://twitter\\.com": "302; does not serve scripts",
+        "^http[s]\\?://github\\.com/.*/edit/": "may point to yet-to-exist page",
+        "^http[s]\\?://docs\\.github\\.com/": "seems blocked as DoS protection",
+        "plausible\\.io/js/plausible\\.js": "does not serve to scripts",
+        "opensource\\.org": "failed: 503 No error",
+        "belastingdienst\\.nl/wps/wcm/connect/bldcontenten": "regular timeouts",
+        "reclameland\\.nl/drukken/softcover-boeken": "failed: 403 No error",
+        "www\\.dta\\.gov\\.au/help-and-advice": "failed: 403 No error",
+	"^https://commons\\.wikimedia\\.org/wiki/File:Trains_icons_": "')' bug",
+        "^https://pixabay\\.com/": "gives 403 to curl",
+	"^https://fonts.google.com/download?family=": "bash param in the URL",
+        "https://standard.publiccode.net/criteria/\\2.html": "regex in URL",
+        "amsterdam\\.nl/en/": "frequent timeouts"
+    }
 }
