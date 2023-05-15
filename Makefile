@@ -28,3 +28,10 @@ check: url-check-config.json url-check/url-check.py check-no-fails.sh
 	@echo SUCCESS $@
 
 all: url-check/url-check.py
+
+url-check-fails.json: url-check/url-check.py url-check-config.json
+	url-check/url-check.py
+
+serve: url-check-fails.json
+	PAGES_REPO_NWO=publiccodenet/stpubliccodenet-url-check \
+		bundle exec jekyll serve

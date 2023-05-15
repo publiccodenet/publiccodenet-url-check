@@ -1,0 +1,11 @@
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2023 The Foundation for Public Code <info@publiccode.net>
+
+Gemfile.lock
+_site
+vendor/
+
+# but used in the gh-pages branch
+badges/
+url-check-fails.json
+url-check-results.json
