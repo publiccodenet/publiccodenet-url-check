@@ -12,9 +12,10 @@ fi
 #      -e  Exit immediately if a command exits with a non-zero status.
 set -e
 
-url-check/url-check.py $URL_CHECK_VERBOSE
-LINES=`wc -l url-check-fails.json | cut -f1 -d' '`
-if [ $LINES -gt 1 ]; then
+if [ "_${URL_CHECK_JUST_RAN}_" == "__" ]; then
+	url-check/url-check.py $URL_CHECK_VERBOSE
+fi
+if [ $(grep -c '"failing"' url-check-fails.json) -ne 0 ]; then
 	echo
 	echo "Fails: $(grep -c '"http' url-check-fails.json)"
 	echo
