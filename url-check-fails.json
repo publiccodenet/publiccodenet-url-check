@@ -4,7 +4,7 @@
             "checks": {
                 "status": 404,
                 "fail": {
-                    "from": "2023-05-16 06:55:08.343964",
+                    "from": "2023-05-16 07:23:07.789963",
                     "from-code": 404
                 }
             },
@@ -13,28 +13,11 @@
                     "index.md"
                 ]
             }
-        },
-        "https://go.microsoft.com/fwlink/?LinkId=733558": {
-            "checks": {
-                "status": 0,
-                "fail": {
-                    "from": "2023-05-16 06:55:11.699810",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    ".vscode/tasks.json"
-                ],
-                "standard.publiccode.net-develop": [
-                    ".vscode/tasks.json"
-                ]
-            }
         }
     },
     "repos": {
         "standard.publiccode.net": "failing",
-        "standard.publiccode.net-develop": "failing",
+        "standard.publiccode.net-develop": "passing",
         "bumperscripter": "passing"
     }
 }
