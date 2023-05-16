@@ -56,6 +56,8 @@ jobs:
         run: echo "once it is live, we can fetch the previous results"
       - name: build-site
         run: make build
+      - name: report-built-files
+        run: find _site -ls
       - name: Deploy to GitHub Pages
         id: deployment
         uses: peaceiris/actions-gh-pages@v3
