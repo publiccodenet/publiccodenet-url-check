@@ -22,16 +22,29 @@ url-check/url-check.py:
 update-url-check: url-check/url-check.py
 	git submodule update --init --recursive
 
-.PHONY:
+.PHONY: check
 check: url-check-config.json url-check/url-check.py check-no-fails.sh
 	./check-no-fails.sh
 	@echo SUCCESS $@
 
+.PHONY: all
 all: url-check/url-check.py
 
 url-check-fails.json: url-check/url-check.py url-check-config.json
 	url-check/url-check.py
 
-serve: url-check-fails.json
-	PAGES_REPO_NWO=publiccodenet/stpubliccodenet-url-check \
+_site/index.html: index.md url-check-fails.json
+	PAGES_REPO_NWO=publiccodenet/publiccodenet-url-check \
+		bundle exec jekyll build
+
+.PHONY: build
+build: _site/index.html
+
+.PHONY: serve
+serve: _site/url-check-fails.json
+	PAGES_REPO_NWO=publiccodenet/publiccodenet-url-check \
 		bundle exec jekyll serve
+
+.PHONY: clean
+clean:
+	rm -rf _site

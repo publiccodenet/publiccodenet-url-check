@@ -20,6 +20,18 @@ defaults:
   run:
     shell: bash
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  deployments: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
   link-check:
     if: ${{ github.repository == 'publiccodenet/publiccodenet-url-check' }}
@@ -36,4 +48,19 @@ jobs:
           make
           python3
           python3-docopt
-      - run: make check
+          ruby
+          ruby-bundler
+      - name: bundle-install
+        run: bundle install
+      - name: fetch-previous-results
+        run: echo "once it is live, we can fetch the previous results"
+      - name: build-site
+        run: make build
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+      - name: report-failure-on-bad-urls
+        run: URL_CHECK_JUST_RAN=1 make check
