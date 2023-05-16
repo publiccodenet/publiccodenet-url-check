@@ -33,7 +33,7 @@ all: url-check/url-check.py
 url-check-fails.json: url-check/url-check.py url-check-config.json
 	url-check/url-check.py
 
-_site/index.html: index.md url-check-fails.json
+_site/url-check-fails.json _site/index.html &: index.md url-check-fails.json
 	PAGES_REPO_NWO=publiccodenet/publiccodenet-url-check \
 		bundle exec jekyll build
 
