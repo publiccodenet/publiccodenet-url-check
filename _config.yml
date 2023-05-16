@@ -9,3 +9,11 @@ plugins:
 
 remote_theme: publiccodenet/jekyll-theme
 baseurl: /publiccodenet-url-check
+
+exclude:
+  - vendor/
+  - url-check/
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+  - check-no-fails.sh
