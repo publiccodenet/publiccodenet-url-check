@@ -50,10 +50,11 @@ jobs:
           python3-docopt
           ruby
           ruby-bundler
+          wget
       - name: bundle-install
         run: bundle install
       - name: fetch-previous-results
-        run: echo "once it is live, we can fetch the previous results"
+        run: wget https://publiccodenet.github.io/publiccodenet-url-check/url-check-results.json
       - name: build-site
         run: make build
       - name: report-built-files
