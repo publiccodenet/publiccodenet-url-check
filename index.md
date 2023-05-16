@@ -7,9 +7,9 @@
 ## Repository status:
 
 |---|---|
-| [standard (main)](https://github.com/publiccodenet/standard/tree/main) | ![standard badge](badges/standard.publiccode.net.svg) |
-| [standard (develop)](https://github.com/publiccodenet/standard/tree/develop) | ![standard badge](badges/standard.publiccode.net-develop.svg) |
-| [bumperscripter (main)](https://github.com/publiccodenet/bumperscripter/tree/main) | ![bumperscripter badge](badges/bumperscripter.svg) |
+| [standard (main)](https://github.com/publiccodenet/standard/tree/main) | [![standard badge](badges/standard.publiccode.net.svg)](url-check-fails.json) |
+| [standard (develop)](https://github.com/publiccodenet/standard/tree/develop) | [![standard badge](badges/standard.publiccode.net-develop.svg)](url-check-fails.json) |
+| [bumperscripter (main)](https://github.com/publiccodenet/bumperscripter/tree/main) | [![bumperscripter badge](badges/bumperscripter.svg)](url-check-fails.json) |
 
 ## link check results
 
