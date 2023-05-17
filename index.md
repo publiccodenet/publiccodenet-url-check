@@ -6,9 +6,9 @@
 # Repository link check results:
 
 |---|---|
-| [standard (main)](https://github.com/publiccodenet/standard/tree/main) | [![standard badge](badges/standard.publiccode.net.svg)](standard.publiccode.net-url-check-fails.json) |
-| [standard (develop)](https://github.com/publiccodenet/standard/tree/develop) | [![standard badge](badges/standard.publiccode.net-develop.svg)](standard.publiccode.net-develop-url-check-fails.json) |
-| [bumperscripter (main)](https://github.com/publiccodenet/bumperscripter/tree/main) | [![bumperscripter badge](badges/bumperscripter.svg)](bumperscripter-url-check-fails.json) |
+| [standard (main)](https://github.com/publiccodenet/standard/tree/main) | [![standard badge](badges/standard.publiccode.net.svg)](standard.publiccode.net-url-check-look.json) |
+| [standard (develop)](https://github.com/publiccodenet/standard/tree/develop) | [![standard badge](badges/standard.publiccode.net-develop.svg)](standard.publiccode.net-develop-url-check-look.json) |
+| [bumperscripter (main)](https://github.com/publiccodenet/bumperscripter/tree/main) | [![bumperscripter badge](badges/bumperscripter.svg)](bumperscripter-url-check-look.json) |
 
 ## Overall link check results
 
