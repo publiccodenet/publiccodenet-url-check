@@ -40,9 +40,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: update-deps
         run: sudo apt-get update
-      # maybe we can get away without doing an upgrade before install?
-      # - name: upgrade-deps
-      #   run: sudo apt-get upgrade -y
+      - name: upgrade-deps
+        run: sudo apt-get upgrade -y
       - name: install-deps
         run: >
           sudo apt-get install -y
