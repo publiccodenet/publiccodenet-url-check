@@ -1,38 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2023 The Foundation for Public Code <info@publiccode.net> -->
-
-<svg xmlns="http://www.w3.org/2000/svg" width="115" height="20">
-  <title>link check - passing</title>
-  <defs>
-    <linearGradient id="name-fill" x1="50%" y1="0%" x2="50%" y2="100%">
-      <stop stop-color="#444D56" offset="0%"></stop>
-      <stop stop-color="#24292E" offset="100%"></stop>
-    </linearGradient>
-    <linearGradient id="state-fill" x1="50%" y1="0%" x2="50%" y2="100%">
-      <stop stop-color="#34D058" offset="0%"></stop>
-      <stop stop-color="#28A745" offset="100%"></stop>
-    </linearGradient>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <g font-family="&#39;DejaVu Sans&#39;,Verdana,Geneva,sans-serif" font-size="11">
-      <path id="name-bg" d="M0,3 C0,1.3431 1.3552,0 3.02702703,0 L65,0 L65,20 L3.02702703,20 C1.3552,20 0,18.6569 0,17 L0,3 Z" fill="url(#name-fill)" fill-rule="nonzero"></path>
-      <text fill="#010101" fill-opacity=".3">
-        <tspan x="5" y="15" aria-hidden="true">link check</tspan>
-      </text>
-      <text fill="#FFFFFF">
-        <tspan x="5" y="14">link check</tspan>
-      </text>
-    </g>
-    <g transform="translate(65)" font-family="&#39;DejaVu Sans&#39;,Verdana,Geneva,sans-serif" font-size="11">
-      <path d="M0 0h46.939C48.629 0 50 1.343 50 3v14c0 1.657-1.37 3-3.061 3H0V0z" id="state-bg" fill="url(#state-fill)" fill-rule="nonzero"></path>
-      <text fill="#010101" fill-opacity=".3" aria-hidden="true">
-        <tspan x="4" y="15">passing</tspan>
-      </text>
-      <text fill="#FFFFFF">
-        <tspan x="4" y="14">passing</tspan>
-      </text>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="164" height="20" role="img" aria-label="link check: develop passing">
+  <title>link check: develop passing</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="164" height="20" rx="3" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="65" height="20" fill="#555"/>
+    <rect x="65" width="99" height="20" fill="#97ca00"/>
+    <rect width="164" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <text aria-hidden="true" x="335" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="550">link check</text>
+    <text x="335" y="140" transform="scale(.1)" fill="#fff" textLength="550">link check</text>
+    <text aria-hidden="true" x="1135" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="890">develop passing</text>
+    <text x="1135" y="140" transform="scale(.1)" fill="#fff" textLength="890">develop passing</text>
   </g>
 </svg>
-
