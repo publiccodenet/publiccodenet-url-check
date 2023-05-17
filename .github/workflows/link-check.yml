@@ -45,7 +45,9 @@ jobs:
       - name: install-deps
         run: >
           sudo apt-get install -y
+          libxml2-utils
           make
+          nodejs
           python3
           python3-docopt
           ruby

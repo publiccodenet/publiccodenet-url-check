@@ -5,6 +5,9 @@ Gemfile.lock
 _site
 vendor/
 
+package-lock.json
+node_modules/
+
 # but used in the gh-pages branch
 badges/
 *url-check-fails.json

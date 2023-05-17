@@ -30,12 +30,40 @@ check: url-check-config.json url-check/url-check.py check-no-fails.sh
 .PHONY: all
 all: url-check/url-check.py
 
-url-check-fails.json: url-check/url-check.py url-check-config.json
+url-check-fails.json \
+standard.publiccode.net-url-check-fails.json \
+bumperscripter-url-check-fails.json \
+standard.publiccode.net-develop-url-check-fails.json \
+	&: url-check/url-check.py url-check-config.json
 	url-check/url-check.py
 
-_site/url-check-fails.json _site/index.html &: index.md url-check-fails.json
+_site/url-check-fails.json _site/index.html &: index.md url-check-fails.json \
+		badges/standard.publiccode.net.svg \
+		badges/standard.publiccode.net-develop.svg \
+		badges/bumperscripter.svg
 	PAGES_REPO_NWO=publiccodenet/publiccodenet-url-check \
 		bundle exec jekyll build
+
+./node_modules/.bin/badge:
+	npm install badge-maker
+
+badges/standard.publiccode.net.svg: \
+		./node_modules/.bin/badge \
+		make-badge \
+		standard.publiccode.net-url-check-fails.json
+	./make-badge "standard.publiccode.net" "main"
+
+badges/standard.publiccode.net-develop.svg: \
+		./node_modules/.bin/badge \
+		make-badge \
+		standard.publiccode.net-develop-url-check-fails.json
+	./make-badge "standard.publiccode.net-develop" "develop"
+
+badges/bumperscripter.svg: \
+		./node_modules/.bin/badge \
+		make-badge \
+		bumperscripter-url-check-fails.json
+	./make-badge "bumperscripter" "main"
 
 .PHONY: build
 build: _site/index.html
