@@ -2,9 +2,8 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2023 The Foundation for Public Code <info@publiccode.net>
 ---
-# Foundation for Public Code repository link checks
 
-## Repository status:
+# Repository link check results:
 
 |---|---|
 | [standard (main)](https://github.com/publiccodenet/standard/tree/main) | [![standard badge](badges/standard.publiccode.net.svg)](standard.publiccode.net-url-check-fails.json) |
