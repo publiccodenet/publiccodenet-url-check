@@ -38,6 +38,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: drop-some-bloat
+        run: sudo apt-get remove -y firefox
       - name: update-deps
         run: sudo apt-get update
       - name: upgrade-deps
