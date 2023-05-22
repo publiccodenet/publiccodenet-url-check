@@ -46,6 +46,7 @@ standard.publiccode.net-develop-url-check-fails.json \
 _site/url-check-fails.json _site/index.html &: index.md url-check-fails.json \
 		badges/standard.publiccode.net.svg \
 		badges/standard.publiccode.net-develop.svg \
+		badges/community-implementation-guide-standard.svg \
 		badges/bumperscripter.svg \
 		vendor/bundle
 	PAGES_REPO_NWO=publiccodenet/publiccodenet-url-check \
@@ -75,6 +76,13 @@ badges/standard.publiccode.net-develop.svg: \
 		./url-check/make-badge \
 		standard.publiccode.net-develop-url-check-fails.json
 	$(MAKE_BADGE) "standard.publiccode.net-develop" "develop"
+
+badges/community-implementation-guide-standard.svg: \
+		./node_modules/.bin/badge \
+		./url-check/make-badge \
+		community-implementation-guide-standard-url-check-fails.json
+	$(MAKE_BADGE) "community-implementation-guide-standard" "main"
+
 
 badges/bumperscripter.svg: \
 		./node_modules/.bin/badge \
