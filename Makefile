@@ -39,6 +39,7 @@ vendor/bundle:
 url-check-fails.json \
 standard.publiccode.net-url-check-fails.json \
 bumperscripter-url-check-fails.json \
+community-implementation-guide-standard-url-check-fails.json \
 standard.publiccode.net-develop-url-check-fails.json \
 	&: url-check/url-check.py url-check-config.json
 	url-check/url-check.py
