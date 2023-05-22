@@ -17,3 +17,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - check-no-fails.sh
+  - package.json
+  - package-lock.json                                                             - node_modules/
