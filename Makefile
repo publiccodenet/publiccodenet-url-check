@@ -42,7 +42,7 @@ bumperscripter-url-check-fails.json \
 community-implementation-guide-standard-url-check-fails.json \
 standard.publiccode.net-develop-url-check-fails.json \
 	&: url-check/url-check.py url-check-config.json
-	url-check/url-check.py
+	url-check/url-check.py --verbose
 
 _site/url-check-fails.json _site/index.html &: index.md url-check-fails.json \
 		badges/standard.publiccode.net.svg \
