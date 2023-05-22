@@ -6,7 +6,7 @@
                 "fail": {
                     "from": "2023-05-16 07:23:07.789963",
                     "from-code": 404,
-                    "to": "2023-05-22 02:44:39.630150",
+                    "to": "2023-05-22 13:35:35.769256",
                     "to-code": 404
                 }
             },
@@ -15,11 +15,36 @@
                     "index.md"
                 ]
             }
+        },
+        "https://www.lonebeard.com": {
+            "checks": {
+                "status": 404,
+                "200": "2023-05-22 02:45:09.827428",
+                "fail": {
+                    "from": "2023-05-22 13:36:36.601297",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "bumperscripter": [
+                    "music/publiccodepodcast-chime-only.mp3",
+                    "music/publiccodepodcast-chime-only.wav",
+                    "music/publiccodepodcast-leader-long.mp3",
+                    "music/publiccodepodcast-leader-long.wav",
+                    "music/publiccodepodcast-leader-no-intro.mp3",
+                    "music/publiccodepodcast-leader-no-intro.wav",
+                    "music/publiccodepodcast-sonic-chapter-long.mp3",
+                    "music/publiccodepodcast-sonic-chapter-long.wav",
+                    "music/publiccodepodcast-sonic-chapter-synth-short.mp3",
+                    "music/publiccodepodcast-sonic-chapter-synth-short.wav"
+                ]
+            }
         }
     },
     "repos": {
         "standard.publiccode.net": "failing",
         "standard.publiccode.net-develop": "passing",
-        "bumperscripter": "passing"
+        "community-implementation-guide-standard": "passing",
+        "bumperscripter": "failing"
     }
 }

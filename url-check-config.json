@@ -8,6 +8,10 @@
             "url": "https://github.com/publiccodenet/standard.git",
             "branch": "develop"
         },
+        "community-implementation-guide-standard": {
+            "url": "https://github.com/publiccodenet/community-implementation-guide-standard.git",
+            "branch": "main"
+        },
         "bumperscripter": {
             "url": "https://github.com/publiccodenet/bumperscripter.git",
             "branch": "main"
@@ -26,6 +30,7 @@
 	"^https://fonts.google.com/download?family=": "bash param in the URL",
         "https://standard.publiccode.net/criteria/\\\\2.html": "regex in URL",
         "^https://www.go-fair.org/": "gives 400s when run as GitHub workflow",
+	"^https://www\\.grammarly\\.com/": "HTTP/2 405, allow: POST, GET",
         "amsterdam\\.nl/en/": "frequent timeouts"
     }
 }
