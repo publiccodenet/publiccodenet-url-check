@@ -31,6 +31,7 @@
         "https://standard.publiccode.net/criteria/\\\\2.html": "regex in URL",
         "^https://www.go-fair.org/": "gives 400s when run as GitHub workflow",
 	"^https://www\\.grammarly\\.com/": "HTTP/2 405, allow: POST, GET",
+	"^https://www\\.lonebeard\\.com": "defunct, referenced in binary files",
         "amsterdam\\.nl/en/": "frequent timeouts"
     }
 }
