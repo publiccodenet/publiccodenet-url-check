@@ -8,6 +8,10 @@
             "url": "https://github.com/publiccodenet/standard.git",
             "branch": "develop"
         },
+        "publiccode.net": {
+            "url": "https://github.com/publiccodenet/publiccode.net.git",
+            "branch": "main"
+        },
         "community-implementation-guide-standard": {
             "url": "https://github.com/publiccodenet/community-implementation-guide-standard.git",
             "branch": "main"
@@ -32,6 +36,9 @@
         "^https://www.go-fair.org/": "gives 400s when run as GitHub workflow",
 	"^https://www\\.grammarly\\.com/": "HTTP/2 405, allow: POST, GET",
 	"^https://www\\.lonebeard\\.com": "defunct, referenced in binary files",
+	"^http[s]\\?://cipa\\.jp/exif": "defunct, embedded in some .jpg files",
+	"^http://ns\\.adobe\\.com/": "defunct, embedded in .jpg",
+	"^http://www.gimp.org/xmp/": "defunct, embedded in .jpg",
         "amsterdam\\.nl/en/": "frequent timeouts"
     }
 }

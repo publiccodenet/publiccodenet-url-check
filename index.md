@@ -10,6 +10,7 @@
 | [standard (develop)](https://github.com/publiccodenet/standard/tree/develop) | [![standard badge](badges/standard.publiccode.net-develop.svg)](standard.publiccode.net-develop-url-check-look.json) |
 | [community-implementation-guide-standard (main)](https://github.com/publiccodenet/community-implementation-guide-standard/tree/main) | [![standard badge](badges/community-implementation-guide-standard.svg)](community-implementation-guide-standard-url-check-look.json) |
 | [bumperscripter (main)](https://github.com/publiccodenet/bumperscripter/tree/main) | [![bumperscripter badge](badges/bumperscripter.svg)](bumperscripter-url-check-look.json) |
+| [publiccode.net (main)](https://github.com/publiccodenet/publiccode.net/tree/main) | [![publiccode.net badge](badges/publiccode.net.svg)](publiccode.net-url-check-look.json) |
 
 ## Overall link check results
 

@@ -39,16 +39,18 @@ vendor/bundle:
 url-check-fails.json \
 standard.publiccode.net-url-check-fails.json \
 bumperscripter-url-check-fails.json \
+publiccode.net-url-check-fails.json \
 community-implementation-guide-standard-url-check-fails.json \
 standard.publiccode.net-develop-url-check-fails.json \
 	&: url-check/url-check.py url-check-config.json
-	url-check/url-check.py --verbose
+	url-check/url-check.py --verbose --timeout=20
 
 _site/url-check-fails.json _site/index.html &: index.md url-check-fails.json \
 		badges/standard.publiccode.net.svg \
 		badges/standard.publiccode.net-develop.svg \
 		badges/community-implementation-guide-standard.svg \
 		badges/bumperscripter.svg \
+		badges/publiccode.net.svg \
 		vendor/bundle
 	PAGES_REPO_NWO=publiccodenet/publiccodenet-url-check \
 		bundle exec jekyll build
@@ -84,12 +86,17 @@ badges/community-implementation-guide-standard.svg: \
 		community-implementation-guide-standard-url-check-fails.json
 	$(MAKE_BADGE) "community-implementation-guide-standard" "main"
 
-
 badges/bumperscripter.svg: \
 		./node_modules/.bin/badge \
 		./url-check/make-badge \
 		bumperscripter-url-check-fails.json
 	$(MAKE_BADGE) "bumperscripter" "main"
+
+badges/publiccode.net.svg: \
+		./node_modules/.bin/badge \
+		./url-check/make-badge \
+		publiccode.net-url-check-fails.json
+	$(MAKE_BADGE) "publiccode.net" "main"
 
 .PHONY: build
 build: _site/index.html
