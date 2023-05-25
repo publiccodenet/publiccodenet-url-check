@@ -1,21 +1,5 @@
 {
     "urls": {
-        "https://github.com/publiccodenet/standard/blob/develop/docs/review-template.md)": {
-            "checks": {
-                "status": 404,
-                "fail": {
-                    "from": "2023-05-16 07:23:07.789963",
-                    "from-code": 404,
-                    "to": "2023-05-25 02:39:49.009497",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "index.md"
-                ]
-            }
-        },
         "https://publiccode.net/team/alba-roza.html": {
             "checks": {
                 "status": 404,
@@ -130,10 +114,6 @@
         }
     },
     "repos": {
-        "standard.publiccode.net": "failing",
-        "standard.publiccode.net-develop": "passing",
-        "publiccode.net": "failing",
-        "community-implementation-guide-standard": "passing",
-        "bumperscripter": "passing"
+        "publiccode.net": "failing"
     }
 }
