@@ -6,7 +6,7 @@
                 "fail": {
                     "from": "2023-05-16 07:23:07.789963",
                     "from-code": 404,
-                    "to": "2023-05-25 02:39:49.009497",
+                    "to": "2023-05-26 02:39:23.849797",
                     "to-code": 404
                 }
             },
@@ -21,7 +21,9 @@
                 "status": 404,
                 "fail": {
                     "from": "2023-05-25 02:40:15.186516",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-05-26 02:39:51.341327",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -35,7 +37,9 @@
                 "status": 404,
                 "fail": {
                     "from": "2023-05-25 02:40:15.281983",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-05-26 02:39:51.473559",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -49,7 +53,9 @@
                 "status": 404,
                 "fail": {
                     "from": "2023-05-25 02:40:15.404300",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-05-26 02:39:51.573168",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -63,7 +69,9 @@
                 "status": 404,
                 "fail": {
                     "from": "2023-05-25 02:40:15.501843",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-05-26 02:39:51.687351",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -77,7 +85,9 @@
                 "status": 404,
                 "fail": {
                     "from": "2023-05-25 02:40:15.594106",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-05-26 02:39:51.838666",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -91,7 +101,9 @@
                 "status": 404,
                 "fail": {
                     "from": "2023-05-25 02:40:15.684912",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-05-26 02:39:51.957035",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -105,7 +117,9 @@
                 "status": 404,
                 "fail": {
                     "from": "2023-05-25 02:40:15.777988",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-05-26 02:39:52.123863",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -119,12 +133,29 @@
                 "status": 404,
                 "fail": {
                     "from": "2023-05-25 02:40:15.878935",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-05-26 02:39:52.249808",
+                    "to-code": 404
                 }
             },
             "used": {
                 "publiccode.net": [
                     "who-we-are/former-team-members.md"
+                ]
+            }
+        },
+        "https://www.digg.se/regler-och-rekommendationer": {
+            "checks": {
+                "status": 0,
+                "200": "2023-05-25 02:40:34.419581",
+                "fail": {
+                    "from": "2023-05-26 02:40:13.704465",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/bundle-policy-and-code.md"
                 ]
             }
         }
@@ -133,7 +164,7 @@
         "standard.publiccode.net": "failing",
         "standard.publiccode.net-develop": "passing",
         "publiccode.net": "failing",
-        "community-implementation-guide-standard": "passing",
+        "community-implementation-guide-standard": "failing",
         "bumperscripter": "passing"
     }
 }

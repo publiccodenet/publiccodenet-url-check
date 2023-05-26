@@ -1,6 +1,22 @@
 {
-    "urls": {},
+    "urls": {
+        "https://www.digg.se/regler-och-rekommendationer": {
+            "checks": {
+                "status": 0,
+                "200": "2023-05-25 02:40:34.419581",
+                "fail": {
+                    "from": "2023-05-26 02:40:13.704465",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/bundle-policy-and-code.md"
+                ]
+            }
+        }
+    },
     "repos": {
-        "community-implementation-guide-standard": "passing"
+        "community-implementation-guide-standard": "failing"
     }
 }
