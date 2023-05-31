@@ -1,23 +1,6 @@
 {
-    "urls": {
-        "https://github.com/publiccodenet/standard/blob/develop/docs/review-template.md)": {
-            "checks": {
-                "status": 404,
-                "fail": {
-                    "from": "2023-05-16 07:23:07.789963",
-                    "from-code": 404,
-                    "to": "2023-05-30 09:29:12.006317",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "index.md"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
-        "standard.publiccode.net": "failing"
+        "standard.publiccode.net": "passing"
     }
 }
