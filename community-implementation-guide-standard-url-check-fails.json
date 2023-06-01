@@ -1,5 +1,19 @@
 {
     "urls": {
+        "https://github.com/open-zaak/openzaak/blob/main/SECURITY.rst": {
+            "checks": {
+                "status": 404,
+                "fail": {
+                    "from": "2023-06-01 03:15:46.924754",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/make-contributing-easy.md"
+                ]
+            }
+        },
         "https://www.digg.se/regler-och-rekommendationer": {
             "checks": {
                 "status": 0,
@@ -7,13 +21,13 @@
                 "fail": {
                     "from": "2023-05-26 02:40:13.704465",
                     "from-code": 0,
-                    "to": "2023-05-31 03:01:56.692179",
+                    "to": "2023-06-01 03:16:45.760845",
                     "to-code": 0
                 }
             },
             "used": {
                 "community-implementation-guide-standard": [
-                    "criteria/bundle-policy-and-code.md"
+                    "criteria/bundle-policy-and-source-code.md"
                 ]
             }
         }
