@@ -5,29 +5,14 @@
                 "status": 404,
                 "fail": {
                     "from": "2023-06-01 03:15:46.924754",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-06-02 02:55:40.800687",
+                    "to-code": 404
                 }
             },
             "used": {
                 "community-implementation-guide-standard": [
                     "criteria/make-contributing-easy.md"
-                ]
-            }
-        },
-        "https://www.digg.se/regler-och-rekommendationer": {
-            "checks": {
-                "status": 0,
-                "200": "2023-05-25 02:40:34.419581",
-                "fail": {
-                    "from": "2023-05-26 02:40:13.704465",
-                    "from-code": 0,
-                    "to": "2023-06-01 03:16:45.760845",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "community-implementation-guide-standard": [
-                    "criteria/bundle-policy-and-source-code.md"
                 ]
             }
         }
