@@ -1,27 +1,10 @@
 {
-    "urls": {
-        "https://github.com/open-zaak/openzaak/blob/main/SECURITY.rst": {
-            "checks": {
-                "status": 404,
-                "fail": {
-                    "from": "2023-06-01 03:15:46.924754",
-                    "from-code": 404,
-                    "to": "2023-06-06 03:02:30.195294",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "community-implementation-guide-standard": [
-                    "criteria/make-contributing-easy.md"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
         "publiccode.net": "passing",
-        "community-implementation-guide-standard": "failing",
+        "community-implementation-guide-standard": "passing",
         "bumperscripter": "passing"
     }
 }
