@@ -1,6 +1,23 @@
 {
-    "urls": {},
+    "urls": {
+        "https://ospo.zone/": {
+            "checks": {
+                "status": 503,
+                "200": "2023-06-07 03:01:46.686416",
+                "fail": {
+                    "from": "2023-06-08 03:00:40.013630",
+                    "from-code": 503
+                }
+            },
+            "used": {
+                "publiccode.net": [
+                    "OSPO.md",
+                    "who-we-are/index.md"
+                ]
+            }
+        }
+    },
     "repos": {
-        "publiccode.net": "passing"
+        "publiccode.net": "failing"
     }
 }

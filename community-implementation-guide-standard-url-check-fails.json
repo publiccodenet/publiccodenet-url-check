@@ -1,6 +1,22 @@
 {
-    "urls": {},
+    "urls": {
+        "https://ospo.zone/ggi/": {
+            "checks": {
+                "status": 503,
+                "200": "2023-06-07 03:01:47.169132",
+                "fail": {
+                    "from": "2023-06-08 03:00:40.429868",
+                    "from-code": 503
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/welcome-contributors.md"
+                ]
+            }
+        }
+    },
     "repos": {
-        "community-implementation-guide-standard": "passing"
+        "community-implementation-guide-standard": "failing"
     }
 }
