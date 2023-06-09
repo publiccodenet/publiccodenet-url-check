@@ -1,6 +1,26 @@
 {
-    "urls": {},
+    "urls": {
+        "https://img.shields.io/badge/version-0.7.0-yellow.svg": {
+            "checks": {
+                "status": 0,
+                "200": "2023-06-08 03:00:21.447224",
+                "fail": {
+                    "from": "2023-06-09 03:03:04.594340",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "README.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "README.md"
+                ]
+            }
+        }
+    },
     "repos": {
-        "standard.publiccode.net-develop": "passing"
+        "standard.publiccode.net-develop": "failing",
+        "standard.publiccode.net": "failing"
     }
 }

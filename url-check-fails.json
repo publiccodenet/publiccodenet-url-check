@@ -1,41 +1,43 @@
 {
     "urls": {
-        "https://ospo.zone/": {
+        "https://developer.overheid.nl/repositories": {
             "checks": {
-                "status": 503,
-                "200": "2023-06-07 03:01:46.686416",
+                "status": 0,
+                "200": "2023-06-08 02:59:19.659512",
                 "fail": {
-                    "from": "2023-06-08 03:00:40.013630",
-                    "from-code": 503
-                }
-            },
-            "used": {
-                "publiccode.net": [
-                    "OSPO.md",
-                    "who-we-are/index.md"
-                ]
-            }
-        },
-        "https://ospo.zone/ggi/": {
-            "checks": {
-                "status": 503,
-                "200": "2023-06-07 03:01:47.169132",
-                "fail": {
-                    "from": "2023-06-08 03:00:40.429868",
-                    "from-code": 503
+                    "from": "2023-06-09 03:02:06.156996",
+                    "from-code": 0
                 }
             },
             "used": {
                 "community-implementation-guide-standard": [
-                    "criteria/welcome-contributors.md"
+                    "criteria/make-the-codebase-findable.md"
+                ]
+            }
+        },
+        "https://img.shields.io/badge/version-0.7.0-yellow.svg": {
+            "checks": {
+                "status": 0,
+                "200": "2023-06-08 03:00:21.447224",
+                "fail": {
+                    "from": "2023-06-09 03:03:04.594340",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "README.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "README.md"
                 ]
             }
         }
     },
     "repos": {
-        "standard.publiccode.net": "passing",
-        "standard.publiccode.net-develop": "passing",
-        "publiccode.net": "failing",
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
+        "publiccode.net": "passing",
         "community-implementation-guide-standard": "failing",
         "bumperscripter": "passing"
     }
