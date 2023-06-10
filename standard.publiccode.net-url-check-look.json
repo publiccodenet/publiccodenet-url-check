@@ -1,26 +1,2358 @@
 {
-    "urls": {
-        "https://img.shields.io/badge/version-0.7.0-yellow.svg": {
-            "checks": {
-                "status": 0,
-                "200": "2023-06-08 03:00:21.447224",
-                "fail": {
-                    "from": "2023-06-09 03:03:04.594340",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "README.md"
-                ],
-                "standard.publiccode.net-develop": [
-                    "README.md"
-                ]
-            }
+    "http://creativecommons.org/ns": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:49:45.634628"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "assets/codebase.svg",
+                "assets/collaboration.svg",
+                "assets/collaborative-development.svg",
+                "assets/eco-system.svg",
+                "assets/unlock.svg"
+            ],
+            "standard.publiccode.net-develop": [
+                "assets/codebase.svg",
+                "assets/collaboration.svg",
+                "assets/collaborative-development.svg",
+                "assets/eco-system.svg",
+                "assets/unlock.svg"
+            ]
         }
     },
-    "repos": {
-        "standard.publiccode.net": "failing",
-        "standard.publiccode.net-develop": "failing"
+    "http://creativecommons.org/publicdomain/zero/1.0/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:49:45.817720"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md",
+                "assets/codebase.svg",
+                "assets/collaboration.svg",
+                "assets/collaborative-development.svg",
+                "assets/eco-system.svg",
+                "assets/unlock.svg"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md",
+                "assets/codebase.svg",
+                "assets/collaboration.svg",
+                "assets/collaborative-development.svg",
+                "assets/eco-system.svg",
+                "assets/unlock.svg"
+            ]
+        }
+    },
+    "http://grouper.ieee.org/groups/802/3/RTPGE/public/may12/hajduczenia_01_0512.pdf": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:49:48.723865"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/document-codebase-objectives.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/document-codebase-objectives.md"
+            ]
+        }
+    },
+    "http://hintjens.com/blog:117": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:49:50.405352"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/welcome-contributors.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/welcome-contributors.md"
+            ]
+        }
+    },
+    "http://jekyllrb.com/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:49:51.143251"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "http://purl.org/dc/dcmitype/StillImage": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:49:51.672928"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "assets/codebase.svg",
+                "assets/collaboration.svg",
+                "assets/collaborative-development.svg",
+                "assets/eco-system.svg",
+                "assets/unlock.svg"
+            ],
+            "standard.publiccode.net-develop": [
+                "assets/codebase.svg",
+                "assets/collaboration.svg",
+                "assets/collaborative-development.svg",
+                "assets/eco-system.svg",
+                "assets/unlock.svg"
+            ]
+        }
+    },
+    "http://purl.org/dc/elements/1.1/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:49:53.170408"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "assets/codebase.svg",
+                "assets/collaboration.svg",
+                "assets/collaborative-development.svg",
+                "assets/eco-system.svg",
+                "assets/unlock.svg"
+            ],
+            "standard.publiccode.net-develop": [
+                "assets/codebase.svg",
+                "assets/collaboration.svg",
+                "assets/collaborative-development.svg",
+                "assets/eco-system.svg",
+                "assets/unlock.svg"
+            ],
+            "publiccode.net": [
+                "photos/codebases/omgevingsbeleid/omgevingsbeleid_thumb_g01.png",
+                "photos/jacco-brouwer-open-day-2019.jpg",
+                "who-we-are/team/ben-cerveny.jpg",
+                "who-we-are/team/elena-findley-de-regt.jpg",
+                "who-we-are/team/eric-herman.jpg",
+                "who-we-are/team/kehinde-bademosi.jpg"
+            ]
+        }
+    },
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:49:55.662695"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "assets/codebase.svg",
+                "assets/collaboration.svg",
+                "assets/collaborative-development.svg",
+                "assets/eco-system.svg",
+                "assets/unlock.svg"
+            ],
+            "standard.publiccode.net-develop": [
+                "assets/codebase.svg",
+                "assets/collaboration.svg",
+                "assets/collaborative-development.svg",
+                "assets/eco-system.svg",
+                "assets/unlock.svg"
+            ],
+            "publiccode.net": [
+                "photos/Signalen-logo-no-background.png",
+                "photos/Signalen-user-interface.png",
+                "photos/codebases/omgevingsbeleid/omgevingsbeleid_thumb_g01.png",
+                "photos/codebases/openzaak/openzaak_thumb_g01.png",
+                "photos/codebases/signalen/signalen_g03.png",
+                "photos/codebases/signalen/signalen_logo_small.png",
+                "photos/codebases/signalen/signalen_thumb_g01.png",
+                "photos/jacco-brouwer-open-day-2019.jpg",
+                "photos/standard/thestandard_posterframe_v03.jpg",
+                "who-we-are/team/ben-cerveny.jpg",
+                "who-we-are/team/elena-findley-de-regt.jpg",
+                "who-we-are/team/eric-herman.jpg",
+                "who-we-are/team/kehinde-bademosi.jpg"
+            ]
+        }
+    },
+    "http://www.w3.org/1999/xlink": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:49:56.134329"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "assets/cc-zero-badge.svg",
+                "assets/dpg-badge.svg"
+            ],
+            "standard.publiccode.net-develop": [
+                "assets/cc-zero-badge.svg",
+                "assets/dpg-badge.svg"
+            ],
+            "publiccode.net": [
+                "assets/lightbox.css",
+                "assets/style_codebases.scss",
+                "images/audit-flow.svg",
+                "photos/logius-logo.svg",
+                "photos/openzaak-logo.svg"
+            ]
+        }
+    },
+    "http://www.w3.org/2000/svg": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:49:56.328393"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "assets/cc-zero-badge.svg",
+                "assets/codebase.svg",
+                "assets/collaboration.svg",
+                "assets/collaborative-development.svg",
+                "assets/dpg-badge.svg",
+                "assets/eco-system.svg",
+                "assets/hand-point.svg",
+                "assets/hands-shake.svg",
+                "assets/unlock.svg"
+            ],
+            "standard.publiccode.net-develop": [
+                "assets/cc-zero-badge.svg",
+                "assets/codebase.svg",
+                "assets/collaboration.svg",
+                "assets/collaborative-development.svg",
+                "assets/dpg-badge.svg",
+                "assets/eco-system.svg",
+                "assets/hand-point.svg",
+                "assets/hands-shake.svg",
+                "assets/unlock.svg"
+            ],
+            "publiccode.net": [
+                "assets/lightbox.css",
+                "assets/style_codebases.scss",
+                "images/audit-flow.svg",
+                "index.html",
+                "photos/logius-logo.svg",
+                "photos/openzaak-logo.svg"
+            ]
+        }
+    },
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:49:56.457272"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "assets/cc-zero-badge.svg"
+            ],
+            "standard.publiccode.net-develop": [
+                "assets/cc-zero-badge.svg"
+            ]
+        }
+    },
+    "https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:49:57.335278"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/require-review-of-contributions.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/require-review-of-contributions.md"
+            ]
+        }
+    },
+    "https://about.publiccode.net/activities/standard-maintenance/backlog-pruning.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:49:57.956735"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/roadmap.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/roadmap.md"
+            ]
+        }
+    },
+    "https://brand.publiccode.net/logo/mark-and-name-over-two-lines.svg": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:01.669189"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "print-cover.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "print-cover.html"
+            ]
+        }
+    },
+    "https://brand.publiccode.net/typography/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:01.833881"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/releasing.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/releasing.md"
+            ]
+        }
+    },
+    "https://codefor.nl/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:08.645914"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "AUTHORS.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "AUTHORS.md"
+            ]
+        }
+    },
+    "https://creativecommons.org/about/videos/creative-commons-kiwi": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:11.380787"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/publish-with-an-open-license.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/publish-with-an-open-license.md"
+            ],
+            "community-implementation-guide-standard": [
+                "criteria/publish-with-an-open-license.md"
+            ]
+        }
+    },
+    "https://creativecommons.org/licenses/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:12.470422"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/publish-with-an-open-license.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/publish-with-an-open-license.md"
+            ]
+        }
+    },
+    "https://dev.to/joelhans/how-to-inspire-exceptional-contributions-to-your-open-source-project-1ebf": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:15.674815"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/make-contributing-easy.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/make-contributing-easy.md"
+            ]
+        }
+    },
+    "https://digitalminister.tw/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:16.876761"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "AUTHORS.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "AUTHORS.md"
+            ]
+        }
+    },
+    "https://digitalpublicgoods.net/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:18.103705"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "publiccode.yml"
+            ],
+            "standard.publiccode.net-develop": [
+                "publiccode.yml"
+            ],
+            "publiccode.net": [
+                "who-we-are/index.md"
+            ]
+        }
+    },
+    "https://digitalpublicgoods.net/registry/standard-for-public-code.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:18.414619"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "_includes/badges.html",
+                "docs/standard-for-public-code.html",
+                "publiccode.yml"
+            ],
+            "standard.publiccode.net-develop": [
+                "_includes/badges.html",
+                "docs/standard-for-public-code.html",
+                "publiccode.yml"
+            ],
+            "publiccode.net": [
+                "standard-for-public-code/index.md"
+            ]
+        }
+    },
+    "https://directory.fsf.org/wiki/Main_Page": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:19.559381"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/make-the-codebase-findable.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/make-the-codebase-findable.md"
+            ],
+            "community-implementation-guide-standard": [
+                "criteria/make-the-codebase-findable.md"
+            ]
+        }
+    },
+    "https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:21.398499"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "foreword.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "foreword.md"
+            ]
+        }
+    },
+    "https://ec.europa.eu/digital-single-market/en/web-accessibility": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:22.178201"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/bundle-policy-and-source-code.md",
+                "criteria/use-plain-english.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/bundle-policy-and-source-code.md",
+                "criteria/use-plain-english.md"
+            ]
+        }
+    },
+    "https://education.github.com/git-cheat-sheet-education.pdf": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:23.609168"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/maintain-version-control.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/maintain-version-control.md"
+            ],
+            "community-implementation-guide-standard": [
+                "criteria/maintain-version-control.md"
+            ]
+        }
+    },
+    "https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:23.743292"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/bundle-policy-and-source-code.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/bundle-policy-and-source-code.md"
+            ]
+        }
+    },
+    "https://en.wikipedia.org/wiki/CMMN": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:23.952461"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/bundle-policy-and-source-code.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/bundle-policy-and-source-code.md"
+            ]
+        }
+    },
+    "https://en.wikipedia.org/wiki/Decision_Model_and_Notation": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:24.106870"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/bundle-policy-and-source-code.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/bundle-policy-and-source-code.md"
+            ]
+        }
+    },
+    "https://en.wikipedia.org/wiki/Programming_style": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:24.261428"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/use-a-coherent-style.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/use-a-coherent-style.md"
+            ]
+        }
+    },
+    "https://en.wikipedia.org/wiki/Software_release_life_cycle": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:24.406812"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/document-codebase-maturity.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/document-codebase-maturity.md"
+            ]
+        }
+    },
+    "https://eur-lex.europa.eu/eli/reg/2016/679/oj": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:25.216018"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/bundle-policy-and-source-code.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/bundle-policy-and-source-code.md"
+            ]
+        }
+    },
+    "https://gds-way.cloudapps.digital/standards/continuous-delivery.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:28.506217"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/use-continuous-integration.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/use-continuous-integration.md"
+            ]
+        }
+    },
+    "https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:29.747238"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/code-in-the-open.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/code-in-the-open.md"
+            ]
+        }
+    },
+    "https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:30.500508"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/make-contributing-easy.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/make-contributing-easy.md"
+            ]
+        }
+    },
+    "https://gdstechnology.blog.gov.uk/2014/01/27/how-we-use-github/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:31.016523"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/code-in-the-open.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/code-in-the-open.md"
+            ]
+        }
+    },
+    "https://github.com/Algoritmeregister/standard": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:33.158239"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://github.com/Amsterdam/signals/blob/master/docs/CONTRIBUTING.md": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:35.571853"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://github.com/Kozea/WeasyPrint.git": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:36.843156"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "script/pdf.sh"
+            ],
+            "standard.publiccode.net-develop": [
+                "script/pdf.sh"
+            ]
+        }
+    },
+    "https://github.com/coreinfrastructure/best-practices-badge": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:41.893702"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "readers-guide.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "readers-guide.md"
+            ]
+        }
+    },
+    "https://github.com/italia/publiccode.yml": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:44.058005"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "publiccode.yml"
+            ],
+            "standard.publiccode.net-develop": [
+                "publiccode.yml"
+            ]
+        }
+    },
+    "https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:44.888544"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                ".mdl_style.rb"
+            ],
+            "standard.publiccode.net-develop": [
+                ".mdl_style.rb"
+            ],
+            "publiccode.net": [
+                ".mdl_style.rb"
+            ]
+        }
+    },
+    "https://github.com/open-zaak/open-zaak/blob/main/CONTRIBUTING.md": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:48.009346"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/standard-for-public-code.html"
+            ],
+            "community-implementation-guide-standard": [
+                "criteria/use-a-coherent-style.md",
+                "criteria/welcome-contributors.md"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/community-translations-standard": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:53.559305"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "CHANGELOG.md",
+                "CONTRIBUTING.md",
+                "docs/releasing.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "CHANGELOG.md",
+                "CONTRIBUTING.md",
+                "docs/releasing.md"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:56.457866"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/standard-for-public-code.html",
+                "publiccode.yml"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/standard-for-public-code.html",
+                "publiccode.yml"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/actions": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:57.219847"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:57.870922"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment/badge.svg": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:58.361063"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/actions/workflows/test.yml": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:58.611421"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/actions/workflows/test.yml/badge.svg": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:59.273370"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/blob/develop/CHANGELOG.md": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:59.521963"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/blob/develop/CODE_OF_CONDUCT.md": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:50:59.841921"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/blob/develop/CONTRIBUTING.md": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:00.142330"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/standard-for-public-code.html"
+            ],
+            "publiccode.net": [
+                "standard-for-public-code/index.md"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/blob/develop/GOVERNANCE.md": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:00.420704"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/blob/develop/LICENSE": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:00.702604"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/blob/develop/docs/review-template.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:00.986277"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "index.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "index.md"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/blob/develop/docs/roadmap.md": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:01.369238"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/standard-for-public-code.html",
+                "publiccode.yml"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/standard-for-public-code.html",
+                "publiccode.yml"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/issues": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:01.889351"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "CONTRIBUTING.md",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "CONTRIBUTING.md",
+                "docs/standard-for-public-code.html"
+            ],
+            "publiccode.net": [
+                "standard-for-public-code/index.md"
+            ],
+            "community-implementation-guide-standard": [
+                "criteria/make-contributing-easy.md"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/pulse": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:02.520291"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/releases": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:02.803610"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/standard/tree/main/script": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:03.347049"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://github.com/publiccodeyml/publiccode.yml": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:03.656826"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/make-the-codebase-findable.md",
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/make-the-codebase-findable.md",
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://github.com/qpdf/qpdf": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:04.591075"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://go.microsoft.com/fwlink/?LinkId=733558": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:07.755046"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                ".vscode/tasks.json"
+            ],
+            "standard.publiccode.net-develop": [
+                ".vscode/tasks.json"
+            ]
+        }
+    },
+    "https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:09.249378"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://img.shields.io/badge/version-0.7.0-yellow.svg": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:09.392064"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:09.530317"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://jekyllrb.com/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:09.671179"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:13.979686"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "CONTRIBUTING.md",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "CONTRIBUTING.md",
+                "docs/standard-for-public-code.html"
+            ],
+            "publiccode.net": [
+                "standard-for-public-code/index.md"
+            ],
+            "community-implementation-guide-standard": [
+                "README.md"
+            ]
+        }
+    },
+    "https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:15.315327"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/welcome-contributors.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/welcome-contributors.md"
+            ]
+        }
+    },
+    "https://niis.org": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:15.453720"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "AUTHORS.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "AUTHORS.md"
+            ]
+        }
+    },
+    "https://nvie.com/posts/a-successful-git-branching-model/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:16.876120"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "CONTRIBUTING.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "CONTRIBUTING.md"
+            ],
+            "bumperscripter": [
+                "CONTRIBUTING.md"
+            ]
+        }
+    },
+    "https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:17.053111"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "index.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "index.md"
+            ]
+        }
+    },
+    "https://opendefinition.org/licenses/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:18.918408"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/publish-with-an-open-license.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/publish-with-an-open-license.md"
+            ]
+        }
+    },
+    "https://opensource.guide/building-community/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:21.964935"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/welcome-contributors.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/welcome-contributors.md"
+            ]
+        }
+    },
+    "https://opensource.guide/leadership-and-governance/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:22.295422"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/welcome-contributors.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/welcome-contributors.md"
+            ]
+        }
+    },
+    "https://pages.github.com": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:25.173272"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://pandoc.org/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:25.290606"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://publiccode.net": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:29.593045"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "CHANGELOG.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "CHANGELOG.md"
+            ],
+            "publiccode.net": [
+                "README.md",
+                "careers/intern.md",
+                "careers/quality.md"
+            ]
+        }
+    },
+    "https://publiccode.net/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:29.743245"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "AUTHORS.md",
+                "GOVERNANCE.md",
+                "foreword.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "AUTHORS.md",
+                "GOVERNANCE.md",
+                "foreword.md"
+            ],
+            "bumperscripter": [
+                "GOVERNANCE.md"
+            ]
+        }
+    },
+    "https://publiccodenet.github.io/assessment-eligibility": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:30.084546"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://publiccodenet.github.io/assessment-eligibility/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:30.208343"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "index.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "index.md"
+            ]
+        }
+    },
+    "https://publiccodenet.github.io/community-implementation-guide-standard/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:30.304417"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "CHANGELOG.md",
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "CHANGELOG.md",
+                "README.md"
+            ]
+        }
+    },
+    "https://publiccodenet.github.io/community-translations-standard/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:30.432911"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "_includes/translations.html",
+                "docs/standard-for-public-code.html",
+                "index.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "_includes/translations.html",
+                "docs/standard-for-public-code.html",
+                "index.md"
+            ]
+        }
+    },
+    "https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.publiccode.net-develop.svg": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:31.990551"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.publiccode.net.svg": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:32.086600"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://publiccodenet.github.io/publiccodenet-url-check/standard.publiccode.net-develop-url-check-look.json": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:32.286455"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://publiccodenet.github.io/publiccodenet-url-check/standard.publiccode.net-url-check-look.json": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:32.384776"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://raw.githubusercontent.com/publiccodenet/standard/master/AUTHORS.md": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:32.574456"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "publiccode.yml"
+            ],
+            "standard.publiccode.net-develop": [
+                "publiccode.yml"
+            ]
+        }
+    },
+    "https://reuse.software/spec/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:34.027403"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/publish-with-an-open-license.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/publish-with-an-open-license.md"
+            ]
+        }
+    },
+    "https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:34.380282"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "CONTRIBUTING.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "CONTRIBUTING.md"
+            ],
+            "bumperscripter": [
+                "CONTRIBUTING.md"
+            ]
+        }
+    },
+    "https://rubygems.org": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:35.645822"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "Gemfile"
+            ],
+            "standard.publiccode.net-develop": [
+                "Gemfile"
+            ],
+            "publiccode.net": [
+                "Gemfile"
+            ],
+            "community-implementation-guide-standard": [
+                "Gemfile"
+            ]
+        }
+    },
+    "https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:35.839208"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/require-review-of-contributions.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/require-review-of-contributions.md"
+            ]
+        }
+    },
+    "https://semver.org/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:37.743050"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/document-codebase-maturity.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/document-codebase-maturity.md"
+            ],
+            "community-implementation-guide-standard": [
+                "criteria/document-codebase-maturity.md"
+            ]
+        }
+    },
+    "https://skills.github.com/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:38.760378"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "CONTRIBUTING.md",
+                "criteria/maintain-version-control.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "CONTRIBUTING.md",
+                "criteria/maintain-version-control.md"
+            ],
+            "community-implementation-guide-standard": [
+                "criteria/maintain-version-control.md"
+            ],
+            "bumperscripter": [
+                "CONTRIBUTING.md"
+            ]
+        }
+    },
+    "https://smartcities.publiccode.net/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:38.875488"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "CHANGELOG.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "CHANGELOG.md"
+            ]
+        }
+    },
+    "https://spdx.org/licenses/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:40.236017"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/publish-with-an-open-license.md",
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/publish-with-an-open-license.md",
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:41.544626"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md",
+                "print-cover.html",
+                "publiccode.yml"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md",
+                "print-cover.html",
+                "publiccode.yml"
+            ],
+            "publiccode.net": [
+                "background/index.md",
+                "careers/index.md",
+                "careers/intern.md",
+                "careers/quality.md",
+                "careers/support.md",
+                "codebase-stewardship/index.html",
+                "redirects/standard.md",
+                "standard-for-public-code/index.md"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/AUTHORS": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:41.653807"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                ".gitattributes",
+                ".github/workflows/link-check.yml",
+                ".github/workflows/release-on-tag.yml",
+                ".github/workflows/test.yml",
+                ".gitignore",
+                ".mdl_style.rb",
+                ".mdlrc",
+                "404.md",
+                "AUTHORS.md",
+                "CC0-1.0.md",
+                "CHANGELOG.md",
+                "CODE_OF_CONDUCT.md",
+                "CONTRIBUTING.md",
+                "GOVERNANCE.md",
+                "README.md",
+                "_config.yml",
+                "_includes/badges.html",
+                "_includes/translations.html",
+                "assets/print.css",
+                "criteria/bundle-policy-and-source-code.md",
+                "criteria/code-in-the-open.md",
+                "criteria/create-reusable-and-portable-code.md",
+                "criteria/document-codebase-maturity.md",
+                "criteria/document-codebase-objectives.md",
+                "criteria/document-the-code.md",
+                "criteria/index.md",
+                "criteria/maintain-version-control.md",
+                "criteria/make-contributing-easy.md",
+                "criteria/make-the-codebase-findable.md",
+                "criteria/publish-with-an-open-license.md",
+                "criteria/require-review-of-contributions.md",
+                "criteria/use-a-coherent-style.md",
+                "criteria/use-continuous-integration.md",
+                "criteria/use-open-standards.md",
+                "criteria/use-plain-english.md",
+                "criteria/welcome-contributors.md",
+                "docs/printing.md",
+                "docs/releasing.md",
+                "docs/review-template.html",
+                "docs/roadmap.md",
+                "docs/standard-for-public-code.html",
+                "foreword-print.html",
+                "foreword.md",
+                "glossary.md",
+                "index.md",
+                "print-cover.html",
+                "publiccode.yml",
+                "readers-guide.md",
+                "script/check-new-links.sh",
+                "script/ensure-font.sh",
+                "script/find-missing-spdx.sh",
+                "script/generate-review-template.sh",
+                "script/missing-glossary-links.sh",
+                "script/pdf.sh",
+                "script/serve.sh",
+                "script/test-all.sh",
+                "script/test-markdown.sh",
+                "script/test-with-link-check.sh",
+                "script/test-without-link-check.sh",
+                "standard-print.html"
+            ],
+            "standard.publiccode.net-develop": [
+                ".gitattributes",
+                ".github/workflows/link-check.yml",
+                ".github/workflows/release-on-tag.yml",
+                ".github/workflows/test.yml",
+                ".gitignore",
+                ".mdl_style.rb",
+                ".mdlrc",
+                "404.md",
+                "AUTHORS.md",
+                "CC0-1.0.md",
+                "CHANGELOG.md",
+                "CODE_OF_CONDUCT.md",
+                "CONTRIBUTING.md",
+                "GOVERNANCE.md",
+                "README.md",
+                "_config.yml",
+                "_includes/badges.html",
+                "_includes/translations.html",
+                "assets/print.css",
+                "criteria/bundle-policy-and-source-code.md",
+                "criteria/code-in-the-open.md",
+                "criteria/create-reusable-and-portable-code.md",
+                "criteria/document-codebase-maturity.md",
+                "criteria/document-codebase-objectives.md",
+                "criteria/document-the-code.md",
+                "criteria/index.md",
+                "criteria/maintain-version-control.md",
+                "criteria/make-contributing-easy.md",
+                "criteria/make-the-codebase-findable.md",
+                "criteria/publish-with-an-open-license.md",
+                "criteria/require-review-of-contributions.md",
+                "criteria/use-a-coherent-style.md",
+                "criteria/use-continuous-integration.md",
+                "criteria/use-open-standards.md",
+                "criteria/use-plain-english.md",
+                "criteria/welcome-contributors.md",
+                "docs/printing.md",
+                "docs/releasing.md",
+                "docs/review-template.html",
+                "docs/roadmap.md",
+                "docs/standard-for-public-code.html",
+                "foreword-print.html",
+                "foreword.md",
+                "glossary.md",
+                "index.md",
+                "print-cover.html",
+                "publiccode.yml",
+                "readers-guide.md",
+                "script/check-new-links.sh",
+                "script/ensure-font.sh",
+                "script/find-missing-spdx.sh",
+                "script/generate-review-template.sh",
+                "script/missing-glossary-links.sh",
+                "script/pdf.sh",
+                "script/serve.sh",
+                "script/test-all.sh",
+                "script/test-markdown.sh",
+                "script/test-with-link-check.sh",
+                "script/test-without-link-check.sh",
+                "standard-print.html"
+            ],
+            "publiccode.net": [
+                "images/audit-flow.dot"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:41.755055"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "script/generate-review-template.sh"
+            ],
+            "standard.publiccode.net-develop": [
+                "script/generate-review-template.sh"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/bundle-policy-and-source-code.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:41.856532"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/code-in-the-open.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:41.955075"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/create-reusable-and-portable-code.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:42.057125"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/document-codebase-maturity.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:42.165782"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/document-codebase-objectives.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:42.264126"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/document-the-code.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:42.375947"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/maintain-version-control.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:42.485608"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/make-contributing-easy.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:42.589262"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/make-the-codebase-findable.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:42.693687"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/publish-with-an-open-license.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:42.794152"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/require-review-of-contributions.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:42.897413"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/use-a-coherent-style.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:42.997660"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/use-continuous-integration.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:43.099713"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/use-open-standards.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:43.200173"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/use-plain-english.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:43.300774"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://standard.publiccode.net/criteria/welcome-contributors.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:43.414588"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://tools.ietf.org/html/rfc2119": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:44.488303"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "CONTRIBUTING.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "CONTRIBUTING.md"
+            ]
+        }
+    },
+    "https://weasyprint.org/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:46.121677"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md"
+            ]
+        }
+    },
+    "https://write.publiccode.net/pads/Community-Call-Standard-for-Public-Code": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:47.330268"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "index.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "index.md"
+            ]
+        }
+    },
+    "https://www.amsterdamuas.com/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:47.734933"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "AUTHORS.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "AUTHORS.md"
+            ]
+        }
+    },
+    "https://www.bpmnquickguide.com/view-bpmn-quick-guide/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:48.929696"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/bundle-policy-and-source-code.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/bundle-policy-and-source-code.md"
+            ],
+            "community-implementation-guide-standard": [
+                "criteria/bundle-policy-and-source-code.md"
+            ]
+        }
+    },
+    "https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:52.601274"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/code-in-the-open.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/code-in-the-open.md"
+            ]
+        }
+    },
+    "https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:52.831874"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/code-in-the-open.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/code-in-the-open.md"
+            ]
+        }
+    },
+    "https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:53.489965"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/use-open-standards.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/use-open-standards.md"
+            ]
+        }
+    },
+    "https://www.gov.uk/service-manual/agile-delivery": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:53.924649"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/document-codebase-maturity.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/document-codebase-maturity.md"
+            ],
+            "community-implementation-guide-standard": [
+                "criteria/document-codebase-maturity.md"
+            ]
+        }
+    },
+    "https://www.gov.uk/service-manual/technology/deploying-software-regularly": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:54.032853"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/code-in-the-open.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/code-in-the-open.md"
+            ]
+        }
+    },
+    "https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:54.255214"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/maintain-version-control.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/maintain-version-control.md"
+            ]
+        }
+    },
+    "https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:54.466405"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/create-reusable-and-portable-code.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/create-reusable-and-portable-code.md"
+            ]
+        }
+    },
+    "https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:55.016327"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/use-continuous-integration.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/use-continuous-integration.md"
+            ]
+        }
+    },
+    "https://www.martinfowler.com/articles/continuousIntegration.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:55.948664"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/use-continuous-integration.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/use-continuous-integration.md"
+            ]
+        }
+    },
+    "https://www.plainlanguage.gov/about/definitions/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:59.287374"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/use-plain-english.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/use-plain-english.md"
+            ]
+        }
+    },
+    "https://www.sitemaps.org/protocol.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:51:59.745866"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/make-the-codebase-findable.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/make-the-codebase-findable.md"
+            ]
+        }
+    },
+    "https://www.w3.org/International/questions/qa-i18n": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:52:01.275440"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/create-reusable-and-portable-code.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/create-reusable-and-portable-code.md"
+            ]
+        }
+    },
+    "https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:52:01.873116"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html",
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://www.wikidata.org/wiki/Q68006929": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:52:05.929173"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/standard-for-public-code.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/standard-for-public-code.html"
+            ]
+        }
+    },
+    "https://www.wikidata.org/wiki/Wikidata:Introduction": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:52:06.320855"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/make-the-codebase-findable.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/make-the-codebase-findable.md"
+            ]
+        }
+    },
+    "https://www.writethedocs.org/guide/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:52:06.464824"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/document-the-code.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/document-the-code.md"
+            ]
+        }
+    },
+    "https://www.youtube.com/watch?v=QWt6vB-cipE": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:52:07.514370"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "README.md",
+                "publiccode.yml"
+            ],
+            "standard.publiccode.net-develop": [
+                "README.md",
+                "publiccode.yml"
+            ],
+            "publiccode.net": [
+                "standard-for-public-code/index.md"
+            ]
+        }
+    },
+    "https://www.youtube.com/watch?v=cnJtnZ9Cx1o": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:52:07.960424"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "foreword.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "foreword.md"
+            ]
+        }
+    },
+    "https://yaml.org/spec/1.2.2/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:52:08.374145"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                ".github/workflows/release-on-tag.yml"
+            ],
+            "standard.publiccode.net-develop": [
+                ".github/workflows/release-on-tag.yml"
+            ]
+        }
+    },
+    "https://youtube.com/watch?v=QHFkD4xfd6c": {
+        "checks": {
+            "status": 200,
+            "200": "2023-06-10 02:52:09.769876"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "foreword.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "foreword.md"
+            ]
+        }
     }
 }
