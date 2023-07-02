@@ -1,6 +1,22 @@
 {
-    "urls": {},
+    "urls": {
+        "https://clinic.cyber.harvard.edu/files/2017/03/2017-03_governance-FINAL.pdf": {
+            "checks": {
+                "status": 404,
+                "200": "2023-07-01 03:11:25.263634",
+                "fail": {
+                    "from": "2023-07-02 03:07:05.653704",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/welcome-contributors.md"
+                ]
+            }
+        }
+    },
     "repos": {
-        "community-implementation-guide-standard": "passing"
+        "community-implementation-guide-standard": "failing"
     }
 }
