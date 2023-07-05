@@ -1,29 +1,12 @@
 {
     "urls": {
-        "https://clinic.cyber.harvard.edu/files/2017/03/2017-03_governance-FINAL.pdf": {
-            "checks": {
-                "status": 404,
-                "200": "2023-07-01 03:11:25.263634",
-                "fail": {
-                    "from": "2023-07-02 03:07:05.653704",
-                    "from-code": 404,
-                    "to": "2023-07-04 03:06:46.698246",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "community-implementation-guide-standard": [
-                    "criteria/welcome-contributors.md"
-                ]
-            }
-        },
         "https://standard.publiccode.net/criteria/make-the-codebase-reusable-and-portable.html": {
             "checks": {
                 "status": 404,
                 "fail": {
                     "from": "2023-06-27 03:08:03.528470",
                     "from-code": 404,
-                    "to": "2023-07-04 03:08:50.564155",
+                    "to": "2023-07-05 03:07:51.007191",
                     "to-code": 404
                 }
             },
@@ -38,7 +21,7 @@
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "failing",
         "publiccode.net": "passing",
-        "community-implementation-guide-standard": "failing",
+        "community-implementation-guide-standard": "passing",
         "bumperscripter": "passing"
     }
 }
