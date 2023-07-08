@@ -1,27 +1,12 @@
 {
     "urls": {
-        "https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses": {
-            "checks": {
-                "status": 0,
-                "200": "2023-07-06 03:09:07.480836",
-                "fail": {
-                    "from": "2023-07-07 03:06:40.145953",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "community-implementation-guide-standard": [
-                    "criteria/publish-with-an-open-license.md"
-                ]
-            }
-        },
         "https://standard.publiccode.net/criteria/make-the-codebase-reusable-and-portable.html": {
             "checks": {
                 "status": 404,
                 "fail": {
                     "from": "2023-06-27 03:08:03.528470",
                     "from-code": 404,
-                    "to": "2023-07-07 03:07:18.719630",
+                    "to": "2023-07-08 03:08:44.256334",
                     "to-code": 404
                 }
             },
@@ -36,7 +21,7 @@
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "failing",
         "publiccode.net": "passing",
-        "community-implementation-guide-standard": "failing",
+        "community-implementation-guide-standard": "passing",
         "bumperscripter": "passing"
     }
 }
