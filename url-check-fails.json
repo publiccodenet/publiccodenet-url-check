@@ -6,7 +6,7 @@
                 "fail": {
                     "from": "2023-06-27 03:08:03.528470",
                     "from-code": 404,
-                    "to": "2023-07-19 03:47:31.703928",
+                    "to": "2023-07-20 02:40:22.563010",
                     "to-code": 404
                 }
             },
@@ -15,12 +15,27 @@
                     "docs/review-template.html"
                 ]
             }
+        },
+        "https://www.newamerica.org/digital-impact-governance-initiative/reports/building-and-reusing-open-source-tools-government/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-07-19 03:47:49.267732",
+                "fail": {
+                    "from": "2023-07-20 02:40:44.638933",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "publiccode.net": [
+                    "OSPO.md"
+                ]
+            }
         }
     },
     "repos": {
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "failing",
-        "publiccode.net": "passing",
+        "publiccode.net": "failing",
         "community-implementation-guide-standard": "passing",
         "bumperscripter": "passing"
     }
