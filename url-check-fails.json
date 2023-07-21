@@ -6,7 +6,7 @@
                 "fail": {
                     "from": "2023-06-27 03:08:03.528470",
                     "from-code": 404,
-                    "to": "2023-07-20 02:40:22.563010",
+                    "to": "2023-07-21 02:42:27.323075",
                     "to-code": 404
                 }
             },
@@ -16,18 +16,18 @@
                 ]
             }
         },
-        "https://www.newamerica.org/digital-impact-governance-initiative/reports/building-and-reusing-open-source-tools-government/": {
+        "https://www.contributor-covenant.org": {
             "checks": {
                 "status": 0,
-                "200": "2023-07-19 03:47:49.267732",
+                "200": "2023-07-20 02:40:30.958760",
                 "fail": {
-                    "from": "2023-07-20 02:40:44.638933",
+                    "from": "2023-07-21 02:42:35.639633",
                     "from-code": 0
                 }
             },
             "used": {
-                "publiccode.net": [
-                    "OSPO.md"
+                "bumperscripter": [
+                    "CODE_OF_CONDUCT.md"
                 ]
             }
         }
@@ -35,8 +35,8 @@
     "repos": {
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "failing",
-        "publiccode.net": "failing",
+        "publiccode.net": "passing",
         "community-implementation-guide-standard": "passing",
-        "bumperscripter": "passing"
+        "bumperscripter": "failing"
     }
 }

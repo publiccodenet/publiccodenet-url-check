@@ -1,22 +1,6 @@
 {
-    "urls": {
-        "https://www.newamerica.org/digital-impact-governance-initiative/reports/building-and-reusing-open-source-tools-government/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-07-19 03:47:49.267732",
-                "fail": {
-                    "from": "2023-07-20 02:40:44.638933",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "publiccode.net": [
-                    "OSPO.md"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
-        "publiccode.net": "failing"
+        "publiccode.net": "passing"
     }
 }
