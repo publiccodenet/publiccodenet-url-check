@@ -1,22 +1,435 @@
 {
-    "urls": {
-        "https://www.contributor-covenant.org": {
-            "checks": {
-                "status": 0,
-                "200": "2023-07-20 02:40:30.958760",
-                "fail": {
-                    "from": "2023-07-21 02:42:35.639633",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "bumperscripter": [
-                    "CODE_OF_CONDUCT.md"
-                ]
-            }
+    "http://evermeet.cx/ffmpeg/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:04.580098"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
         }
     },
-    "repos": {
-        "bumperscripter": "failing"
+    "http://ffmpeg.org": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:06.724715"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "http://ffmpeg.org/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:07.276985"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "http://freemusicarchive.org/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:07.830298"
+        },
+        "used": {
+            "bumperscripter": [
+                "data/Komiku_-_02_-_Chill_Out_Theme-shortened.mp3"
+            ]
+        }
+    },
+    "http://freemusicarchive.org/music/Komiku/Its_time_for_adventure__vol_2/Komiku_-_Its_time_for_adventure_vol_2_-_02_Chill_Out_Theme": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:08.213857"
+        },
+        "used": {
+            "bumperscripter": [
+                "data/Komiku_-_02_-_Chill_Out_Theme-shortened.mp3"
+            ]
+        }
+    },
+    "http://x265.org": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:18.719832"
+        },
+        "used": {
+            "bumperscripter": [
+                "data/intro-video.mp4"
+            ]
+        }
+    },
+    "https://commons.wikimedia.org/wiki/File:Spain_Metro_tunnel.webm": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:32.669818"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://commons.wikimedia.org/wiki/File:Trains_icons_(evolution)_SVG.svg": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:32.783790"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://commons.wikimedia.org/wiki/User:Offnfopt": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:32.889413"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://commons.wikimedia.org/wiki/User:Sameboat": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:32.999136"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://creativecommons.org/publicdomain/zero/1.0": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:35.996166"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://creativecommons.org/publicdomain/zero/1.0/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:36.328304"
+        },
+        "used": {
+            "community-implementation-guide-standard": [
+                "LICENSE.md"
+            ],
+            "bumperscripter": [
+                "LICENSE.md",
+                "README.md"
+            ]
+        }
+    },
+    "https://en.wikipedia.org/wiki/User:Richtom80": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:50.784183"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://ffmpeg.org/download.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:55.654045"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://freemusicarchive.org/music/Komiku/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:57.821881"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://freemusicarchive.org/music/Komiku/Its_time_for_adventure__vol_2/Komiku_-_Its_time_for_adventure_vol_2_-_02_Chill_Out_Theme": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:37:58.211964"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://github.com/gohai/processing-video/releases/download/v1.0.2/video.zip": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:38:16.712228"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://github.com/hamoid/video_export_processing": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:38:17.240883"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/bumperscripter.git": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:38:24.710679"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://github.com/publiccodenet/bumperscripter/issues": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:38:25.255644"
+        },
+        "used": {
+            "bumperscripter": [
+                "CONTRIBUTING.md"
+            ]
+        }
+    },
+    "https://guides.github.com/introduction/flow/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:38:44.226535"
+        },
+        "used": {
+            "bumperscripter": [
+                "CONTRIBUTING.md"
+            ]
+        }
+    },
+    "https://help.github.com/articles/creating-an-issue/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:38:45.589510"
+        },
+        "used": {
+            "bumperscripter": [
+                "CONTRIBUTING.md"
+            ]
+        }
+    },
+    "https://nvie.com/posts/a-successful-git-branching-model/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:39:01.472363"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "CONTRIBUTING.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "CONTRIBUTING.md"
+            ],
+            "bumperscripter": [
+                "CONTRIBUTING.md"
+            ]
+        }
+    },
+    "https://processing.org": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:39:14.038174"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://processing.org/download/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:39:14.380843"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://publiccode.net/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:39:16.363913"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "AUTHORS.md",
+                "GOVERNANCE.md",
+                "foreword.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "AUTHORS.md",
+                "GOVERNANCE.md",
+                "foreword.md"
+            ],
+            "bumperscripter": [
+                "GOVERNANCE.md"
+            ]
+        }
+    },
+    "https://publiccodenet.github.io/publiccodenet-url-check/badges/bumperscripter.svg": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:39:19.659528"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://publiccodenet.github.io/publiccodenet-url-check/url-check-fails.json": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:39:20.816604"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:39:23.536585"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "CONTRIBUTING.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "CONTRIBUTING.md"
+            ],
+            "bumperscripter": [
+                "CONTRIBUTING.md"
+            ]
+        }
+    },
+    "https://skills.github.com/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:39:27.260862"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "CONTRIBUTING.md",
+                "criteria/maintain-version-control.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "CONTRIBUTING.md",
+                "criteria/maintain-version-control.md"
+            ],
+            "community-implementation-guide-standard": [
+                "criteria/maintain-version-control.md"
+            ],
+            "bumperscripter": [
+                "CONTRIBUTING.md"
+            ]
+        }
+    },
+    "https://timrodenbroeker.de/processing-tutorial-video-export/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:39:34.340528"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://www.contributor-covenant.org": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:39:40.149823"
+        },
+        "used": {
+            "bumperscripter": [
+                "CODE_OF_CONDUCT.md"
+            ]
+        }
+    },
+    "https://www.contributor-covenant.org/version/1/4/code-of-conduct.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:39:40.511829"
+        },
+        "used": {
+            "bumperscripter": [
+                "CODE_OF_CONDUCT.md"
+            ]
+        }
+    },
+    "https://www.youtube.com/watch?v=kcxd5kHGD1Y": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:40:02.109405"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://www.youtube.com/watch?v=uddEVGifIs4": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:40:02.569099"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
+    },
+    "https://www.youtube.com/watch?v=yMtP64yFKn0": {
+        "checks": {
+            "status": 200,
+            "200": "2023-07-22 02:40:03.117221"
+        },
+        "used": {
+            "bumperscripter": [
+                "README.md"
+            ]
+        }
     }
 }

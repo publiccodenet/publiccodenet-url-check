@@ -6,28 +6,13 @@
                 "fail": {
                     "from": "2023-06-27 03:08:03.528470",
                     "from-code": 404,
-                    "to": "2023-07-21 02:42:27.323075",
+                    "to": "2023-07-22 02:39:32.709472",
                     "to-code": 404
                 }
             },
             "used": {
                 "standard.publiccode.net-develop": [
                     "docs/review-template.html"
-                ]
-            }
-        },
-        "https://www.contributor-covenant.org": {
-            "checks": {
-                "status": 0,
-                "200": "2023-07-20 02:40:30.958760",
-                "fail": {
-                    "from": "2023-07-21 02:42:35.639633",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "bumperscripter": [
-                    "CODE_OF_CONDUCT.md"
                 ]
             }
         }
@@ -37,6 +22,6 @@
         "standard.publiccode.net-develop": "failing",
         "publiccode.net": "passing",
         "community-implementation-guide-standard": "passing",
-        "bumperscripter": "failing"
+        "bumperscripter": "passing"
     }
 }

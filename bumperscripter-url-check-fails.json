@@ -1,22 +1,6 @@
 {
-    "urls": {
-        "https://www.contributor-covenant.org": {
-            "checks": {
-                "status": 0,
-                "200": "2023-07-20 02:40:30.958760",
-                "fail": {
-                    "from": "2023-07-21 02:42:35.639633",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "bumperscripter": [
-                    "CODE_OF_CONDUCT.md"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
-        "bumperscripter": "failing"
+        "bumperscripter": "passing"
     }
 }
