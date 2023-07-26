@@ -14,6 +14,8 @@
 # patsubst : $(patsubst pattern,replacement,text)
 #	https://www.gnu.org/software/make/manual/html_node/Text-Functions.html
 
+TIMEOUT ?= 30
+
 .PHONY: default
 default: all
 
@@ -40,10 +42,12 @@ url-check-fails.json \
 standard.publiccode.net-url-check-fails.json \
 bumperscripter-url-check-fails.json \
 publiccode.net-url-check-fails.json \
+about.publiccode.net-url-check-fails.json \
+blog.publiccode.net-url-check-fails.json \
 community-implementation-guide-standard-url-check-fails.json \
 standard.publiccode.net-develop-url-check-fails.json \
 	&: url-check/url-check.py url-check-config.json
-	url-check/url-check.py --verbose --timeout=20
+	url-check/url-check.py --verbose --timeout=$(TIMEOUT)
 
 _site/url-check-fails.json _site/index.html &: index.md url-check-fails.json \
 		badges/standard.publiccode.net.svg \
@@ -51,6 +55,8 @@ _site/url-check-fails.json _site/index.html &: index.md url-check-fails.json \
 		badges/community-implementation-guide-standard.svg \
 		badges/bumperscripter.svg \
 		badges/publiccode.net.svg \
+		badges/about.publiccode.net.svg \
+		badges/blog.publiccode.net.svg \
 		vendor/bundle
 	PAGES_REPO_NWO=publiccodenet/publiccodenet-url-check \
 		bundle exec jekyll build
@@ -97,6 +103,18 @@ badges/publiccode.net.svg: \
 		./url-check/make-badge \
 		publiccode.net-url-check-fails.json
 	$(MAKE_BADGE) "publiccode.net" "main"
+
+badges/about.publiccode.net.svg: \
+		./node_modules/.bin/badge \
+		./url-check/make-badge \
+		about.publiccode.net-url-check-fails.json
+	$(MAKE_BADGE) "about.publiccode.net" "main"
+
+badges/blog.publiccode.net.svg: \
+		./node_modules/.bin/badge \
+		./url-check/make-badge \
+		blog.publiccode.net-url-check-fails.json
+	$(MAKE_BADGE) "blog.publiccode.net" "main"
 
 .PHONY: build
 build: _site/index.html
