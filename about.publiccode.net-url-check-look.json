@@ -1,0 +1,21 @@
+{
+    "urls": {
+        "https://publiccode.net/careers/marketing": {
+            "checks": {
+                "status": 404,
+                "fail": {
+                    "from": "2023-07-27 02:38:32.524299",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "roles/index.md"
+                ]
+            }
+        }
+    },
+    "repos": {
+        "about.publiccode.net": "failing"
+    }
+}

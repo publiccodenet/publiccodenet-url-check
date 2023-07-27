@@ -28,36 +28,6 @@
                 ]
             }
         },
-        "https://publiccode.net/careers/marketing": {
-            "checks": {
-                "status": 404,
-                "fail": {
-                    "from": "2023-07-27 02:38:32.524299",
-                    "from-code": 404
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "roles/index.md"
-                ]
-            }
-        },
-        "https://standard.publiccode.net/criteria/make-the-codebase-reusable-and-portable.html": {
-            "checks": {
-                "status": 404,
-                "fail": {
-                    "from": "2023-06-27 03:08:03.528470",
-                    "from-code": 404,
-                    "to": "2023-07-27 02:39:16.757078",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "standard.publiccode.net-develop": [
-                    "docs/review-template.html"
-                ]
-            }
-        },
         "https://undutmaning.se/": {
             "checks": {
                 "status": 0,
@@ -74,12 +44,6 @@
         }
     },
     "repos": {
-        "standard.publiccode.net": "passing",
-        "standard.publiccode.net-develop": "failing",
-        "publiccode.net": "passing",
-        "about.publiccode.net": "failing",
-        "blog.publiccode.net": "failing",
-        "community-implementation-guide-standard": "passing",
-        "bumperscripter": "passing"
+        "blog.publiccode.net": "failing"
     }
 }
