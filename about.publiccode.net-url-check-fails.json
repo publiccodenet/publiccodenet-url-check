@@ -1,16 +1,17 @@
 {
     "urls": {
-        "https://publiccode.net/careers/marketing": {
+        "https://bzg.fr/en/open-source-and-the-french-public-sector-beyond-2020/": {
             "checks": {
-                "status": 404,
+                "status": 0,
+                "200": "2023-07-27 02:33:33.553771",
                 "fail": {
-                    "from": "2023-07-27 02:38:32.524299",
-                    "from-code": 404
+                    "from": "2023-07-28 02:37:03.696047",
+                    "from-code": 0
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "roles/index.md"
+                    "activities/value-and-impact/all-press.md"
                 ]
             }
         }

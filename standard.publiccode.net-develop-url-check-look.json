@@ -1,12 +1,26 @@
 {
     "urls": {
+        "https://github.com/publiccodenet/standard/compare/main...release-": {
+            "checks": {
+                "status": 404,
+                "fail": {
+                    "from": "2023-07-28 02:40:25.030985",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "standard.publiccode.net-develop": [
+                    "docs/releasing.md"
+                ]
+            }
+        },
         "https://standard.publiccode.net/criteria/make-the-codebase-reusable-and-portable.html": {
             "checks": {
                 "status": 404,
                 "fail": {
                     "from": "2023-06-27 03:08:03.528470",
                     "from-code": 404,
-                    "to": "2023-07-27 02:39:16.757078",
+                    "to": "2023-07-28 02:42:56.060010",
                     "to-code": 404
                 }
             },

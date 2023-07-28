@@ -1,11 +1,28 @@
 {
     "urls": {
+        "https://bzg.fr/en/open-source-and-the-french-public-sector-beyond-2020/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-07-27 02:33:33.553771",
+                "fail": {
+                    "from": "2023-07-28 02:37:03.696047",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/value-and-impact/all-press.md"
+                ]
+            }
+        },
         "https://flickr.com/e/tFzM3d9XsB%2Fj5BXi3bFH6FrrsCv78%2BJO78RjshAh7dU%3D": {
             "checks": {
                 "status": 404,
                 "fail": {
                     "from": "2023-07-27 02:34:49.794956",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-07-28 02:38:40.968620",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -19,7 +36,9 @@
                 "status": 404,
                 "fail": {
                     "from": "2023-07-27 02:35:46.527410",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-07-28 02:39:45.077773",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -28,17 +47,17 @@
                 ]
             }
         },
-        "https://publiccode.net/careers/marketing": {
+        "https://github.com/publiccodenet/standard/compare/main...release-": {
             "checks": {
                 "status": 404,
                 "fail": {
-                    "from": "2023-07-27 02:38:32.524299",
+                    "from": "2023-07-28 02:40:25.030985",
                     "from-code": 404
                 }
             },
             "used": {
-                "about.publiccode.net": [
-                    "roles/index.md"
+                "standard.publiccode.net-develop": [
+                    "docs/releasing.md"
                 ]
             }
         },
@@ -48,7 +67,7 @@
                 "fail": {
                     "from": "2023-06-27 03:08:03.528470",
                     "from-code": 404,
-                    "to": "2023-07-27 02:39:16.757078",
+                    "to": "2023-07-28 02:42:56.060010",
                     "to-code": 404
                 }
             },
@@ -63,7 +82,9 @@
                 "status": 0,
                 "fail": {
                     "from": "2023-07-27 02:39:29.499459",
-                    "from-code": 0
+                    "from-code": 0,
+                    "to": "2023-07-28 02:43:10.111326",
+                    "to-code": 0
                 }
             },
             "used": {
