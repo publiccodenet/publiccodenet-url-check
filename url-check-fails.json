@@ -1,27 +1,12 @@
 {
     "urls": {
-        "https://bzg.fr/en/open-source-and-the-french-public-sector-beyond-2020/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-07-27 02:33:33.553771",
-                "fail": {
-                    "from": "2023-07-28 02:37:03.696047",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/all-press.md"
-                ]
-            }
-        },
         "https://flickr.com/e/tFzM3d9XsB%2Fj5BXi3bFH6FrrsCv78%2BJO78RjshAh7dU%3D": {
             "checks": {
                 "status": 404,
                 "fail": {
                     "from": "2023-07-27 02:34:49.794956",
                     "from-code": 404,
-                    "to": "2023-07-28 02:38:40.968620",
+                    "to": "2023-07-29 02:34:37.731185",
                     "to-code": 404
                 }
             },
@@ -37,7 +22,7 @@
                 "fail": {
                     "from": "2023-07-27 02:35:46.527410",
                     "from-code": 404,
-                    "to": "2023-07-28 02:39:45.077773",
+                    "to": "2023-07-29 02:35:41.880576",
                     "to-code": 404
                 }
             },
@@ -52,7 +37,9 @@
                 "status": 404,
                 "fail": {
                     "from": "2023-07-28 02:40:25.030985",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-07-29 02:36:24.056591",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -67,7 +54,7 @@
                 "fail": {
                     "from": "2023-06-27 03:08:03.528470",
                     "from-code": 404,
-                    "to": "2023-07-28 02:42:56.060010",
+                    "to": "2023-07-29 02:38:55.227437",
                     "to-code": 404
                 }
             },
@@ -83,7 +70,7 @@
                 "fail": {
                     "from": "2023-07-27 02:39:29.499459",
                     "from-code": 0,
-                    "to": "2023-07-28 02:43:10.111326",
+                    "to": "2023-07-29 02:39:08.766066",
                     "to-code": 0
                 }
             },
@@ -98,7 +85,7 @@
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "failing",
         "publiccode.net": "passing",
-        "about.publiccode.net": "failing",
+        "about.publiccode.net": "passing",
         "blog.publiccode.net": "failing",
         "community-implementation-guide-standard": "passing",
         "bumperscripter": "passing"
