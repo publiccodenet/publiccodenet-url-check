@@ -1,12 +1,65 @@
 {
     "urls": {
+        "http://purl.org/dc/dcmitype/StillImage": {
+            "checks": {
+                "status": 0,
+                "200": "2023-07-30 02:36:28.236838",
+                "fail": {
+                    "from": "2023-07-31 02:37:37.213804",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "assets/codebase.svg",
+                    "assets/collaboration.svg",
+                    "assets/collaborative-development.svg",
+                    "assets/eco-system.svg",
+                    "assets/unlock.svg"
+                ],
+                "standard.publiccode.net-develop": [
+                    "assets/codebase.svg",
+                    "assets/collaboration.svg",
+                    "assets/collaborative-development.svg",
+                    "assets/eco-system.svg",
+                    "assets/unlock.svg"
+                ],
+                "about.publiccode.net": [
+                    "activities/explaining-codebase-stewardship/codebase-community.svg",
+                    "activities/explaining-codebase-stewardship/codebase-product.svg",
+                    "activities/explaining-codebase-stewardship/codebase-quality.svg",
+                    "activities/explaining-codebase-stewardship/codebase-stewardship.svg",
+                    "activities/explaining-codebase-stewardship/codebase-support.svg",
+                    "activities/explaining-codebase-stewardship/codebases-scale.svg",
+                    "activities/explaining-codebase-stewardship/components.svg",
+                    "activities/explaining-codebase-stewardship/shared-codebase.svg",
+                    "activities/explaining-codebase-stewardship/shared-components.svg",
+                    "activities/live-streaming/preview-image.svg"
+                ]
+            }
+        },
+        "https://archive.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-07-30 02:36:47.872254",
+                "fail": {
+                    "from": "2023-07-31 02:38:29.594386",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2019-12-11-notes-from-community-call-26-september-2019.md"
+                ]
+            }
+        },
         "https://flickr.com/e/tFzM3d9XsB%2Fj5BXi3bFH6FrrsCv78%2BJO78RjshAh7dU%3D": {
             "checks": {
                 "status": 404,
                 "fail": {
                     "from": "2023-07-27 02:34:49.794956",
                     "from-code": 404,
-                    "to": "2023-07-30 02:38:07.643089",
+                    "to": "2023-07-31 02:40:15.379369",
                     "to-code": 404
                 }
             },
@@ -22,7 +75,7 @@
                 "fail": {
                     "from": "2023-07-27 02:35:46.527410",
                     "from-code": 404,
-                    "to": "2023-07-30 02:38:54.685442",
+                    "to": "2023-07-31 02:41:03.684972",
                     "to-code": 404
                 }
             },
@@ -38,7 +91,7 @@
                 "fail": {
                     "from": "2023-07-28 02:40:25.030985",
                     "from-code": 404,
-                    "to": "2023-07-30 02:39:23.014032",
+                    "to": "2023-07-31 02:41:34.460791",
                     "to-code": 404
                 }
             },
@@ -54,7 +107,7 @@
                 "fail": {
                     "from": "2023-06-27 03:08:03.528470",
                     "from-code": 404,
-                    "to": "2023-07-30 02:41:22.121034",
+                    "to": "2023-07-31 02:43:33.289865",
                     "to-code": 404
                 }
             },
@@ -70,7 +123,7 @@
                 "fail": {
                     "from": "2023-07-27 02:39:29.499459",
                     "from-code": 0,
-                    "to": "2023-07-30 02:41:33.296649",
+                    "to": "2023-07-31 02:43:43.074553",
                     "to-code": 0
                 }
             },
@@ -82,10 +135,10 @@
         }
     },
     "repos": {
-        "standard.publiccode.net": "passing",
+        "standard.publiccode.net": "failing",
         "standard.publiccode.net-develop": "failing",
         "publiccode.net": "passing",
-        "about.publiccode.net": "passing",
+        "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
         "community-implementation-guide-standard": "passing",
         "bumperscripter": "passing"

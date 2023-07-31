@@ -1,6 +1,47 @@
 {
-    "urls": {},
+    "urls": {
+        "http://purl.org/dc/dcmitype/StillImage": {
+            "checks": {
+                "status": 0,
+                "200": "2023-07-30 02:36:28.236838",
+                "fail": {
+                    "from": "2023-07-31 02:37:37.213804",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "assets/codebase.svg",
+                    "assets/collaboration.svg",
+                    "assets/collaborative-development.svg",
+                    "assets/eco-system.svg",
+                    "assets/unlock.svg"
+                ],
+                "standard.publiccode.net-develop": [
+                    "assets/codebase.svg",
+                    "assets/collaboration.svg",
+                    "assets/collaborative-development.svg",
+                    "assets/eco-system.svg",
+                    "assets/unlock.svg"
+                ],
+                "about.publiccode.net": [
+                    "activities/explaining-codebase-stewardship/codebase-community.svg",
+                    "activities/explaining-codebase-stewardship/codebase-product.svg",
+                    "activities/explaining-codebase-stewardship/codebase-quality.svg",
+                    "activities/explaining-codebase-stewardship/codebase-stewardship.svg",
+                    "activities/explaining-codebase-stewardship/codebase-support.svg",
+                    "activities/explaining-codebase-stewardship/codebases-scale.svg",
+                    "activities/explaining-codebase-stewardship/components.svg",
+                    "activities/explaining-codebase-stewardship/shared-codebase.svg",
+                    "activities/explaining-codebase-stewardship/shared-components.svg",
+                    "activities/live-streaming/preview-image.svg"
+                ]
+            }
+        }
+    },
     "repos": {
-        "standard.publiccode.net": "passing"
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
+        "about.publiccode.net": "failing"
     }
 }
