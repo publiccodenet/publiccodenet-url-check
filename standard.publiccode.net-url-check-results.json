@@ -2,7 +2,7 @@
     "http://creativecommons.org/ns": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:37:27.503054"
+            "200": "2023-08-01 03:00:07.608242"
         },
         "used": {
             "standard.publiccode.net": [
@@ -36,7 +36,7 @@
     "http://creativecommons.org/publicdomain/zero/1.0/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:37:27.759471"
+            "200": "2023-08-01 03:00:08.158276"
         },
         "used": {
             "standard.publiccode.net": [
@@ -60,7 +60,7 @@
     "http://grouper.ieee.org/groups/802/3/RTPGE/public/may12/hajduczenia_01_0512.pdf": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:37:31.814247"
+            "200": "2023-08-01 03:00:13.989771"
         },
         "used": {
             "standard.publiccode.net": [
@@ -74,7 +74,7 @@
     "http://hintjens.com/blog:117": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:37:33.208397"
+            "200": "2023-08-01 03:00:16.524499"
         },
         "used": {
             "standard.publiccode.net": [
@@ -91,7 +91,7 @@
     "http://jekyllrb.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:37:33.958102"
+            "200": "2023-08-01 03:00:17.638304"
         },
         "used": {
             "standard.publiccode.net": [
@@ -107,12 +107,8 @@
     },
     "http://purl.org/dc/dcmitype/StillImage": {
         "checks": {
-            "status": 0,
-            "200": "2023-07-30 02:36:28.236838",
-            "fail": {
-                "from": "2023-07-31 02:37:37.213804",
-                "from-code": 0
-            }
+            "status": 200,
+            "200": "2023-08-01 03:00:22.423884"
         },
         "used": {
             "standard.publiccode.net": [
@@ -146,7 +142,7 @@
     "http://purl.org/dc/elements/1.1/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:38:07.869384"
+            "200": "2023-08-01 03:00:24.507861"
         },
         "used": {
             "standard.publiccode.net": [
@@ -207,7 +203,7 @@
     "http://www.w3.org/1999/02/22-rdf-syntax-ns": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:38:12.630725"
+            "200": "2023-08-01 03:00:28.245479"
         },
         "used": {
             "standard.publiccode.net": [
@@ -278,12 +274,14 @@
     "http://www.w3.org/1999/xlink": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:38:13.106537"
+            "200": "2023-08-01 03:00:28.645283"
         },
         "used": {
             "standard.publiccode.net": [
                 "assets/cc-zero-badge.svg",
-                "assets/dpg-badge.svg"
+                "assets/dpg-badge.svg",
+                "assets/standard-for-public-code-commitment.svg",
+                "assets/version-badge.svg"
             ],
             "standard.publiccode.net-develop": [
                 "assets/cc-zero-badge.svg",
@@ -303,7 +301,7 @@
     "http://www.w3.org/2000/svg": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:38:13.286694"
+            "200": "2023-08-01 03:00:28.894838"
         },
         "used": {
             "standard.publiccode.net": [
@@ -315,7 +313,9 @@
                 "assets/eco-system.svg",
                 "assets/hand-point.svg",
                 "assets/hands-shake.svg",
-                "assets/unlock.svg"
+                "assets/standard-for-public-code-commitment.svg",
+                "assets/unlock.svg",
+                "assets/version-badge.svg"
             ],
             "standard.publiccode.net-develop": [
                 "assets/cc-zero-badge.svg",
@@ -356,7 +356,7 @@
     "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:38:13.426396"
+            "200": "2023-08-01 03:00:29.051268"
         },
         "used": {
             "standard.publiccode.net": [
@@ -370,7 +370,7 @@
     "https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:38:17.728304"
+            "200": "2023-08-01 03:00:33.231297"
         },
         "used": {
             "standard.publiccode.net": [
@@ -384,7 +384,7 @@
     "https://about.publiccode.net/activities/standard-maintenance/backlog-pruning.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:38:20.916188"
+            "200": "2023-08-01 03:00:39.485160"
         },
         "used": {
             "standard.publiccode.net": [
@@ -398,7 +398,7 @@
     "https://brand.publiccode.net/logo/mark-and-name-over-two-lines.svg": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:39:08.799902"
+            "200": "2023-08-01 03:01:04.026493"
         },
         "used": {
             "standard.publiccode.net": [
@@ -412,7 +412,7 @@
     "https://brand.publiccode.net/typography/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:39:09.015569"
+            "200": "2023-08-01 03:01:04.412904"
         },
         "used": {
             "standard.publiccode.net": [
@@ -426,7 +426,7 @@
     "https://codefor.nl/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:39:21.503659"
+            "200": "2023-08-01 03:01:18.031269"
         },
         "used": {
             "standard.publiccode.net": [
@@ -440,7 +440,7 @@
     "https://creativecommons.org/about/videos/creative-commons-kiwi": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:39:29.818256"
+            "200": "2023-08-01 03:01:27.843898"
         },
         "used": {
             "standard.publiccode.net": [
@@ -457,7 +457,7 @@
     "https://creativecommons.org/licenses/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:39:30.906443"
+            "200": "2023-08-01 03:01:29.080632"
         },
         "used": {
             "standard.publiccode.net": [
@@ -476,7 +476,7 @@
     "https://dev.to/joelhans/how-to-inspire-exceptional-contributions-to-your-open-source-project-1ebf": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:39:37.553685"
+            "200": "2023-08-01 03:01:37.066315"
         },
         "used": {
             "standard.publiccode.net": [
@@ -490,7 +490,7 @@
     "https://digitalminister.tw/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:39:40.134887"
+            "200": "2023-08-01 03:01:39.340982"
         },
         "used": {
             "standard.publiccode.net": [
@@ -504,7 +504,7 @@
     "https://digitalpublicgoods.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:39:41.130215"
+            "200": "2023-08-01 03:01:40.516540"
         },
         "used": {
             "standard.publiccode.net": [
@@ -529,7 +529,7 @@
     "https://digitalpublicgoods.net/registry/standard-for-public-code.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:39:41.574502"
+            "200": "2023-08-01 03:01:41.622153"
         },
         "used": {
             "standard.publiccode.net": [
@@ -550,7 +550,7 @@
     "https://directory.fsf.org/wiki/Main_Page": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:39:43.497034"
+            "200": "2023-08-01 03:01:44.591264"
         },
         "used": {
             "standard.publiccode.net": [
@@ -567,7 +567,7 @@
     "https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:39:55.288966"
+            "200": "2023-08-01 03:01:58.005548"
         },
         "used": {
             "standard.publiccode.net": [
@@ -581,7 +581,7 @@
     "https://ec.europa.eu/digital-single-market/en/web-accessibility": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:00.255041"
+            "200": "2023-08-01 03:02:04.949131"
         },
         "used": {
             "standard.publiccode.net": [
@@ -597,7 +597,7 @@
     "https://education.github.com/git-cheat-sheet-education.pdf": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:03.282071"
+            "200": "2023-08-01 03:02:09.605237"
         },
         "used": {
             "standard.publiccode.net": [
@@ -617,7 +617,7 @@
     "https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:03.919103"
+            "200": "2023-08-01 03:02:10.088750"
         },
         "used": {
             "standard.publiccode.net": [
@@ -631,7 +631,7 @@
     "https://en.wikipedia.org/wiki/CMMN": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:04.067788"
+            "200": "2023-08-01 03:02:10.209470"
         },
         "used": {
             "standard.publiccode.net": [
@@ -645,7 +645,7 @@
     "https://en.wikipedia.org/wiki/Decision_Model_and_Notation": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:04.450370"
+            "200": "2023-08-01 03:02:10.458637"
         },
         "used": {
             "standard.publiccode.net": [
@@ -659,7 +659,7 @@
     "https://en.wikipedia.org/wiki/Programming_style": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:05.949129"
+            "200": "2023-08-01 03:02:11.646980"
         },
         "used": {
             "standard.publiccode.net": [
@@ -673,7 +673,7 @@
     "https://en.wikipedia.org/wiki/Software_release_life_cycle": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:06.255155"
+            "200": "2023-08-01 03:02:11.909431"
         },
         "used": {
             "standard.publiccode.net": [
@@ -690,7 +690,7 @@
     "https://eur-lex.europa.eu/eli/reg/2016/679/oj": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:07.577042"
+            "200": "2023-08-01 03:02:13.200055"
         },
         "used": {
             "standard.publiccode.net": [
@@ -704,7 +704,7 @@
     "https://gds-way.cloudapps.digital/standards/continuous-delivery.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:30.562808"
+            "200": "2023-08-01 03:02:44.726482"
         },
         "used": {
             "standard.publiccode.net": [
@@ -718,7 +718,7 @@
     "https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:31.322926"
+            "200": "2023-08-01 03:02:46.368296"
         },
         "used": {
             "standard.publiccode.net": [
@@ -732,7 +732,7 @@
     "https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:31.927828"
+            "200": "2023-08-01 03:02:46.958681"
         },
         "used": {
             "standard.publiccode.net": [
@@ -746,7 +746,7 @@
     "https://gdstechnology.blog.gov.uk/2014/01/27/how-we-use-github/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:32.610307"
+            "200": "2023-08-01 03:02:47.183004"
         },
         "used": {
             "standard.publiccode.net": [
@@ -760,7 +760,7 @@
     "https://github.com/Algoritmeregister/standard": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:38.105108"
+            "200": "2023-08-01 03:02:53.145203"
         },
         "used": {
             "standard.publiccode.net": [
@@ -774,7 +774,7 @@
     "https://github.com/Amsterdam/signals/blob/master/docs/CONTRIBUTING.md": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:40.468318"
+            "200": "2023-08-01 03:02:56.281038"
         },
         "used": {
             "standard.publiccode.net": [
@@ -788,7 +788,7 @@
     "https://github.com/Kozea/WeasyPrint.git": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:42.658643"
+            "200": "2023-08-01 03:02:59.498762"
         },
         "used": {
             "standard.publiccode.net": [
@@ -802,7 +802,7 @@
     "https://github.com/coreinfrastructure/best-practices-badge": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:50.015110"
+            "200": "2023-08-01 03:03:09.816203"
         },
         "used": {
             "standard.publiccode.net": [
@@ -816,7 +816,7 @@
     "https://github.com/italia/publiccode.yml": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:53.450333"
+            "200": "2023-08-01 03:03:14.071924"
         },
         "used": {
             "standard.publiccode.net": [
@@ -830,7 +830,7 @@
     "https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:56.218536"
+            "200": "2023-08-01 03:03:17.678520"
         },
         "used": {
             "standard.publiccode.net": [
@@ -847,7 +847,7 @@
     "https://github.com/open-zaak/open-zaak/blob/main/CONTRIBUTING.md": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:40:59.930428"
+            "200": "2023-08-01 03:03:22.868825"
         },
         "used": {
             "standard.publiccode.net": [
@@ -865,7 +865,7 @@
     "https://github.com/publiccodenet/community-translations-standard": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:19.799098"
+            "200": "2023-08-01 03:03:45.992270"
         },
         "used": {
             "standard.publiccode.net": [
@@ -891,7 +891,7 @@
     "https://github.com/publiccodenet/standard/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:29.454572"
+            "200": "2023-08-01 03:03:58.679013"
         },
         "used": {
             "standard.publiccode.net": [
@@ -907,7 +907,7 @@
     "https://github.com/publiccodenet/standard/actions": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:29.758542"
+            "200": "2023-08-01 03:03:59.149965"
         },
         "used": {
             "standard.publiccode.net": [
@@ -921,7 +921,7 @@
     "https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:30.354188"
+            "200": "2023-08-01 03:03:59.864885"
         },
         "used": {
             "standard.publiccode.net": [
@@ -935,7 +935,7 @@
     "https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment/badge.svg": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:30.779592"
+            "200": "2023-08-01 03:04:00.490596"
         },
         "used": {
             "standard.publiccode.net": [
@@ -949,7 +949,7 @@
     "https://github.com/publiccodenet/standard/actions/workflows/test.yml": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:31.014539"
+            "200": "2023-08-01 03:04:00.821099"
         },
         "used": {
             "standard.publiccode.net": [
@@ -963,7 +963,7 @@
     "https://github.com/publiccodenet/standard/actions/workflows/test.yml/badge.svg": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:31.690635"
+            "200": "2023-08-01 03:04:01.507310"
         },
         "used": {
             "standard.publiccode.net": [
@@ -977,7 +977,7 @@
     "https://github.com/publiccodenet/standard/blob/develop/CHANGELOG.md": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:32.054366"
+            "200": "2023-08-01 03:04:01.867572"
         },
         "used": {
             "standard.publiccode.net": [
@@ -991,7 +991,7 @@
     "https://github.com/publiccodenet/standard/blob/develop/CODE_OF_CONDUCT.md": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:32.337784"
+            "200": "2023-08-01 03:04:02.286507"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1005,7 +1005,7 @@
     "https://github.com/publiccodenet/standard/blob/develop/CONTRIBUTING.md": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:32.549447"
+            "200": "2023-08-01 03:04:02.784936"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1022,7 +1022,7 @@
     "https://github.com/publiccodenet/standard/blob/develop/GOVERNANCE.md": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:32.737723"
+            "200": "2023-08-01 03:04:03.214594"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1036,7 +1036,7 @@
     "https://github.com/publiccodenet/standard/blob/develop/LICENSE": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:33.229618"
+            "200": "2023-08-01 03:04:03.517151"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1047,29 +1047,10 @@
             ]
         }
     },
-    "https://github.com/publiccodenet/standard/blob/develop/docs/review-template.html": {
-        "checks": {
-            "status": 200,
-            "200": "2023-07-31 02:41:33.641244"
-        },
-        "used": {
-            "standard.publiccode.net": [
-                "index.md"
-            ],
-            "about.publiccode.net": [
-                "activities/codebase-auditing/auditing-process.md",
-                "activities/codebase-auditing/open-audits.md",
-                "activities/codebase-stewardship/index.md"
-            ],
-            "blog.publiccode.net": [
-                "_posts/2021-02-11-notes-from-community-call-4-february-2021.md"
-            ]
-        }
-    },
     "https://github.com/publiccodenet/standard/blob/develop/docs/roadmap.md": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:33.935592"
+            "200": "2023-08-01 03:04:04.489765"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1086,10 +1067,29 @@
             ]
         }
     },
+    "https://github.com/publiccodenet/standard/compare/main...release-": {
+        "checks": {
+            "status": 404,
+            "fail": {
+                "from": "2023-07-28 02:40:25.030985",
+                "from-code": 404,
+                "to": "2023-08-01 03:04:05.203426",
+                "to-code": 404
+            }
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/releasing.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/releasing.md"
+            ]
+        }
+    },
     "https://github.com/publiccodenet/standard/issues": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:34.988492"
+            "200": "2023-08-01 03:04:05.873760"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1114,7 +1114,7 @@
     "https://github.com/publiccodenet/standard/pulse": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:35.588282"
+            "200": "2023-08-01 03:04:06.692676"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1128,7 +1128,7 @@
     "https://github.com/publiccodenet/standard/releases": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:35.902332"
+            "200": "2023-08-01 03:04:07.124309"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1142,7 +1142,7 @@
     "https://github.com/publiccodenet/standard/tree/main/script": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:39.695487"
+            "200": "2023-08-01 03:04:11.834347"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1156,7 +1156,7 @@
     "https://github.com/publiccodeyml/publiccode.yml": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:40.287803"
+            "200": "2023-08-01 03:04:12.496746"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1177,7 +1177,7 @@
     "https://github.com/qpdf/qpdf": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:41.445479"
+            "200": "2023-08-01 03:04:13.943814"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1191,7 +1191,7 @@
     "https://go.microsoft.com/fwlink/?LinkId=733558": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:41:48.373789"
+            "200": "2023-08-01 03:04:21.962738"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1205,7 +1205,7 @@
     "https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:42:03.503471"
+            "200": "2023-08-01 03:04:41.085733"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1216,21 +1216,10 @@
             ]
         }
     },
-    "https://img.shields.io/badge/version-0.7.0-yellow.svg": {
-        "checks": {
-            "status": 200,
-            "200": "2023-07-31 02:42:03.643647"
-        },
-        "used": {
-            "standard.publiccode.net": [
-                "README.md"
-            ]
-        }
-    },
     "https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:42:03.777333"
+            "200": "2023-08-01 03:04:41.377954"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1244,7 +1233,7 @@
     "https://jekyllrb.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:42:07.284160"
+            "200": "2023-08-01 03:04:45.076098"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1261,7 +1250,7 @@
     "https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:42:23.103168"
+            "200": "2023-08-01 03:05:05.362868"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1275,7 +1264,7 @@
     "https://niis.org": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:42:25.620643"
+            "200": "2023-08-01 03:05:08.494480"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1289,7 +1278,7 @@
     "https://nvie.com/posts/a-successful-git-branching-model/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:42:26.963869"
+            "200": "2023-08-01 03:05:09.847827"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1306,7 +1295,7 @@
     "https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:42:28.129834"
+            "200": "2023-08-01 03:05:11.202489"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1337,7 +1326,7 @@
     "https://opendefinition.org/licenses/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:42:30.862199"
+            "200": "2023-08-01 03:05:15.060025"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1351,7 +1340,7 @@
     "https://opensource.guide/building-community/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:42:37.276393"
+            "200": "2023-08-01 03:05:21.939447"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1365,7 +1354,7 @@
     "https://opensource.guide/leadership-and-governance/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:42:37.849495"
+            "200": "2023-08-01 03:05:22.535782"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1379,7 +1368,7 @@
     "https://pages.github.com": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:42:49.935480"
+            "200": "2023-08-01 03:05:38.643129"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1396,7 +1385,7 @@
     "https://pandoc.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:42:50.150184"
+            "200": "2023-08-01 03:05:39.009283"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1410,7 +1399,7 @@
     "https://publiccode.net": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:09.096609"
+            "200": "2023-08-01 03:06:03.969739"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1437,7 +1426,7 @@
     "https://publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:09.214227"
+            "200": "2023-08-01 03:06:04.166796"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1466,7 +1455,7 @@
     "https://publiccodenet.github.io/assessment-eligibility": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:13.334152"
+            "200": "2023-08-01 03:06:11.390271"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1480,7 +1469,7 @@
     "https://publiccodenet.github.io/assessment-eligibility/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:13.459096"
+            "200": "2023-08-01 03:06:11.729790"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1494,7 +1483,7 @@
     "https://publiccodenet.github.io/community-implementation-guide-standard/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:13.569659"
+            "200": "2023-08-01 03:06:11.852244"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1515,7 +1504,7 @@
     "https://publiccodenet.github.io/community-translations-standard/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:13.680194"
+            "200": "2023-08-01 03:06:12.006555"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1539,7 +1528,7 @@
     "https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.publiccode.net-develop.svg": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:15.501538"
+            "200": "2023-08-01 03:06:15.096532"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1553,7 +1542,7 @@
     "https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.publiccode.net.svg": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:15.606343"
+            "200": "2023-08-01 03:06:15.282990"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1567,7 +1556,7 @@
     "https://publiccodenet.github.io/publiccodenet-url-check/standard.publiccode.net-develop-url-check-look.json": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:15.820994"
+            "200": "2023-08-01 03:06:15.604732"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1581,7 +1570,7 @@
     "https://publiccodenet.github.io/publiccodenet-url-check/standard.publiccode.net-url-check-look.json": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:15.921808"
+            "200": "2023-08-01 03:06:15.808628"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1595,7 +1584,7 @@
     "https://raw.githubusercontent.com/publiccodenet/standard/master/AUTHORS.md": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:18.912669"
+            "200": "2023-08-01 03:06:19.791959"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1609,7 +1598,7 @@
     "https://reuse.software/spec/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:21.001698"
+            "200": "2023-08-01 03:06:22.211642"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1623,7 +1612,7 @@
     "https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:21.359743"
+            "200": "2023-08-01 03:06:22.664362"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1640,7 +1629,7 @@
     "https://rubygems.org": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:22.468198"
+            "200": "2023-08-01 03:06:24.014388"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1666,7 +1655,7 @@
     "https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:22.673830"
+            "200": "2023-08-01 03:06:24.210794"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1687,7 +1676,7 @@
     "https://semver.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:26.727781"
+            "200": "2023-08-01 03:06:28.861853"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1704,7 +1693,7 @@
     "https://skills.github.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:28.647958"
+            "200": "2023-08-01 03:06:30.224718"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1729,7 +1718,7 @@
     "https://smartcities.publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:28.776499"
+            "200": "2023-08-01 03:06:30.367054"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1746,7 +1735,7 @@
     "https://spdx.org/licenses/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:30.051967"
+            "200": "2023-08-01 03:06:32.080963"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1764,7 +1753,7 @@
     "https://standard.publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:31.358957"
+            "200": "2023-08-01 03:06:33.207051"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1821,72 +1810,10 @@
     "https://standard.publiccode.net/AUTHORS": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:31.459180"
+            "200": "2023-08-01 03:06:33.327117"
         },
         "used": {
             "standard.publiccode.net": [
-                ".gitattributes",
-                ".github/workflows/link-check.yml",
-                ".github/workflows/release-on-tag.yml",
-                ".github/workflows/test.yml",
-                ".gitignore",
-                ".mdl_style.rb",
-                ".mdlrc",
-                "404.md",
-                "AUTHORS.md",
-                "CC0-1.0.md",
-                "CHANGELOG.md",
-                "CODE_OF_CONDUCT.md",
-                "CONTRIBUTING.md",
-                "GOVERNANCE.md",
-                "README.md",
-                "_config.yml",
-                "_includes/badges.html",
-                "_includes/translations.html",
-                "assets/print.css",
-                "criteria/bundle-policy-and-source-code.md",
-                "criteria/code-in-the-open.md",
-                "criteria/create-reusable-and-portable-code.md",
-                "criteria/document-codebase-maturity.md",
-                "criteria/document-codebase-objectives.md",
-                "criteria/document-the-code.md",
-                "criteria/index.md",
-                "criteria/maintain-version-control.md",
-                "criteria/make-contributing-easy.md",
-                "criteria/make-the-codebase-findable.md",
-                "criteria/publish-with-an-open-license.md",
-                "criteria/require-review-of-contributions.md",
-                "criteria/use-a-coherent-style.md",
-                "criteria/use-continuous-integration.md",
-                "criteria/use-open-standards.md",
-                "criteria/use-plain-english.md",
-                "criteria/welcome-contributors.md",
-                "docs/printing.md",
-                "docs/releasing.md",
-                "docs/review-template.html",
-                "docs/roadmap.md",
-                "docs/standard-for-public-code.html",
-                "foreword-print.html",
-                "foreword.md",
-                "glossary.md",
-                "index.md",
-                "print-cover.html",
-                "publiccode.yml",
-                "readers-guide.md",
-                "script/check-new-links.sh",
-                "script/ensure-font.sh",
-                "script/find-missing-spdx.sh",
-                "script/generate-review-template.sh",
-                "script/missing-glossary-links.sh",
-                "script/pdf.sh",
-                "script/serve.sh",
-                "script/test-all.sh",
-                "script/test-markdown.sh",
-                "script/test-with-link-check.sh",
-                "script/test-without-link-check.sh",
-                "standard-print.html"
-            ],
-            "standard.publiccode.net-develop": [
                 ".gitattributes",
                 ".github/workflows/link-check.yml",
                 ".github/workflows/release-on-tag.yml",
@@ -1950,6 +1877,71 @@
                 "script/test-without-link-check.sh",
                 "standard-print.html"
             ],
+            "standard.publiccode.net-develop": [
+                ".gitattributes",
+                ".github/workflows/link-check.yml",
+                ".github/workflows/release-on-tag.yml",
+                ".github/workflows/test.yml",
+                ".gitignore",
+                ".mdl_style.rb",
+                ".mdlrc",
+                "404.md",
+                "AUTHORS.md",
+                "CC0-1.0.md",
+                "CHANGELOG.md",
+                "CODE_OF_CONDUCT.md",
+                "CONTRIBUTING.md",
+                "GOVERNANCE.md",
+                "README.md",
+                "_config.yml",
+                "_includes/badges.html",
+                "_includes/translations.html",
+                "assets/print.css",
+                "criteria/bundle-policy-and-source-code.md",
+                "criteria/code-in-the-open.md",
+                "criteria/document-codebase-maturity.md",
+                "criteria/document-codebase-objectives.md",
+                "criteria/document-the-code.md",
+                "criteria/index.md",
+                "criteria/maintain-version-control.md",
+                "criteria/make-contributing-easy.md",
+                "criteria/make-the-codebase-findable.md",
+                "criteria/make-the-codebase-reusable-and-portable.md",
+                "criteria/publish-with-an-open-license.md",
+                "criteria/require-review-of-contributions.md",
+                "criteria/use-a-coherent-style.md",
+                "criteria/use-continuous-integration.md",
+                "criteria/use-open-standards.md",
+                "criteria/use-plain-english.md",
+                "criteria/welcome-contributors.md",
+                "docs/checklist.html",
+                "docs/printing.md",
+                "docs/releasing.md",
+                "docs/review-template.html",
+                "docs/roadmap.md",
+                "docs/standard-for-public-code.html",
+                "foreword-print.html",
+                "foreword.md",
+                "glossary.md",
+                "index.md",
+                "print-cover.html",
+                "publiccode.yml",
+                "readers-guide.md",
+                "script/build-release.sh",
+                "script/check-new-links.sh",
+                "script/ensure-font.sh",
+                "script/find-missing-spdx.sh",
+                "script/generate-checklist.sh",
+                "script/generate-review-template.sh",
+                "script/missing-glossary-links.sh",
+                "script/pdf.sh",
+                "script/serve.sh",
+                "script/test-all.sh",
+                "script/test-markdown.sh",
+                "script/test-with-link-check.sh",
+                "script/test-without-link-check.sh",
+                "standard-print.html"
+            ],
             "publiccode.net": [
                 "images/audit-flow.dot"
             ],
@@ -1961,10 +1953,11 @@
     "https://standard.publiccode.net/criteria/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:31.898422"
+            "200": "2023-08-01 03:06:34.156877"
         },
         "used": {
             "standard.publiccode.net": [
+                "script/generate-checklist.sh",
                 "script/generate-review-template.sh"
             ],
             "standard.publiccode.net-develop": [
@@ -1976,7 +1969,7 @@
     "https://standard.publiccode.net/criteria/bundle-policy-and-source-code.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:32.114410"
+            "200": "2023-08-01 03:06:34.480589"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1992,7 +1985,7 @@
     "https://standard.publiccode.net/criteria/code-in-the-open.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:32.221450"
+            "200": "2023-08-01 03:06:34.634658"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2008,11 +2001,10 @@
     "https://standard.publiccode.net/criteria/create-reusable-and-portable-code.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:32.328080"
+            "200": "2023-08-01 03:06:34.785192"
         },
         "used": {
             "standard.publiccode.net": [
-                "docs/review-template.html",
                 "docs/standard-for-public-code.html"
             ],
             "standard.publiccode.net-develop": [
@@ -2023,7 +2015,7 @@
     "https://standard.publiccode.net/criteria/document-codebase-maturity.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:32.481717"
+            "200": "2023-08-01 03:06:35.229005"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2039,7 +2031,7 @@
     "https://standard.publiccode.net/criteria/document-codebase-objectives.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:32.589223"
+            "200": "2023-08-01 03:06:35.450495"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2055,7 +2047,7 @@
     "https://standard.publiccode.net/criteria/document-the-code.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:32.854038"
+            "200": "2023-08-01 03:06:35.830472"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2071,7 +2063,7 @@
     "https://standard.publiccode.net/criteria/maintain-version-control.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:32.963941"
+            "200": "2023-08-01 03:06:36.135297"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2087,7 +2079,7 @@
     "https://standard.publiccode.net/criteria/make-contributing-easy.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:33.071514"
+            "200": "2023-08-01 03:06:36.441201"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2103,7 +2095,7 @@
     "https://standard.publiccode.net/criteria/make-the-codebase-findable.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:33.177399"
+            "200": "2023-08-01 03:06:36.604492"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2116,10 +2108,24 @@
             ]
         }
     },
+    "https://standard.publiccode.net/criteria/make-the-codebase-reusable-and-portable.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-08-01 03:06:36.782345"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "docs/review-template.html"
+            ],
+            "standard.publiccode.net-develop": [
+                "docs/review-template.html"
+            ]
+        }
+    },
     "https://standard.publiccode.net/criteria/publish-with-an-open-license.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:33.733359"
+            "200": "2023-08-01 03:06:37.500950"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2135,7 +2141,7 @@
     "https://standard.publiccode.net/criteria/require-review-of-contributions.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:33.840740"
+            "200": "2023-08-01 03:06:37.924435"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2151,7 +2157,7 @@
     "https://standard.publiccode.net/criteria/use-a-coherent-style.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:34.274352"
+            "200": "2023-08-01 03:06:38.711745"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2167,7 +2173,7 @@
     "https://standard.publiccode.net/criteria/use-continuous-integration.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:34.383711"
+            "200": "2023-08-01 03:06:38.877847"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2183,7 +2189,7 @@
     "https://standard.publiccode.net/criteria/use-open-standards.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:34.487117"
+            "200": "2023-08-01 03:06:39.052882"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2199,7 +2205,7 @@
     "https://standard.publiccode.net/criteria/use-plain-english.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:34.597753"
+            "200": "2023-08-01 03:06:39.197435"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2215,7 +2221,7 @@
     "https://standard.publiccode.net/criteria/welcome-contributors.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:34.704629"
+            "200": "2023-08-01 03:06:39.388455"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2231,7 +2237,7 @@
     "https://tools.ietf.org/html/rfc2119": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:40.955919"
+            "200": "2023-08-01 03:06:49.360076"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2248,7 +2254,7 @@
     "https://weasyprint.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:47.104358"
+            "200": "2023-08-01 03:06:56.407280"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2262,7 +2268,7 @@
     "https://write.publiccode.net/pads/Community-Call-Standard-for-Public-Code": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:49.124478"
+            "200": "2023-08-01 03:06:58.744473"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2280,7 +2286,7 @@
     "https://www.amsterdamuas.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:50.900573"
+            "200": "2023-08-01 03:07:01.974476"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2294,7 +2300,7 @@
     "https://www.bpmnquickguide.com/view-bpmn-quick-guide/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:43:54.203576"
+            "200": "2023-08-01 03:07:06.534103"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2311,7 +2317,7 @@
     "https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:44:17.790513"
+            "200": "2023-08-01 03:07:33.461831"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2325,7 +2331,7 @@
     "https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:44:18.492128"
+            "200": "2023-08-01 03:07:34.321066"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2339,7 +2345,7 @@
     "https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:44:18.723936"
+            "200": "2023-08-01 03:07:35.170211"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2353,7 +2359,7 @@
     "https://www.gov.uk/service-manual/agile-delivery": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:44:20.379963"
+            "200": "2023-08-01 03:07:37.841893"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2370,7 +2376,7 @@
     "https://www.gov.uk/service-manual/technology/deploying-software-regularly": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:44:21.534520"
+            "200": "2023-08-01 03:07:39.346682"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2384,7 +2390,7 @@
     "https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:44:22.113185"
+            "200": "2023-08-01 03:07:40.077772"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2398,11 +2404,11 @@
     "https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:44:22.716639"
+            "200": "2023-08-01 03:07:40.806437"
         },
         "used": {
             "standard.publiccode.net": [
-                "criteria/create-reusable-and-portable-code.md"
+                "criteria/make-the-codebase-reusable-and-portable.md"
             ],
             "standard.publiccode.net-develop": [
                 "criteria/make-the-codebase-reusable-and-portable.md"
@@ -2412,7 +2418,7 @@
     "https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:44:23.363996"
+            "200": "2023-08-01 03:07:41.578232"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2420,13 +2426,27 @@
             ],
             "standard.publiccode.net-develop": [
                 "criteria/use-continuous-integration.md"
+            ]
+        }
+    },
+    "https://www.man7.org/linux/man-pages/man1/date.1.html": {
+        "checks": {
+            "status": 200,
+            "200": "2023-08-01 03:07:46.678443"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "script/update-changelog-date.sh"
+            ],
+            "standard.publiccode.net-develop": [
+                "script/update-changelog-date.sh"
             ]
         }
     },
     "https://www.martinfowler.com/articles/continuousIntegration.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:44:28.667699"
+            "200": "2023-08-01 03:07:47.305171"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2437,10 +2457,24 @@
             ]
         }
     },
+    "https://www.omg.org/spec/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-08-01 03:07:57.826290"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/bundle-policy-and-source-code.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/bundle-policy-and-source-code.md"
+            ]
+        }
+    },
     "https://www.plainlanguage.gov/about/definitions/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:44:43.334083"
+            "200": "2023-08-01 03:08:04.761302"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2457,7 +2491,7 @@
     "https://www.sitemaps.org/protocol.html": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:45:02.387487"
+            "200": "2023-08-01 03:08:20.890377"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2471,11 +2505,11 @@
     "https://www.w3.org/International/questions/qa-i18n": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:45:08.722221"
+            "200": "2023-08-01 03:08:28.713177"
         },
         "used": {
             "standard.publiccode.net": [
-                "criteria/create-reusable-and-portable-code.md"
+                "criteria/make-the-codebase-reusable-and-portable.md"
             ],
             "standard.publiccode.net-develop": [
                 "criteria/make-the-codebase-reusable-and-portable.md"
@@ -2485,7 +2519,7 @@
     "https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:45:09.742166"
+            "200": "2023-08-01 03:08:29.753193"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2501,7 +2535,7 @@
     "https://www.wikidata.org/wiki/Q68006929": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:45:10.368127"
+            "200": "2023-08-01 03:08:30.267769"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2515,7 +2549,7 @@
     "https://www.wikidata.org/wiki/Wikidata:Introduction": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:45:10.600558"
+            "200": "2023-08-01 03:08:30.452459"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2529,7 +2563,7 @@
     "https://www.writethedocs.org/guide/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:45:10.749652"
+            "200": "2023-08-01 03:08:30.564387"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2543,7 +2577,7 @@
     "https://www.youtube.com/watch?v=QWt6vB-cipE": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:45:17.332103"
+            "200": "2023-08-01 03:08:38.183111"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2566,7 +2600,7 @@
     "https://www.youtube.com/watch?v=cnJtnZ9Cx1o": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:45:21.972068"
+            "200": "2023-08-01 03:08:44.067447"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2586,7 +2620,7 @@
     "https://yaml.org/spec/1.2.2/": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:45:31.108035"
+            "200": "2023-08-01 03:08:55.630720"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2600,7 +2634,7 @@
     "https://youtube.com/watch?v=QHFkD4xfd6c": {
         "checks": {
             "status": 200,
-            "200": "2023-07-31 02:45:38.150786"
+            "200": "2023-08-01 03:09:04.107289"
         },
         "used": {
             "standard.publiccode.net": [

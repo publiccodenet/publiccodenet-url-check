@@ -1,79 +1,27 @@
 {
     "urls": {
-        "http://purl.org/dc/dcmitype/StillImage": {
-            "checks": {
-                "status": 0,
-                "200": "2023-07-30 02:36:28.236838",
-                "fail": {
-                    "from": "2023-07-31 02:37:37.213804",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "assets/codebase.svg",
-                    "assets/collaboration.svg",
-                    "assets/collaborative-development.svg",
-                    "assets/eco-system.svg",
-                    "assets/unlock.svg"
-                ],
-                "standard.publiccode.net-develop": [
-                    "assets/codebase.svg",
-                    "assets/collaboration.svg",
-                    "assets/collaborative-development.svg",
-                    "assets/eco-system.svg",
-                    "assets/unlock.svg"
-                ],
-                "about.publiccode.net": [
-                    "activities/explaining-codebase-stewardship/codebase-community.svg",
-                    "activities/explaining-codebase-stewardship/codebase-product.svg",
-                    "activities/explaining-codebase-stewardship/codebase-quality.svg",
-                    "activities/explaining-codebase-stewardship/codebase-stewardship.svg",
-                    "activities/explaining-codebase-stewardship/codebase-support.svg",
-                    "activities/explaining-codebase-stewardship/codebases-scale.svg",
-                    "activities/explaining-codebase-stewardship/components.svg",
-                    "activities/explaining-codebase-stewardship/shared-codebase.svg",
-                    "activities/explaining-codebase-stewardship/shared-components.svg",
-                    "activities/live-streaming/preview-image.svg"
-                ]
-            }
-        },
         "https://github.com/publiccodenet/standard/compare/main...release-": {
             "checks": {
                 "status": 404,
                 "fail": {
                     "from": "2023-07-28 02:40:25.030985",
                     "from-code": 404,
-                    "to": "2023-07-31 02:41:34.460791",
+                    "to": "2023-08-01 03:04:05.203426",
                     "to-code": 404
                 }
             },
             "used": {
+                "standard.publiccode.net": [
+                    "docs/releasing.md"
+                ],
                 "standard.publiccode.net-develop": [
                     "docs/releasing.md"
-                ]
-            }
-        },
-        "https://standard.publiccode.net/criteria/make-the-codebase-reusable-and-portable.html": {
-            "checks": {
-                "status": 404,
-                "fail": {
-                    "from": "2023-06-27 03:08:03.528470",
-                    "from-code": 404,
-                    "to": "2023-07-31 02:43:33.289865",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "standard.publiccode.net-develop": [
-                    "docs/review-template.html"
                 ]
             }
         }
     },
     "repos": {
         "standard.publiccode.net-develop": "failing",
-        "standard.publiccode.net": "failing",
-        "about.publiccode.net": "failing"
+        "standard.publiccode.net": "failing"
     }
 }
