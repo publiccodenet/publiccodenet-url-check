@@ -38,8 +38,9 @@
 	"^https://github.com/org_name/codebase_name.git": "bogus example URL",
         "^http[s]\\?://github\\.com/.*/edit/": "may point to yet-to-exist page",
         "^http[s]\\?://docs\\.github\\.com/": "seems blocked as DoS protection",
-	"^http[s]\\?://github\\.com/[0-9A-Za-z_\\-\\./]\\+/\\(issues\\|pull\\)/[0-9]\\+[\\.,)]*": "ignore github issues and PRs",
+	"^http[s]\\?://github\\.com/[-0-9A-Za-z_\\./]\\+/\\(issues\\|pull\\)/[0-9]\\+[\\.,)]*": "ignore github issues and PRs",
         "plausible\\.io/js/plausible\\.js": "does not serve to scripts",
+        "^https://github.com/publiccodenet/standard/compare/main...release": "example URL in docs/releasing",
         "opensource\\.org": "failed: 503 No error",
         "belastingdienst\\.nl/wps/wcm/connect/bldcontenten": "regular timeouts",
         "reclameland\\.nl/drukken/softcover-boeken": "failed: 403 No error",
@@ -69,6 +70,7 @@
 	"lists\\.publiccode\\.net/mailman/": "frequent timeouts",
 	"https://wetten\\.overheid\\.nl/BWBR0025279/2013-01-01": "times out",
         "amsterdam\\.nl/en/": "frequent timeouts",
+	"https://flickr.com/e/tFzM3d9XsB": "defunct, embedded in a .jpg",
 	"^http[s]\\?://www\\.figma\\.com": "gives 404 to curl"
     },
     "transforms" : {
@@ -84,7 +86,7 @@
 		"remove trailing punctuation from links ending in '.pdf'",
 	"sed 's@Open_air_school).$@Open_air_school@'":
 		"remove trailing punctuation'",
-	"sed 's@\\(nextcloud/index.php/s/[0-9a-zA-Z]*\\)[\\.,)]*$@\\1@'":
+	"sed 's@\\(nextcloud/index.php/s/[-0-9a-zA-Z]*\\)[\\.,)]*$@\\1@'":
 		"remove trailing punctuation from nextcloud files",
 	"sed 's@poortwachter[\\.,)]*$@poortwachter@'":
 		"remove trailing punctuation",

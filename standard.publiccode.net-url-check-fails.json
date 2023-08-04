@@ -1,27 +1,6 @@
 {
-    "urls": {
-        "https://github.com/publiccodenet/standard/compare/main...release-": {
-            "checks": {
-                "status": 404,
-                "fail": {
-                    "from": "2023-07-28 02:40:25.030985",
-                    "from-code": 404,
-                    "to": "2023-08-03 03:03:32.226055",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "docs/releasing.md"
-                ],
-                "standard.publiccode.net-develop": [
-                    "docs/releasing.md"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
-        "standard.publiccode.net": "failing",
-        "standard.publiccode.net-develop": "failing"
+        "standard.publiccode.net": "passing"
     }
 }

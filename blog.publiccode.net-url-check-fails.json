@@ -1,55 +1,6 @@
 {
-    "urls": {
-        "https://flickr.com/e/tFzM3d9XsB%2Fj5BXi3bFH6FrrsCv78%2BJO78RjshAh7dU%3D": {
-            "checks": {
-                "status": 404,
-                "fail": {
-                    "from": "2023-07-27 02:34:49.794956",
-                    "from-code": 404,
-                    "to": "2023-08-03 03:02:16.361311",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "assets/audrey.jpg"
-                ]
-            }
-        },
-        "https://github.com/open-zaak/open-zaak/pull/672)": {
-            "checks": {
-                "status": 404,
-                "fail": {
-                    "from": "2023-07-27 02:35:46.527410",
-                    "from-code": 404,
-                    "to": "2023-08-03 03:03:03.011768",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-12-02-summer-2020-newsletter.md"
-                ]
-            }
-        },
-        "https://undutmaning.se/": {
-            "checks": {
-                "status": 0,
-                "fail": {
-                    "from": "2023-07-27 02:39:29.499459",
-                    "from-code": 0,
-                    "to": "2023-08-03 03:06:13.130081",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2022-05-25-resilience-during-an-international-crisis.md"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
-        "blog.publiccode.net": "failing"
+        "blog.publiccode.net": "passing"
     }
 }
