@@ -1,17 +1,51 @@
 {
     "urls": {
-        "http://x265.org": {
+        "https://omgevingsbeleid.zuid-holland.nl/": {
             "checks": {
                 "status": 0,
-                "200": "2023-08-06 02:29:20.374002",
+                "200": "2023-08-07 02:43:43.599302",
                 "fail": {
-                    "from": "2023-08-07 02:39:26.524111",
+                    "from": "2023-08-08 02:39:10.395043",
                     "from-code": 0
                 }
             },
             "used": {
-                "bumperscripter": [
-                    "data/intro-video.mp4"
+                "publiccode.net": [
+                    "codebases/omgevingsbeleid.html"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
+                ]
+            }
+        },
+        "https://www.zuid-holland.nl/overons/bestuur-zh/gedeputeerde-staten/besluiten/2020/september/1-september/lidmaatschap-foundation-for-public-code-vereniging/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-08-07 02:47:02.790501",
+                "fail": {
+                    "from": "2023-08-08 02:42:00.281599",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/value-and-impact/policy-documents.md",
+                    "organization/annual-reports/annual-report-2019-2020.md"
+                ]
+            }
+        },
+        "https://www.zuid-holland.nl/publish/pages/25949/cf6_gs_brief_-_lidmaatschap_vereniging_foundation_for_public_code_-_dos-2016-0004358.pdf": {
+            "checks": {
+                "status": 0,
+                "200": "2023-08-07 02:47:04.745568",
+                "fail": {
+                    "from": "2023-08-08 02:42:10.301655",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/members.md"
                 ]
             }
         }
@@ -19,10 +53,10 @@
     "repos": {
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
-        "publiccode.net": "passing",
-        "about.publiccode.net": "passing",
-        "blog.publiccode.net": "passing",
+        "publiccode.net": "failing",
+        "about.publiccode.net": "failing",
+        "blog.publiccode.net": "failing",
         "community-implementation-guide-standard": "passing",
-        "bumperscripter": "failing"
+        "bumperscripter": "passing"
     }
 }

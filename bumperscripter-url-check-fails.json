@@ -1,22 +1,6 @@
 {
-    "urls": {
-        "http://x265.org": {
-            "checks": {
-                "status": 0,
-                "200": "2023-08-06 02:29:20.374002",
-                "fail": {
-                    "from": "2023-08-07 02:39:26.524111",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "bumperscripter": [
-                    "data/intro-video.mp4"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
-        "bumperscripter": "failing"
+        "bumperscripter": "passing"
     }
 }
