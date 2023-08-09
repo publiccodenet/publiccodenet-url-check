@@ -1,26 +1,6 @@
 {
-    "urls": {
-        "https://omgevingsbeleid.zuid-holland.nl/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-08-07 02:43:43.599302",
-                "fail": {
-                    "from": "2023-08-08 02:39:10.395043",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "publiccode.net": [
-                    "codebases/omgevingsbeleid.html"
-                ],
-                "blog.publiccode.net": [
-                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
-        "publiccode.net": "failing",
-        "blog.publiccode.net": "failing"
+        "publiccode.net": "passing"
     }
 }
