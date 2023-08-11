@@ -1,6 +1,52 @@
 {
-    "urls": {},
+    "urls": {
+        "http://freemusicarchive.org/music/Komiku/Its_time_for_adventure__vol_2/Komiku_-_Its_time_for_adventure_vol_2_-_02_Chill_Out_Theme": {
+            "checks": {
+                "status": 500,
+                "200": "2023-08-10 02:40:54.969222",
+                "fail": {
+                    "from": "2023-08-11 02:24:40.009392",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "bumperscripter": [
+                    "data/Komiku_-_02_-_Chill_Out_Theme-shortened.mp3"
+                ]
+            }
+        },
+        "https://freemusicarchive.org/music/Komiku/": {
+            "checks": {
+                "status": 500,
+                "200": "2023-08-10 02:45:05.017681",
+                "fail": {
+                    "from": "2023-08-11 02:29:08.015621",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "bumperscripter": [
+                    "README.md"
+                ]
+            }
+        },
+        "https://freemusicarchive.org/music/Komiku/Its_time_for_adventure__vol_2/Komiku_-_Its_time_for_adventure_vol_2_-_02_Chill_Out_Theme": {
+            "checks": {
+                "status": 500,
+                "200": "2023-08-10 02:45:05.397710",
+                "fail": {
+                    "from": "2023-08-11 02:29:08.436500",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "bumperscripter": [
+                    "README.md"
+                ]
+            }
+        }
+    },
     "repos": {
-        "bumperscripter": "passing"
+        "bumperscripter": "failing"
     }
 }
