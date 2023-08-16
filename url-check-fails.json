@@ -1,27 +1,11 @@
 {
-    "urls": {
-        "https://video.fosdem.org/2020/UB5.230/enterpriseoss.mp4": {
-            "checks": {
-                "status": 0,
-                "200": "2023-08-14 02:33:52.099339",
-                "fail": {
-                    "from": "2023-08-15 02:32:56.758236",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-02-17-learned-at-fosdem.md"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
         "publiccode.net": "passing",
         "about.publiccode.net": "passing",
-        "blog.publiccode.net": "failing",
+        "blog.publiccode.net": "passing",
         "community-implementation-guide-standard": "passing",
         "bumperscripter": "passing"
     }
