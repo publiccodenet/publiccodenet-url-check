@@ -1,9 +1,25 @@
 {
-    "urls": {},
+    "urls": {
+        "https://meldingen.amsterdam.nl": {
+            "checks": {
+                "status": 0,
+                "200": "2023-08-16 02:29:21.680781",
+                "fail": {
+                    "from": "2023-08-17 02:28:00.208139",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "publiccode.net": [
+                    "codebases/signalen.html"
+                ]
+            }
+        }
+    },
     "repos": {
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
-        "publiccode.net": "passing",
+        "publiccode.net": "failing",
         "about.publiccode.net": "passing",
         "blog.publiccode.net": "passing",
         "community-implementation-guide-standard": "passing",
