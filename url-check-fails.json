@@ -1,17 +1,17 @@
 {
     "urls": {
-        "https://meldingen.amsterdam.nl": {
+        "https://www.csis.org/programs/strategic-technologies-program/resources/government-open-source-software-policies": {
             "checks": {
-                "status": 0,
-                "200": "2023-08-16 02:29:21.680781",
+                "status": 504,
+                "200": "2023-08-17 02:29:29.351852",
                 "fail": {
-                    "from": "2023-08-17 02:28:00.208139",
-                    "from-code": 0
+                    "from": "2023-08-18 02:31:08.583525",
+                    "from-code": 504
                 }
             },
             "used": {
-                "publiccode.net": [
-                    "codebases/signalen.html"
+                "about.publiccode.net": [
+                    "activities/understanding-our-users/enabling-policies.md"
                 ]
             }
         }
@@ -19,8 +19,8 @@
     "repos": {
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
-        "publiccode.net": "failing",
-        "about.publiccode.net": "passing",
+        "publiccode.net": "passing",
+        "about.publiccode.net": "failing",
         "blog.publiccode.net": "passing",
         "community-implementation-guide-standard": "passing",
         "bumperscripter": "passing"

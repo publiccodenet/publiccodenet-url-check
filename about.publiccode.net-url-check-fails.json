@@ -1,6 +1,22 @@
 {
-    "urls": {},
+    "urls": {
+        "https://www.csis.org/programs/strategic-technologies-program/resources/government-open-source-software-policies": {
+            "checks": {
+                "status": 504,
+                "200": "2023-08-17 02:29:29.351852",
+                "fail": {
+                    "from": "2023-08-18 02:31:08.583525",
+                    "from-code": 504
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/understanding-our-users/enabling-policies.md"
+                ]
+            }
+        }
+    },
     "repos": {
-        "about.publiccode.net": "passing"
+        "about.publiccode.net": "failing"
     }
 }
