@@ -1,22 +1,6 @@
 {
-    "urls": {
-        "https://weblate.org/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-08-18 02:30:56.058277",
-                "fail": {
-                    "from": "2023-08-19 02:27:31.275665",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "community-implementation-guide-standard": [
-                    "criteria/make-the-codebase-reusable-and-portable.md"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
-        "community-implementation-guide-standard": "failing"
+        "community-implementation-guide-standard": "passing"
     }
 }
