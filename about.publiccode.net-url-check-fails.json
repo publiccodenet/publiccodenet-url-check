@@ -1,6 +1,22 @@
 {
-    "urls": {},
+    "urls": {
+        "https://www.government.nl/topics/personal-data/citizen-service-number-bsn": {
+            "checks": {
+                "status": 0,
+                "200": "2023-08-20 02:34:24.270280",
+                "fail": {
+                    "from": "2023-08-21 02:34:27.133846",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/staff-management/onboarding.md"
+                ]
+            }
+        }
+    },
     "repos": {
-        "about.publiccode.net": "passing"
+        "about.publiccode.net": "failing"
     }
 }
