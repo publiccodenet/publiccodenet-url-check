@@ -1,17 +1,17 @@
 {
     "urls": {
-        "https://www.government.nl/topics/personal-data/citizen-service-number-bsn": {
+        "https://www.fossjobs.net/": {
             "checks": {
-                "status": 0,
-                "200": "2023-08-20 02:34:24.270280",
+                "status": 500,
+                "200": "2023-08-21 02:34:13.333554",
                 "fail": {
-                    "from": "2023-08-21 02:34:27.133846",
-                    "from-code": 0
+                    "from": "2023-08-22 02:31:55.317121",
+                    "from-code": 500
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/staff-management/onboarding.md"
+                    "activities/recruitment/hiring-process.md"
                 ]
             }
         }
