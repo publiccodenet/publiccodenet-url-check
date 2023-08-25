@@ -1,24 +1,6 @@
 {
-    "urls": {
-        "https://www.fossjobs.net/": {
-            "checks": {
-                "status": 500,
-                "200": "2023-08-21 02:34:13.333554",
-                "fail": {
-                    "from": "2023-08-22 02:31:55.317121",
-                    "from-code": 500,
-                    "to": "2023-08-24 02:34:46.296239",
-                    "to-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/recruitment/hiring-process.md"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
-        "about.publiccode.net": "failing"
+        "about.publiccode.net": "passing"
     }
 }
