@@ -6,29 +6,14 @@
                 "200": "2023-08-25 02:29:04.147539",
                 "fail": {
                     "from": "2023-08-26 02:25:56.159499",
-                    "from-code": 0
+                    "from-code": 0,
+                    "to": "2023-08-27 02:29:15.695989",
+                    "to-code": 0
                 }
             },
             "used": {
                 "about.publiccode.net": [
                     "activities/tool-management/nextcloud.md"
-                ]
-            }
-        },
-        "https://poddtoppen.se/podcast/1343814270/omsorgspodden/avsnitt-919-fran-almedalen-gastas-av-digitaliseringsdirektorn-i-sundsvall-och-ange": {
-            "checks": {
-                "status": 500,
-                "200": "2023-08-24 02:33:13.131027",
-                "fail": {
-                    "from": "2023-08-25 02:32:18.179547",
-                    "from-code": 500,
-                    "to": "2023-08-26 02:29:50.050183",
-                    "to-code": 500
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-07-11-digital-and-technology-trends-from-almedalen-2023.md"
                 ]
             }
         }
@@ -38,7 +23,7 @@
         "standard.publiccode.net-develop": "passing",
         "publiccode.net": "passing",
         "about.publiccode.net": "failing",
-        "blog.publiccode.net": "failing",
+        "blog.publiccode.net": "passing",
         "community-implementation-guide-standard": "passing",
         "bumperscripter": "passing"
     }
