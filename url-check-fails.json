@@ -1,19 +1,17 @@
 {
     "urls": {
-        "https://docs.nextcloud.com/": {
+        "https://t20ind.org/research/laying-the-foundation-for-the-future/": {
             "checks": {
-                "status": 0,
-                "200": "2023-08-25 02:29:04.147539",
+                "status": 500,
+                "200": "2023-08-27 02:34:19.918171",
                 "fail": {
-                    "from": "2023-08-26 02:25:56.159499",
-                    "from-code": 0,
-                    "to": "2023-08-27 02:29:15.695989",
-                    "to-code": 0
+                    "from": "2023-08-28 02:32:52.644429",
+                    "from-code": 500
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/tool-management/nextcloud.md"
+                    "activities/value-and-impact/policy-documents.md"
                 ]
             }
         }
