@@ -1,6 +1,22 @@
 {
-    "urls": {},
+    "urls": {
+        "https://github.com/Provincie-Zuid-Holland/Omgevingsbeleid-Frontend/blob/main/standard-for-public-code-assessment.md": {
+            "checks": {
+                "status": 404,
+                "200": "2023-08-28 02:30:00.238251",
+                "fail": {
+                    "from": "2023-08-29 02:58:44.919763",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "publiccode.net": [
+                    "codebases/omgevingsbeleid.html"
+                ]
+            }
+        }
+    },
     "repos": {
-        "publiccode.net": "passing"
+        "publiccode.net": "failing"
     }
 }

@@ -1,22 +1,6 @@
 {
-    "urls": {
-        "https://t20ind.org/research/laying-the-foundation-for-the-future/": {
-            "checks": {
-                "status": 500,
-                "200": "2023-08-27 02:34:19.918171",
-                "fail": {
-                    "from": "2023-08-28 02:32:52.644429",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/policy-documents.md"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
-        "about.publiccode.net": "failing"
+        "about.publiccode.net": "passing"
     }
 }
