@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-08-30 02:27:10.284699",
                     "from-code": 429,
-                    "to": "2023-09-01 02:30:45.225045",
+                    "to": "2023-09-02 02:24:02.584479",
                     "to-code": 429
                 }
             },
@@ -25,7 +25,7 @@
                 "fail": {
                     "from": "2023-08-29 02:58:44.919763",
                     "from-code": 404,
-                    "to": "2023-09-01 02:32:52.859335",
+                    "to": "2023-09-02 02:26:18.264135",
                     "to-code": 404
                 }
             },
@@ -34,9 +34,28 @@
                     "codebases/omgevingsbeleid.html"
                 ]
             }
+        },
+        "https://omgevingsbeleid.zuid-holland.nl/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-09-01 02:34:43.456561",
+                "fail": {
+                    "from": "2023-09-02 02:28:01.726600",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "publiccode.net": [
+                    "codebases/omgevingsbeleid.html"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
+                ]
+            }
         }
     },
     "repos": {
-        "publiccode.net": "failing"
+        "publiccode.net": "failing",
+        "blog.publiccode.net": "failing"
     }
 }
