@@ -1,26 +1,41 @@
 {
     "urls": {
-        "https://omgevingsbeleid.zuid-holland.nl/": {
+        "https://fosdem.org/2023/": {
             "checks": {
-                "status": 0,
-                "200": "2023-09-01 02:34:43.456561",
+                "status": 404,
+                "200": "2023-09-02 02:25:56.174811",
                 "fail": {
-                    "from": "2023-09-02 02:28:01.726600",
-                    "from-code": 0
+                    "from": "2023-09-03 02:29:38.776127",
+                    "from-code": 404
                 }
             },
             "used": {
-                "publiccode.net": [
-                    "codebases/omgevingsbeleid.html"
+                "blog.publiccode.net": [
+                    "_posts/2022-11-09-fosdem-2023-public-code-and-digital-public-goods-devroom-call-for-proposal.md"
+                ]
+            }
+        },
+        "https://fosdem.org/2023/schedule/track/public_code_and_digital_public_goods/": {
+            "checks": {
+                "status": 404,
+                "200": "2023-09-02 02:25:56.517814",
+                "fail": {
+                    "from": "2023-09-03 02:29:39.209445",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/yearly-schedule.md"
                 ],
                 "blog.publiccode.net": [
-                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
+                    "_posts/2023-02-02-notes-from-community-call-3-february-2023.md"
                 ]
             }
         }
     },
     "repos": {
         "blog.publiccode.net": "failing",
-        "publiccode.net": "failing"
+        "about.publiccode.net": "failing"
     }
 }

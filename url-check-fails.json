@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-08-30 02:27:10.284699",
                     "from-code": 429,
-                    "to": "2023-09-02 02:24:02.584479",
+                    "to": "2023-09-03 02:27:36.880000",
                     "to-code": 429
                 }
             },
@@ -18,6 +18,39 @@
                 ]
             }
         },
+        "https://fosdem.org/2023/": {
+            "checks": {
+                "status": 404,
+                "200": "2023-09-02 02:25:56.174811",
+                "fail": {
+                    "from": "2023-09-03 02:29:38.776127",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2022-11-09-fosdem-2023-public-code-and-digital-public-goods-devroom-call-for-proposal.md"
+                ]
+            }
+        },
+        "https://fosdem.org/2023/schedule/track/public_code_and_digital_public_goods/": {
+            "checks": {
+                "status": 404,
+                "200": "2023-09-02 02:25:56.517814",
+                "fail": {
+                    "from": "2023-09-03 02:29:39.209445",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/yearly-schedule.md"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2023-02-02-notes-from-community-call-3-february-2023.md"
+                ]
+            }
+        },
         "https://github.com/Provincie-Zuid-Holland/Omgevingsbeleid-Frontend/blob/main/standard-for-public-code-assessment.md": {
             "checks": {
                 "status": 404,
@@ -25,7 +58,7 @@
                 "fail": {
                     "from": "2023-08-29 02:58:44.919763",
                     "from-code": 404,
-                    "to": "2023-09-02 02:26:18.264135",
+                    "to": "2023-09-03 02:30:01.601607",
                     "to-code": 404
                 }
             },
@@ -34,31 +67,13 @@
                     "codebases/omgevingsbeleid.html"
                 ]
             }
-        },
-        "https://omgevingsbeleid.zuid-holland.nl/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-09-01 02:34:43.456561",
-                "fail": {
-                    "from": "2023-09-02 02:28:01.726600",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "publiccode.net": [
-                    "codebases/omgevingsbeleid.html"
-                ],
-                "blog.publiccode.net": [
-                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
-                ]
-            }
         }
     },
     "repos": {
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
         "publiccode.net": "failing",
-        "about.publiccode.net": "passing",
+        "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
         "community-implementation-guide-standard": "passing",
         "bumperscripter": "passing"
