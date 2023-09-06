@@ -1,6 +1,22 @@
 {
-    "urls": {},
+    "urls": {
+        "https://kbfus.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-09-05 02:31:25.871521",
+                "fail": {
+                    "from": "2023-09-06 02:30:59.490994",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/philanthropic-fundraising/donating-united-states.md"
+                ]
+            }
+        }
+    },
     "repos": {
-        "about.publiccode.net": "passing"
+        "about.publiccode.net": "failing"
     }
 }
