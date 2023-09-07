@@ -1,6 +1,82 @@
 {
-    "urls": {},
+    "urls": {
+        "https://podcast.publiccode.net/e/7-mauko-quiroga-openfisca/": {
+            "checks": {
+                "status": 429,
+                "200": "2023-09-06 02:32:18.963945",
+                "fail": {
+                    "from": "2023-09-07 02:32:45.062304",
+                    "from-code": 429
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-07-27-episode-seven-of-lets-talk-about-public-code.md"
+                ]
+            }
+        },
+        "https://podcast.publiccode.net/e/8-gabriella-gomez-mont-experimentalista/": {
+            "checks": {
+                "status": 429,
+                "200": "2023-09-06 02:32:19.206072",
+                "fail": {
+                    "from": "2023-09-07 02:32:45.400009",
+                    "from-code": 429
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-09-23-episode-eight-of-lets-talk-about-public-code.md"
+                ]
+            }
+        },
+        "https://podcast.publiccode.net/e/9-bastien-guerry-etalab/": {
+            "checks": {
+                "status": 429,
+                "200": "2023-09-06 02:32:19.358806",
+                "fail": {
+                    "from": "2023-09-07 02:32:45.759381",
+                    "from-code": 429
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-10-14-episode-nine-of-lets-talk-about-public-code.md"
+                ]
+            }
+        },
+        "https://podcast.publiccode.net/e/lets-talk-about-public-code-1-arnau-monterde-decidim/": {
+            "checks": {
+                "status": 429,
+                "200": "2023-09-06 02:32:19.523516",
+                "fail": {
+                    "from": "2023-09-07 02:32:46.112932",
+                    "from-code": 429
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-12-07-autumn-2020-newsletter.md"
+                ]
+            }
+        },
+        "https://podcast.publiccode.net/e/lets-talk-about-public-code-2-rasmus-frey-os2/": {
+            "checks": {
+                "status": 429,
+                "200": "2023-09-06 02:32:19.688360",
+                "fail": {
+                    "from": "2023-09-07 02:32:46.462002",
+                    "from-code": 429
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-12-07-autumn-2020-newsletter.md"
+                ]
+            }
+        }
+    },
     "repos": {
-        "blog.publiccode.net": "passing"
+        "blog.publiccode.net": "failing"
     }
 }
