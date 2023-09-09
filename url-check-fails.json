@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-08-30 02:27:10.284699",
                     "from-code": 429,
-                    "to": "2023-09-08 02:27:22.332135",
+                    "to": "2023-09-09 02:24:38.791531",
                     "to-code": 429
                 }
             },
@@ -25,7 +25,7 @@
                 "fail": {
                     "from": "2023-08-29 02:58:44.919763",
                     "from-code": 404,
-                    "to": "2023-09-08 02:30:22.106879",
+                    "to": "2023-09-09 02:26:38.418009",
                     "to-code": 404
                 }
             },
@@ -42,7 +42,7 @@
                 "fail": {
                     "from": "2023-09-07 02:32:45.062304",
                     "from-code": 429,
-                    "to": "2023-09-08 02:33:17.202274",
+                    "to": "2023-09-09 02:28:44.042424",
                     "to-code": 429
                 }
             },
@@ -59,7 +59,7 @@
                 "fail": {
                     "from": "2023-09-07 02:32:45.400009",
                     "from-code": 429,
-                    "to": "2023-09-08 02:33:17.572382",
+                    "to": "2023-09-09 02:28:44.264602",
                     "to-code": 429
                 }
             },
@@ -76,7 +76,7 @@
                 "fail": {
                     "from": "2023-09-07 02:32:45.759381",
                     "from-code": 429,
-                    "to": "2023-09-08 02:33:17.946050",
+                    "to": "2023-09-09 02:28:44.439444",
                     "to-code": 429
                 }
             },
@@ -93,7 +93,7 @@
                 "fail": {
                     "from": "2023-09-07 02:32:46.112932",
                     "from-code": 429,
-                    "to": "2023-09-08 02:33:18.322858",
+                    "to": "2023-09-09 02:28:44.615099",
                     "to-code": 429
                 }
             },
@@ -110,7 +110,7 @@
                 "fail": {
                     "from": "2023-09-07 02:32:46.462002",
                     "from-code": 429,
-                    "to": "2023-09-08 02:33:18.704858",
+                    "to": "2023-09-09 02:28:44.790714",
                     "to-code": 429
                 }
             },
@@ -119,11 +119,29 @@
                     "_posts/2020-12-07-autumn-2020-newsletter.md"
                 ]
             }
+        },
+        "https://raw.githubusercontent.com/publiccodenet/standard/master/AUTHORS.md": {
+            "checks": {
+                "status": 0,
+                "200": "2023-09-08 02:33:49.366836",
+                "fail": {
+                    "from": "2023-09-09 02:29:02.182970",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "publiccode.yml"
+                ],
+                "standard.publiccode.net-develop": [
+                    "publiccode.yml"
+                ]
+            }
         }
     },
     "repos": {
-        "standard.publiccode.net": "passing",
-        "standard.publiccode.net-develop": "passing",
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
         "publiccode.net": "failing",
         "about.publiccode.net": "passing",
         "blog.publiccode.net": "failing",
