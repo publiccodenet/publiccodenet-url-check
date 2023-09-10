@@ -1,26 +1,6 @@
 {
-    "urls": {
-        "https://raw.githubusercontent.com/publiccodenet/standard/master/AUTHORS.md": {
-            "checks": {
-                "status": 0,
-                "200": "2023-09-08 02:33:49.366836",
-                "fail": {
-                    "from": "2023-09-09 02:29:02.182970",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "publiccode.yml"
-                ],
-                "standard.publiccode.net-develop": [
-                    "publiccode.yml"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
-        "standard.publiccode.net": "failing",
-        "standard.publiccode.net-develop": "failing"
+        "standard.publiccode.net": "passing"
     }
 }
