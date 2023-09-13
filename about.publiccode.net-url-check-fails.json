@@ -1,6 +1,22 @@
 {
-    "urls": {},
+    "urls": {
+        "https://www.arboned.nl/en/absence-support/company-doctor-as-specialist": {
+            "checks": {
+                "status": 0,
+                "200": "2023-09-12 02:32:40.806545",
+                "fail": {
+                    "from": "2023-09-13 02:33:00.314453",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/staff-management/sick-leave.md"
+                ]
+            }
+        }
+    },
     "repos": {
-        "about.publiccode.net": "passing"
+        "about.publiccode.net": "failing"
     }
 }

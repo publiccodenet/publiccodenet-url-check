@@ -1,6 +1,22 @@
 {
-    "urls": {},
+    "urls": {
+        "https://developer.overheid.nl/repositories": {
+            "checks": {
+                "status": 404,
+                "200": "2023-09-12 02:28:15.654349",
+                "fail": {
+                    "from": "2023-09-13 02:28:31.820552",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/make-the-codebase-findable.md"
+                ]
+            }
+        }
+    },
     "repos": {
-        "community-implementation-guide-standard": "passing"
+        "community-implementation-guide-standard": "failing"
     }
 }
