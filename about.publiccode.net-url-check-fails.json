@@ -1,22 +1,28 @@
 {
     "urls": {
-        "https://www.arboned.nl/en/absence-support/company-doctor-as-specialist": {
+        "https://oascities.org/": {
             "checks": {
-                "status": 0,
-                "200": "2023-09-12 02:32:40.806545",
+                "status": 500,
+                "200": "2023-09-13 02:31:33.907482",
                 "fail": {
-                    "from": "2023-09-13 02:33:00.314453",
-                    "from-code": 0
+                    "from": "2023-09-14 02:34:21.632222",
+                    "from-code": 500
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/staff-management/sick-leave.md"
+                    "organization/affiliates.md",
+                    "organization/annual-reports/annual-report-2022.md"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2021-02-03-episode-three-of-lets-talk-about-public-code.md",
+                    "_posts/2021-03-04-episode-four-of-lets-talk-about-public-code.md"
                 ]
             }
         }
     },
     "repos": {
-        "about.publiccode.net": "failing"
+        "about.publiccode.net": "failing",
+        "blog.publiccode.net": "failing"
     }
 }
