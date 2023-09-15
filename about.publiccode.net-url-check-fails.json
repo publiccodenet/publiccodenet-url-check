@@ -1,28 +1,22 @@
 {
     "urls": {
-        "https://oascities.org/": {
+        "https://link.excalidraw.com/readonly/3tTXUKAX0t4sFqlaFcfq": {
             "checks": {
-                "status": 500,
-                "200": "2023-09-13 02:31:33.907482",
+                "status": 0,
+                "200": "2023-09-14 02:33:57.564717",
                 "fail": {
-                    "from": "2023-09-14 02:34:21.632222",
-                    "from-code": 500
+                    "from": "2023-09-15 02:34:20.479853",
+                    "from-code": 0
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "organization/affiliates.md",
-                    "organization/annual-reports/annual-report-2022.md"
-                ],
-                "blog.publiccode.net": [
-                    "_posts/2021-02-03-episode-three-of-lets-talk-about-public-code.md",
-                    "_posts/2021-03-04-episode-four-of-lets-talk-about-public-code.md"
+                    "activities/supporting-codebase-governance/game/run-governance-game-workshop.md"
                 ]
             }
         }
     },
     "repos": {
-        "about.publiccode.net": "failing",
-        "blog.publiccode.net": "failing"
+        "about.publiccode.net": "failing"
     }
 }
