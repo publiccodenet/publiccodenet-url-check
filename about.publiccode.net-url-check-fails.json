@@ -1,22 +1,6 @@
 {
-    "urls": {
-        "https://link.excalidraw.com/readonly/3tTXUKAX0t4sFqlaFcfq": {
-            "checks": {
-                "status": 0,
-                "200": "2023-09-14 02:33:57.564717",
-                "fail": {
-                    "from": "2023-09-15 02:34:20.479853",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/supporting-codebase-governance/game/run-governance-game-workshop.md"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
-        "about.publiccode.net": "failing"
+        "about.publiccode.net": "passing"
     }
 }
