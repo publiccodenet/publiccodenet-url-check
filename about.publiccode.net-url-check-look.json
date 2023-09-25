@@ -1,72 +1,67 @@
 {
     "urls": {
-        "https://hackmd.io/": {
+        "https://commonground.nl/news/view/2a13308d-872e-4b98-8dff-d4d3bcb36586/steeds-meer-gemeenten-maken-gebruik-van-signalen": {
             "checks": {
-                "status": 503,
-                "200": "2023-09-23 02:29:44.492640",
+                "status": 500,
+                "200": "2023-09-24 02:29:32.508246",
                 "fail": {
-                    "from": "2023-09-24 02:32:56.665890",
-                    "from-code": 503
+                    "from": "2023-09-25 02:29:29.762584",
+                    "from-code": 500
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/trainings/index.md"
+                    "activities/value-and-impact/all-press.md"
                 ]
             }
         },
-        "https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit": {
+        "https://commonground.nl/news/view/752192c5-7222-4769-a738-de47dfcfb6f5/openzaak-van-samen-organiseren-naar-samen-realiseren": {
             "checks": {
-                "status": 503,
-                "200": "2023-09-23 02:29:45.586907",
+                "status": 500,
+                "200": "2023-09-24 02:29:35.113227",
                 "fail": {
-                    "from": "2023-09-24 02:32:57.581699",
-                    "from-code": 503
+                    "from": "2023-09-25 02:29:31.448337",
+                    "from-code": 500
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/communication/running-community-call.md"
+                    "activities/value-and-impact/all-press.md"
                 ]
             }
         },
-        "https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?view": {
+        "https://opensource.pleio.nl": {
             "checks": {
-                "status": 503,
-                "200": "2023-09-23 02:29:46.130686",
+                "status": 500,
+                "200": "2023-09-24 02:33:55.290610",
                 "fail": {
-                    "from": "2023-09-24 02:32:58.029655",
-                    "from-code": 503
+                    "from": "2023-09-25 02:33:06.370950",
+                    "from-code": 500
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/communication/community-call-invite-template.md"
+                    "activities/value-and-impact/all-press.md"
                 ]
             }
         },
-        "https://hackmd.io/9THmWbpQTLi8L9UIzczSyw": {
+        "https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu": {
             "checks": {
-                "status": 503,
-                "200": "2023-09-23 02:29:46.640744",
+                "status": 500,
+                "200": "2023-09-24 02:33:58.914383",
                 "fail": {
-                    "from": "2023-09-24 02:32:58.471090",
-                    "from-code": 503
+                    "from": "2023-09-25 02:33:08.561215",
+                    "from-code": 500
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/communication/running-community-call.md"
-                ],
-                "blog.publiccode.net": [
-                    "_posts/2020-02-21-notes-from-community-call-20-february-2020.md",
-                    "_posts/2021-04-08-March-2021-newsletter.md"
+                    "activities/value-and-impact/all-press.md"
                 ]
             }
         }
     },
     "repos": {
-        "about.publiccode.net": "failing",
-        "blog.publiccode.net": "failing"
+        "about.publiccode.net": "failing"
     }
 }
