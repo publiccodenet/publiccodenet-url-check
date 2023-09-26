@@ -1,67 +1,6 @@
 {
-    "urls": {
-        "https://commonground.nl/news/view/2a13308d-872e-4b98-8dff-d4d3bcb36586/steeds-meer-gemeenten-maken-gebruik-van-signalen": {
-            "checks": {
-                "status": 500,
-                "200": "2023-09-24 02:29:32.508246",
-                "fail": {
-                    "from": "2023-09-25 02:29:29.762584",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/all-press.md"
-                ]
-            }
-        },
-        "https://commonground.nl/news/view/752192c5-7222-4769-a738-de47dfcfb6f5/openzaak-van-samen-organiseren-naar-samen-realiseren": {
-            "checks": {
-                "status": 500,
-                "200": "2023-09-24 02:29:35.113227",
-                "fail": {
-                    "from": "2023-09-25 02:29:31.448337",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/all-press.md"
-                ]
-            }
-        },
-        "https://opensource.pleio.nl": {
-            "checks": {
-                "status": 500,
-                "200": "2023-09-24 02:33:55.290610",
-                "fail": {
-                    "from": "2023-09-25 02:33:06.370950",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/all-press.md"
-                ]
-            }
-        },
-        "https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu": {
-            "checks": {
-                "status": 500,
-                "200": "2023-09-24 02:33:58.914383",
-                "fail": {
-                    "from": "2023-09-25 02:33:08.561215",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/all-press.md"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
-        "about.publiccode.net": "failing"
+        "about.publiccode.net": "passing"
     }
 }
