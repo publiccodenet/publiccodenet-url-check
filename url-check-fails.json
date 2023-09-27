@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-08-30 02:27:10.284699",
                     "from-code": 429,
-                    "to": "2023-09-26 02:29:09.956952",
+                    "to": "2023-09-27 02:29:03.183284",
                     "to-code": 429
                 }
             },
@@ -18,6 +18,21 @@
                 ]
             }
         },
+        "https://civichall.org": {
+            "checks": {
+                "status": 500,
+                "200": "2023-09-26 02:29:42.180075",
+                "fail": {
+                    "from": "2023-09-27 02:29:39.975847",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/value-and-impact/all-press.md"
+                ]
+            }
+        },
         "https://developer.overheid.nl/repositories": {
             "checks": {
                 "status": 404,
@@ -25,30 +40,13 @@
                 "fail": {
                     "from": "2023-09-13 02:28:31.820552",
                     "from-code": 404,
-                    "to": "2023-09-26 02:30:05.145902",
+                    "to": "2023-09-27 02:30:01.686980",
                     "to-code": 404
                 }
             },
             "used": {
                 "community-implementation-guide-standard": [
                     "criteria/make-the-codebase-findable.md"
-                ]
-            }
-        },
-        "https://github.com/Provincie-Zuid-Holland/Omgevingsbeleid-Frontend/blob/main/standard-for-public-code-assessment.md": {
-            "checks": {
-                "status": 404,
-                "200": "2023-08-28 02:30:00.238251",
-                "fail": {
-                    "from": "2023-08-29 02:58:44.919763",
-                    "from-code": 404,
-                    "to": "2023-09-26 02:31:21.243879",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "publiccode.net": [
-                    "codebases/omgevingsbeleid.html"
                 ]
             }
         },
@@ -59,7 +57,7 @@
                 "fail": {
                     "from": "2023-09-21 02:31:11.538329",
                     "from-code": 404,
-                    "to": "2023-09-26 02:31:27.614161",
+                    "to": "2023-09-27 02:31:21.730280",
                     "to-code": 404
                 }
             },
@@ -76,7 +74,7 @@
                 "fail": {
                     "from": "2023-09-16 02:31:16.605139",
                     "from-code": 502,
-                    "to": "2023-09-26 02:33:38.699193",
+                    "to": "2023-09-27 02:33:31.384751",
                     "to-code": 502
                 }
             },
@@ -93,7 +91,7 @@
                 "fail": {
                     "from": "2023-09-16 02:31:17.324716",
                     "from-code": 502,
-                    "to": "2023-09-26 02:33:39.239714",
+                    "to": "2023-09-27 02:33:31.933779",
                     "to-code": 502
                 }
             },
@@ -110,7 +108,7 @@
                 "fail": {
                     "from": "2023-09-22 02:33:48.084251",
                     "from-code": 429,
-                    "to": "2023-09-26 02:33:45.187436",
+                    "to": "2023-09-27 02:33:37.525233",
                     "to-code": 429
                 }
             },
@@ -127,7 +125,7 @@
                 "fail": {
                     "from": "2023-09-07 02:32:45.400009",
                     "from-code": 429,
-                    "to": "2023-09-26 02:33:45.391336",
+                    "to": "2023-09-27 02:33:37.765851",
                     "to-code": 429
                 }
             },
@@ -144,7 +142,7 @@
                 "fail": {
                     "from": "2023-09-07 02:32:45.759381",
                     "from-code": 429,
-                    "to": "2023-09-26 02:33:45.605441",
+                    "to": "2023-09-27 02:33:38.007845",
                     "to-code": 429
                 }
             },
@@ -161,7 +159,7 @@
                 "fail": {
                     "from": "2023-09-07 02:32:46.112932",
                     "from-code": 429,
-                    "to": "2023-09-26 02:33:45.860248",
+                    "to": "2023-09-27 02:33:38.247280",
                     "to-code": 429
                 }
             },
@@ -178,13 +176,60 @@
                 "fail": {
                     "from": "2023-09-07 02:32:46.462002",
                     "from-code": 429,
-                    "to": "2023-09-26 02:33:46.105005",
+                    "to": "2023-09-27 02:33:38.494168",
                     "to-code": 429
                 }
             },
             "used": {
                 "blog.publiccode.net": [
                     "_posts/2020-12-07-autumn-2020-newsletter.md"
+                ]
+            }
+        },
+        "https://podcastaddict.com/podcast/3603594": {
+            "checks": {
+                "status": 404,
+                "200": "2023-09-26 02:33:47.539066",
+                "fail": {
+                    "from": "2023-09-27 02:33:40.035710",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-09-23-episode-one-of-lets-talk-about-public-code.md"
+                ]
+            }
+        },
+        "https://publiccode.net/who-we-are/team/boris-van-hoytema.html": {
+            "checks": {
+                "status": 404,
+                "200": "2023-09-26 02:33:59.012284",
+                "fail": {
+                    "from": "2023-09-27 02:33:53.728160",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_data/authors.yml",
+                    "_posts/2022-01-04-notes-from-community-call-16-december-2021.md",
+                    "_posts/2022-01-11-notes-from-community-call-6-january-2022.md"
+                ]
+            }
+        },
+        "https://www.fossjobs.net/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-09-26 02:35:03.791998",
+                "fail": {
+                    "from": "2023-09-27 02:34:55.389264",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/recruitment/hiring-process.md"
                 ]
             }
         },
@@ -195,7 +240,7 @@
                 "fail": {
                     "from": "2023-09-18 02:36:53.776375",
                     "from-code": 404,
-                    "to": "2023-09-26 02:35:32.455699",
+                    "to": "2023-09-27 02:35:53.875085",
                     "to-code": 404
                 }
             },
@@ -212,7 +257,7 @@
                 "fail": {
                     "from": "2023-09-18 02:36:54.678759",
                     "from-code": 404,
-                    "to": "2023-09-26 02:35:33.164708",
+                    "to": "2023-09-27 02:35:54.712331",
                     "to-code": 404
                 }
             },
@@ -229,7 +274,7 @@
                 "fail": {
                     "from": "2023-09-18 02:36:55.491843",
                     "from-code": 404,
-                    "to": "2023-09-26 02:35:33.802486",
+                    "to": "2023-09-27 02:35:55.358018",
                     "to-code": 404
                 }
             },
@@ -246,7 +291,7 @@
                 "fail": {
                     "from": "2023-09-18 02:36:56.315023",
                     "from-code": 404,
-                    "to": "2023-09-26 02:35:34.548721",
+                    "to": "2023-09-27 02:35:56.053245",
                     "to-code": 404
                 }
             },
@@ -263,7 +308,7 @@
                 "fail": {
                     "from": "2023-09-18 02:36:57.136513",
                     "from-code": 404,
-                    "to": "2023-09-26 02:35:35.193399",
+                    "to": "2023-09-27 02:35:56.696665",
                     "to-code": 404
                 }
             },
@@ -280,7 +325,7 @@
                 "fail": {
                     "from": "2023-09-18 02:36:57.972434",
                     "from-code": 404,
-                    "to": "2023-09-26 02:35:35.871324",
+                    "to": "2023-09-27 02:35:57.355350",
                     "to-code": 404
                 }
             },
@@ -297,7 +342,7 @@
                 "fail": {
                     "from": "2023-09-18 02:36:58.817581",
                     "from-code": 404,
-                    "to": "2023-09-26 02:35:36.500004",
+                    "to": "2023-09-27 02:35:58.030436",
                     "to-code": 404
                 }
             },
@@ -312,7 +357,7 @@
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
         "publiccode.net": "failing",
-        "about.publiccode.net": "passing",
+        "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
         "community-implementation-guide-standard": "failing",
         "bumperscripter": "passing"

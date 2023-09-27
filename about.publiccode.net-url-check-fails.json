@@ -1,6 +1,37 @@
 {
-    "urls": {},
+    "urls": {
+        "https://civichall.org": {
+            "checks": {
+                "status": 500,
+                "200": "2023-09-26 02:29:42.180075",
+                "fail": {
+                    "from": "2023-09-27 02:29:39.975847",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/value-and-impact/all-press.md"
+                ]
+            }
+        },
+        "https://www.fossjobs.net/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-09-26 02:35:03.791998",
+                "fail": {
+                    "from": "2023-09-27 02:34:55.389264",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/recruitment/hiring-process.md"
+                ]
+            }
+        }
+    },
     "repos": {
-        "about.publiccode.net": "passing"
+        "about.publiccode.net": "failing"
     }
 }
