@@ -1,24 +1,44 @@
 {
     "urls": {
-        "https://www.fossjobs.net/": {
+        "https://about.publiccode.net/organization/members.html": {
             "checks": {
-                "status": 500,
-                "200": "2023-09-26 02:35:03.791998",
+                "status": 404,
+                "200": "2023-09-28 02:27:56.293466",
                 "fail": {
-                    "from": "2023-09-27 02:34:55.389264",
-                    "from-code": 0,
-                    "to": "2023-09-28 02:33:28.160631",
-                    "to-code": 500
+                    "from": "2023-09-29 02:29:05.536275",
+                    "from-code": 404
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/recruitment/hiring-process.md"
+                    "organization/annual-reports/financial-report-2021.md",
+                    "organization/annual-reports/financial-report-2022.md"
+                ]
+            }
+        },
+        "https://oascities.org/": {
+            "checks": {
+                "status": 500,
+                "200": "2023-09-28 02:31:36.560208",
+                "fail": {
+                    "from": "2023-09-29 02:33:00.053038",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/affiliates.md",
+                    "organization/annual-reports/annual-report-2022.md"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2021-02-03-episode-three-of-lets-talk-about-public-code.md",
+                    "_posts/2021-03-04-episode-four-of-lets-talk-about-public-code.md"
                 ]
             }
         }
     },
     "repos": {
-        "about.publiccode.net": "failing"
+        "about.publiccode.net": "failing",
+        "blog.publiccode.net": "failing"
     }
 }
