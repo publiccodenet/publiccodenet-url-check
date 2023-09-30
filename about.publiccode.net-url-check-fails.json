@@ -6,7 +6,9 @@
                 "200": "2023-09-28 02:27:56.293466",
                 "fail": {
                     "from": "2023-09-29 02:29:05.536275",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-09-30 02:26:12.498044",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -16,29 +18,24 @@
                 ]
             }
         },
-        "https://oascities.org/": {
+        "https://www.zuid-holland.nl/overons/bestuur-zh/gedeputeerde-staten/besluiten/2020/september/1-september/lidmaatschap-foundation-for-public-code-vereniging/": {
             "checks": {
-                "status": 500,
-                "200": "2023-09-28 02:31:36.560208",
+                "status": 0,
+                "200": "2023-09-29 02:36:05.445138",
                 "fail": {
-                    "from": "2023-09-29 02:33:00.053038",
-                    "from-code": 500
+                    "from": "2023-09-30 02:35:05.411253",
+                    "from-code": 0
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "organization/affiliates.md",
-                    "organization/annual-reports/annual-report-2022.md"
-                ],
-                "blog.publiccode.net": [
-                    "_posts/2021-02-03-episode-three-of-lets-talk-about-public-code.md",
-                    "_posts/2021-03-04-episode-four-of-lets-talk-about-public-code.md"
+                    "activities/value-and-impact/policy-documents.md",
+                    "organization/annual-reports/annual-report-2019-2020.md"
                 ]
             }
         }
     },
     "repos": {
-        "about.publiccode.net": "failing",
-        "blog.publiccode.net": "failing"
+        "about.publiccode.net": "failing"
     }
 }
