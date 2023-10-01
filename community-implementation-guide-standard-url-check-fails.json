@@ -7,13 +7,28 @@
                 "fail": {
                     "from": "2023-09-13 02:28:31.820552",
                     "from-code": 404,
-                    "to": "2023-09-30 02:27:12.059242",
+                    "to": "2023-10-01 02:33:41.203549",
                     "to-code": 404
                 }
             },
             "used": {
                 "community-implementation-guide-standard": [
                     "criteria/make-the-codebase-findable.md"
+                ]
+            }
+        },
+        "https://reuse.software/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-09-30 02:32:18.077334",
+                "fail": {
+                    "from": "2023-10-01 02:37:52.525893",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/publish-with-an-open-license.md"
                 ]
             }
         }

@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-08-30 02:27:10.284699",
                     "from-code": 429,
-                    "to": "2023-09-30 02:25:54.833802",
+                    "to": "2023-10-01 02:32:47.201967",
                     "to-code": 429
                 }
             },
@@ -25,7 +25,7 @@
                 "fail": {
                     "from": "2023-09-29 02:29:05.536275",
                     "from-code": 404,
-                    "to": "2023-09-30 02:26:12.498044",
+                    "to": "2023-10-01 02:32:57.770715",
                     "to-code": 404
                 }
             },
@@ -43,7 +43,7 @@
                 "fail": {
                     "from": "2023-09-13 02:28:31.820552",
                     "from-code": 404,
-                    "to": "2023-09-30 02:27:12.059242",
+                    "to": "2023-10-01 02:33:41.203549",
                     "to-code": 404
                 }
             },
@@ -60,7 +60,7 @@
                 "fail": {
                     "from": "2023-09-21 02:31:11.538329",
                     "from-code": 404,
-                    "to": "2023-09-30 02:28:57.150944",
+                    "to": "2023-10-01 02:34:55.396354",
                     "to-code": 404
                 }
             },
@@ -77,7 +77,7 @@
                 "fail": {
                     "from": "2023-09-16 02:31:16.605139",
                     "from-code": 502,
-                    "to": "2023-09-30 02:31:35.342611",
+                    "to": "2023-10-01 02:36:56.907980",
                     "to-code": 502
                 }
             },
@@ -94,7 +94,7 @@
                 "fail": {
                     "from": "2023-09-16 02:31:17.324716",
                     "from-code": 502,
-                    "to": "2023-09-30 02:31:35.995191",
+                    "to": "2023-10-01 02:36:57.340735",
                     "to-code": 502
                 }
             },
@@ -111,13 +111,28 @@
                 "fail": {
                     "from": "2023-09-27 02:33:40.035710",
                     "from-code": 404,
-                    "to": "2023-09-30 02:31:46.297569",
+                    "to": "2023-10-01 02:37:05.180939",
                     "to-code": 404
                 }
             },
             "used": {
                 "blog.publiccode.net": [
                     "_posts/2020-09-23-episode-one-of-lets-talk-about-public-code.md"
+                ]
+            }
+        },
+        "https://publiccode.eu/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-09-30 02:31:58.469661",
+                "fail": {
+                    "from": "2023-10-01 02:37:13.211299",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/communication/pitching.md"
                 ]
             }
         },
@@ -128,7 +143,7 @@
                 "fail": {
                     "from": "2023-09-27 02:33:53.728160",
                     "from-code": 404,
-                    "to": "2023-09-30 02:32:05.572171",
+                    "to": "2023-10-01 02:37:46.849505",
                     "to-code": 404
                 }
             },
@@ -140,6 +155,39 @@
                 ]
             }
         },
+        "https://reuse.software/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-09-30 02:32:18.077334",
+                "fail": {
+                    "from": "2023-10-01 02:37:52.525893",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/publish-with-an-open-license.md"
+                ]
+            }
+        },
+        "https://reuse.software/spec/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-09-30 02:32:18.747514",
+                "fail": {
+                    "from": "2023-10-01 02:38:22.833501",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "criteria/publish-with-an-open-license.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "criteria/publish-with-an-open-license.md"
+                ]
+            }
+        },
         "https://www.pscp.tv/w/1DXxyRyyWnZKM": {
             "checks": {
                 "status": 404,
@@ -147,7 +195,7 @@
                 "fail": {
                     "from": "2023-09-18 02:36:53.776375",
                     "from-code": 404,
-                    "to": "2023-09-30 02:34:21.049734",
+                    "to": "2023-10-01 02:40:30.329570",
                     "to-code": 404
                 }
             },
@@ -164,7 +212,7 @@
                 "fail": {
                     "from": "2023-09-18 02:36:54.678759",
                     "from-code": 404,
-                    "to": "2023-09-30 02:34:21.431721",
+                    "to": "2023-10-01 02:40:31.053562",
                     "to-code": 404
                 }
             },
@@ -181,7 +229,7 @@
                 "fail": {
                     "from": "2023-09-18 02:36:55.491843",
                     "from-code": 404,
-                    "to": "2023-09-30 02:34:21.988730",
+                    "to": "2023-10-01 02:40:31.703882",
                     "to-code": 404
                 }
             },
@@ -198,7 +246,7 @@
                 "fail": {
                     "from": "2023-09-18 02:36:56.315023",
                     "from-code": 404,
-                    "to": "2023-09-30 02:34:22.248795",
+                    "to": "2023-10-01 02:40:32.358991",
                     "to-code": 404
                 }
             },
@@ -215,7 +263,7 @@
                 "fail": {
                     "from": "2023-09-18 02:36:57.136513",
                     "from-code": 404,
-                    "to": "2023-09-30 02:34:22.511930",
+                    "to": "2023-10-01 02:40:32.994716",
                     "to-code": 404
                 }
             },
@@ -232,7 +280,7 @@
                 "fail": {
                     "from": "2023-09-18 02:36:57.972434",
                     "from-code": 404,
-                    "to": "2023-09-30 02:34:22.773172",
+                    "to": "2023-10-01 02:40:33.638427",
                     "to-code": 404
                 }
             },
@@ -249,7 +297,7 @@
                 "fail": {
                     "from": "2023-09-18 02:36:58.817581",
                     "from-code": 404,
-                    "to": "2023-09-30 02:34:23.039332",
+                    "to": "2023-10-01 02:40:34.307126",
                     "to-code": 404
                 }
             },
@@ -258,27 +306,11 @@
                     "_posts/2021-06-10-episode-six-of-lets-talk-about-public-code.md"
                 ]
             }
-        },
-        "https://www.zuid-holland.nl/overons/bestuur-zh/gedeputeerde-staten/besluiten/2020/september/1-september/lidmaatschap-foundation-for-public-code-vereniging/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-09-29 02:36:05.445138",
-                "fail": {
-                    "from": "2023-09-30 02:35:05.411253",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/policy-documents.md",
-                    "organization/annual-reports/annual-report-2019-2020.md"
-                ]
-            }
         }
     },
     "repos": {
-        "standard.publiccode.net": "passing",
-        "standard.publiccode.net-develop": "passing",
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
         "publiccode.net": "failing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
