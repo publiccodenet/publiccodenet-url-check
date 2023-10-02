@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-09-29 02:29:05.536275",
                     "from-code": 404,
-                    "to": "2023-10-01 02:32:57.770715",
+                    "to": "2023-10-02 02:29:15.858430",
                     "to-code": 404
                 }
             },
@@ -15,21 +15,6 @@
                 "about.publiccode.net": [
                     "organization/annual-reports/financial-report-2021.md",
                     "organization/annual-reports/financial-report-2022.md"
-                ]
-            }
-        },
-        "https://publiccode.eu/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-09-30 02:31:58.469661",
-                "fail": {
-                    "from": "2023-10-01 02:37:13.211299",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/communication/pitching.md"
                 ]
             }
         }
