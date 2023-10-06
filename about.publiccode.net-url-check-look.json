@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-09-29 02:29:05.536275",
                     "from-code": 404,
-                    "to": "2023-10-05 02:30:03.685961",
+                    "to": "2023-10-06 02:30:09.051024",
                     "to-code": 404
                 }
             },
@@ -15,21 +15,6 @@
                 "about.publiccode.net": [
                     "organization/annual-reports/financial-report-2021.md",
                     "organization/annual-reports/financial-report-2022.md"
-                ]
-            }
-        },
-        "https://mattermost.com/privacy-policy/": {
-            "checks": {
-                "status": 504,
-                "200": "2023-10-04 02:32:55.560172",
-                "fail": {
-                    "from": "2023-10-05 02:33:29.714185",
-                    "from-code": 504
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/tool-management/mattermost.md"
                 ]
             }
         }
