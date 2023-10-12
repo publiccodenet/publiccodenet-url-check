@@ -1,24 +1,6 @@
 {
-    "urls": {
-        "http://www.instagram.com/lottedale": {
-            "checks": {
-                "status": 429,
-                "200": "2023-10-12 09:27:30.496757",
-                "fail": {
-                    "from": "2023-10-12 10:48:36.895661",
-                    "from-code": 429
-                }
-            },
-            "used": {
-                "publiccode.net": [
-                    "photos/jacco-brouwer-open-day-2019.jpg",
-                    "who-we-are/team/ben-cerveny.jpg"
-                ]
-            },
-            "url": "http://www.instagram.com/lottedale"
-        }
-    },
+    "urls": {},
     "repos": {
-        "publiccode.net": "failing"
+        "publiccode.net": "passing"
     }
 }

@@ -1,29 +1,12 @@
 {
     "urls": {
-        "http://www.instagram.com/lottedale": {
-            "checks": {
-                "status": 429,
-                "200": "2023-10-12 09:27:30.496757",
-                "fail": {
-                    "from": "2023-10-12 10:48:36.895661",
-                    "from-code": 429
-                }
-            },
-            "used": {
-                "publiccode.net": [
-                    "photos/jacco-brouwer-open-day-2019.jpg",
-                    "who-we-are/team/ben-cerveny.jpg"
-                ]
-            },
-            "url": "http://www.instagram.com/lottedale"
-        },
         "https://iso.org/drafting-standards.html": {
             "checks": {
                 "status": 0,
                 "fail": {
                     "from": "2023-10-10 02:31:48.375175",
                     "from-code": 0,
-                    "to": "2023-10-12 10:52:36.479545",
+                    "to": "2023-10-12 11:14:42.306896",
                     "to-code": 0
                 }
             },
@@ -41,7 +24,7 @@
                 "fail": {
                     "from": "2023-10-10 02:32:56.414109",
                     "from-code": 0,
-                    "to": "2023-10-12 10:53:55.876691",
+                    "to": "2023-10-12 11:15:40.469662",
                     "to-code": 0
                 }
             },
@@ -56,7 +39,7 @@
     "repos": {
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
-        "publiccode.net": "failing",
+        "publiccode.net": "passing",
         "about.publiccode.net": "passing",
         "blog.publiccode.net": "failing",
         "community-implementation-guide-standard": "passing",
