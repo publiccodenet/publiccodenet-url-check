@@ -90,6 +90,8 @@
 		"remove trailing punctuation from nextcloud files",
 	"sed 's@poortwachter[\\.,)]*$@poortwachter@'":
 		"remove trailing punctuation",
+        "sed 's@\\(://tools\\.ietf\\.org/html/rfc[0-9]*\\)[\\.,)]*$@\\1@'":
+		"remove trailing punctuation",
 	"sed 's@\\(publiccode\\.net/careers/marketing\\)[\\.),:]*@\\1@'":
 		"remove trailing punctuation"
     }

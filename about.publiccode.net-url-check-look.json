@@ -2,7 +2,7 @@
     "http://creativecommons.org/ns": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:14.817368"
+            "200": "2023-10-12 10:48:14.730308"
         },
         "used": {
             "standard.publiccode.net": [
@@ -31,23 +31,25 @@
                 "activities/explaining-codebase-stewardship/shared-components.svg",
                 "activities/live-streaming/preview-image.svg"
             ]
-        }
+        },
+        "url": "http://creativecommons.org/ns"
     },
     "http://publiccode.net/codebase-stewardship/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:24.413356"
+            "200": "2023-10-12 10:48:26.061057"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/creating-partnerships/partnership-template.md"
             ]
-        }
+        },
+        "url": "http://publiccode.net/codebase-stewardship/"
     },
     "http://purl.org/dc/dcmitype/StillImage": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:24.587506"
+            "200": "2023-10-12 10:48:26.486221"
         },
         "used": {
             "standard.publiccode.net": [
@@ -76,12 +78,13 @@
                 "activities/explaining-codebase-stewardship/shared-components.svg",
                 "activities/live-streaming/preview-image.svg"
             ]
-        }
+        },
+        "url": "http://purl.org/dc/dcmitype/StillImage"
     },
     "http://purl.org/dc/elements/1.1/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:26.694565"
+            "200": "2023-10-12 10:48:28.826157"
         },
         "used": {
             "standard.publiccode.net": [
@@ -140,23 +143,25 @@
             "community-implementation-guide-standard": [
                 "assets/link-symbol.png"
             ]
-        }
+        },
+        "url": "http://purl.org/dc/elements/1.1/"
     },
     "http://retrospectivewiki.org/index.php?title=Retrospective_Plans": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:28.168396"
+            "200": "2023-10-12 10:48:30.386889"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-meetings/retrospective.md"
             ]
-        }
+        },
+        "url": "http://retrospectivewiki.org/index.php?title=Retrospective_Plans"
     },
     "http://standard-compliant.publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:28.959240"
+            "200": "2023-10-12 10:48:30.941896"
         },
         "used": {
             "about.publiccode.net": [
@@ -165,23 +170,25 @@
             "blog.publiccode.net": [
                 "_posts/2023-08-07-notes-from-community-call-3-august-2023.md"
             ]
-        }
+        },
+        "url": "http://standard-compliant.publiccode.net/"
     },
     "http://standard.publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:29.148346"
+            "200": "2023-10-12 10:48:31.256133"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/creating-partnerships/partnership-template.md"
             ]
-        }
+        },
+        "url": "http://standard.publiccode.net/"
     },
     "http://www.w3.org/1999/02/22-rdf-syntax-ns": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:30.700197"
+            "200": "2023-10-12 10:48:37.882151"
         },
         "used": {
             "standard.publiccode.net": [
@@ -251,12 +258,13 @@
             "community-implementation-guide-standard": [
                 "assets/link-symbol.png"
             ]
-        }
+        },
+        "url": "http://www.w3.org/1999/02/22-rdf-syntax-ns"
     },
     "http://www.w3.org/2000/svg": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:31.053491"
+            "200": "2023-10-12 10:48:38.413154"
         },
         "used": {
             "standard.publiccode.net": [
@@ -306,56 +314,61 @@
                 "activities/live-streaming/preview-image.svg",
                 "stewardship-badges/stewardedbadge.svg"
             ]
-        }
+        },
+        "url": "http://www.w3.org/2000/svg"
     },
     "https://18f.gsa.gov/2016/05/19/content-debt-what-it-is-where-to-find-it-and-how-to-prevent-it-in-the-first-place/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:32.215891"
+            "200": "2023-10-12 10:48:39.400115"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/blogging.md"
             ]
-        }
+        },
+        "url": "https://18f.gsa.gov/2016/05/19/content-debt-what-it-is-where-to-find-it-and-how-to-prevent-it-in-the-first-place/"
     },
     "https://1password.com/legal/privacy/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:32.657186"
+            "200": "2023-10-12 10:48:39.819855"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/1password.md"
             ]
-        }
+        },
+        "url": "https://1password.com/legal/privacy/"
     },
     "https://2020.bitsoffreedom.nl/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:32.833510"
+            "200": "2023-10-12 10:48:40.361276"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/financial-report-2019-2020.md"
             ]
-        }
+        },
+        "url": "https://2020.bitsoffreedom.nl/"
     },
     "https://about.publiccode.net": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:35.011048"
+            "200": "2023-10-12 10:48:42.940381"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2021.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net"
     },
     "https://about.publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:35.166137"
+            "200": "2023-10-12 10:48:43.141043"
         },
         "used": {
             "about.publiccode.net": [
@@ -366,12 +379,13 @@
                 "_posts/2020-02-21-notes-from-community-call-20-february-2020.md",
                 "_posts/2022-01-27-goals-for-the-first-quarter-2022.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/"
     },
     "https://about.publiccode.net/CODE_OF_CONDUCT.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:35.260301"
+            "200": "2023-10-12 10:48:43.257464"
         },
         "used": {
             "about.publiccode.net": [
@@ -379,12 +393,13 @@
                 "organization/annual-reports/financial-report-2021.md",
                 "organization/annual-reports/financial-report-2022.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/CODE_OF_CONDUCT.html"
     },
     "https://about.publiccode.net/activities/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:35.480184"
+            "200": "2023-10-12 10:48:43.567935"
         },
         "used": {
             "about.publiccode.net": [
@@ -397,12 +412,13 @@
                 "_posts/2021-04-08-March-2021-newsletter.md",
                 "_posts/2023-01-12-using-chat-gpt-in-codebase-stewardship.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/"
     },
     "https://about.publiccode.net/activities/codebase-stewardship/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:35.581216"
+            "200": "2023-10-12 10:48:43.727338"
         },
         "used": {
             "about.publiccode.net": [
@@ -411,23 +427,25 @@
             "blog.publiccode.net": [
                 "_posts/2020-03-17-a-look-at-our-codebase-governance-game.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/codebase-stewardship/"
     },
     "https://about.publiccode.net/activities/codebase-stewardship/lifecycle-diagram": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:35.781843"
+            "200": "2023-10-12 10:48:44.038153"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/codebase-stewardship/lifecycle.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/codebase-stewardship/lifecycle-diagram"
     },
     "https://about.publiccode.net/activities/codebase-stewardship/product-assets-for-early-incubation.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:36.087868"
+            "200": "2023-10-12 10:48:44.507369"
         },
         "used": {
             "about.publiccode.net": [
@@ -436,23 +454,25 @@
             "blog.publiccode.net": [
                 "_posts/2022-06-20-notes-from-june-community-call-16-june-2022.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/codebase-stewardship/product-assets-for-early-incubation.html"
     },
     "https://about.publiccode.net/activities/communication/basic-tweet-template.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:36.191518"
+            "200": "2023-10-12 10:48:44.758367"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/how-to-post-to-social-media.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/communication/basic-tweet-template.html"
     },
     "https://about.publiccode.net/activities/communication/how-to-post-to-social-media.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:36.495703"
+            "200": "2023-10-12 10:48:45.213878"
         },
         "used": {
             "about.publiccode.net": [
@@ -461,45 +481,49 @@
             "blog.publiccode.net": [
                 "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/communication/how-to-post-to-social-media.html"
     },
     "https://about.publiccode.net/activities/communication/managing-voip-phone-numbers.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:36.592699"
+            "200": "2023-10-12 10:48:45.463014"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/voys.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/communication/managing-voip-phone-numbers.html"
     },
     "https://about.publiccode.net/activities/communication/sending-newsletters.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:36.689250"
+            "200": "2023-10-12 10:48:45.613300"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/releasing-the-standard/index.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/communication/sending-newsletters.html"
     },
     "https://about.publiccode.net/activities/communication/using-chat.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:36.787035"
+            "200": "2023-10-12 10:48:45.767131"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/mattermost.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/communication/using-chat.html"
     },
     "https://about.publiccode.net/activities/community-calls/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:36.884728"
+            "200": "2023-10-12 10:48:45.925206"
         },
         "used": {
             "publiccode.net": [
@@ -512,12 +536,13 @@
                 "_posts/2020-07-20-notes-from-community-call-2-july-2020.md",
                 "_posts/2020-12-02-summer-2020-newsletter.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/community-calls/"
     },
     "https://about.publiccode.net/activities/creating-partnerships/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:36.983562"
+            "200": "2023-10-12 10:48:46.081275"
         },
         "used": {
             "about.publiccode.net": [
@@ -526,45 +551,49 @@
             "blog.publiccode.net": [
                 "_posts/2022-01-04-notes-from-community-call-16-december-2021.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/creating-partnerships/"
     },
     "https://about.publiccode.net/activities/events/attending-events.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:37.083250"
+            "200": "2023-10-12 10:48:46.255955"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/events/events-planning-template.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/events/attending-events.html"
     },
     "https://about.publiccode.net/activities/supporting-codebase-governance/customized-governance-workshop/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:37.573097"
+            "200": "2023-10-12 10:48:47.342131"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/supporting-codebase-governance/customized-governance-workshop/"
     },
     "https://about.publiccode.net/activities/supporting-codebase-governance/exercise/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:37.670889"
+            "200": "2023-10-12 10:48:47.499592"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/supporting-codebase-governance/exercise/"
     },
     "https://about.publiccode.net/activities/tool-management/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:38.080761"
+            "200": "2023-10-12 10:48:48.114349"
         },
         "used": {
             "about.publiccode.net": [
@@ -573,90 +602,98 @@
             "blog.publiccode.net": [
                 "_posts/2020-12-07-autumn-2020-newsletter.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/tool-management/"
     },
     "https://about.publiccode.net/activities/tool-management/jitsi-meet.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:38.174647"
+            "200": "2023-10-12 10:48:48.363913"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/jitsi-guides.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/tool-management/jitsi-meet.html"
     },
     "https://about.publiccode.net/activities/tool-management/tentoo.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:38.371621"
+            "200": "2023-10-12 10:48:48.669720"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-management/sick-leave.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/tool-management/tentoo.html"
     },
     "https://about.publiccode.net/activities/value-and-impact/all-press.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:38.626238"
+            "200": "2023-10-12 10:48:48.978439"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2019-2020.md",
                 "organization/annual-reports/annual-report-2021.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/value-and-impact/all-press.html"
     },
     "https://about.publiccode.net/activities/value-and-impact/policy-documents.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:38.721636"
+            "200": "2023-10-12 10:48:49.129717"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2019-2020.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/value-and-impact/policy-documents.html"
     },
     "https://about.publiccode.net/activities/workshops/mapping-business-models/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:38.921575"
+            "200": "2023-10-12 10:48:49.440680"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/workshops/mapping-business-models/"
     },
     "https://about.publiccode.net/activities/workshops/mapping-risk-and-service-level-agreements/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:39.020727"
+            "200": "2023-10-12 10:48:49.589268"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/activities/workshops/mapping-risk-and-service-level-agreements/"
     },
     "https://about.publiccode.net/organization/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:39.427755"
+            "200": "2023-10-12 10:48:50.308414"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/policy-plan.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/organization/"
     },
     "https://about.publiccode.net/organization/annual-reports/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:39.538537"
+            "200": "2023-10-12 10:48:50.460759"
         },
         "used": {
             "about.publiccode.net": [
@@ -665,34 +702,37 @@
             "blog.publiccode.net": [
                 "_posts/2021-07-19-newsletter-june-2021.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/organization/annual-reports/"
     },
     "https://about.publiccode.net/organization/annual-reports/financial-report-2019-2020": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:39.637821"
+            "200": "2023-10-12 10:48:50.630555"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2019-2020.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/organization/annual-reports/financial-report-2019-2020"
     },
     "https://about.publiccode.net/organization/articles-of-association.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:39.739981"
+            "200": "2023-10-12 10:48:50.785821"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/policy-plan.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/organization/articles-of-association.html"
     },
     "https://about.publiccode.net/organization/cultural-values.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:40.081356"
+            "200": "2023-10-12 10:48:51.401939"
         },
         "used": {
             "about.publiccode.net": [
@@ -702,46 +742,50 @@
                 "_posts/2021-07-28-digital-public-goods.md",
                 "_posts/2022-02-21-notes-from-community-call-17-february-2022.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/organization/cultural-values.html"
     },
     "https://about.publiccode.net/organization/finance-updates/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:40.184422"
+            "200": "2023-10-12 10:48:51.563857"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/board-of-directors-meetings/2021-10-27-minutes.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/organization/finance-updates/"
     },
     "https://about.publiccode.net/organization/financial-model.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:40.295868"
+            "200": "2023-10-12 10:48:51.714979"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/philanthropic-fundraising/index.md",
                 "organization/philanthropy.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/organization/financial-model.html"
     },
     "https://about.publiccode.net/organization/governance-model.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:40.396690"
+            "200": "2023-10-12 10:48:51.864043"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/philanthropy.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/organization/governance-model.html"
     },
     "https://about.publiccode.net/organization/mission.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:40.494987"
+            "200": "2023-10-12 10:48:52.018256"
         },
         "used": {
             "about.publiccode.net": [
@@ -757,45 +801,49 @@
                 "_posts/2022-04-11-notes-from-community-call-7-april-2022.md",
                 "_posts/2022-10-13-DPGA-membership.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/organization/mission.html"
     },
     "https://about.publiccode.net/organization/policy-plan.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:40.590621"
+            "200": "2023-10-12 10:48:52.168680"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/general-assemblies/minutes-28-06-2021.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/organization/policy-plan.html"
     },
     "https://about.publiccode.net/organization/remuneration-policy.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:40.692318"
+            "200": "2023-10-12 10:48:52.336426"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/policy-plan.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/organization/remuneration-policy.html"
     },
     "https://about.publiccode.net/organization/staff": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:40.910340"
+            "200": "2023-10-12 10:48:52.641864"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/codebase-stewardship/product-assets-for-early-incubation.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/organization/staff"
     },
     "https://about.publiccode.net/organization/strategic-council.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:41.109099"
+            "200": "2023-10-12 10:48:52.947101"
         },
         "used": {
             "about.publiccode.net": [
@@ -806,58 +854,63 @@
                 "_posts/2021-11-09-notes-from-community-call-4-november-2021.md",
                 "_posts/2022-06-27-welcome-audrey.md"
             ]
-        }
+        },
+        "url": "https://about.publiccode.net/organization/strategic-council.html"
     },
     "https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:42.298290"
+            "200": "2023-10-12 10:48:54.480617"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/policy-documents.md",
                 "organization/annual-reports/annual-report-2019-2020.md"
             ]
-        }
+        },
+        "url": "https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08"
     },
     "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:43.114564"
+            "200": "2023-10-12 10:48:55.432872"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/policy-documents.md",
                 "organization/annual-reports/annual-report-2019-2020.md"
             ]
-        }
+        },
+        "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
     },
     "https://app.excalidraw.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:44.058955"
+            "200": "2023-10-12 10:48:56.356862"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/excalidraw.md"
             ]
-        }
+        },
+        "url": "https://app.excalidraw.com/"
     },
     "https://archive.fosdem.org/2022/schedule/track/public_code/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:44.210419"
+            "200": "2023-10-12 10:48:56.574358"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://archive.fosdem.org/2022/schedule/track/public_code/"
     },
     "https://awards.isoc.nl/innovatie/2020/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:46.747421"
+            "200": "2023-10-12 10:48:58.785677"
         },
         "used": {
             "about.publiccode.net": [
@@ -866,12 +919,13 @@
             "blog.publiccode.net": [
                 "_posts/2020-06-17-isoc-encouragement-award-consider-us-encouraged.md"
             ]
-        }
+        },
+        "url": "https://awards.isoc.nl/innovatie/2020/"
     },
     "https://blog.publiccode.net": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:48.944367"
+            "200": "2023-10-12 10:49:01.080184"
         },
         "used": {
             "about.publiccode.net": [
@@ -883,12 +937,13 @@
             "blog.publiccode.net": [
                 "_posts/2020-07-29-notes-from-community-call-16-july-2020.md"
             ]
-        }
+        },
+        "url": "https://blog.publiccode.net"
     },
     "https://blog.publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:49.145836"
+            "200": "2023-10-12 10:49:01.285432"
         },
         "used": {
             "publiccode.net": [
@@ -904,12 +959,13 @@
                 "_posts/2020-02-21-notes-from-community-call-20-february-2020.md",
                 "_posts/2020-09-22-notes-from-community-call-3-september-2020.md"
             ]
-        }
+        },
+        "url": "https://blog.publiccode.net/"
     },
     "https://blog.publiccode.net/codebase%20stewardship/2020/07/01/openzaak-market-consultation-workshops.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:49.245172"
+            "200": "2023-10-12 10:49:01.402012"
         },
         "used": {
             "about.publiccode.net": [
@@ -919,12 +975,13 @@
                 "_posts/2020-12-02-summer-2020-newsletter.md",
                 "_posts/2021-04-08-March-2021-newsletter.md"
             ]
-        }
+        },
+        "url": "https://blog.publiccode.net/codebase%20stewardship/2020/07/01/openzaak-market-consultation-workshops.html"
     },
     "https://blog.publiccode.net/community%20call/2019/12/11/notes-from-community-call-26-september-2019.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:49.475273"
+            "200": "2023-10-12 10:49:01.706244"
         },
         "used": {
             "about.publiccode.net": [
@@ -933,12 +990,13 @@
             "blog.publiccode.net": [
                 "_posts/2023-08-07-notes-from-community-call-3-august-2023.md"
             ]
-        }
+        },
+        "url": "https://blog.publiccode.net/community%20call/2019/12/11/notes-from-community-call-26-september-2019.html"
     },
     "https://blog.publiccode.net/community%20call/2021/05/20/pruning-the-oldest-issues.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:50.170269"
+            "200": "2023-10-12 10:49:02.838954"
         },
         "used": {
             "about.publiccode.net": [
@@ -947,12 +1005,13 @@
             "blog.publiccode.net": [
                 "_posts/2021-06-14-pruning-our-backlog.md"
             ]
-        }
+        },
+        "url": "https://blog.publiccode.net/community%20call/2021/05/20/pruning-the-oldest-issues.html"
     },
     "https://blog.publiccode.net/news/2020/06/17/isoc-encouragement-award-consider-us-encouraged.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:51.778082"
+            "200": "2023-10-12 10:49:05.462904"
         },
         "used": {
             "about.publiccode.net": [
@@ -962,12 +1021,13 @@
                 "_posts/2020-07-29-notes-from-community-call-16-july-2020.md",
                 "_posts/2020-12-02-summer-2020-newsletter.md"
             ]
-        }
+        },
+        "url": "https://blog.publiccode.net/news/2020/06/17/isoc-encouragement-award-consider-us-encouraged.html"
     },
     "https://blog.publiccode.net/news/2021/02/04/signalen-is-in-incubation.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:52.274867"
+            "200": "2023-10-12 10:49:06.239203"
         },
         "used": {
             "about.publiccode.net": [
@@ -976,67 +1036,73 @@
             "blog.publiccode.net": [
                 "_posts/2021-02-25-notes:-february-2021-foundation-for-public-code-community-call.md"
             ]
-        }
+        },
+        "url": "https://blog.publiccode.net/news/2021/02/04/signalen-is-in-incubation.html"
     },
     "https://blog.publiccode.net/news/2022/02/15/the-importance-of-international-ambitions-for-long-term-success.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:53.062692"
+            "200": "2023-10-12 10:49:07.486281"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://blog.publiccode.net/news/2022/02/15/the-importance-of-international-ambitions-for-long-term-success.html"
     },
     "https://blog.publiccode.net/news/2022/05/25/resilience-during-an-international-crisis.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:53.160338"
+            "200": "2023-10-12 10:49:07.645575"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://blog.publiccode.net/news/2022/05/25/resilience-during-an-international-crisis.html"
     },
     "https://blog.publiccode.net/news/2022/06/27/welcome-audrey.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:53.264232"
+            "200": "2023-10-12 10:49:07.797386"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://blog.publiccode.net/news/2022/06/27/welcome-audrey.html"
     },
     "https://blog.publiccode.net/news/2022/09/13/launching-community-built-implementation-guide.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:53.361754"
+            "200": "2023-10-12 10:49:07.950871"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://blog.publiccode.net/news/2022/09/13/launching-community-built-implementation-guide.html"
     },
     "https://blog.publiccode.net/news/2022/09/15/printing-your-own-governance-game.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:53.458801"
+            "200": "2023-10-12 10:49:08.205167"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://blog.publiccode.net/news/2022/09/15/printing-your-own-governance-game.html"
     },
     "https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:53.648544"
+            "200": "2023-10-12 10:49:08.512540"
         },
         "used": {
             "about.publiccode.net": [
@@ -1047,111 +1113,121 @@
                 "_posts/2020-12-07-autumn-2020-newsletter.md",
                 "_posts/2022-10-13-DPGA-membership.md"
             ]
-        }
+        },
+        "url": "https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html"
     },
     "https://brand.publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:54.389174"
+            "200": "2023-10-12 10:49:09.325227"
         },
         "used": {
             "about.publiccode.net": [
                 "index.md"
             ]
-        }
+        },
+        "url": "https://brand.publiccode.net/"
     },
     "https://brand.publiccode.net/logo/mark-128w128h.png": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:54.544168"
+            "200": "2023-10-12 10:49:09.522822"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/jitsi-meet.md"
             ]
-        }
+        },
+        "url": "https://brand.publiccode.net/logo/mark-128w128h.png"
     },
     "https://brand.publiccode.net/stewardship/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:54.874886"
+            "200": "2023-10-12 10:49:09.995387"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/codebase-stewardship/index.md"
             ]
-        }
+        },
+        "url": "https://brand.publiccode.net/stewardship/"
     },
     "https://business.gov.nl/regulation/leave-schemes/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:55.207297"
+            "200": "2023-10-12 10:49:10.716376"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-information/parental-leave.md"
             ]
-        }
+        },
+        "url": "https://business.gov.nl/regulation/leave-schemes/"
     },
     "https://business.gov.nl/regulation/working-conditions-employees/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:56.022576"
+            "200": "2023-10-12 10:49:11.661694"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-management/sick-leave.md"
             ]
-        }
+        },
+        "url": "https://business.gov.nl/regulation/working-conditions-employees/"
     },
     "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:56.524263"
+            "200": "2023-10-12 10:49:12.304514"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/governance-model.md"
             ]
-        }
+        },
+        "url": "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/"
     },
     "https://bzg.fr/en/open-source-and-the-french-public-sector-beyond-2020/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:57.028964"
+            "200": "2023-10-12 10:49:12.945556"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://bzg.fr/en/open-source-and-the-french-public-sector-beyond-2020/"
     },
     "https://cbea.ms/git-commit/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:27:57.726735"
+            "200": "2023-10-12 10:49:13.770566"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/index.md"
             ]
-        }
+        },
+        "url": "https://cbea.ms/git-commit/"
     },
     "https://chat.publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:00.207105"
+            "200": "2023-10-12 10:49:16.187196"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/using-chat.md"
             ]
-        }
+        },
+        "url": "https://chat.publiccode.net/"
     },
     "https://citybycity.academy/course/standards-for-smart-cities": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:02.346765"
+            "200": "2023-10-12 10:49:18.684250"
         },
         "used": {
             "publiccode.net": [
@@ -1165,34 +1241,37 @@
                 "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md",
                 "_posts/2021-03-16-notes-from-community-call-4-march-2021.md"
             ]
-        }
+        },
+        "url": "https://citybycity.academy/course/standards-for-smart-cities"
     },
     "https://civichall.org": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:02.766394"
+            "200": "2023-10-12 10:49:18.975205"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://civichall.org"
     },
     "https://cloud.google.com/security/gdpr/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:04.839896"
+            "200": "2023-10-12 10:49:21.347693"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/google-workspace.md"
             ]
-        }
+        },
+        "url": "https://cloud.google.com/security/gdpr/"
     },
     "https://collaboration.publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:07.799915"
+            "200": "2023-10-12 10:49:24.457892"
         },
         "used": {
             "about.publiccode.net": [
@@ -1201,56 +1280,61 @@
             "blog.publiccode.net": [
                 "_posts/2021-05-6-april-2021-newsletter.md"
             ]
-        }
+        },
+        "url": "https://collaboration.publiccode.net/"
     },
     "https://collaboration.publiccode.net/nextcloud/index.php/s/PxbDn8RkGG2ZgX8": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:08.518002"
+            "200": "2023-10-12 10:49:25.374000"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/policy-documents.md"
             ]
-        }
+        },
+        "url": "https://collaboration.publiccode.net/nextcloud/index.php/s/PxbDn8RkGG2ZgX8"
     },
     "https://commonground.nl/news/view/2a13308d-872e-4b98-8dff-d4d3bcb36586/steeds-meer-gemeenten-maken-gebruik-van-signalen": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:10.209633"
+            "200": "2023-10-12 10:49:27.548896"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://commonground.nl/news/view/2a13308d-872e-4b98-8dff-d4d3bcb36586/steeds-meer-gemeenten-maken-gebruik-van-signalen"
     },
     "https://commonground.nl/news/view/752192c5-7222-4769-a738-de47dfcfb6f5/openzaak-van-samen-organiseren-naar-samen-realiseren": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:11.976100"
+            "200": "2023-10-12 10:49:29.621524"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://commonground.nl/news/view/752192c5-7222-4769-a738-de47dfcfb6f5/openzaak-van-samen-organiseren-naar-samen-realiseren"
     },
     "https://content-guide.18f.gov/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:14.627844"
+            "200": "2023-10-12 10:49:32.628886"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/blogging.md"
             ]
-        }
+        },
+        "url": "https://content-guide.18f.gov/"
     },
     "https://creativecommons.org/licenses/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:15.734985"
+            "200": "2023-10-12 10:49:33.850565"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1265,34 +1349,37 @@
                 "organization/annual-reports/financial-report-2022.md",
                 "organization/mission.md"
             ]
-        }
+        },
+        "url": "https://creativecommons.org/licenses/"
     },
     "https://creativecommons.org/licenses/by-nd/4.0/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:15.935155"
+            "200": "2023-10-12 10:49:34.099107"
         },
         "used": {
             "about.publiccode.net": [
                 "contributor-guides/for-staff.md"
             ]
-        }
+        },
+        "url": "https://creativecommons.org/licenses/by-nd/4.0/"
     },
     "https://creativecommons.org/licenses/by/3.0/us/legalcode": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:16.038398"
+            "200": "2023-10-12 10:49:34.340666"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/supporting-codebase-governance/exercise/index.md"
             ]
-        }
+        },
+        "url": "https://creativecommons.org/licenses/by/3.0/us/legalcode"
     },
     "https://creativecommons.org/publicdomain/zero/1.0/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:16.536500"
+            "200": "2023-10-12 10:49:34.931467"
         },
         "used": {
             "about.publiccode.net": [
@@ -1305,70 +1392,76 @@
                 "LICENSE.md",
                 "README.md"
             ]
-        }
+        },
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
     "https://creativecommons.org/share-your-work/public-domain/cc0": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:16.634973"
+            "200": "2023-10-12 10:49:35.059451"
         },
         "used": {
             "about.publiccode.net": [
                 "contributor-guides/for-staff.md"
             ]
-        }
+        },
+        "url": "https://creativecommons.org/share-your-work/public-domain/cc0"
     },
     "https://darkmatterlabs.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:18.189971"
+            "200": "2023-10-12 10:49:37.751283"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/affiliates.md",
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://darkmatterlabs.org/"
     },
     "https://datasift.github.io/gitflow/IntroducingGitFlow.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:18.558602"
+            "200": "2023-10-12 10:49:38.104469"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/documentation/index.md",
                 "activities/documentation/merge-develop-into-main.md"
             ]
-        }
+        },
+        "url": "https://datasift.github.io/gitflow/IntroducingGitFlow.html"
     },
     "https://decidim.org": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:18.715504"
+            "200": "2023-10-12 10:49:38.288103"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/affiliates.md",
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://decidim.org"
     },
     "https://demodam.org/en/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:20.486189"
+            "200": "2023-10-12 10:49:39.759914"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2021.md"
             ]
-        }
+        },
+        "url": "https://demodam.org/en/"
     },
     "https://digitalpublicgoods.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:23.509810"
+            "200": "2023-10-12 10:49:43.350877"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1388,12 +1481,13 @@
                 "_posts/2022-10-13-DPGA-membership.md",
                 "_posts/2022-11-09-fosdem-2023-public-code-and-digital-public-goods-devroom-call-for-proposal.md"
             ]
-        }
+        },
+        "url": "https://digitalpublicgoods.net/"
     },
     "https://digitalpublicgoods.net/registry/standard-for-public-code.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:23.930802"
+            "200": "2023-10-12 10:49:43.988797"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1412,342 +1506,373 @@
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://digitalpublicgoods.net/registry/standard-for-public-code.html"
     },
     "https://digitalpublicgoods.xyz/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:24.031800"
+            "200": "2023-10-12 10:49:44.212991"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://digitalpublicgoods.xyz/"
     },
     "https://digitalpublicgoods.xyz/introduction": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:24.231803"
+            "200": "2023-10-12 10:49:44.720319"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://digitalpublicgoods.xyz/introduction"
     },
     "https://digitalsamtal.se/236-genom-samarbete-blir-det-offentligas-kod-battre/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:24.434371"
+            "200": "2023-10-12 10:49:45.000904"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://digitalsamtal.se/236-genom-samarbete-blir-det-offentligas-kod-battre/"
     },
     "https://docs.google.com/document/d/10J9i2komx8HnlPqQAMyby97ambdoU1VdHQccUO5WKYI/edit?usp=sharing": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:27.489281"
+            "200": "2023-10-12 10:49:50.368617"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/recruitment/hiring-process.md"
             ]
-        }
+        },
+        "url": "https://docs.google.com/document/d/10J9i2komx8HnlPqQAMyby97ambdoU1VdHQccUO5WKYI/edit?usp=sharing"
     },
     "https://docs.google.com/document/d/1KJx7p1ep8MEYQ6YmQc4iJesLCRP8UmGAHL3PiZBs-GE/edit": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:28.178262"
+            "200": "2023-10-12 10:49:51.315497"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-information/index.md"
             ]
-        }
+        },
+        "url": "https://docs.google.com/document/d/1KJx7p1ep8MEYQ6YmQc4iJesLCRP8UmGAHL3PiZBs-GE/edit"
     },
     "https://docs.google.com/document/d/1KYmWUHCS-bA5Bqi2wQzl11D1QIxbtwr-Qtl2PEwKDw8/edit": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:28.841346"
+            "200": "2023-10-12 10:49:52.273396"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/odoo.md"
             ]
-        }
+        },
+        "url": "https://docs.google.com/document/d/1KYmWUHCS-bA5Bqi2wQzl11D1QIxbtwr-Qtl2PEwKDw8/edit"
     },
     "https://docs.google.com/document/d/1MQjkagZOo7gHPb1QLfuZUaYzIGVC47r1/edit": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:29.585365"
+            "200": "2023-10-12 10:49:53.248250"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-management/contracts.md"
             ]
-        }
+        },
+        "url": "https://docs.google.com/document/d/1MQjkagZOo7gHPb1QLfuZUaYzIGVC47r1/edit"
     },
     "https://docs.google.com/document/d/1YzmfYm1G7jBfqyh5HMrkr1XM2jQMtz7P-mXoTk5m4BQ/edit": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:30.390962"
+            "200": "2023-10-12 10:49:54.273360"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/codebase-stewardship/stewardship-proposal-template.md"
             ]
-        }
+        },
+        "url": "https://docs.google.com/document/d/1YzmfYm1G7jBfqyh5HMrkr1XM2jQMtz7P-mXoTk5m4BQ/edit"
     },
     "https://docs.google.com/document/d/1l-Z03ri4We4rv6inEvudjW0XYt2k0-p0vkCrhbb_1sw/edit": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:30.992961"
+            "200": "2023-10-12 10:49:55.476946"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-information/leave.md"
             ]
-        }
+        },
+        "url": "https://docs.google.com/document/d/1l-Z03ri4We4rv6inEvudjW0XYt2k0-p0vkCrhbb_1sw/edit"
     },
     "https://docs.google.com/presentation/d/1irBjBKMPNsNkGTFNjk4thYizDYrqYfgBJZTdj1hw19c/edit?usp=sharing)": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:31.736973"
+            "200": "2023-10-12 10:49:56.544590"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/supporting-codebase-governance/game/run-governance-game-workshop.md"
             ]
-        }
+        },
+        "url": "https://docs.google.com/presentation/d/1irBjBKMPNsNkGTFNjk4thYizDYrqYfgBJZTdj1hw19c/edit?usp=sharing)"
     },
     "https://docs.google.com/spreadsheets/d/1me6eipaLCHH4GUWlZtPC_cQku0xRUiCqhfUOU2VtXHE/edit?usp=sharing": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:32.295261"
+            "200": "2023-10-12 10:49:57.302143"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/basic-tweet-template.md"
             ]
-        }
+        },
+        "url": "https://docs.google.com/spreadsheets/d/1me6eipaLCHH4GUWlZtPC_cQku0xRUiCqhfUOU2VtXHE/edit?usp=sharing"
     },
     "https://docs.mailman3.org/en/latest/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:33.228425"
+            "200": "2023-10-12 10:49:58.727116"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/mailing-lists.md"
             ]
-        }
+        },
+        "url": "https://docs.mailman3.org/en/latest/"
     },
     "https://docs.mailman3.org/en/latest/userguide.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:33.742402"
+            "200": "2023-10-12 10:49:59.199921"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/mailing-lists.md"
             ]
-        }
+        },
+        "url": "https://docs.mailman3.org/en/latest/userguide.html"
     },
     "https://docs.mattermost.com/administration/upgrade.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:33.926326"
+            "200": "2023-10-12 10:49:59.478375"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/mattermost.md"
             ]
-        }
+        },
+        "url": "https://docs.mattermost.com/administration/upgrade.html"
     },
     "https://docs.mattermost.com/manage/command-line-tools.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:34.093506"
+            "200": "2023-10-12 10:49:59.725797"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/mattermost.md"
             ]
-        }
+        },
+        "url": "https://docs.mattermost.com/manage/command-line-tools.html"
     },
     "https://docs.mattermost.com/overview/compliance.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:34.254840"
+            "200": "2023-10-12 10:49:59.960767"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/mattermost.md"
             ]
-        }
+        },
+        "url": "https://docs.mattermost.com/overview/compliance.html"
     },
     "https://docs.nextcloud.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:34.434810"
+            "200": "2023-10-12 10:50:00.235329"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/nextcloud.md"
             ]
-        }
+        },
+        "url": "https://docs.nextcloud.com/"
     },
     "https://doi.org/10.1016/j.evolhumbehav.2016.05.005": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:35.982583"
+            "200": "2023-10-12 10:50:02.328955"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/supporting-codebase-governance/game/run-governance-game-workshop.md"
             ]
-        }
+        },
+        "url": "https://doi.org/10.1016/j.evolhumbehav.2016.05.005"
     },
     "https://drive.google.com/drive/folders/19uVbxuM5EiJobvMmxAsdFOGq0bWv28Qn": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:37.612878"
+            "200": "2023-10-12 10:50:04.013359"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/tentoo.md"
             ]
-        }
+        },
+        "url": "https://drive.google.com/drive/folders/19uVbxuM5EiJobvMmxAsdFOGq0bWv28Qn"
     },
     "https://drive.google.com/drive/folders/1B47cfi314HJzoW7_QDaaaG1hfvxwCjpJ": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:38.111184"
+            "200": "2023-10-12 10:50:04.797410"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/financial-administration/bookkeeping.md"
             ]
-        }
+        },
+        "url": "https://drive.google.com/drive/folders/1B47cfi314HJzoW7_QDaaaG1hfvxwCjpJ"
     },
     "https://drive.google.com/drive/folders/1KqeG3KxibxmbkhQl5yKUdsmTtMMnwlqB": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:38.569153"
+            "200": "2023-10-12 10:50:05.484359"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-management/onboarding.md"
             ]
-        }
+        },
+        "url": "https://drive.google.com/drive/folders/1KqeG3KxibxmbkhQl5yKUdsmTtMMnwlqB"
     },
     "https://drive.google.com/drive/folders/1PJfus4U_eGuHkFPrxW1TTHH8RRg4tGpi": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:39.063024"
+            "200": "2023-10-12 10:50:06.187938"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/office-management/index.md"
             ]
-        }
+        },
+        "url": "https://drive.google.com/drive/folders/1PJfus4U_eGuHkFPrxW1TTHH8RRg4tGpi"
     },
     "https://drive.google.com/drive/folders/1Tv5j1vfn2MhDc2DtDmKCyQrrfkh2CJTj": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:39.544563"
+            "200": "2023-10-12 10:50:06.899329"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/financial-administration/reporting.md"
             ]
-        }
+        },
+        "url": "https://drive.google.com/drive/folders/1Tv5j1vfn2MhDc2DtDmKCyQrrfkh2CJTj"
     },
     "https://drive.google.com/drive/folders/1eeW-cCescwdGoxuCKwB4oMlhE5512Qu_": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:40.006610"
+            "200": "2023-10-12 10:50:07.607905"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/financial-administration/reporting.md"
             ]
-        }
+        },
+        "url": "https://drive.google.com/drive/folders/1eeW-cCescwdGoxuCKwB4oMlhE5512Qu_"
     },
     "https://drive.google.com/drive/folders/1hv1XKbA6y8XYO9KqbKo5-TFlFxRROn0R": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:40.494263"
+            "200": "2023-10-12 10:50:08.288928"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/financial-administration/reporting.md"
             ]
-        }
+        },
+        "url": "https://drive.google.com/drive/folders/1hv1XKbA6y8XYO9KqbKo5-TFlFxRROn0R"
     },
     "https://drive.google.com/drive/folders/1xbO--Pjr5CFDKTbaFiMS8A_SpEAIS06A": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:41.012943"
+            "200": "2023-10-12 10:50:09.037722"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/financial-administration/insurances.md"
             ]
-        }
+        },
+        "url": "https://drive.google.com/drive/folders/1xbO--Pjr5CFDKTbaFiMS8A_SpEAIS06A"
     },
     "https://drive.google.com/drive/u/0/folders/0AKgB_Nq7eZ5FUk9PVA": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:41.609009"
+            "200": "2023-10-12 10:50:09.945551"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/how-to-post-to-social-media.md"
             ]
-        }
+        },
+        "url": "https://drive.google.com/drive/u/0/folders/0AKgB_Nq7eZ5FUk9PVA"
     },
     "https://ec.europa.eu/info/aid-development-cooperation-fundamental-rights/your-rights-eu/know-your-rights/equality/non-discrimination_en": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:42.998555"
+            "200": "2023-10-12 10:50:11.662241"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/board-of-directors-meetings/2021-12-14-minutes.md"
             ]
-        }
+        },
+        "url": "https://ec.europa.eu/info/aid-development-cooperation-fundamental-rights/your-rights-eu/know-your-rights/equality/non-discrimination_en"
     },
     "https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens/how-my-personal-data-protected/how-data-my-religious-beliefs-sexual-orientation-health-political-views-protected_en": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:43.662247"
+            "200": "2023-10-12 10:50:13.214090"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/using-chat.md"
             ]
-        }
+        },
+        "url": "https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens/how-my-personal-data-protected/how-data-my-religious-beliefs-sexual-orientation-health-political-views-protected_en"
     },
     "https://ec.europa.eu/newsroom/joinup/newsletter-archives/18462": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:44.930109"
+            "200": "2023-10-12 10:50:14.748789"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://ec.europa.eu/newsroom/joinup/newsletter-archives/18462"
     },
     "https://education.github.com/git-cheat-sheet-education.pdf": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:45.497647"
+            "200": "2023-10-12 10:50:15.414764"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1762,155 +1887,169 @@
             "community-implementation-guide-standard": [
                 "criteria/maintain-version-control.md"
             ]
-        }
+        },
+        "url": "https://education.github.com/git-cheat-sheet-education.pdf"
     },
     "https://en.unesco.org/freeandopensourcesoftware": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:45.621102"
+            "200": "2023-10-12 10:50:15.618622"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/understanding-our-users/enabling-policies.md"
             ]
-        }
+        },
+        "url": "https://en.unesco.org/freeandopensourcesoftware"
     },
     "https://en.wikipedia.org/wiki/Anti-pattern": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:47.707628"
+            "200": "2023-10-12 10:50:17.627755"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/supporting-codebase-governance/index.md"
             ]
-        }
+        },
+        "url": "https://en.wikipedia.org/wiki/Anti-pattern"
     },
     "https://en.wikipedia.org/wiki/Design_thinking": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:48.452424"
+            "200": "2023-10-12 10:50:18.513655"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://en.wikipedia.org/wiki/Design_thinking"
     },
     "https://en.wikipedia.org/wiki/End_user": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:48.597105"
+            "200": "2023-10-12 10:50:18.683918"
         },
         "used": {
             "about.publiccode.net": [
                 "glossary/end-user-definition.md"
             ]
-        }
+        },
+        "url": "https://en.wikipedia.org/wiki/End_user"
     },
     "https://en.wikipedia.org/wiki/Product_lifecycle": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:49.335489"
+            "200": "2023-10-12 10:50:19.565164"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://en.wikipedia.org/wiki/Product_lifecycle"
     },
     "https://en.wikipedia.org/wiki/User_story": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:28:50.237891"
+            "200": "2023-10-12 10:50:20.598221"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://en.wikipedia.org/wiki/User_story"
     },
     "https://example.org": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:00.476968"
+            "200": "2023-10-12 10:50:23.919453"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/events/events-planning-template.md"
             ]
-        }
+        },
+        "url": "https://example.org"
     },
     "https://files.publiccode.net/nextcloud/index.php/s/KCgowtY4rtYDwZa": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:01.526391"
+            "200": "2023-10-12 10:50:25.126622"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/index.md"
             ]
-        }
+        },
+        "url": "https://files.publiccode.net/nextcloud/index.php/s/KCgowtY4rtYDwZa"
     },
     "https://files.publiccode.net/nextcloud/index.php/s/QW6CnaQPixtMFBa": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:02.344218"
+            "200": "2023-10-12 10:50:26.131004"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/index.md"
             ]
-        }
+        },
+        "url": "https://files.publiccode.net/nextcloud/index.php/s/QW6CnaQPixtMFBa"
     },
     "https://files.publiccode.net/nextcloud/index.php/s/aEoGGTNbJzw6iGx": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:03.197909"
+            "200": "2023-10-12 10:50:27.160518"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/live-streaming/post-production.md"
             ]
-        }
+        },
+        "url": "https://files.publiccode.net/nextcloud/index.php/s/aEoGGTNbJzw6iGx"
     },
     "https://files.publiccode.net/nextcloud/index.php/s/ccZ7PnRtjiEtgs6": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:03.596535"
+            "200": "2023-10-12 10:50:27.657744"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/index.md"
             ]
-        }
+        },
+        "url": "https://files.publiccode.net/nextcloud/index.php/s/ccZ7PnRtjiEtgs6"
     },
     "https://files.publiccode.net/nextcloud/index.php/s/kHPQ3ZS2nHgxA5S": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:04.030829"
+            "200": "2023-10-12 10:50:28.170397"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/live-streaming/post-production.md"
             ]
-        }
+        },
+        "url": "https://files.publiccode.net/nextcloud/index.php/s/kHPQ3ZS2nHgxA5S"
     },
     "https://files.publiccode.net/nextcloud/index.php/s/pDgmkGZbr2saDoJ": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:04.429516"
+            "200": "2023-10-12 10:50:28.657183"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/index.md"
             ]
-        }
+        },
+        "url": "https://files.publiccode.net/nextcloud/index.php/s/pDgmkGZbr2saDoJ"
     },
     "https://forms.gle/gn7wR2Eaxbv5g1BF9": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:05.937405"
+            "200": "2023-10-12 10:50:30.037053"
         },
         "used": {
             "about.publiccode.net": [
@@ -1919,34 +2058,37 @@
             "blog.publiccode.net": [
                 "_posts/2021-04-08-March-2021-newsletter.md"
             ]
-        }
+        },
+        "url": "https://forms.gle/gn7wR2Eaxbv5g1BF9"
     },
     "https://fortune.com": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:06.823103"
+            "200": "2023-10-12 10:50:30.777301"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://fortune.com"
     },
     "https://fortune.com/2020/02/17/cities-challenges-solutions-housing-buses-climate-loneliness/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:06.977502"
+            "200": "2023-10-12 10:50:30.941438"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://fortune.com/2020/02/17/cities-challenges-solutions-housing-buses-climate-loneliness/"
     },
     "https://fosdem.org/2023/schedule/track/public_code_and_digital_public_goods/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:13.416613"
+            "200": "2023-10-12 10:50:39.487790"
         },
         "used": {
             "about.publiccode.net": [
@@ -1955,122 +2097,133 @@
             "blog.publiccode.net": [
                 "_posts/2023-02-02-notes-from-community-call-3-february-2023.md"
             ]
-        }
+        },
+        "url": "https://fosdem.org/2023/schedule/track/public_code_and_digital_public_goods/"
     },
     "https://freedom.voys.nl": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:15.043111"
+            "200": "2023-10-12 10:50:41.810477"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/adding-a-phone-user.md"
             ]
-        }
+        },
+        "url": "https://freedom.voys.nl"
     },
     "https://freedom.voys.nl/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:15.871075"
+            "200": "2023-10-12 10:50:42.615366"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/managing-voip-phone-numbers.md"
             ]
-        }
+        },
+        "url": "https://freedom.voys.nl/"
     },
     "https://freedom.voys.nl/client/415559/routing/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:16.565911"
+            "200": "2023-10-12 10:50:43.419547"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/adding-a-phone-user.md"
             ]
-        }
+        },
+        "url": "https://freedom.voys.nl/client/415559/routing/"
     },
     "https://freedom.voys.nl/client/415559/user/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:17.200925"
+            "200": "2023-10-12 10:50:44.232927"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/adding-a-phone-user.md"
             ]
-        }
+        },
+        "url": "https://freedom.voys.nl/client/415559/user/"
     },
     "https://freedom.voys.nl/client/415559/user/add/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:17.828883"
+            "200": "2023-10-12 10:50:45.040877"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/adding-a-phone-user.md"
             ]
-        }
+        },
+        "url": "https://freedom.voys.nl/client/415559/user/add/"
     },
     "https://fsfe.org/campaigns/publiccode/brochure.en.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:19.666518"
+            "200": "2023-10-12 10:50:47.119046"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/policy-plan.md"
             ]
-        }
+        },
+        "url": "https://fsfe.org/campaigns/publiccode/brochure.en.html"
     },
     "https://gdpr-info.eu/art-21-gdpr/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:20.317176"
+            "200": "2023-10-12 10:50:47.847657"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/privacy.md"
             ]
-        }
+        },
+        "url": "https://gdpr-info.eu/art-21-gdpr/"
     },
     "https://getmonkeys.io/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:25.108873"
+            "200": "2023-10-12 10:50:53.791814"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/financial-administration/bookkeeping.md"
             ]
-        }
+        },
+        "url": "https://getmonkeys.io/"
     },
     "https://github.com/Amsterdam/signals/blob/7941731967e4bce7ca021056c2b6e286910df2a6/docs/topics/signalen-and-standard-for-public-code.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:30.100182"
+            "200": "2023-10-12 10:50:59.361554"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://github.com/Amsterdam/signals/blob/7941731967e4bce7ca021056c2b6e286910df2a6/docs/topics/signalen-and-standard-for-public-code.md"
     },
     "https://github.com/DPGAlliance/DPG-Resources": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:31.210481"
+            "200": "2023-10-12 10:51:00.696978"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2019-2020.md"
             ]
-        }
+        },
+        "url": "https://github.com/DPGAlliance/DPG-Resources"
     },
     "https://github.com/ProductHired/open-product-management": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:34.346144"
+            "200": "2023-10-12 10:51:04.255601"
         },
         "used": {
             "about.publiccode.net": [
@@ -2079,34 +2232,37 @@
             "blog.publiccode.net": [
                 "_posts/2021-06-08-product-management-in-open-source.md"
             ]
-        }
+        },
+        "url": "https://github.com/ProductHired/open-product-management"
     },
     "https://github.com/Provincie-Zuid-Holland/Omgevingsbeleid-Frontend/blob/97dc95cd3728b6fcc2a3bcadda15e47b368cbffc/standard-for-public-code-assessment.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:36.100356"
+            "200": "2023-10-12 10:51:06.268004"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://github.com/Provincie-Zuid-Holland/Omgevingsbeleid-Frontend/blob/97dc95cd3728b6fcc2a3bcadda15e47b368cbffc/standard-for-public-code-assessment.md"
     },
     "https://github.com/fdeerenberg": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:43.347170"
+            "200": "2023-10-12 10:51:13.974008"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/get-new-illustration.md"
             ]
-        }
+        },
+        "url": "https://github.com/fdeerenberg"
     },
     "https://github.com/open-zaak/open-zaak-market-consultation": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:50.175739"
+            "200": "2023-10-12 10:51:21.425172"
         },
         "used": {
             "about.publiccode.net": [
@@ -2118,23 +2274,25 @@
                 "_posts/2020-07-01-openzaak-market-consultation-workshops.md",
                 "_posts/2020-10-02-we-support-the-sustainable-development-goals.md"
             ]
-        }
+        },
+        "url": "https://github.com/open-zaak/open-zaak-market-consultation"
     },
     "https://github.com/open-zaak/open-zaak/blob/8d2b6ef3a175758d70ec6e392561a82c415a12a0/docs/introduction/open-source/public_code.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:51.174854"
+            "200": "2023-10-12 10:51:22.425262"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://github.com/open-zaak/open-zaak/blob/8d2b6ef3a175758d70ec6e392561a82c415a12a0/docs/introduction/open-source/public_code.md"
     },
     "https://github.com/open-zaak/open-zaak/blob/main/docs/introduction/open-source/public_code.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:52.118299"
+            "200": "2023-10-12 10:51:23.556190"
         },
         "used": {
             "publiccode.net": [
@@ -2143,23 +2301,25 @@
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2021.md"
             ]
-        }
+        },
+        "url": "https://github.com/open-zaak/open-zaak/blob/main/docs/introduction/open-source/public_code.md"
     },
     "https://github.com/opengovernance/opengovernance.dev": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:53.550242"
+            "200": "2023-10-12 10:51:25.216957"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/supporting-codebase-governance/index.md"
             ]
-        }
+        },
+        "url": "https://github.com/opengovernance/opengovernance.dev"
     },
     "https://github.com/orgs/publiccodenet/projects/12": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:54.291531"
+            "200": "2023-10-12 10:51:25.903373"
         },
         "used": {
             "about.publiccode.net": [
@@ -2169,12 +2329,13 @@
                 "_posts/2021-07-19-newsletter-june-2021.md",
                 "_posts/2021-11-03-stewards-end-of-year-goals.md"
             ]
-        }
+        },
+        "url": "https://github.com/orgs/publiccodenet/projects/12"
     },
     "https://github.com/publiccodenet/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:55.295141"
+            "200": "2023-10-12 10:51:26.931232"
         },
         "used": {
             "publiccode.net": [
@@ -2184,200 +2345,218 @@
                 "contributor-guides/for-staff.md",
                 "organization/contact-details.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/"
     },
     "https://github.com/publiccodenet/about": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:55.761679"
+            "200": "2023-10-12 10:51:27.417709"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/documentation/index.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/about"
     },
     "https://github.com/publiccodenet/about/actions/workflows/link-check.yml": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:56.263424"
+            "200": "2023-10-12 10:51:27.784739"
         },
         "used": {
             "about.publiccode.net": [
                 "README.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/about/actions/workflows/link-check.yml"
     },
     "https://github.com/publiccodenet/about/actions/workflows/link-check.yml/badge.svg": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:56.747629"
+            "200": "2023-10-12 10:51:28.327138"
         },
         "used": {
             "about.publiccode.net": [
                 "README.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/about/actions/workflows/link-check.yml/badge.svg"
     },
     "https://github.com/publiccodenet/about/actions/workflows/pages/pages-build-deployment": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:56.987837"
+            "200": "2023-10-12 10:51:28.649762"
         },
         "used": {
             "about.publiccode.net": [
                 "README.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/about/actions/workflows/pages/pages-build-deployment"
     },
     "https://github.com/publiccodenet/about/actions/workflows/pages/pages-build-deployment/badge.svg": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:57.645341"
+            "200": "2023-10-12 10:51:29.364077"
         },
         "used": {
             "about.publiccode.net": [
                 "README.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/about/actions/workflows/pages/pages-build-deployment/badge.svg"
     },
     "https://github.com/publiccodenet/about/actions/workflows/test.yml": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:57.878475"
+            "200": "2023-10-12 10:51:29.657208"
         },
         "used": {
             "about.publiccode.net": [
                 "README.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/about/actions/workflows/test.yml"
     },
     "https://github.com/publiccodenet/about/actions/workflows/test.yml/badge.svg": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:58.520430"
+            "200": "2023-10-12 10:51:30.336834"
         },
         "used": {
             "about.publiccode.net": [
                 "README.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/about/actions/workflows/test.yml/badge.svg"
     },
     "https://github.com/publiccodenet/about/blob/develop/organization/articles-of-association.nl.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:59.226494"
+            "200": "2023-10-12 10:51:31.238011"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/articles-of-association.es.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/about/blob/develop/organization/articles-of-association.nl.md"
     },
     "https://github.com/publiccodenet/about/commits/main/organization/privacy.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:29:59.466323"
+            "200": "2023-10-12 10:51:31.593212"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/privacy.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/about/commits/main/organization/privacy.md"
     },
     "https://github.com/publiccodenet/about/issues": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:00.156393"
+            "200": "2023-10-12 10:51:32.139837"
         },
         "used": {
             "about.publiccode.net": [
                 "contributor-guides/for-individuals.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/about/issues"
     },
     "https://github.com/publiccodenet/about/issues/new": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:00.614891"
+            "200": "2023-10-12 10:51:32.707844"
         },
         "used": {
             "about.publiccode.net": [
                 "contributor-guides/for-individuals.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/about/issues/new"
     },
     "https://github.com/publiccodenet/blog": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:00.839859"
+            "200": "2023-10-12 10:51:32.975525"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/blogging.md",
                 "activities/events/attending-events.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/blog"
     },
     "https://github.com/publiccodenet/blog/blob/main/_data/authors.yml": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:03.968585"
+            "200": "2023-10-12 10:51:36.579217"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/blogging.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/blog/blob/main/_data/authors.yml"
     },
     "https://github.com/publiccodenet/blog/tree/main/_posts": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:04.412390"
+            "200": "2023-10-12 10:51:37.218230"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/blogging.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/blog/tree/main/_posts"
     },
     "https://github.com/publiccodenet/blog/tree/main/assets": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:04.626976"
+            "200": "2023-10-12 10:51:37.459302"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/blogging.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/blog/tree/main/assets"
     },
     "https://github.com/publiccodenet/bumperscripter": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:04.840105"
+            "200": "2023-10-12 10:51:37.717050"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/live-streaming/prepare-live-stream.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/bumperscripter"
     },
     "https://github.com/publiccodenet/community-implementation-guide-standard": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:05.707785"
+            "200": "2023-10-12 10:51:39.302482"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/releasing-the-standard/index.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/community-implementation-guide-standard"
     },
     "https://github.com/publiccodenet/community-translations-standard": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:08.714897"
+            "200": "2023-10-12 10:51:42.643138"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2398,12 +2577,13 @@
                 "_posts/2021-12-13-notes-from-community-call-2-december-2021.md",
                 "_posts/2022-01-27-goals-for-the-first-quarter-2022.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/community-translations-standard"
     },
     "https://github.com/publiccodenet/governance-game": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:09.279956"
+            "200": "2023-10-12 10:51:43.359647"
         },
         "used": {
             "about.publiccode.net": [
@@ -2416,45 +2596,49 @@
                 "_posts/2020-02-11-notes-from-the-community-call-21-november-2019.md",
                 "_posts/2020-03-17-a-look-at-our-codebase-governance-game.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/governance-game"
     },
     "https://github.com/publiccodenet/governance-game/releases/latest": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:10.636366"
+            "200": "2023-10-12 10:51:44.993146"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/supporting-codebase-governance/game/run-governance-game-workshop.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/governance-game/releases/latest"
     },
     "https://github.com/publiccodenet/illustrations/issues": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:12.416631"
+            "200": "2023-10-12 10:51:46.974318"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/get-new-illustration.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/illustrations/issues"
     },
     "https://github.com/publiccodenet/illustrations/tree/main/illustrations": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:12.775464"
+            "200": "2023-10-12 10:51:47.377098"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/get-new-illustration.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/illustrations/tree/main/illustrations"
     },
     "https://github.com/publiccodenet/jekyll-theme": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:12.974922"
+            "200": "2023-10-12 10:51:47.633808"
         },
         "used": {
             "about.publiccode.net": [
@@ -2463,12 +2647,13 @@
             "blog.publiccode.net": [
                 "README.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/jekyll-theme"
     },
     "https://github.com/publiccodenet/jitsi-community": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:13.470529"
+            "200": "2023-10-12 10:51:48.039356"
         },
         "used": {
             "about.publiccode.net": [
@@ -2477,56 +2662,61 @@
             "blog.publiccode.net": [
                 "_posts/2021-07-19-newsletter-june-2021.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/jitsi-community"
     },
     "https://github.com/publiccodenet/product-steering": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:13.964791"
+            "200": "2023-10-12 10:51:48.603502"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/product-steering"
     },
     "https://github.com/publiccodenet/product-steering/blob/main/.github/ISSUE_TEMPLATE/feature_request.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:14.437149"
+            "200": "2023-10-12 10:51:49.151780"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/product-steering/blob/main/.github/ISSUE_TEMPLATE/feature_request.md"
     },
     "https://github.com/publiccodenet/product-steering/projects/1": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:14.665519"
+            "200": "2023-10-12 10:51:49.447298"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/product-steering/projects/1"
     },
     "https://github.com/publiccodenet/standard": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:17.607036"
+            "200": "2023-10-12 10:51:53.077862"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/standard-maintenance/community-call.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/standard"
     },
     "https://github.com/publiccodenet/standard/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:18.415723"
+            "200": "2023-10-12 10:51:54.102030"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2540,23 +2730,25 @@
             "about.publiccode.net": [
                 "activities/releasing-the-standard/assessment-update.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/standard/"
     },
     "https://github.com/publiccodenet/standard/blob/develop/docs/releasing.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:22.785724"
+            "200": "2023-10-12 10:51:58.962550"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/releasing-the-standard/index.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/standard/blob/develop/docs/releasing.md"
     },
     "https://github.com/publiccodenet/standard/blob/develop/docs/review-template.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:23.000770"
+            "200": "2023-10-12 10:51:59.244588"
         },
         "used": {
             "about.publiccode.net": [
@@ -2567,12 +2759,13 @@
             "blog.publiccode.net": [
                 "_posts/2021-02-11-notes-from-community-call-4-february-2021.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/standard/blob/develop/docs/review-template.html"
     },
     "https://github.com/publiccodenet/standard/blob/develop/docs/roadmap.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:23.299383"
+            "200": "2023-10-12 10:51:59.525265"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2587,12 +2780,13 @@
                 "activities/releasing-the-standard/index.md",
                 "activities/standard-maintenance/backlog-pruning.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/standard/blob/develop/docs/roadmap.md"
     },
     "https://github.com/publiccodenet/standard/issues": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:24.113677"
+            "200": "2023-10-12 10:52:00.574044"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2612,12 +2806,13 @@
             "community-implementation-guide-standard": [
                 "criteria/make-contributing-easy.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/standard/issues"
     },
     "https://github.com/publiccodenet/standard/pulls": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:24.516719"
+            "200": "2023-10-12 10:52:01.018981"
         },
         "used": {
             "about.publiccode.net": [
@@ -2626,78 +2821,85 @@
             "community-implementation-guide-standard": [
                 "criteria/welcome-contributors.md"
             ]
-        }
+        },
+        "url": "https://github.com/publiccodenet/standard/pulls"
     },
     "https://github.com/sharetribe/sharetribe/blob/a029d02ab3b60009ebb6faff54117ba1034a6bfc/TECHNICAL_ROADMAP.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:32.595476"
+            "200": "2023-10-12 10:52:10.391525"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/supporting-codebase-governance/technical-roadmap-template.md"
             ]
-        }
+        },
+        "url": "https://github.com/sharetribe/sharetribe/blob/a029d02ab3b60009ebb6faff54117ba1034a6bfc/TECHNICAL_ROADMAP.md"
     },
     "https://github.com/skills/communicate-using-markdown": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:32.844813"
+            "200": "2023-10-12 10:52:10.674943"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/github-for-newcomers.md"
             ]
-        }
+        },
+        "url": "https://github.com/skills/communicate-using-markdown"
     },
     "https://github.com/skills/github-pages": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:33.167524"
+            "200": "2023-10-12 10:52:11.070049"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/github-for-newcomers.md"
             ]
-        }
+        },
+        "url": "https://github.com/skills/github-pages"
     },
     "https://github.com/skills/introduction-to-github": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:33.485756"
+            "200": "2023-10-12 10:52:11.511001"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/github-for-newcomers.md"
             ]
-        }
+        },
+        "url": "https://github.com/skills/introduction-to-github"
     },
     "https://github.com/skills/resolve-merge-conflicts": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:33.850586"
+            "200": "2023-10-12 10:52:11.944374"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/github-for-newcomers.md"
             ]
-        }
+        },
+        "url": "https://github.com/skills/resolve-merge-conflicts"
     },
     "https://github.com/skills/review-pull-requests": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:34.200547"
+            "200": "2023-10-12 10:52:12.405292"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/github-for-newcomers.md"
             ]
-        }
+        },
+        "url": "https://github.com/skills/review-pull-requests"
     },
     "https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Standard-for-Public-Code": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:36.662510"
+            "200": "2023-10-12 10:52:15.326731"
         },
         "used": {
             "about.publiccode.net": [
@@ -2706,67 +2908,73 @@
             "blog.publiccode.net": [
                 "_posts/2020-12-02-summer-2020-newsletter.md"
             ]
-        }
+        },
+        "url": "https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Standard-for-Public-Code"
     },
     "https://gitlab.com/publiccodenet": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:37.077369"
+            "200": "2023-10-12 10:52:15.792980"
         },
         "used": {
             "about.publiccode.net": [
                 "contributor-guides/for-staff.md"
             ]
-        }
+        },
+        "url": "https://gitlab.com/publiccodenet"
     },
     "https://groups.google.com/a/publiccode.net/g/invoices": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:39.637553"
+            "200": "2023-10-12 10:52:18.737038"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/financial-administration/payment-session.md"
             ]
-        }
+        },
+        "url": "https://groups.google.com/a/publiccode.net/g/invoices"
     },
     "https://hackmd.io/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:40.846140"
+            "200": "2023-10-12 10:52:20.422701"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/index.md"
             ]
-        }
+        },
+        "url": "https://hackmd.io/"
     },
     "https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:42.382446"
+            "200": "2023-10-12 10:52:21.773351"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/running-community-call.md"
             ]
-        }
+        },
+        "url": "https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit"
     },
     "https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?view": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:43.211944"
+            "200": "2023-10-12 10:52:22.458895"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/community-call-invite-template.md"
             ]
-        }
+        },
+        "url": "https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?view"
     },
     "https://hackmd.io/9THmWbpQTLi8L9UIzczSyw": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:44.086377"
+            "200": "2023-10-12 10:52:23.133532"
         },
         "used": {
             "about.publiccode.net": [
@@ -2776,145 +2984,158 @@
                 "_posts/2020-02-21-notes-from-community-call-20-february-2020.md",
                 "_posts/2021-04-08-March-2021-newsletter.md"
             ]
-        }
+        },
+        "url": "https://hackmd.io/9THmWbpQTLi8L9UIzczSyw"
     },
     "https://help.planable.io/en/articles/3803135-share-posts-with-a-public-link": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:52.374097"
+            "200": "2023-10-12 10:52:30.292763"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/how-to-post-to-social-media.md"
             ]
-        }
+        },
+        "url": "https://help.planable.io/en/articles/3803135-share-posts-with-a-public-link"
     },
     "https://help.voys.nl/voys-app": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:53.188184"
+            "200": "2023-10-12 10:52:31.182562"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/voys.md"
             ]
-        }
+        },
+        "url": "https://help.voys.nl/voys-app"
     },
     "https://help.voys.nl/voys-app/android": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:53.668600"
+            "200": "2023-10-12 10:52:31.857717"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/using-phone-app.md"
             ]
-        }
+        },
+        "url": "https://help.voys.nl/voys-app/android"
     },
     "https://help.voys.nl/voys-app/ios": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:54.126292"
+            "200": "2023-10-12 10:52:32.338644"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/using-phone-app.md"
             ]
-        }
+        },
+        "url": "https://help.voys.nl/voys-app/ios"
     },
     "https://helsingborg-stad.github.io/dev-guide/docs/standards/foundation-for-public-code.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:54.547408"
+            "200": "2023-10-12 10:52:32.810064"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/policy-documents.md"
             ]
-        }
+        },
+        "url": "https://helsingborg-stad.github.io/dev-guide/docs/standards/foundation-for-public-code.html"
     },
     "https://i.imgur.com/9yY4LTZ.jpg": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:54.799644"
+            "200": "2023-10-12 10:52:33.139961"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/codebase-stewardship/user-personas/vendor-owner-developer.md"
             ]
-        }
+        },
+        "url": "https://i.imgur.com/9yY4LTZ.jpg"
     },
     "https://i.imgur.com/TPpxjGK.jpg": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:54.915226"
+            "200": "2023-10-12 10:52:33.300642"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/codebase-stewardship/user-personas/project-manager-municipality.md"
             ]
-        }
+        },
+        "url": "https://i.imgur.com/TPpxjGK.jpg"
     },
     "https://i.imgur.com/gXi8mJP.jpg": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:55.023288"
+            "200": "2023-10-12 10:52:33.445641"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/codebase-stewardship/user-personas/project-manager-association.md"
             ]
-        }
+        },
+        "url": "https://i.imgur.com/gXi8mJP.jpg"
     },
     "https://i.imgur.com/hdirkcm.jpg": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:55.124963"
+            "200": "2023-10-12 10:52:33.590751"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/codebase-stewardship/user-personas/communications-manager.md"
             ]
-        }
+        },
+        "url": "https://i.imgur.com/hdirkcm.jpg"
     },
     "https://illustrations.publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:55.227824"
+            "200": "2023-10-12 10:52:33.723321"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/get-new-illustration.md",
                 "activities/communication/how-to-post-to-social-media.md"
             ]
-        }
+        },
+        "url": "https://illustrations.publiccode.net/"
     },
     "https://inkopsradet.se/upphandling/utvecklas-och-forvaltas-tillsammans/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:55.724344"
+            "200": "2023-10-12 10:52:34.432515"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://inkopsradet.se/upphandling/utvecklas-och-forvaltas-tillsammans/"
     },
     "https://itunes.apple.com/nl/app/voys/id816250431?mt=8": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:58.152856"
+            "200": "2023-10-12 10:52:37.309578"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/using-phone-app.md"
             ]
-        }
+        },
+        "url": "https://itunes.apple.com/nl/app/voys/id816250431?mt=8"
     },
     "https://jekyllrb.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:59.031833"
+            "200": "2023-10-12 10:52:38.000310"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2926,45 +3147,49 @@
             "about.publiccode.net": [
                 "README.md"
             ]
-        }
+        },
+        "url": "https://jekyllrb.com/"
     },
     "https://jekyllrb.com/docs/posts/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:59.124269"
+            "200": "2023-10-12 10:52:38.169170"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/blogging.md"
             ]
-        }
+        },
+        "url": "https://jekyllrb.com/docs/posts/"
     },
     "https://jitsi.github.io/handbook/docs/intro": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:59.224185"
+            "200": "2023-10-12 10:52:38.320732"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/jitsi-guides.md"
             ]
-        }
+        },
+        "url": "https://jitsi.github.io/handbook/docs/intro"
     },
     "https://jitsi.org/meet-jit-si-privacy/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:30:59.754827"
+            "200": "2023-10-12 10:52:38.935464"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/jitsi-meet.md"
             ]
-        }
+        },
+        "url": "https://jitsi.org/meet-jit-si-privacy/"
     },
     "https://joinup.ec.europa.eu/collection/open-source-observatory-osor": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:01.358587"
+            "200": "2023-10-12 10:52:40.405723"
         },
         "used": {
             "about.publiccode.net": [
@@ -2973,12 +3198,13 @@
             "blog.publiccode.net": [
                 "_posts/2021-05-6-april-2021-newsletter.md"
             ]
-        }
+        },
+        "url": "https://joinup.ec.europa.eu/collection/open-source-observatory-osor"
     },
     "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-release-standard-public-code": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:03.260610"
+            "200": "2023-10-12 10:52:42.777284"
         },
         "used": {
             "about.publiccode.net": [
@@ -2987,23 +3213,25 @@
             "blog.publiccode.net": [
                 "_posts/2020-11-23-notes-from-community-call-5-november-2020.md"
             ]
-        }
+        },
+        "url": "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-release-standard-public-code"
     },
     "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/supporting-oss-communities-public-sector": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:03.507092"
+            "200": "2023-10-12 10:52:43.001787"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2019-2020.md"
             ]
-        }
+        },
+        "url": "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/supporting-oss-communities-public-sector"
     },
     "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/we-liberated-our-own-data-silos-market": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:05.996368"
+            "200": "2023-10-12 10:52:43.238736"
         },
         "used": {
             "about.publiccode.net": [
@@ -3012,23 +3240,25 @@
             "blog.publiccode.net": [
                 "_posts/2021-05-6-april-2021-newsletter.md"
             ]
-        }
+        },
+        "url": "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/we-liberated-our-own-data-silos-market"
     },
     "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/open-source-software-country-intelligence": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:06.171862"
+            "200": "2023-10-12 10:52:43.441187"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/understanding-our-users/enabling-policies.md"
             ]
-        }
+        },
+        "url": "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/open-source-software-country-intelligence"
     },
     "https://kbfus.networkforgood.com/projects/52915-p-kbfus-funds-foundation-for-public-code-nl": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:10.191220"
+            "200": "2023-10-12 10:52:46.259174"
         },
         "used": {
             "about.publiccode.net": [
@@ -3038,133 +3268,145 @@
                 "organization/annual-reports/annual-report-2021.md",
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://kbfus.networkforgood.com/projects/52915-p-kbfus-funds-foundation-for-public-code-nl"
     },
     "https://kbfus.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:10.492563"
+            "200": "2023-10-12 10:52:46.749076"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/philanthropic-fundraising/donating-united-states.md"
             ]
-        }
+        },
+        "url": "https://kbfus.org/"
     },
     "https://lex.bg/laws/ldoc/2135555445": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:11.701021"
+            "200": "2023-10-12 10:52:47.904471"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/understanding-our-users/enabling-policies.md"
             ]
-        }
+        },
+        "url": "https://lex.bg/laws/ldoc/2135555445"
     },
     "https://licensebuttons.net/p/zero/1.0/88x31.png": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:12.984747"
+            "200": "2023-10-12 10:52:49.399936"
         },
         "used": {
             "about.publiccode.net": [
                 "README.md"
             ]
-        }
+        },
+        "url": "https://licensebuttons.net/p/zero/1.0/88x31.png"
     },
     "https://link.excalidraw.com/readonly/3tTXUKAX0t4sFqlaFcfq": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:13.096240"
+            "200": "2023-10-12 10:52:49.757577"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/supporting-codebase-governance/game/run-governance-game-workshop.md"
             ]
-        }
+        },
+        "url": "https://link.excalidraw.com/readonly/3tTXUKAX0t4sFqlaFcfq"
     },
     "https://lists.publiccode.net/hyperkitty/hyperkitty/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:14.754829"
+            "200": "2023-10-12 10:52:51.487391"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/mailing-lists.md"
             ]
-        }
+        },
+        "url": "https://lists.publiccode.net/hyperkitty/hyperkitty/"
     },
     "https://maadix.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:15.655460"
+            "200": "2023-10-12 10:52:52.420102"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/index.md"
             ]
-        }
+        },
+        "url": "https://maadix.net/"
     },
     "https://maadix.net/en": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:16.241609"
+            "200": "2023-10-12 10:52:53.099678"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/mailing-lists.md"
             ]
-        }
+        },
+        "url": "https://maadix.net/en"
     },
     "https://maadix.net/en/terms-conditions": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:16.765795"
+            "200": "2023-10-12 10:52:53.726735"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/nextcloud.md"
             ]
-        }
+        },
+        "url": "https://maadix.net/en/terms-conditions"
     },
     "https://markdown-here.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:17.314028"
+            "200": "2023-10-12 10:52:54.321934"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/index.md"
             ]
-        }
+        },
+        "url": "https://markdown-here.com/"
     },
     "https://mattermost.com/privacy-policy/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:18.095532"
+            "200": "2023-10-12 10:52:55.392225"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/mattermost.md"
             ]
-        }
+        },
+        "url": "https://mattermost.com/privacy-policy/"
     },
     "https://meet.community.publiccode.net/accountmanager/admin": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:18.615860"
+            "200": "2023-10-12 10:52:55.963098"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/jitsi-guides.md"
             ]
-        }
+        },
+        "url": "https://meet.community.publiccode.net/accountmanager/admin"
     },
     "https://meet.community.publiccode.net/accountmanager/register/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:19.149076"
+            "200": "2023-10-12 10:52:56.643088"
         },
         "used": {
             "about.publiccode.net": [
@@ -3174,67 +3416,73 @@
             "blog.publiccode.net": [
                 "_posts/2021-05-6-april-2021-newsletter.md"
             ]
-        }
+        },
+        "url": "https://meet.community.publiccode.net/accountmanager/register/"
     },
     "https://meet.publiccode.net/FoundationCommunityCall": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:19.503116"
+            "200": "2023-10-12 10:52:57.094090"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/running-community-call.md"
             ]
-        }
+        },
+        "url": "https://meet.publiccode.net/FoundationCommunityCall"
     },
     "https://meet.publiccode.net/StandardforPublicCode": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:19.842673"
+            "200": "2023-10-12 10:52:57.537646"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/standard-maintenance/running-community-call.md"
             ]
-        }
+        },
+        "url": "https://meet.publiccode.net/StandardforPublicCode"
     },
     "https://meet.publiccode.net/backlogpruning": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:20.181676"
+            "200": "2023-10-12 10:52:57.949841"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/standard-maintenance/backlog-pruning.md"
             ]
-        }
+        },
+        "url": "https://meet.publiccode.net/backlogpruning"
     },
     "https://mijnwerkgeversportaal.acumen.nl/index3.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:24.779019"
+            "200": "2023-10-12 10:53:03.806584"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-management/sick-leave.md"
             ]
-        }
+        },
+        "url": "https://mijnwerkgeversportaal.acumen.nl/index3.html"
     },
     "https://miro.com/legal/privacy-policy/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:25.718373"
+            "200": "2023-10-12 10:53:04.970823"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/miro.md"
             ]
-        }
+        },
+        "url": "https://miro.com/legal/privacy-policy/"
     },
     "https://newsroom.eclipse.org/news/announcements/leading-european-open-source-non-profit-organizations-announce-ospo-alliance": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:26.867652"
+            "200": "2023-10-12 10:53:08.223752"
         },
         "used": {
             "about.publiccode.net": [
@@ -3243,34 +3491,37 @@
             "blog.publiccode.net": [
                 "_posts/2021-07-19-newsletter-june-2021.md"
             ]
-        }
+        },
+        "url": "https://newsroom.eclipse.org/news/announcements/leading-european-open-source-non-profit-organizations-announce-ospo-alliance"
     },
     "https://nextcloud-publiccode.maadix.org/cpanel/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:27.143316"
+            "200": "2023-10-12 10:53:08.563501"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/mailing-lists.md"
             ]
-        }
+        },
+        "url": "https://nextcloud-publiccode.maadix.org/cpanel/"
     },
     "https://northsearegion.eu/score": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:28.434715"
+            "200": "2023-10-12 10:53:09.966713"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2019-2020.md"
             ]
-        }
+        },
+        "url": "https://northsearegion.eu/score"
     },
     "https://oascities.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:29.321859"
+            "200": "2023-10-12 10:53:12.344080"
         },
         "used": {
             "about.publiccode.net": [
@@ -3281,12 +3532,13 @@
                 "_posts/2021-02-03-episode-three-of-lets-talk-about-public-code.md",
                 "_posts/2021-03-04-episode-four-of-lets-talk-about-public-code.md"
             ]
-        }
+        },
+        "url": "https://oascities.org/"
     },
     "https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:30.298665"
+            "200": "2023-10-12 10:53:13.387800"
         },
         "used": {
             "standard.publiccode.net": [
@@ -3312,67 +3564,73 @@
                 "_posts/2020-12-02-summer-2020-newsletter.md",
                 "_posts/2021-06-08-newsletter-may-2021.md"
             ]
-        }
+        },
+        "url": "https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842"
     },
     "https://opensource.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:35.570663"
+            "200": "2023-10-12 10:53:25.727456"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://opensource.com/"
     },
     "https://opensource.com/article/20/7/open-source-contact-tracing": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:35.921004"
+            "200": "2023-10-12 10:53:27.405705"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://opensource.com/article/20/7/open-source-contact-tracing"
     },
     "https://opensource.pleio.nl": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:39.054193"
+            "200": "2023-10-12 10:53:28.675566"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://opensource.pleio.nl"
     },
     "https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:41.865935"
+            "200": "2023-10-12 10:53:31.948088"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu"
     },
     "https://orchestrated.dev/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:45.827444"
+            "200": "2023-10-12 10:53:35.504274"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://orchestrated.dev/"
     },
     "https://os2.eu/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:47.844130"
+            "200": "2023-10-12 10:53:37.557330"
         },
         "used": {
             "about.publiccode.net": [
@@ -3382,34 +3640,37 @@
             "blog.publiccode.net": [
                 "_posts/2021-02-25-notes:-february-2021-foundation-for-public-code-community-call.md"
             ]
-        }
+        },
+        "url": "https://os2.eu/"
     },
     "https://ospo-alliance.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:50.283733"
+            "200": "2023-10-12 10:53:40.781460"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/affiliates.md"
             ]
-        }
+        },
+        "url": "https://ospo-alliance.org/"
     },
     "https://ospo-alliance.org/about/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:50.471843"
+            "200": "2023-10-12 10:53:41.201398"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2021.md"
             ]
-        }
+        },
+        "url": "https://ospo-alliance.org/about/"
     },
     "https://pages.github.com": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:51.099669"
+            "200": "2023-10-12 10:53:42.232699"
         },
         "used": {
             "standard.publiccode.net": [
@@ -3421,12 +3682,13 @@
             "about.publiccode.net": [
                 "README.md"
             ]
-        }
+        },
+        "url": "https://pages.github.com"
     },
     "https://pages.github.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:51.204835"
+            "200": "2023-10-12 10:53:42.376668"
         },
         "used": {
             "about.publiccode.net": [
@@ -3435,23 +3697,25 @@
             "blog.publiccode.net": [
                 "README.md"
             ]
-        }
+        },
+        "url": "https://pages.github.com/"
     },
     "https://plausible.io/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:53.313561"
+            "200": "2023-10-12 10:53:44.720228"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/plausible-analytics.md"
             ]
-        }
+        },
+        "url": "https://plausible.io/"
     },
     "https://plausible.io/blog.publiccode.net": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:53.526584"
+            "200": "2023-10-12 10:53:45.050244"
         },
         "used": {
             "about.publiccode.net": [
@@ -3460,23 +3724,25 @@
             "blog.publiccode.net": [
                 "README.md"
             ]
-        }
+        },
+        "url": "https://plausible.io/blog.publiccode.net"
     },
     "https://plausible.io/data-policy": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:54.146550"
+            "200": "2023-10-12 10:53:45.338441"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/plausible-analytics.md"
             ]
-        }
+        },
+        "url": "https://plausible.io/data-policy"
     },
     "https://plausible.io/publiccode.net": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:54.460032"
+            "200": "2023-10-12 10:53:45.495090"
         },
         "used": {
             "publiccode.net": [
@@ -3489,23 +3755,25 @@
             "blog.publiccode.net": [
                 "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
             ]
-        }
+        },
+        "url": "https://plausible.io/publiccode.net"
     },
     "https://play.google.com/store/apps/details?id=com.voys.app": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:54.750322"
+            "200": "2023-10-12 10:53:46.107082"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/using-phone-app.md"
             ]
-        }
+        },
+        "url": "https://play.google.com/store/apps/details?id=com.voys.app"
     },
     "https://podcast.publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:55.663395"
+            "200": "2023-10-12 10:53:46.767416"
         },
         "used": {
             "about.publiccode.net": [
@@ -3526,78 +3794,85 @@
                 "_posts/2021-07-19-newsletter-june-2021.md",
                 "_posts/2022-01-27-goals-for-the-first-quarter-2022.md"
             ]
-        }
+        },
+        "url": "https://podcast.publiccode.net/"
     },
     "https://podcast.sustainoss.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:58.077128"
+            "200": "2023-10-12 10:53:50.446371"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://podcast.sustainoss.org/"
     },
     "https://podcast.sustainoss.org/147": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:58.489693"
+            "200": "2023-10-12 10:53:50.783271"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://podcast.sustainoss.org/147"
     },
     "https://podcast.sustainoss.org/184": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:31:58.840651"
+            "200": "2023-10-12 10:53:52.503374"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://podcast.sustainoss.org/184"
     },
     "https://product.careers/presentation/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:01.198152"
+            "200": "2023-10-12 10:53:55.477385"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://product.careers/presentation/"
     },
     "https://projects.publiccode.net": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:02.225219"
+            "200": "2023-10-12 10:53:56.469120"
         },
         "used": {
             "about.publiccode.net": [
                 "index.md"
             ]
-        }
+        },
+        "url": "https://projects.publiccode.net"
     },
     "https://projects.publiccode.net/articles.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:02.385013"
+            "200": "2023-10-12 10:53:56.646162"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2021.md"
             ]
-        }
+        },
+        "url": "https://projects.publiccode.net/articles.html"
     },
     "https://projects.publiccode.net/talks-and-articles.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:02.488942"
+            "200": "2023-10-12 10:53:56.803524"
         },
         "used": {
             "about.publiccode.net": [
@@ -3608,67 +3883,73 @@
                 "_posts/2021-02-25-notes:-february-2021-foundation-for-public-code-community-call.md",
                 "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
             ]
-        }
+        },
+        "url": "https://projects.publiccode.net/talks-and-articles.html"
     },
     "https://projects.publiccode.net/talks.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:02.587246"
+            "200": "2023-10-12 10:53:56.959640"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2021.md"
             ]
-        }
+        },
+        "url": "https://projects.publiccode.net/talks.html"
     },
     "https://prosody.im/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:02.684279"
+            "200": "2023-10-12 10:53:57.115903"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/jitsi-meet.md"
             ]
-        }
+        },
+        "url": "https://prosody.im/"
     },
     "https://public-interest-podcast.podigee.io/2-episode-2": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:03.265580"
+            "200": "2023-10-12 10:53:58.319909"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://public-interest-podcast.podigee.io/2-episode-2"
     },
     "https://publicaties.vngrealisatie.nl/commonground/2021/1/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:06.930216"
+            "200": "2023-10-12 10:54:00.759991"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://publicaties.vngrealisatie.nl/commonground/2021/1/"
     },
     "https://publiccode.eu/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:07.705837"
+            "200": "2023-10-12 10:54:01.857146"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/pitching.md"
             ]
-        }
+        },
+        "url": "https://publiccode.eu/"
     },
     "https://publiccode.net": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:08.423817"
+            "200": "2023-10-12 10:54:02.783264"
         },
         "used": {
             "standard.publiccode.net": [
@@ -3690,12 +3971,13 @@
                 "README.md",
                 "_posts/2021-02-04-signalen-is-in-incubation.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net"
     },
     "https://publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:08.532568"
+            "200": "2023-10-12 10:54:03.091951"
         },
         "used": {
             "standard.publiccode.net": [
@@ -3718,12 +4000,13 @@
             "bumperscripter": [
                 "GOVERNANCE.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net/"
     },
     "https://publiccode.net/careers": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:08.736655"
+            "200": "2023-10-12 10:54:03.403330"
         },
         "used": {
             "about.publiccode.net": [
@@ -3733,78 +4016,85 @@
                 "index.md",
                 "organization/staff.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net/careers"
     },
     "https://publiccode.net/careers/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:08.859731"
+            "200": "2023-10-12 10:54:03.628649"
         },
         "used": {
             "about.publiccode.net": [
                 "roles/index.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net/careers/"
     },
     "https://publiccode.net/careers/community": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:09.168643"
+            "200": "2023-10-12 10:54:04.100392"
         },
         "used": {
             "about.publiccode.net": [
                 "roles/community.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net/careers/community"
     },
     "https://publiccode.net/careers/intern": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:09.273045"
+            "200": "2023-10-12 10:54:04.275968"
         },
         "used": {
             "about.publiccode.net": [
                 "roles/intern.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net/careers/intern"
     },
     "https://publiccode.net/careers/product-marketing": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:09.372794"
+            "200": "2023-10-12 10:54:04.426559"
         },
         "used": {
             "about.publiccode.net": [
                 "roles/product-marketing.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net/careers/product-marketing"
     },
     "https://publiccode.net/careers/quality": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:09.484194"
+            "200": "2023-10-12 10:54:04.587553"
         },
         "used": {
             "about.publiccode.net": [
                 "roles/quality.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net/careers/quality"
     },
     "https://publiccode.net/careers/support": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:09.590099"
+            "200": "2023-10-12 10:54:04.740648"
         },
         "used": {
             "about.publiccode.net": [
                 "roles/support.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net/careers/support"
     },
     "https://publiccode.net/codebase-stewardship/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:09.805451"
+            "200": "2023-10-12 10:54:05.102196"
         },
         "used": {
             "publiccode.net": [
@@ -3818,12 +4108,13 @@
                 "_posts/2021-06-08-product-management-in-open-source.md",
                 "_posts/2021-07-28-digital-public-goods.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net/codebase-stewardship/"
     },
     "https://publiccode.net/codebases/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:09.913918"
+            "200": "2023-10-12 10:54:05.223289"
         },
         "used": {
             "about.publiccode.net": [
@@ -3839,12 +4130,13 @@
                 "_posts/2021-05-6-april-2021-newsletter.md",
                 "_posts/2021-06-08-newsletter-may-2021.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net/codebases/"
     },
     "https://publiccode.net/codebases/omgevingsbeleid.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:10.018441"
+            "200": "2023-10-12 10:54:05.474757"
         },
         "used": {
             "about.publiccode.net": [
@@ -3854,12 +4146,13 @@
             "blog.publiccode.net": [
                 "_posts/2022-09-02-notes-from-community-call-1-september-2022.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net/codebases/omgevingsbeleid.html"
     },
     "https://publiccode.net/codebases/openzaak.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:10.182307"
+            "200": "2023-10-12 10:54:05.632533"
         },
         "used": {
             "about.publiccode.net": [
@@ -3873,12 +4166,13 @@
                 "_posts/2021-04-08-March-2021-newsletter.md",
                 "_posts/2022-09-02-notes-from-community-call-1-september-2022.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net/codebases/openzaak.html"
     },
     "https://publiccode.net/codebases/signalen.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:10.283807"
+            "200": "2023-10-12 10:54:05.805549"
         },
         "used": {
             "about.publiccode.net": [
@@ -3891,12 +4185,13 @@
                 "_posts/2021-04-08-March-2021-newsletter.md",
                 "_posts/2022-09-02-notes-from-community-call-1-september-2022.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net/codebases/signalen.html"
     },
     "https://publiccode.net/who-we-are/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:11.103534"
+            "200": "2023-10-12 10:54:07.367443"
         },
         "used": {
             "about.publiccode.net": [
@@ -3904,12 +4199,13 @@
                 "index.md",
                 "organization/staff.md"
             ]
-        }
+        },
+        "url": "https://publiccode.net/who-we-are/"
     },
     "https://publiccodenet.github.io/assessment-eligibility": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:12.029706"
+            "200": "2023-10-12 10:54:08.929974"
         },
         "used": {
             "standard.publiccode.net": [
@@ -3921,12 +4217,13 @@
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://publiccodenet.github.io/assessment-eligibility"
     },
     "https://publiccodenet.github.io/community-translations-standard/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:12.328278"
+            "200": "2023-10-12 10:54:09.396110"
         },
         "used": {
             "standard.publiccode.net": [
@@ -3948,34 +4245,37 @@
             "community-implementation-guide-standard": [
                 "index.md"
             ]
-        }
+        },
+        "url": "https://publiccodenet.github.io/community-translations-standard/"
     },
     "https://publiccodenet.github.io/community-translations-standard/README.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:12.424710"
+            "200": "2023-10-12 10:54:09.553825"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2021.md"
             ]
-        }
+        },
+        "url": "https://publiccodenet.github.io/community-translations-standard/README.html"
     },
     "https://publiccodenet.github.io/community-translations-standard/es/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:12.523052"
+            "200": "2023-10-12 10:54:09.708325"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2021.md"
             ]
-        }
+        },
+        "url": "https://publiccodenet.github.io/community-translations-standard/es/"
     },
     "https://rubygems.org": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:20.039841"
+            "200": "2023-10-12 10:54:20.340262"
         },
         "used": {
             "standard.publiccode.net": [
@@ -3996,12 +4296,13 @@
             "community-implementation-guide-standard": [
                 "Gemfile"
             ]
-        }
+        },
+        "url": "https://rubygems.org"
     },
     "https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:20.233953"
+            "200": "2023-10-12 10:54:20.530906"
         },
         "used": {
             "standard.publiccode.net": [
@@ -4017,12 +4318,13 @@
                 "_posts/2020-12-07-autumn-2020-newsletter.md",
                 "_posts/2022-02-08-notes-from-community-call-21-january-2021.md"
             ]
-        }
+        },
+        "url": "https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/"
     },
     "https://sdgs.un.org/goals": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:23.506723"
+            "200": "2023-10-12 10:54:24.402346"
         },
         "used": {
             "about.publiccode.net": [
@@ -4032,12 +4334,13 @@
             "blog.publiccode.net": [
                 "_posts/2022-10-13-DPGA-membership.md"
             ]
-        }
+        },
+        "url": "https://sdgs.un.org/goals"
     },
     "https://skills.github.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:25.389335"
+            "200": "2023-10-12 10:54:26.301245"
         },
         "used": {
             "standard.publiccode.net": [
@@ -4057,12 +4360,13 @@
             "bumperscripter": [
                 "CONTRIBUTING.md"
             ]
-        }
+        },
+        "url": "https://skills.github.com/"
     },
     "https://smartcities.publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:25.503889"
+            "200": "2023-10-12 10:54:26.471319"
         },
         "used": {
             "standard.publiccode.net": [
@@ -4074,12 +4378,13 @@
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2019-2020.md"
             ]
-        }
+        },
+        "url": "https://smartcities.publiccode.net/"
     },
     "https://standard.publiccode.net": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:27.516330"
+            "200": "2023-10-12 10:54:29.261604"
         },
         "used": {
             "publiccode.net": [
@@ -4104,12 +4409,13 @@
             "community-implementation-guide-standard": [
                 "README.md"
             ]
-        }
+        },
+        "url": "https://standard.publiccode.net"
     },
     "https://standard.publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:27.610476"
+            "200": "2023-10-12 10:54:29.421231"
         },
         "used": {
             "standard.publiccode.net": [
@@ -4160,12 +4466,13 @@
                 "_posts/2022-09-13-launching-community-built-implementation-guide.md",
                 "_posts/2023-07-11-digital-and-technology-trends-from-almedalen-2023.md"
             ]
-        }
+        },
+        "url": "https://standard.publiccode.net/"
     },
     "https://standard.publiccode.net/AUTHORS": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:27.702958"
+            "200": "2023-10-12 10:54:29.539952"
         },
         "used": {
             "standard.publiccode.net": [
@@ -4304,46 +4611,50 @@
             "about.publiccode.net": [
                 "script/find-missing-spdx.sh"
             ]
-        }
+        },
+        "url": "https://standard.publiccode.net/AUTHORS"
     },
     "https://standard.publiccode.net/CHANGELOG.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:27.801681"
+            "200": "2023-10-12 10:54:29.692753"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2019-2020.md"
             ]
-        }
+        },
+        "url": "https://standard.publiccode.net/CHANGELOG.html"
     },
     "https://standard.publiccode.net/CONTRIBUTING.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:27.900066"
+            "200": "2023-10-12 10:54:29.850839"
         },
         "used": {
             "about.publiccode.net": [
                 "CONTRIBUTING.md",
                 "activities/standard-maintenance/index.md"
             ]
-        }
+        },
+        "url": "https://standard.publiccode.net/CONTRIBUTING.html"
     },
     "https://standard.publiccode.net/GOVERNANCE.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:27.995329"
+            "200": "2023-10-12 10:54:30.006771"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/standard-maintenance/index.md"
             ]
-        }
+        },
+        "url": "https://standard.publiccode.net/GOVERNANCE.html"
     },
     "https://standard.publiccode.net/criteria/open-licenses.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:29.443635"
+            "200": "2023-10-12 10:54:32.256822"
         },
         "used": {
             "about.publiccode.net": [
@@ -4352,12 +4663,13 @@
             "blog.publiccode.net": [
                 "_posts/2021-04-08-March-2021-newsletter.md"
             ]
-        }
+        },
+        "url": "https://standard.publiccode.net/criteria/open-licenses.html"
     },
     "https://standard.publiccode.net/criteria/open-to-contributions.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:29.645700"
+            "200": "2023-10-12 10:54:32.569193"
         },
         "used": {
             "about.publiccode.net": [
@@ -4368,12 +4680,13 @@
                 "_posts/2020-06-22-notes-from-community-call-3-june-2020.md",
                 "_posts/2020-07-20-notes-from-community-call-2-july-2020.md"
             ]
-        }
+        },
+        "url": "https://standard.publiccode.net/criteria/open-to-contributions.html"
     },
     "https://standard.publiccode.net/criteria/require-review.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:29.949064"
+            "200": "2023-10-12 10:54:33.033075"
         },
         "used": {
             "about.publiccode.net": [
@@ -4382,122 +4695,133 @@
             "blog.publiccode.net": [
                 "_posts/2020-06-22-notes-from-community-call-3-june-2020.md"
             ]
-        }
+        },
+        "url": "https://standard.publiccode.net/criteria/require-review.html"
     },
     "https://streamyard.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:32.130559"
+            "200": "2023-10-12 10:54:36.089667"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/streamyard.md"
             ]
-        }
+        },
+        "url": "https://streamyard.com/"
     },
     "https://streamyard.com/resources/docs/privacy/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:33.002633"
+            "200": "2023-10-12 10:54:36.625221"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/streamyard.md"
             ]
-        }
+        },
+        "url": "https://streamyard.com/resources/docs/privacy/"
     },
     "https://support.1password.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:33.140731"
+            "200": "2023-10-12 10:54:36.795980"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/1password.md"
             ]
-        }
+        },
+        "url": "https://support.1password.com/"
     },
     "https://svpg.com/product-management-vs-product-marketing/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:33.276222"
+            "200": "2023-10-12 10:54:37.001252"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://svpg.com/product-management-vs-product-marketing/"
     },
     "https://t20ind.org/research/laying-the-foundation-for-the-future/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:33.938563"
+            "200": "2023-10-12 10:54:37.695020"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/policy-documents.md"
             ]
-        }
+        },
+        "url": "https://t20ind.org/research/laying-the-foundation-for-the-future/"
     },
     "https://tentoo.nmbrs.nl": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:35.078045"
+            "200": "2023-10-12 10:54:39.530378"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/financial-administration/salary-session.md"
             ]
-        }
+        },
+        "url": "https://tentoo.nmbrs.nl"
     },
     "https://tentoo.nmbrs.nl/applications": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:35.835521"
+            "200": "2023-10-12 10:54:40.308213"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/financial-administration/salary-administration.md"
             ]
-        }
+        },
+        "url": "https://tentoo.nmbrs.nl/applications"
     },
     "https://thenounproject.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:36.426850"
+            "200": "2023-10-12 10:54:41.191725"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/supporting-codebase-governance/exercise/index.md"
             ]
-        }
+        },
+        "url": "https://thenounproject.com/"
     },
     "https://unhabitat.org/sites/default/files/2022/11/digital_rights_guide_web_version_14112022.pdf": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:39.134422"
+            "200": "2023-10-12 10:54:45.311228"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/policy-documents.md"
             ]
-        }
+        },
+        "url": "https://unhabitat.org/sites/default/files/2022/11/digital_rights_guide_web_version_14112022.pdf"
     },
     "https://unicef.github.io/publicgoods-toolkit/appendix-resources-tools/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:39.555614"
+            "200": "2023-10-12 10:54:45.660907"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/policy-documents.md"
             ]
-        }
+        },
+        "url": "https://unicef.github.io/publicgoods-toolkit/appendix-resources-tools/"
     },
     "https://vision2023.cdt.ca.gov/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:41.972216"
+            "200": "2023-10-12 10:54:49.083146"
         },
         "used": {
             "about.publiccode.net": [
@@ -4508,56 +4832,61 @@
             "blog.publiccode.net": [
                 "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
             ]
-        }
+        },
+        "url": "https://vision2023.cdt.ca.gov/"
     },
     "https://vision2023.cdt.ca.gov/pdf/Vision-2023-California-Technology-Strategic-Plan.pdf": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:42.409473"
+            "200": "2023-10-12 10:54:49.416298"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/policy-documents.md"
             ]
-        }
+        },
+        "url": "https://vision2023.cdt.ca.gov/pdf/Vision-2023-California-Technology-Strategic-Plan.pdf"
     },
     "https://vng.nl/artikelen/vng-realisatie": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:43.024523"
+            "200": "2023-10-12 10:54:49.883895"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://vng.nl/artikelen/vng-realisatie"
     },
     "https://wikijs.opencode.de/en/Hilfestellungen_und_Richtlinien/Sichere_Teilnahme": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:45.202515"
+            "200": "2023-10-12 10:54:52.722397"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/policy-documents.md"
             ]
-        }
+        },
+        "url": "https://wikijs.opencode.de/en/Hilfestellungen_und_Richtlinien/Sichere_Teilnahme"
     },
     "https://wiredcraft.com/blog/how-we-write-our-github-issues/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:45.717000"
+            "200": "2023-10-12 10:54:53.539309"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/writing-issues.md"
             ]
-        }
+        },
+        "url": "https://wiredcraft.com/blog/how-we-write-our-github-issues/"
     },
     "https://write.publiccode.net/pads/Community-Call-Standard-for-Public-Code": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:45.882054"
+            "200": "2023-10-12 10:54:53.869826"
         },
         "used": {
             "standard.publiccode.net": [
@@ -4570,89 +4899,97 @@
                 "activities/standard-maintenance/preparing-community-call.md",
                 "activities/standard-maintenance/running-community-call.md"
             ]
-        }
+        },
+        "url": "https://write.publiccode.net/pads/Community-Call-Standard-for-Public-Code"
     },
     "https://www.apache.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:52.913428"
+            "200": "2023-10-12 10:54:58.664845"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/pitching.md"
             ]
-        }
+        },
+        "url": "https://www.apache.org/"
     },
     "https://www.arboned.nl/en/absence-support/company-doctor-as-specialist": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:53.019476"
+            "200": "2023-10-12 10:54:59.196405"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-management/sick-leave.md"
             ]
-        }
+        },
+        "url": "https://www.arboned.nl/en/absence-support/company-doctor-as-specialist"
     },
     "https://www.arboportaal.nl/onderwerpen/wet-verbetering-poortwachter": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:53.629316"
+            "200": "2023-10-12 10:54:59.898457"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-management/sick-leave.md"
             ]
-        }
+        },
+        "url": "https://www.arboportaal.nl/onderwerpen/wet-verbetering-poortwachter"
     },
     "https://www.atlassian.com/git/tutorials/what-is-version-control": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:54.504853"
+            "200": "2023-10-12 10:55:01.006326"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/explaining-codebase-stewardship/codebases-shared.md"
             ]
-        }
+        },
+        "url": "https://www.atlassian.com/git/tutorials/what-is-version-control"
     },
     "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:54.750115"
+            "200": "2023-10-12 10:55:01.225479"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-management/onboarding.md"
             ]
-        }
+        },
+        "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen"
     },
     "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:55.293800"
+            "200": "2023-10-12 10:55:02.139153"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/philanthropic-fundraising/donating-netherlands.md"
             ]
-        }
+        },
+        "url": "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken"
     },
     "https://www.briskergroup.nl/en/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:56.165634"
+            "200": "2023-10-12 10:55:03.382594"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/tentoo.md"
             ]
-        }
+        },
+        "url": "https://www.briskergroup.nl/en/"
     },
     "https://www.contributor-covenant.org": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:57.751157"
+            "200": "2023-10-12 10:55:05.125403"
         },
         "used": {
             "about.publiccode.net": [
@@ -4661,12 +4998,13 @@
             "bumperscripter": [
                 "CODE_OF_CONDUCT.md"
             ]
-        }
+        },
+        "url": "https://www.contributor-covenant.org"
     },
     "https://www.contributor-covenant.org/version/1/4/code-of-conduct.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:58.018536"
+            "200": "2023-10-12 10:55:05.420860"
         },
         "used": {
             "about.publiccode.net": [
@@ -4675,56 +5013,61 @@
             "bumperscripter": [
                 "CODE_OF_CONDUCT.md"
             ]
-        }
+        },
+        "url": "https://www.contributor-covenant.org/version/1/4/code-of-conduct.html"
     },
     "https://www.csis.org/programs/strategic-technologies-program/resources/government-open-source-software-policies": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:58.214871"
+            "200": "2023-10-12 10:55:05.855898"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/understanding-our-users/enabling-policies.md"
             ]
-        }
+        },
+        "url": "https://www.csis.org/programs/strategic-technologies-program/resources/government-open-source-software-policies"
     },
     "https://www.digg.se/download/18.5b0eb5a018018072bd81c5cf/1657096012152/Policy%20f%C3%B6r%20utveckling%20av%20programvara.pdf": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:58.674893"
+            "200": "2023-10-12 10:55:06.353391"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/understanding-our-users/enabling-policies.md"
             ]
-        }
+        },
+        "url": "https://www.digg.se/download/18.5b0eb5a018018072bd81c5cf/1657096012152/Policy%20f%C3%B6r%20utveckling%20av%20programvara.pdf"
     },
     "https://www.digitaleoverheid.nl/document/actieplan-open-overheid-2020-2022/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:32:59.357137"
+            "200": "2023-10-12 10:55:07.199833"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/policy-documents.md"
             ]
-        }
+        },
+        "url": "https://www.digitaleoverheid.nl/document/actieplan-open-overheid-2020-2022/"
     },
     "https://www.digitalocean.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:00.572747"
+            "200": "2023-10-12 10:55:08.762555"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/index.md"
             ]
-        }
+        },
+        "url": "https://www.digitalocean.com/"
     },
     "https://www.dimpact.nl/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:00.742692"
+            "200": "2023-10-12 10:55:08.973121"
         },
         "used": {
             "publiccode.net": [
@@ -4736,34 +5079,37 @@
             "blog.publiccode.net": [
                 "_posts/2020-07-01-openzaak-market-consultation-workshops.md"
             ]
-        }
+        },
+        "url": "https://www.dimpact.nl/"
     },
     "https://www.docusign.com/gdpr-basics": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:02.439369"
+            "200": "2023-10-12 10:55:10.792544"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/docusign.md"
             ]
-        }
+        },
+        "url": "https://www.docusign.com/gdpr-basics"
     },
     "https://www.dozuki.com/Tech_Writing": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:02.840680"
+            "200": "2023-10-12 10:55:11.531114"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/documentation/writing-guides.md"
             ]
-        }
+        },
+        "url": "https://www.dozuki.com/Tech_Writing"
     },
     "https://www.dxw.com/2020/02/creating-new-collaborative-organisations-to-operate-shared-services/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:03.375002"
+            "200": "2023-10-12 10:55:12.210569"
         },
         "used": {
             "about.publiccode.net": [
@@ -4772,89 +5118,97 @@
             "blog.publiccode.net": [
                 "_posts/2020-06-22-notes-from-community-call-3-june-2020.md"
             ]
-        }
+        },
+        "url": "https://www.dxw.com/2020/02/creating-new-collaborative-organisations-to-operate-shared-services/"
     },
     "https://www.esamverka.se/aktuellt/nyheter/nyheter/2022-03-14-rad-for-delning-och-anvandning-av-oppen-kallkod.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:03.675740"
+            "200": "2023-10-12 10:55:12.887109"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/policy-documents.md"
             ]
-        }
+        },
+        "url": "https://www.esamverka.se/aktuellt/nyheter/nyheter/2022-03-14-rad-for-delning-och-anvandning-av-oppen-kallkod.html"
     },
     "https://www.esamverka.se/download/18.74e1936a1808eb1ad123f609/1652347194550/ES2022-09%20Delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod.pdf": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:04.452882"
+            "200": "2023-10-12 10:55:13.845973"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/policy-documents.md"
             ]
-        }
+        },
+        "url": "https://www.esamverka.se/download/18.74e1936a1808eb1ad123f609/1652347194550/ES2022-09%20Delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod.pdf"
     },
     "https://www.exact.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:05.793413"
+            "200": "2023-10-12 10:55:15.217051"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/financial-administration/bookkeeping.md"
             ]
-        }
+        },
+        "url": "https://www.exact.com/"
     },
     "https://www.flitsmeister.nl/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:15.463457"
+            "200": "2023-10-12 10:55:25.929414"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/codebase-stewardship/user-personas/project-manager-municipality.md"
             ]
-        }
+        },
+        "url": "https://www.flitsmeister.nl/"
     },
     "https://www.fossjobs.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:16.340522"
+            "200": "2023-10-12 10:55:27.533767"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/recruitment/hiring-process.md"
             ]
-        }
+        },
+        "url": "https://www.fossjobs.net/"
     },
     "https://www.gandi.net/en": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:17.902328"
+            "200": "2023-10-12 10:55:29.068883"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/index.md"
             ]
-        }
+        },
+        "url": "https://www.gandi.net/en"
     },
     "https://www.gov.uk/guidance/government-design-principles": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:21.637300"
+            "200": "2023-10-12 10:55:32.751721"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://www.gov.uk/guidance/government-design-principles"
     },
     "https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:24.914631"
+            "200": "2023-10-12 10:55:36.102619"
         },
         "used": {
             "standard.publiccode.net": [
@@ -4866,133 +5220,145 @@
             "about.publiccode.net": [
                 "activities/understanding-our-users/enabling-policies.md"
             ]
-        }
+        },
+        "url": "https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable"
     },
     "https://www.government.nl/topics/personal-data/citizen-service-number-bsn": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:25.781281"
+            "200": "2023-10-12 10:55:36.626953"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-management/onboarding.md"
             ]
-        }
+        },
+        "url": "https://www.government.nl/topics/personal-data/citizen-service-number-bsn"
     },
     "https://www.gv.com/sprint/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:27.209940"
+            "200": "2023-10-12 10:55:38.567006"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://www.gv.com/sprint/"
     },
     "https://www.idealist.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:27.361495"
+            "200": "2023-10-12 10:55:38.808572"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/recruitment/hiring-process.md"
             ]
-        }
+        },
+        "url": "https://www.idealist.org/"
     },
     "https://www.iflr.com/Article/2799762/Mandatory-publication-of-contracts.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:27.694494"
+            "200": "2023-10-12 10:55:39.908468"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/pitching.md"
             ]
-        }
+        },
+        "url": "https://www.iflr.com/Article/2799762/Mandatory-publication-of-contracts.html"
     },
     "https://www.mediawiki.org/wiki/MediaWiki_Stakeholders%27_Group": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:30.879250"
+            "200": "2023-10-12 10:55:44.519023"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/communication/pitching.md"
             ]
-        }
+        },
+        "url": "https://www.mediawiki.org/wiki/MediaWiki_Stakeholders%27_Group"
     },
     "https://www.ns.nl/en/door-to-door/ov-fiets": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:34.865904"
+            "200": "2023-10-12 10:55:49.210490"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/remuneration-policy.md"
             ]
-        }
+        },
+        "url": "https://www.ns.nl/en/door-to-door/ov-fiets"
     },
     "https://www.oecd-ilibrary.org/sites/1b12de43-en/index.html?itemId=/content/component/1b12de43-en": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:35.449111"
+            "200": "2023-10-12 10:55:49.973619"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://www.oecd-ilibrary.org/sites/1b12de43-en/index.html?itemId=/content/component/1b12de43-en"
     },
     "https://www.oeffentliche-it.de/publikationen?doc=255694": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:36.560895"
+            "200": "2023-10-12 10:55:51.528411"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://www.oeffentliche-it.de/publikationen?doc=255694"
     },
     "https://www.openworx.nl/privacy-statement": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:39.006262"
+            "200": "2023-10-12 10:55:53.332992"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/odoo.md"
             ]
-        }
+        },
+        "url": "https://www.openworx.nl/privacy-statement"
     },
     "https://www.openworx.nl/verwerkersovereenkomst": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:39.604937"
+            "200": "2023-10-12 10:55:54.119888"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/odoo.md"
             ]
-        }
+        },
+        "url": "https://www.openworx.nl/verwerkersovereenkomst"
     },
     "https://www.os2.eu/blog/nyheder-2/foundation-for-public-code-how-to-help-governments-develop-high-quality-sustainable-cost-effective-and-low-risk-public-services-through-open-source-collaborations-4117": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:40.670622"
+            "200": "2023-10-12 10:55:55.226399"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://www.os2.eu/blog/nyheder-2/foundation-for-public-code-how-to-help-governments-develop-high-quality-sustainable-cost-effective-and-low-risk-public-services-through-open-source-collaborations-4117"
     },
     "https://www.os2.eu/blog/nyheder-2/ny-release-af-standard-for-public-code-4025": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:41.382720"
+            "200": "2023-10-12 10:55:55.841199"
         },
         "used": {
             "about.publiccode.net": [
@@ -5001,12 +5367,13 @@
             "blog.publiccode.net": [
                 "_posts/2020-11-23-notes-from-community-call-5-november-2020.md"
             ]
-        }
+        },
+        "url": "https://www.os2.eu/blog/nyheder-2/ny-release-af-standard-for-public-code-4025"
     },
     "https://www.os2.eu/in-english": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:42.059642"
+            "200": "2023-10-12 10:55:56.340105"
         },
         "used": {
             "about.publiccode.net": [
@@ -5015,57 +5382,62 @@
             "blog.publiccode.net": [
                 "_posts/2020-09-23-episode-one-of-lets-talk-about-public-code.md"
             ]
-        }
+        },
+        "url": "https://www.os2.eu/in-english"
     },
     "https://www.ow2.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:43.209604"
+            "200": "2023-10-12 10:55:57.639875"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/affiliates.md",
                 "organization/annual-reports/annual-report-2022.md"
             ]
-        }
+        },
+        "url": "https://www.ow2.org/"
     },
     "https://www.podbean.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:45.262260"
+            "200": "2023-10-12 10:55:59.683133"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/podbean.md"
             ]
-        }
+        },
+        "url": "https://www.podbean.com/"
     },
     "https://www.podbean.com/privacy": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:45.390937"
+            "200": "2023-10-12 10:56:00.018345"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/podbean.md"
             ]
-        }
+        },
+        "url": "https://www.podbean.com/privacy"
     },
     "https://www.regiopoortwachters.nl/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:47.948530"
+            "200": "2023-10-12 10:56:02.976095"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-management/sick-leave.md"
             ]
-        }
+        },
+        "url": "https://www.regiopoortwachters.nl/"
     },
     "https://www.rijksoverheid.nl/documenten/kamerstukken/2020/04/17/kamerbrief-inzake-vrijgeven-broncode-overheidssoftware": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:49.296238"
+            "200": "2023-10-12 10:56:05.073819"
         },
         "used": {
             "about.publiccode.net": [
@@ -5075,133 +5447,145 @@
             "blog.publiccode.net": [
                 "_posts/2021-06-08-product-management-in-open-source.md"
             ]
-        }
+        },
+        "url": "https://www.rijksoverheid.nl/documenten/kamerstukken/2020/04/17/kamerbrief-inzake-vrijgeven-broncode-overheidssoftware"
     },
     "https://www.rijksoverheid.nl/documenten/rapporten/2022/09/13/opensourcewerken-de-vrijblijvendheid-voorbij": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:50.214013"
+            "200": "2023-10-12 10:56:05.932728"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/policy-documents.md"
             ]
-        }
+        },
+        "url": "https://www.rijksoverheid.nl/documenten/rapporten/2022/09/13/opensourcewerken-de-vrijblijvendheid-voorbij"
     },
     "https://www.rijksoverheid.nl/onderwerpen/zwangerschapsverlof-en-bevallingsverlof": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:50.725234"
+            "200": "2023-10-12 10:56:06.447321"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/staff-information/parental-leave.md"
             ]
-        }
+        },
+        "url": "https://www.rijksoverheid.nl/onderwerpen/zwangerschapsverlof-en-bevallingsverlof"
     },
     "https://www.scrum.org/resources/what-is-a-product-backlog": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:51.630523"
+            "200": "2023-10-12 10:56:07.559971"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://www.scrum.org/resources/what-is-a-product-backlog"
     },
     "https://www.scrum.org/resources/what-is-scrum": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:51.955464"
+            "200": "2023-10-12 10:56:07.907016"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/product-development/index.md"
             ]
-        }
+        },
+        "url": "https://www.scrum.org/resources/what-is-scrum"
     },
     "https://www.sdeps.eu/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:52.256878"
+            "200": "2023-10-12 10:56:08.255323"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://www.sdeps.eu/"
     },
     "https://www.sdeps.eu/dont-call-it-alternative-call-it-normal/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:52.691417"
+            "200": "2023-10-12 10:56:08.740810"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://www.sdeps.eu/dont-call-it-alternative-call-it-normal/"
     },
     "https://www.singeluitgeverijen.nl/de-geus/boek/het-internet-is-stuk/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:52.786504"
+            "200": "2023-10-12 10:56:08.969242"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/all-press.md"
             ]
-        }
+        },
+        "url": "https://www.singeluitgeverijen.nl/de-geus/boek/het-internet-is-stuk/"
     },
     "https://www.themoderncoder.com/rewriting-git-history/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:57.023614"
+            "200": "2023-10-12 10:56:14.141638"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/index.md"
             ]
-        }
+        },
+        "url": "https://www.themoderncoder.com/rewriting-git-history/"
     },
     "https://www.userx.co.za/journal/writing-good-github-issues-makes-for-better-commit-messages/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:57.651467"
+            "200": "2023-10-12 10:56:14.949412"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/writing-issues.md"
             ]
-        }
+        },
+        "url": "https://www.userx.co.za/journal/writing-good-github-issues-makes-for-better-commit-messages/"
     },
     "https://www.visionplanner.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:57.804850"
+            "200": "2023-10-12 10:56:15.443988"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/financial-administration/bookkeeping.md"
             ]
-        }
+        },
+        "url": "https://www.visionplanner.com/"
     },
     "https://www.voys.nl/privacy-en-toegankelijkheid/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:33:58.077668"
+            "200": "2023-10-12 10:56:15.861528"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/tool-management/voys.md"
             ]
-        }
+        },
+        "url": "https://www.voys.nl/privacy-en-toegankelijkheid/"
     },
     "https://www.youtube.com/channel/UCXIL94kkenw0cs_ZgNhKYuw": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:34:00.352232"
+            "200": "2023-10-12 10:56:18.912457"
         },
         "used": {
             "about.publiccode.net": [
@@ -5210,56 +5594,61 @@
             "blog.publiccode.net": [
                 "_posts/2020-09-01-on-air-next-our-podcast.md"
             ]
-        }
+        },
+        "url": "https://www.youtube.com/channel/UCXIL94kkenw0cs_ZgNhKYuw"
     },
     "https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:34:00.748864"
+            "200": "2023-10-12 10:56:19.332586"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/github-for-newcomers.md"
             ]
-        }
+        },
+        "url": "https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV"
     },
     "https://www.youtube.com/watch?v=ElRzTuYln0M": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:34:04.639171"
+            "200": "2023-10-12 10:56:24.032889"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/index.md"
             ]
-        }
+        },
+        "url": "https://www.youtube.com/watch?v=ElRzTuYln0M"
     },
     "https://www.youtube.com/watch?v=Tyd0FO0tko8": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:34:10.050785"
+            "200": "2023-10-12 10:56:30.195286"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/open-source-for-newcomers.md"
             ]
-        }
+        },
+        "url": "https://www.youtube.com/watch?v=Tyd0FO0tko8"
     },
     "https://www.youtube.com/watch?v=a8fHgx9mE5U": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:34:10.789434"
+            "200": "2023-10-12 10:56:31.053074"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/open-source-for-newcomers.md"
             ]
-        }
+        },
+        "url": "https://www.youtube.com/watch?v=a8fHgx9mE5U"
     },
     "https://www.youtube.com/watch?v=cnJtnZ9Cx1o": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:34:12.671201"
+            "200": "2023-10-12 10:56:33.063154"
         },
         "used": {
             "standard.publiccode.net": [
@@ -5274,69 +5663,75 @@
             "blog.publiccode.net": [
                 "_posts/2020-02-07-video-decidimfest-ben-cerveny.md"
             ]
-        }
+        },
+        "url": "https://www.youtube.com/watch?v=cnJtnZ9Cx1o"
     },
     "https://www.youtube.com/watch?v=w3jLJU7DT5E": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:34:17.095682"
+            "200": "2023-10-12 10:56:38.150302"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/trainings/github-for-newcomers.md"
             ]
-        }
+        },
+        "url": "https://www.youtube.com/watch?v=w3jLJU7DT5E"
     },
     "https://www.zichtadviseurs.nl/zakelijk": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:34:18.543698"
+            "200": "2023-10-12 10:56:40.001209"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/financial-administration/insurances.md"
             ]
-        }
+        },
+        "url": "https://www.zichtadviseurs.nl/zakelijk"
     },
     "https://www.zuid-holland.nl/overons/bestuur-zh/gedeputeerde-staten/besluiten/2020/september/1-september/lidmaatschap-foundation-for-public-code-vereniging/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:34:20.533679"
+            "200": "2023-10-12 10:56:41.632271"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/value-and-impact/policy-documents.md",
                 "organization/annual-reports/annual-report-2019-2020.md"
             ]
-        }
+        },
+        "url": "https://www.zuid-holland.nl/overons/bestuur-zh/gedeputeerde-staten/besluiten/2020/september/1-september/lidmaatschap-foundation-for-public-code-vereniging/"
     },
     "https://youtu.be/Dt0WFla4eeM": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:34:23.499755"
+            "200": "2023-10-12 10:56:44.940781"
         },
         "used": {
             "about.publiccode.net": [
                 "organization/annual-reports/annual-report-2019-2020.md"
             ]
-        }
+        },
+        "url": "https://youtu.be/Dt0WFla4eeM"
     },
     "https://youtube.com": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:34:28.204099"
+            "200": "2023-10-12 10:56:50.651639"
         },
         "used": {
             "about.publiccode.net": [
                 "activities/documentation/writing-guides.md",
                 "activities/documentation/writing-resources.md"
             ]
-        }
+        },
+        "url": "https://youtube.com"
     },
     "https://youtube.com/watch?v=QHFkD4xfd6c": {
         "checks": {
             "status": 200,
-            "200": "2023-10-12 09:34:29.839753"
+            "200": "2023-10-12 10:56:52.739929"
         },
         "used": {
             "standard.publiccode.net": [
@@ -5348,6 +5743,7 @@
             "about.publiccode.net": [
                 "contributor-guides/for-staff.md"
             ]
-        }
+        },
+        "url": "https://youtube.com/watch?v=QHFkD4xfd6c"
     }
 }

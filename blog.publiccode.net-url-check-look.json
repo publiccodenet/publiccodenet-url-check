@@ -6,7 +6,7 @@
                 "fail": {
                     "from": "2023-10-10 02:31:48.375175",
                     "from-code": 0,
-                    "to": "2023-10-12 09:30:57.266270",
+                    "to": "2023-10-12 10:52:36.479545",
                     "to-code": 0
                 }
             },
@@ -14,7 +14,8 @@
                 "blog.publiccode.net": [
                     "_posts/2023-10-09-notes-from-community-call-5-october-2023.md"
                 ]
-            }
+            },
+            "url": "https://iso.org/drafting-standards.html"
         },
         "https://programm.froscon.org/2023/events/2960.html": {
             "checks": {
@@ -23,7 +24,7 @@
                 "fail": {
                     "from": "2023-10-10 02:32:56.414109",
                     "from-code": 0,
-                    "to": "2023-10-12 09:32:01.697933",
+                    "to": "2023-10-12 10:53:55.876691",
                     "to-code": 0
                 }
             },
@@ -31,23 +32,8 @@
                 "blog.publiccode.net": [
                     "_posts/2023-08-07-notes-from-community-call-3-august-2023.md"
                 ]
-            }
-        },
-        "https://tools.ietf.org/html/rfc2119)": {
-            "checks": {
-                "status": 404,
-                "fail": {
-                    "from": "2023-10-10 02:33:30.753356",
-                    "from-code": 404,
-                    "to": "2023-10-12 09:32:37.850439",
-                    "to-code": 404
-                }
             },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-10-09-notes-from-community-call-5-october-2023.md"
-                ]
-            }
+            "url": "https://programm.froscon.org/2023/events/2960.html"
         }
     },
     "repos": {
