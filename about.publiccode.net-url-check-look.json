@@ -1,20 +1,17 @@
 {
     "urls": {
-        "https://about.publiccode.net/organization/members.html": {
+        "https://www.briskergroup.nl/en/": {
             "checks": {
-                "status": 404,
-                "200": "2023-09-28 02:27:56.293466",
+                "status": 502,
+                "200": "2023-10-11 02:37:12.942834",
                 "fail": {
-                    "from": "2023-09-29 02:29:05.536275",
-                    "from-code": 404,
-                    "to": "2023-10-11 02:30:00.566645",
-                    "to-code": 404
+                    "from": "2023-10-12 02:32:26.819329",
+                    "from-code": 502
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "organization/annual-reports/financial-report-2021.md",
-                    "organization/annual-reports/financial-report-2022.md"
+                    "activities/tool-management/tentoo.md"
                 ]
             }
         }

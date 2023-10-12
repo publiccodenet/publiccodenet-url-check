@@ -1,29 +1,12 @@
 {
     "urls": {
-        "https://github.com/diggsweden/open-source-project-template/blob/main/docs/standard-for-public-code-assessment.html": {
-            "checks": {
-                "status": 404,
-                "200": "2023-09-20 02:30:05.892279",
-                "fail": {
-                    "from": "2023-09-21 02:31:11.538329",
-                    "from-code": 404,
-                    "to": "2023-10-11 02:32:54.691431",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-09-11-notes-from-community-call-7-september-2023.md"
-                ]
-            }
-        },
         "https://iso.org/drafting-standards.html": {
             "checks": {
                 "status": 0,
                 "fail": {
                     "from": "2023-10-10 02:31:48.375175",
                     "from-code": 0,
-                    "to": "2023-10-11 02:34:29.037022",
+                    "to": "2023-10-12 02:30:45.800120",
                     "to-code": 0
                 }
             },
@@ -40,7 +23,7 @@
                 "fail": {
                     "from": "2023-09-16 02:31:16.605139",
                     "from-code": 502,
-                    "to": "2023-10-11 02:35:43.037333",
+                    "to": "2023-10-12 02:31:31.415098",
                     "to-code": 502
                 }
             },
@@ -57,30 +40,13 @@
                 "fail": {
                     "from": "2023-09-16 02:31:17.324716",
                     "from-code": 502,
-                    "to": "2023-10-11 02:35:43.844118",
+                    "to": "2023-10-12 02:31:31.826711",
                     "to-code": 502
                 }
             },
             "used": {
                 "blog.publiccode.net": [
                     "_posts/2022-11-09-fosdem-2023-public-code-and-digital-public-goods-devroom-call-for-proposal.md"
-                ]
-            }
-        },
-        "https://podcastaddict.com/podcast/3603594": {
-            "checks": {
-                "status": 404,
-                "200": "2023-09-26 02:33:47.539066",
-                "fail": {
-                    "from": "2023-09-27 02:33:40.035710",
-                    "from-code": 404,
-                    "to": "2023-10-11 02:35:53.941331",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-09-23-episode-one-of-lets-talk-about-public-code.md"
                 ]
             }
         },
@@ -91,7 +57,7 @@
                 "fail": {
                     "from": "2023-10-10 02:32:56.414109",
                     "from-code": 0,
-                    "to": "2023-10-11 02:35:59.636408",
+                    "to": "2023-10-12 02:31:44.160265",
                     "to-code": 0
                 }
             },
@@ -108,7 +74,7 @@
                 "fail": {
                     "from": "2023-09-27 02:33:53.728160",
                     "from-code": 404,
-                    "to": "2023-10-11 02:36:13.088550",
+                    "to": "2023-10-12 02:31:50.557427",
                     "to-code": 404
                 }
             },
@@ -126,132 +92,13 @@
                 "fail": {
                     "from": "2023-10-10 02:33:30.753356",
                     "from-code": 404,
-                    "to": "2023-10-11 02:36:52.327834",
+                    "to": "2023-10-12 02:32:13.578304",
                     "to-code": 404
                 }
             },
             "used": {
                 "blog.publiccode.net": [
                     "_posts/2023-10-09-notes-from-community-call-5-october-2023.md"
-                ]
-            }
-        },
-        "https://www.pscp.tv/w/1DXxyRyyWnZKM": {
-            "checks": {
-                "status": 404,
-                "200": "2023-09-17 02:38:11.117568",
-                "fail": {
-                    "from": "2023-09-18 02:36:53.776375",
-                    "from-code": 404,
-                    "to": "2023-10-11 02:38:26.046573",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-03-04-episode-four-of-lets-talk-about-public-code.md"
-                ]
-            }
-        },
-        "https://www.pscp.tv/w/1RDGlPvwqYlGL": {
-            "checks": {
-                "status": 404,
-                "200": "2023-09-17 02:38:11.374364",
-                "fail": {
-                    "from": "2023-09-18 02:36:54.678759",
-                    "from-code": 404,
-                    "to": "2023-10-11 02:38:26.306212",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-05-11-episode-five-of-lets-talk-about-public-code.md"
-                ]
-            }
-        },
-        "https://www.pscp.tv/w/1ZkJzeZoPWXGv": {
-            "checks": {
-                "status": 404,
-                "200": "2023-09-17 02:38:11.599107",
-                "fail": {
-                    "from": "2023-09-18 02:36:55.491843",
-                    "from-code": 404,
-                    "to": "2023-10-11 02:38:26.535312",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-09-23-episode-eight-of-lets-talk-about-public-code.md"
-                ]
-            }
-        },
-        "https://www.pscp.tv/w/1ZkKzeeXXwexv": {
-            "checks": {
-                "status": 404,
-                "200": "2023-09-17 02:38:11.822480",
-                "fail": {
-                    "from": "2023-09-18 02:36:56.315023",
-                    "from-code": 404,
-                    "to": "2023-10-11 02:38:26.774546",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-07-27-episode-seven-of-lets-talk-about-public-code.md"
-                ]
-            }
-        },
-        "https://www.pscp.tv/w/1gqxvoRWjgwKB": {
-            "checks": {
-                "status": 404,
-                "200": "2023-09-17 02:38:12.043003",
-                "fail": {
-                    "from": "2023-09-18 02:36:57.136513",
-                    "from-code": 404,
-                    "to": "2023-10-11 02:38:27.014414",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-02-03-episode-three-of-lets-talk-about-public-code.md"
-                ]
-            }
-        },
-        "https://www.pscp.tv/w/1nAKEAQlonkKL": {
-            "checks": {
-                "status": 404,
-                "200": "2023-09-17 02:38:12.247235",
-                "fail": {
-                    "from": "2023-09-18 02:36:57.972434",
-                    "from-code": 404,
-                    "to": "2023-10-11 02:38:27.262406",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-09-23-episode-one-of-lets-talk-about-public-code.md"
-                ]
-            }
-        },
-        "https://www.pscp.tv/w/1vOxwEoEMRbGB": {
-            "checks": {
-                "status": 404,
-                "200": "2023-09-17 02:38:12.482957",
-                "fail": {
-                    "from": "2023-09-18 02:36:58.817581",
-                    "from-code": 404,
-                    "to": "2023-10-11 02:38:27.485008",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-06-10-episode-six-of-lets-talk-about-public-code.md"
                 ]
             }
         }
