@@ -1,22 +1,6 @@
 {
-    "urls": {
-        "https://www.briskergroup.nl/en/": {
-            "checks": {
-                "status": 502,
-                "200": "2023-10-11 02:37:12.942834",
-                "fail": {
-                    "from": "2023-10-12 02:32:26.819329",
-                    "from-code": 502
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/tool-management/tentoo.md"
-                ]
-            }
-        }
-    },
+    "urls": {},
     "repos": {
-        "about.publiccode.net": "failing"
+        "about.publiccode.net": "passing"
     }
 }

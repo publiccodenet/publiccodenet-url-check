@@ -6,47 +6,13 @@
                 "fail": {
                     "from": "2023-10-10 02:31:48.375175",
                     "from-code": 0,
-                    "to": "2023-10-12 02:30:45.800120",
+                    "to": "2023-10-12 09:30:57.266270",
                     "to-code": 0
                 }
             },
             "used": {
                 "blog.publiccode.net": [
                     "_posts/2023-10-09-notes-from-community-call-5-october-2023.md"
-                ]
-            }
-        },
-        "https://penta.fosdem.org/submission/FOSDEM22": {
-            "checks": {
-                "status": 502,
-                "200": "2023-09-15 02:35:13.090363",
-                "fail": {
-                    "from": "2023-09-16 02:31:16.605139",
-                    "from-code": 502,
-                    "to": "2023-10-12 02:31:31.415098",
-                    "to-code": 502
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-12-01-fosdem-2022-public-code-devroom-call-for-proposal.md"
-                ]
-            }
-        },
-        "https://penta.fosdem.org/submission/FOSDEM23": {
-            "checks": {
-                "status": 502,
-                "200": "2023-09-15 02:35:13.916799",
-                "fail": {
-                    "from": "2023-09-16 02:31:17.324716",
-                    "from-code": 502,
-                    "to": "2023-10-12 02:31:31.826711",
-                    "to-code": 502
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2022-11-09-fosdem-2023-public-code-and-digital-public-goods-devroom-call-for-proposal.md"
                 ]
             }
         },
@@ -57,7 +23,7 @@
                 "fail": {
                     "from": "2023-10-10 02:32:56.414109",
                     "from-code": 0,
-                    "to": "2023-10-12 02:31:44.160265",
+                    "to": "2023-10-12 09:32:01.697933",
                     "to-code": 0
                 }
             },
@@ -67,32 +33,13 @@
                 ]
             }
         },
-        "https://publiccode.net/who-we-are/team/boris-van-hoytema.html": {
-            "checks": {
-                "status": 404,
-                "200": "2023-09-26 02:33:59.012284",
-                "fail": {
-                    "from": "2023-09-27 02:33:53.728160",
-                    "from-code": 404,
-                    "to": "2023-10-12 02:31:50.557427",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_data/authors.yml",
-                    "_posts/2022-01-04-notes-from-community-call-16-december-2021.md",
-                    "_posts/2022-01-11-notes-from-community-call-6-january-2022.md"
-                ]
-            }
-        },
         "https://tools.ietf.org/html/rfc2119)": {
             "checks": {
                 "status": 404,
                 "fail": {
                     "from": "2023-10-10 02:33:30.753356",
                     "from-code": 404,
-                    "to": "2023-10-12 02:32:13.578304",
+                    "to": "2023-10-12 09:32:37.850439",
                     "to-code": 404
                 }
             },
