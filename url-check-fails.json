@@ -1,12 +1,29 @@
 {
     "urls": {
+        "https://froscon.org/en/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-10-14 02:26:06.113729",
+                "fail": {
+                    "from": "2023-10-15 02:31:05.568022",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2023-07-06-notes-from-community-call-6-july-2023.md",
+                    "_posts/2023-08-07-notes-from-community-call-3-august-2023.md"
+                ]
+            },
+            "url": "https://froscon.org/en/"
+        },
         "https://iso.org/drafting-standards.html": {
             "checks": {
                 "status": 0,
                 "fail": {
                     "from": "2023-10-10 02:31:48.375175",
                     "from-code": 0,
-                    "to": "2023-10-14 02:25:56.812005",
+                    "to": "2023-10-15 02:30:55.721390",
                     "to-code": 0
                 }
             },
@@ -17,6 +34,22 @@
             },
             "url": "https://iso.org/drafting-standards.html"
         },
+        "https://poddtoppen.se/podcast/1343814270/omsorgspodden/avsnitt-919-fran-almedalen-gastas-av-digitaliseringsdirektorn-i-sundsvall-och-ange": {
+            "checks": {
+                "status": 0,
+                "200": "2023-10-14 02:26:06.648850",
+                "fail": {
+                    "from": "2023-10-15 02:31:04.307903",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2023-07-11-digital-and-technology-trends-from-almedalen-2023.md"
+                ]
+            },
+            "url": "https://poddtoppen.se/podcast/1343814270/omsorgspodden/avsnitt-919-fran-almedalen-gastas-av-digitaliseringsdirektorn-i-sundsvall-och-ange"
+        },
         "https://programm.froscon.org/2023/events/2960.html": {
             "checks": {
                 "status": 0,
@@ -24,7 +57,7 @@
                 "fail": {
                     "from": "2023-10-10 02:32:56.414109",
                     "from-code": 0,
-                    "to": "2023-10-14 02:26:07.060919",
+                    "to": "2023-10-15 02:31:06.399337",
                     "to-code": 0
                 }
             },
