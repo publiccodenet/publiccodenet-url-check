@@ -1,23 +1,28 @@
 {
     "urls": {
-        "https://poddtoppen.se/podcast/1343814270/omsorgspodden/avsnitt-919-fran-almedalen-gastas-av-digitaliseringsdirektorn-i-sundsvall-och-ange": {
+        "https://meet.community.publiccode.net/accountmanager/register/": {
             "checks": {
                 "status": 0,
-                "200": "2023-10-18 02:29:56.875922",
+                "200": "2023-10-19 02:29:45.618287",
                 "fail": {
-                    "from": "2023-10-19 02:29:12.140327",
+                    "from": "2023-10-20 02:28:51.175738",
                     "from-code": 0
                 }
             },
             "used": {
+                "about.publiccode.net": [
+                    "activities/tool-management/jitsi-guides.md",
+                    "activities/tool-management/jitsi-meet.md"
+                ],
                 "blog.publiccode.net": [
-                    "_posts/2023-07-11-digital-and-technology-trends-from-almedalen-2023.md"
+                    "_posts/2021-05-6-april-2021-newsletter.md"
                 ]
             },
-            "url": "https://poddtoppen.se/podcast/1343814270/omsorgspodden/avsnitt-919-fran-almedalen-gastas-av-digitaliseringsdirektorn-i-sundsvall-och-ange"
+            "url": "https://meet.community.publiccode.net/accountmanager/register/"
         }
     },
     "repos": {
-        "blog.publiccode.net": "failing"
+        "blog.publiccode.net": "failing",
+        "about.publiccode.net": "failing"
     }
 }

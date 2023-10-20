@@ -1,5 +1,57 @@
 {
     "urls": {
+        "https://help.planable.io/en/articles/3803135-share-posts-with-a-public-link": {
+            "checks": {
+                "status": 503,
+                "200": "2023-10-19 02:29:02.042870",
+                "fail": {
+                    "from": "2023-10-20 02:28:17.594724",
+                    "from-code": 503
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/communication/how-to-post-to-social-media.md"
+                ]
+            },
+            "url": "https://help.planable.io/en/articles/3803135-share-posts-with-a-public-link"
+        },
+        "https://meet.community.publiccode.net/accountmanager/admin": {
+            "checks": {
+                "status": 0,
+                "200": "2023-10-19 02:29:44.919230",
+                "fail": {
+                    "from": "2023-10-20 02:28:50.903054",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/tool-management/jitsi-guides.md"
+                ]
+            },
+            "url": "https://meet.community.publiccode.net/accountmanager/admin"
+        },
+        "https://meet.community.publiccode.net/accountmanager/register/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-10-19 02:29:45.618287",
+                "fail": {
+                    "from": "2023-10-20 02:28:51.175738",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/tool-management/jitsi-guides.md",
+                    "activities/tool-management/jitsi-meet.md"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2021-05-6-april-2021-newsletter.md"
+                ]
+            },
+            "url": "https://meet.community.publiccode.net/accountmanager/register/"
+        },
         "https://streamyard.com/resources/docs/privacy/": {
             "checks": {
                 "status": 403,
@@ -7,7 +59,7 @@
                 "fail": {
                     "from": "2023-10-18 02:30:03.815157",
                     "from-code": 403,
-                    "to": "2023-10-19 02:29:21.707776",
+                    "to": "2023-10-20 02:28:32.640872",
                     "to-code": 403
                 }
             },
@@ -20,6 +72,7 @@
         }
     },
     "repos": {
-        "about.publiccode.net": "failing"
+        "about.publiccode.net": "failing",
+        "blog.publiccode.net": "failing"
     }
 }
