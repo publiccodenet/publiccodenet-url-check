@@ -1,5 +1,21 @@
 {
     "urls": {
+        "https://getethermap.org/m/amsterdamswim": {
+            "checks": {
+                "status": 0,
+                "200": "2023-10-21 02:26:07.410356",
+                "fail": {
+                    "from": "2023-10-22 02:30:19.443576",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-08-11-overdue-socially-distant-socializing.md"
+                ]
+            },
+            "url": "https://getethermap.org/m/amsterdamswim"
+        },
         "https://meet.community.publiccode.net/accountmanager/register/": {
             "checks": {
                 "status": 0,
@@ -7,7 +23,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:51.175738",
                     "from-code": 0,
-                    "to": "2023-10-21 02:26:25.912888",
+                    "to": "2023-10-22 02:30:37.834468",
                     "to-code": 0
                 }
             },
@@ -28,7 +44,9 @@
                 "200": "2023-10-20 02:28:27.135571",
                 "fail": {
                     "from": "2023-10-21 02:26:02.555595",
-                    "from-code": 0
+                    "from-code": 0,
+                    "to": "2023-10-22 02:30:13.380600",
+                    "to-code": 0
                 }
             },
             "used": {

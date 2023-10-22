@@ -1,5 +1,37 @@
 {
     "urls": {
+        "https://business.gov.nl/regulation/working-conditions-employees/": {
+            "checks": {
+                "status": 500,
+                "200": "2023-10-21 02:25:49.727584",
+                "fail": {
+                    "from": "2023-10-22 02:30:00.506030",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/staff-management/sick-leave.md"
+                ]
+            },
+            "url": "https://business.gov.nl/regulation/working-conditions-employees/"
+        },
+        "https://getethermap.org/m/amsterdamswim": {
+            "checks": {
+                "status": 0,
+                "200": "2023-10-21 02:26:07.410356",
+                "fail": {
+                    "from": "2023-10-22 02:30:19.443576",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-08-11-overdue-socially-distant-socializing.md"
+                ]
+            },
+            "url": "https://getethermap.org/m/amsterdamswim"
+        },
         "https://meet.community.publiccode.net/accountmanager/admin": {
             "checks": {
                 "status": 0,
@@ -7,7 +39,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:50.903054",
                     "from-code": 0,
-                    "to": "2023-10-21 02:26:25.663244",
+                    "to": "2023-10-22 02:30:37.584460",
                     "to-code": 0
                 }
             },
@@ -25,7 +57,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:51.175738",
                     "from-code": 0,
-                    "to": "2023-10-21 02:26:25.912888",
+                    "to": "2023-10-22 02:30:37.834468",
                     "to-code": 0
                 }
             },
@@ -46,7 +78,9 @@
                 "200": "2023-10-20 02:28:27.135571",
                 "fail": {
                     "from": "2023-10-21 02:26:02.555595",
-                    "from-code": 0
+                    "from-code": 0,
+                    "to": "2023-10-22 02:30:13.380600",
+                    "to-code": 0
                 }
             },
             "used": {
@@ -63,7 +97,7 @@
                 "fail": {
                     "from": "2023-10-18 02:30:03.815157",
                     "from-code": 403,
-                    "to": "2023-10-21 02:26:10.484544",
+                    "to": "2023-10-22 02:30:19.112978",
                     "to-code": 403
                 }
             },
