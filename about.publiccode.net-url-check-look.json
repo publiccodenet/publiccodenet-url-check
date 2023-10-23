@@ -1,21 +1,5 @@
 {
     "urls": {
-        "https://business.gov.nl/regulation/working-conditions-employees/": {
-            "checks": {
-                "status": 500,
-                "200": "2023-10-21 02:25:49.727584",
-                "fail": {
-                    "from": "2023-10-22 02:30:00.506030",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/staff-management/sick-leave.md"
-                ]
-            },
-            "url": "https://business.gov.nl/regulation/working-conditions-employees/"
-        },
         "https://meet.community.publiccode.net/accountmanager/admin": {
             "checks": {
                 "status": 0,
@@ -23,7 +7,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:50.903054",
                     "from-code": 0,
-                    "to": "2023-10-22 02:30:37.584460",
+                    "to": "2023-10-23 02:29:41.573277",
                     "to-code": 0
                 }
             },
@@ -41,7 +25,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:51.175738",
                     "from-code": 0,
-                    "to": "2023-10-22 02:30:37.834468",
+                    "to": "2023-10-23 02:29:41.832014",
                     "to-code": 0
                 }
             },
@@ -63,7 +47,7 @@
                 "fail": {
                     "from": "2023-10-18 02:30:03.815157",
                     "from-code": 403,
-                    "to": "2023-10-22 02:30:19.112978",
+                    "to": "2023-10-23 02:29:23.610068",
                     "to-code": 403
                 }
             },
