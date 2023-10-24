@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-10-22 02:30:19.443576",
                     "from-code": 0,
-                    "to": "2023-10-23 02:29:25.226019",
+                    "to": "2023-10-24 02:29:21.900456",
                     "to-code": 0
                 }
             },
@@ -18,6 +18,22 @@
             },
             "url": "https://getethermap.org/m/amsterdamswim"
         },
+        "https://jtc1info.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-10-23 02:29:10.945062",
+                "fail": {
+                    "from": "2023-10-24 02:29:09.062232",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2023-10-09-notes-from-community-call-5-october-2023.md"
+                ]
+            },
+            "url": "https://jtc1info.org/"
+        },
         "https://meet.community.publiccode.net/accountmanager/register/": {
             "checks": {
                 "status": 0,
@@ -25,7 +41,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:51.175738",
                     "from-code": 0,
-                    "to": "2023-10-23 02:29:41.832014",
+                    "to": "2023-10-24 02:29:40.375289",
                     "to-code": 0
                 }
             },
@@ -47,7 +63,7 @@
                 "fail": {
                     "from": "2023-10-21 02:26:02.555595",
                     "from-code": 0,
-                    "to": "2023-10-23 02:29:18.765679",
+                    "to": "2023-10-24 02:29:19.435081",
                     "to-code": 0
                 }
             },
@@ -57,6 +73,22 @@
                 ]
             },
             "url": "https://poddtoppen.se/podcast/1343814270/omsorgspodden/avsnitt-919-fran-almedalen-gastas-av-digitaliseringsdirektorn-i-sundsvall-och-ange"
+        },
+        "https://www.youtube.com/watch?v=c9SJAPxU5bs": {
+            "checks": {
+                "status": 502,
+                "200": "2023-10-23 02:29:31.062548",
+                "fail": {
+                    "from": "2023-10-24 02:29:27.610874",
+                    "from-code": 502
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-06-22-notes-from-community-call-3-june-2020.md"
+                ]
+            },
+            "url": "https://www.youtube.com/watch?v=c9SJAPxU5bs"
         }
     },
     "repos": {

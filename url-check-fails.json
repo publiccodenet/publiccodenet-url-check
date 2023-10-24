@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-10-22 02:30:19.443576",
                     "from-code": 0,
-                    "to": "2023-10-23 02:29:25.226019",
+                    "to": "2023-10-24 02:29:21.900456",
                     "to-code": 0
                 }
             },
@@ -18,6 +18,22 @@
             },
             "url": "https://getethermap.org/m/amsterdamswim"
         },
+        "https://jtc1info.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-10-23 02:29:10.945062",
+                "fail": {
+                    "from": "2023-10-24 02:29:09.062232",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2023-10-09-notes-from-community-call-5-october-2023.md"
+                ]
+            },
+            "url": "https://jtc1info.org/"
+        },
         "https://meet.community.publiccode.net/accountmanager/admin": {
             "checks": {
                 "status": 0,
@@ -25,7 +41,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:50.903054",
                     "from-code": 0,
-                    "to": "2023-10-23 02:29:41.573277",
+                    "to": "2023-10-24 02:29:40.121606",
                     "to-code": 0
                 }
             },
@@ -43,7 +59,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:51.175738",
                     "from-code": 0,
-                    "to": "2023-10-23 02:29:41.832014",
+                    "to": "2023-10-24 02:29:40.375289",
                     "to-code": 0
                 }
             },
@@ -65,7 +81,7 @@
                 "fail": {
                     "from": "2023-10-21 02:26:02.555595",
                     "from-code": 0,
-                    "to": "2023-10-23 02:29:18.765679",
+                    "to": "2023-10-24 02:29:19.435081",
                     "to-code": 0
                 }
             },
@@ -76,6 +92,38 @@
             },
             "url": "https://poddtoppen.se/podcast/1343814270/omsorgspodden/avsnitt-919-fran-almedalen-gastas-av-digitaliseringsdirektorn-i-sundsvall-och-ange"
         },
+        "https://processing.org": {
+            "checks": {
+                "status": 0,
+                "200": "2023-10-23 02:29:50.879774",
+                "fail": {
+                    "from": "2023-10-24 02:29:17.379236",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "bumperscripter": [
+                    "README.md"
+                ]
+            },
+            "url": "https://processing.org"
+        },
+        "https://processing.org/download/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-10-23 02:29:51.133718",
+                "fail": {
+                    "from": "2023-10-24 02:29:17.421217",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "bumperscripter": [
+                    "README.md"
+                ]
+            },
+            "url": "https://processing.org/download/"
+        },
         "https://streamyard.com/resources/docs/privacy/": {
             "checks": {
                 "status": 403,
@@ -83,7 +131,7 @@
                 "fail": {
                     "from": "2023-10-18 02:30:03.815157",
                     "from-code": 403,
-                    "to": "2023-10-23 02:29:23.610068",
+                    "to": "2023-10-24 02:29:23.597625",
                     "to-code": 403
                 }
             },
@@ -93,15 +141,46 @@
                 ]
             },
             "url": "https://streamyard.com/resources/docs/privacy/"
+        },
+        "https://www.reclameland.nl/drukken/folders)": {
+            "checks": {
+                "status": 404,
+                "fail": {
+                    "from": "2023-10-24 02:29:32.001016",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "standard.publiccode.net-develop": [
+                    "docs/printing-checklist.md"
+                ]
+            },
+            "url": "https://www.reclameland.nl/drukken/folders)"
+        },
+        "https://www.youtube.com/watch?v=c9SJAPxU5bs": {
+            "checks": {
+                "status": 502,
+                "200": "2023-10-23 02:29:31.062548",
+                "fail": {
+                    "from": "2023-10-24 02:29:27.610874",
+                    "from-code": 502
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-06-22-notes-from-community-call-3-june-2020.md"
+                ]
+            },
+            "url": "https://www.youtube.com/watch?v=c9SJAPxU5bs"
         }
     },
     "repos": {
         "standard.publiccode.net": "passing",
-        "standard.publiccode.net-develop": "passing",
+        "standard.publiccode.net-develop": "failing",
         "publiccode.net": "passing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
         "community-implementation-guide-standard": "passing",
-        "bumperscripter": "passing"
+        "bumperscripter": "failing"
     }
 }
