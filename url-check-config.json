@@ -30,71 +30,117 @@
         }
     },
     "ignore_patterns" : {
-	"^http[s]\\?://archive\\.org/web/": "often times out",
-        "^http[s]\\?://twitter\\.com": "302; does not serve scripts",
-        "^http[s]\\?://linkedin\\.com": "302; does not serve scripts",
-        "^http[s]\\?://www\\.linkedin\\.com": "999; does not serve scripts",
-        "^http[s]\\?://chat\\.openai\\.com": "302; does not serve scripts",
-	"^https://github.com/org_name/codebase_name.git": "bogus example URL",
-        "^http[s]\\?://github\\.com/.*/edit/": "may point to yet-to-exist page",
-        "^http[s]\\?://docs\\.github\\.com/": "seems blocked as DoS protection",
-	"^http[s]\\?://github\\.com/[-0-9A-Za-z_\\./]\\+/\\(issues\\|pull\\)/[0-9]\\+[\\.,)]*": "ignore github issues and PRs",
+        "\\[subdomain\\]\\.publiccode\\.net": "template",
+        "FILE_BASE}.html": "template",
+        "http[s]\\?://archive\\.org/web/": "often times out",
+        "http[s]\\?://twitter\\.com": "302; does not serve scripts",
+        "http[s]\\?://linkedin\\.com": "302; does not serve scripts",
+        "http[s]\\?://www\\.linkedin\\.com": "999; does not serve scripts",
+        "http[s]\\?://chat\\.openai\\.com": "302; does not serve scripts",
+        "https://github.com/org_name/codebase_name.git": "bogus example URL",
+        "http[s]\\?://github\\.com/.*/edit/": "may point to yet-to-exist page",
+        "http[s]\\?://docs\\.github\\.com/": "seems blocked as DoS protection",
+        "http[s]\\?://github\\.com/[-0-9A-Za-z_\\./]\\+/\\(issues\\|pull\\)/[0-9]\\+": "ignore github issues and PRs",
         "plausible\\.io/js/plausible\\.js": "does not serve to scripts",
-        "^https://github.com/publiccodenet/standard/compare/main...release": "example URL in docs/releasing",
+        "https://github.com/publiccodenet/standard/compare/main...release": "example URL in docs/releasing",
         "opensource\\.org": "failed: 503 No error",
         "belastingdienst\\.nl/wps/wcm/connect/bldcontenten": "regular timeouts",
-        "reclameland\\.nl/drukken/softcover-boeken": "failed: 403 No error",
-	"^https://help.miro.com": "403 to script",
+        "reclameland\\.nl/drukken": "failed: 403 No error",
+        "https://help.miro.com": "403 to script",
         "www\\.dta\\.gov\\.au/help-and-advice": "failed: 403 No error",
-        "^https://pixabay\\.com/": "gives 403 to curl",
-	"^https://fonts.google.com/download?family=": "bash param in the URL",
+        "https://pixabay\\.com/": "gives 403 to curl",
+        "https://fonts.google.com/download?family=": "bash param in the URL",
         "https://standard.publiccode.net/criteria/\\\\2.html": "regex in URL",
-        "^https://www.go-fair.org/": "gives 400s when run as GitHub workflow",
-	"^https://support\\.google\\.com/": "gives 404 to curl",
-	"^https://www\\.komoot\\.com/": "gives 404 to curl, works in browser",
-	"^https://www\\.grammarly\\.com/": "HTTP/2 405, allow: POST, GET",
-	"^https://giphy\\.com": "gives 503 to curl",
-	"^https://www\\.lonebeard\\.com": "defunct, referenced in binary files",
-	"^http[s]\\?://cipa\\.jp/exif": "defunct, embedded in some .jpg files",
-	"^http://ns\\.adobe\\.com/": "defunct, embedded in .jpg",
-	"^http://www\\.gimp\\.org/xmp/": "defunct, embedded in .jpg",
-	"^http://www\\.inkscape\\.org/namespaces/inkscape": "defunct, in .svg",
-	"^http[s]\\?://sodipodi\\.sourceforge\\.net/DTD/sodipodi-0\\.dtd": "defunct, in SVGs",
-	"^http[s]\\?://www\\.omg\\.org/spec/.*/20100524": "defunct, embedded in old .bpmn files",
-        "^http[s]\\?://bpmn.io/schema/bpmn": "unreliable",
-	"^http[s]\\?://www\\.un\\.org/en/content/": "frequent timeout",
-	"^http[s]\\?://arkitektur\\.digst\\.dk/node/1173": "times out",
-	"^http[s]\\?://eur-lex\\.europa\\.eu/legal-content/EN/TXT": "timeouts",
-	"^https://www\\.uwv\\.nl": "gives 404 to curl",
-	"listennotes\\.com/": "frequent timeouts",
-	"lists\\.publiccode\\.net/mailman/": "frequent timeouts",
-	"https://wetten\\.overheid\\.nl/BWBR0025279/2013-01-01": "times out",
+        "https://www.go-fair.org/": "gives 400s when run as GitHub workflow",
+        "https://support\\.google\\.com/": "gives 404 to curl",
+        "https://www\\.komoot\\.com/": "gives 404 to curl, works in browser",
+        "https://www\\.grammarly\\.com/": "HTTP/2 405, allow: POST, GET",
+        "https://giphy\\.com": "gives 503 to curl",
+        "https://www\\.lonebeard\\.com": "defunct, referenced in binary files",
+        "http[s]\\?://cipa\\.jp/exif": "defunct, embedded in some .jpg files",
+        "http://ns\\.adobe\\.com/": "defunct, embedded in .jpg",
+        "http://www\\.gimp\\.org/xmp/": "defunct, embedded in .jpg",
+        "http://www\\.inkscape\\.org/namespaces/inkscape": "defunct, in .svg",
+        "http[s]\\?://sodipodi\\.sourceforge\\.net/DTD/sodipodi-0\\.dtd": "defunct, in SVGs",
+        "http[s]\\?://www\\.omg\\.org/spec/.*/20100524": "defunct, embedded in old .bpmn files",
+        "http[s]\\?://bpmn.io/schema/bpmn": "unreliable",
+        "http[s]\\?://www\\.un\\.org/en/content/": "frequent timeout",
+        "http[s]\\?://arkitektur\\.digst\\.dk/node/1173": "times out",
+        "http[s]\\?://eur-lex\\.europa\\.eu/legal-content/EN/TXT": "timeouts",
+        "https://www\\.uwv\\.nl": "gives 404 to curl",
+        "listennotes\\.com/": "frequent timeouts",
+        "lists\\.publiccode\\.net/mailman/": "frequent timeouts",
+        "https://wetten\\.overheid\\.nl/BWBR0025279/2013-01-01": "times out",
         "amsterdam\\.nl/en/": "frequent timeouts",
         "iso\\.org/drafting-standards\\.html": "timeouts",
-	"https://flickr.com/e/tFzM3d9XsB": "defunct, embedded in a .jpg",
-	"^http://www\\.instagram\\.com/lottedale": "429, embedded in .jpg",
-	"^http[s]\\?://www\\.figma\\.com": "gives 404 to curl"
+        "https://flickr.com/e/tFzM3d9XsB": "defunct, embedded in a .jpg",
+        "http://www\\.instagram\\.com/lottedale": "429, embedded in .jpg",
+        "http[s]\\?://www\\.figma\\.com": "gives 404 to curl"
     },
     "transforms" : {
-	"sed 's@/[\\.,)]*$@/@'":
-		"remove trailing punctuation from links ending in '/'",
-	"sed 's@\\.net[\\.,)]*$@.net@'":
-		"remove trailing punctuation from links ending in '.net'",
-	"sed 's@\\.com[\\.,)]*$@.com@'":
-		"remove trailing punctuation from links ending in '.com'",
-	"sed 's@^\\(http.*\\.html\\)[\\.,)]*$@\\1@'":
-		"remove trailing punctuation from links ending in '.html'",
-	"sed 's@^\\(http.*\\.pdf\\)[\\.,)]*$@\\1@'":
-		"remove trailing punctuation from links ending in '.pdf'",
-	"sed 's@Open_air_school).$@Open_air_school@'":
-		"remove trailing punctuation'",
-	"sed 's@\\(nextcloud/index.php/s/[-0-9a-zA-Z]*\\)[\\.,)]*$@\\1@'":
-		"remove trailing punctuation from nextcloud files",
-	"sed 's@poortwachter[\\.,)]*$@poortwachter@'":
-		"remove trailing punctuation",
-        "sed 's@\\(://tools\\.ietf\\.org/html/rfc[0-9]*\\)[\\.,)]*$@\\1@'":
-		"remove trailing punctuation",
-	"sed 's@\\(publiccode\\.net/careers/marketing\\)[\\.),:]*@\\1@'":
-		"remove trailing punctuation"
+        "sed 's@)\\](http@\\nhttp@g'":
+                "split double-urls",
+        "sed 's@\\](http@\\nhttp@g'":
+                "split double-urls",
+        "sed 's@/[\\.,):\\!\\?\\*\u2019]*$@/@g'":
+                "remove trailing punctuation from links ending in '/'",
+        "sed 's@\\.net[\\.,):\\!]*$@.net@g'":
+                "remove trailing punctuation from links ending in '.net'",
+        "sed 's@\\.com[\\.,):\\!]*$@.com@g'":
+                "remove trailing punctuation from links ending in '.com'",
+        "sed 's@\\.org[\\.,):\\!]*$@.org@g'":
+                "remove trailing punctuation from links ending in '.org'",
+        "sed 's@\\.html[\\.,):\\!]*$@.html@g'":
+                "remove trailing punctuation from links ending in '.html'",
+        "sed 's@\\.json[\\.,):\\!]*$@.json@g'":
+                "remove trailing punctuation from links ending in '.json'",
+        "sed 's@^\\(http.*\\.pdf\\)[\\.,):\\!]*$@\\1@g'":
+                "remove trailing punctuation from links ending in '.pdf'",
+        "sed 's@Open_air_school).$@Open_air_school@g'":
+                "remove trailing punctuation'",
+        "sed 's@\\(nextcloud/index.php/s/[-0-9a-zA-Z]*\\)[\\.,):\\!]*$@\\1@g'":
+                "remove trailing punctuation from nextcloud files",
+        "sed 's@poortwachter[\\.,):\\!]*$@poortwachter@g'":
+                "remove trailing punctuation",
+        "sed 's@\\(://tools\\.ietf\\.org/html/rfc[0-9]*\\)[\\.,):\\!]*$@\\1@g'":
+                "remove trailing punctuation",
+        "sed -r 's@(http://hintjens\\.com/blog:[0-9]+)[^0-9]+.*@\\1@g'":
+                "remove anchors, trailing punctuation, parameters",
+        "sed -r 's@(http[s]\\?://hackmd\\.io/[^#]+)#.*@\\1@g'":
+                "remove anchors, trailing punctuation, parameters",
+        "sed 's@)/\\[.*@@g'":
+                "remove trailing punctuation, and following text",
+        "sed 's@\\(https://youtu\\.be/[-A-Za-z0-9_]*\\).*@\\1@g'":
+                "remove anchors, trailing punctuation, parameters",
+        "sed 's@\\(https://www\\.youtube\\.com/watch?v=[-A-Za-z0-9_]*\\).*@\\1@g'":
+                "remove anchors, trailing punctuation, parameters",
+        "sed 's@\\(https://youtube\\.com/watch?v=[-A-Za-z0-9_]*\\).*@\\1@g'":
+                "remove anchors, trailing punctuation, parameters",
+        "sed 's@publiccode\\.net/organization/staff).*@publiccode.net/organization/staff@g'":
+                "remove anchors, trailing punctuation, parameters",
+        "sed 's@publiccode\\.net/logo/mark\\.svg.*@publiccode.net/logo/mark.svg@'":
+                "remove anchors, trailing punctuation, parameters",
+        "sed 's@Open_air_school)\\?@Open_air_school@g'":
+                "remove anchors, trailing punctuation, parameters",
+        "sed 's@Frontend)!$@Frontend@g'":
+                "remove anchors, trailing punctuation, parameters",
+        "sed 's@alliance)!$@alliance@g'":
+                "remove anchors, trailing punctuation, parameters",
+        "sed 's@export_processing)\\.$@export_processing@g'":
+                "remove anchors, trailing punctuation, parameters",
+        "sed 's@say)\\*\\*$@say@g'":
+                "remove anchors, trailing punctuation, parameters",
+        "sed 's@\\(bmj\\.com/[-a-zA-Z0-9/\\.]*\\)[)\\?]*@\\1@g'":
+                "remove trailing punctuation",
+        "sed 's@edit)\\.\\*\\*$@edit@g'":
+                "remove trailing punctuation",
+        "sed 's@\\(oeffentliche-it\\.de/[-a-zA-Z0-9/%\\.\\+]*\\)[)\\]]*$@\\1@g'":
+                "remove trailing punctuation",
+        "sed 's@\\(reclameland\\.nl/[-a-zA-Z0-9/%\\.\\+]*\\)[\\.)\\],:!\\?]*$@\\1@g'":
+                "remove trailing punctuation",
+        "sed 's@\\(/publiccodenet/[-_a-zA-Z0-9/\\.\\+]*\\)[]\\._),:!\\?]*$@\\1@g'":
+                "remove trailing punctuation",
+        "sed 's@\\(publiccode\\.net/[-_a-zA-Z0-9/\\.\\+]*\\)[]\\._),:!\\?]*$@\\1@g'":
+                "remove trailing punctuation"
     }
 }

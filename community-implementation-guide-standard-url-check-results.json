@@ -2,7 +2,7 @@
     "http://docs.ckan.org/en/latest/contributing/pull-requests.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:25.738351"
+            "200": "2023-10-27 02:28:00.124406"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -14,7 +14,7 @@
     "http://list.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:19.950565"
+            "200": "2023-10-27 02:27:52.497840"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -26,7 +26,7 @@
     "http://purl.org/dc/elements/1.1/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:22.380833"
+            "200": "2023-10-27 02:27:53.748035"
         },
         "used": {
             "standard.publiccode.net": [
@@ -44,12 +44,7 @@
                 "assets/unlock.svg"
             ],
             "publiccode.net": [
-                "photos/codebases/omgevingsbeleid/omgevingsbeleid_thumb_g01.png",
-                "photos/jacco-brouwer-open-day-2019.jpg",
-                "who-we-are/team/ben-cerveny.jpg",
-                "who-we-are/team/elena-findley-de-regt.jpg",
-                "who-we-are/team/eric-herman.jpg",
-                "who-we-are/team/kehinde-bademosi.jpg"
+                "photos/codebases/omgevingsbeleid/omgevingsbeleid_thumb_g01.png"
             ],
             "about.publiccode.net": [
                 "activities/explaining-codebase-stewardship/codebase-community.svg",
@@ -61,26 +56,19 @@
                 "activities/explaining-codebase-stewardship/components.svg",
                 "activities/explaining-codebase-stewardship/shared-codebase.svg",
                 "activities/explaining-codebase-stewardship/shared-components.svg",
-                "activities/live-streaming/preview-image.svg",
-                "activities/value-and-impact/Het-internet-is-stuk.jpeg",
-                "organization/annual-reports/images/team-hike-2020_v03.jpg"
+                "activities/live-streaming/preview-image.svg"
             ],
             "blog.publiccode.net": [
                 "assets/DPGA.png",
-                "assets/almedalen.jpg",
-                "assets/erik-slottner-almedalen.jpg",
                 "assets/pdf-rain.png",
                 "assets/screenshot-episode-12.png",
                 "assets/screenshot-episode-13.png",
                 "assets/screenshot-episode-3.png",
-                "assets/screenshot-episode-4.jpg",
                 "assets/screenshot-episode-5.png",
                 "assets/screenshot-episode-6.png",
                 "assets/screenshot-episode-7.png",
                 "assets/screenshot-episode-8.png",
-                "assets/signalen_logo.png",
-                "assets/team-outing-2020.jpg",
-                "assets/team-outing-walking-2020.jpeg"
+                "assets/signalen_logo.png"
             ],
             "community-implementation-guide-standard": [
                 "assets/link-symbol.png"
@@ -88,10 +76,10 @@
         },
         "url": "http://purl.org/dc/elements/1.1/"
     },
-    "http://www.w3.org/1999/02/22-rdf-syntax-ns": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:27.591433"
+            "200": "2023-10-27 02:27:56.896393"
         },
         "used": {
             "standard.publiccode.net": [
@@ -115,13 +103,7 @@
                 "photos/codebases/openzaak/openzaak_thumb_g01.png",
                 "photos/codebases/signalen/signalen_g03.png",
                 "photos/codebases/signalen/signalen_logo_small.png",
-                "photos/codebases/signalen/signalen_thumb_g01.png",
-                "photos/jacco-brouwer-open-day-2019.jpg",
-                "photos/standard/thestandard_posterframe_v03.jpg",
-                "who-we-are/team/ben-cerveny.jpg",
-                "who-we-are/team/elena-findley-de-regt.jpg",
-                "who-we-are/team/eric-herman.jpg",
-                "who-we-are/team/kehinde-bademosi.jpg"
+                "photos/codebases/signalen/signalen_thumb_g01.png"
             ],
             "about.publiccode.net": [
                 "activities/explaining-codebase-stewardship/codebase-community.svg",
@@ -134,40 +116,31 @@
                 "activities/explaining-codebase-stewardship/shared-codebase.svg",
                 "activities/explaining-codebase-stewardship/shared-components.svg",
                 "activities/live-streaming/preview-image.svg",
-                "activities/value-and-impact/Het-internet-is-stuk.jpeg",
-                "organization/annual-reports/images/aaronsnow-fwd50conf-tweet-20221102.png",
-                "organization/annual-reports/images/ar-19-20-b01.jpg",
-                "organization/annual-reports/images/ar-19-20-b01_v03.jpg",
-                "organization/annual-reports/images/team-hike-2020_v03.jpg"
+                "organization/annual-reports/images/aaronsnow-fwd50conf-tweet-20221102.png"
             ],
             "blog.publiccode.net": [
                 "assets/DPGA.png",
-                "assets/almedalen.jpg",
-                "assets/erik-slottner-almedalen.jpg",
                 "assets/fika.png",
                 "assets/pdf-rain.png",
                 "assets/screenshot-episode-12.png",
                 "assets/screenshot-episode-13.png",
                 "assets/screenshot-episode-3.png",
-                "assets/screenshot-episode-4.jpg",
                 "assets/screenshot-episode-5.png",
                 "assets/screenshot-episode-6.png",
                 "assets/screenshot-episode-7.png",
                 "assets/screenshot-episode-8.png",
-                "assets/signalen_logo.png",
-                "assets/team-outing-2020.jpg",
-                "assets/team-outing-walking-2020.jpeg"
+                "assets/signalen_logo.png"
             ],
             "community-implementation-guide-standard": [
                 "assets/link-symbol.png"
             ]
         },
-        "url": "http://www.w3.org/1999/02/22-rdf-syntax-ns"
+        "url": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     },
     "https://about.publiccode.net/activities/supporting-codebase-governance/governance-template.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:37.225998"
+            "200": "2023-10-27 02:28:07.808585"
         },
         "used": {
             "blog.publiccode.net": [
@@ -182,7 +155,7 @@
     "https://about.publiccode.net/activities/supporting-codebase-governance/technical-roadmap-template.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:37.562972"
+            "200": "2023-10-27 02:28:08.048307"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -194,7 +167,7 @@
     "https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:19.129313"
+            "200": "2023-10-27 02:27:51.264287"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -206,7 +179,7 @@
     "https://ash.harvard.edu/publications/best-practices-governance-digital-public-goods": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:19.911532"
+            "200": "2023-10-27 02:27:51.953069"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -218,7 +191,7 @@
     "https://bigbluebutton.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:20.187938"
+            "200": "2023-10-27 02:27:51.271532"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -227,10 +200,22 @@
         },
         "url": "https://bigbluebutton.org/"
     },
+    "https://bitbucket.org/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:27:51.685874"
+        },
+        "used": {
+            "community-implementation-guide-standard": [
+                "criteria/code-in-the-open.md"
+            ]
+        },
+        "url": "https://bitbucket.org/"
+    },
     "https://bitcrowd.dev/a-note-on-commit-messages": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:20.879286"
+            "200": "2023-10-27 02:27:52.139099"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -242,7 +227,7 @@
     "https://bpmn.io/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:21.392371"
+            "200": "2023-10-27 02:27:52.947907"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -254,7 +239,7 @@
     "https://chat.civictech.se/home": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:18.925039"
+            "200": "2023-10-27 02:27:51.285353"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -266,7 +251,7 @@
     "https://choosealicense.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:20.260335"
+            "200": "2023-10-27 02:27:52.280890"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -278,10 +263,11 @@
     "https://ckan.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:26.458713"
+            "200": "2023-10-27 02:28:00.962949"
         },
         "used": {
             "community-implementation-guide-standard": [
+                "criteria/document-the-code.md",
                 "criteria/welcome-contributors.md"
             ]
         },
@@ -290,7 +276,7 @@
     "https://ckan.org/showcase": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:27.580091"
+            "200": "2023-10-27 02:28:02.251472"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -302,7 +288,7 @@
     "https://code.europa.eu/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:41.050820"
+            "200": "2023-10-27 02:28:20.317040"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -314,7 +300,7 @@
     "https://code.gouv.fr/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:53.572276"
+            "200": "2023-10-27 02:28:31.532468"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -326,7 +312,7 @@
     "https://code.iadb.org/en/about": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:57.060564"
+            "200": "2023-10-27 02:28:33.820803"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -335,10 +321,22 @@
         },
         "url": "https://code.iadb.org/en/about"
     },
+    "https://codeberg.org": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:28:34.074140"
+        },
+        "used": {
+            "community-implementation-guide-standard": [
+                "criteria/code-in-the-open.md"
+            ]
+        },
+        "url": "https://codeberg.org"
+    },
     "https://commons.wikimedia.org/wiki/Category:Software_architecture": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:26.808589"
+            "200": "2023-10-27 02:27:58.727301"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -350,7 +348,7 @@
     "https://communityrule.info/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:31.669143"
+            "200": "2023-10-27 02:28:04.280163"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -362,7 +360,7 @@
     "https://componentencatalogus.commonground.nl/producten": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:25.412588"
+            "200": "2023-10-27 02:27:57.560585"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -374,7 +372,7 @@
     "https://creativecommons.org/about/videos/creative-commons-kiwi": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:19.989263"
+            "200": "2023-10-27 02:27:53.764198"
         },
         "used": {
             "standard.publiccode.net": [
@@ -392,7 +390,7 @@
     "https://creativecommons.org/publicdomain/zero/1.0/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:22.301307"
+            "200": "2023-10-27 02:27:55.777932"
         },
         "used": {
             "about.publiccode.net": [
@@ -411,7 +409,7 @@
     "https://crowdin.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:32.785862"
+            "200": "2023-10-27 02:27:51.301871"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -423,7 +421,7 @@
     "https://crowdin.com/translate/decidim": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:33.333137"
+            "200": "2023-10-27 02:27:51.932580"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -435,7 +433,7 @@
     "https://daniel.haxx.se/blog/2022/06/17/curl-is-reuse-compliant/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:18.952893"
+            "200": "2023-10-27 02:27:52.295493"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -447,7 +445,7 @@
     "https://decidim.org/usedby/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:32.898231"
+            "200": "2023-10-27 02:28:04.317440"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -459,7 +457,7 @@
     "https://developer.overheid.nl/repositorys": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:21.760375"
+            "200": "2023-10-27 02:27:54.552955"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -471,7 +469,7 @@
     "https://developers.italia.it/it/software.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:20.285387"
+            "200": "2023-10-27 02:27:53.437984"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -483,7 +481,7 @@
     "https://digitalpublicgoods.net/registry/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:24.747414"
+            "200": "2023-10-27 02:27:58.763812"
         },
         "used": {
             "blog.publiccode.net": [
@@ -499,7 +497,7 @@
     "https://directory.civictech.guide/listing-category/the-tech": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:20.234759"
+            "200": "2023-10-27 02:27:53.637829"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -511,7 +509,7 @@
     "https://directory.fsf.org/wiki/Main_Page": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:21.407231"
+            "200": "2023-10-27 02:27:54.708808"
         },
         "used": {
             "standard.publiccode.net": [
@@ -529,7 +527,7 @@
     "https://docs.gitea.io/en-us/issue-pull-request-templates/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:25.347666"
+            "200": "2023-10-27 02:27:55.914920"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -541,7 +539,7 @@
     "https://docs.gitlab.com/ee/user/project/description_templates.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:19.482732"
+            "200": "2023-10-27 02:27:55.961581"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -553,7 +551,7 @@
     "https://docs.gitlab.com/ee/user/project/protected_branches.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:20.105849"
+            "200": "2023-10-27 02:27:56.515686"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -565,7 +563,7 @@
     "https://docusaurus.io/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:25.229837"
+            "200": "2023-10-27 02:27:58.792702"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -577,7 +575,7 @@
     "https://education.github.com/git-cheat-sheet-education.pdf": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:28.477354"
+            "200": "2023-10-27 02:27:59.588915"
         },
         "used": {
             "standard.publiccode.net": [
@@ -598,7 +596,7 @@
     "https://ethicalexplorer.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:30:14.111621"
+            "200": "2023-10-27 02:27:55.041962"
         },
         "used": {
             "blog.publiccode.net": [
@@ -613,7 +611,7 @@
     "https://fixmystreet.org/community/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:27.252501"
+            "200": "2023-10-27 02:27:58.451987"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -625,7 +623,7 @@
     "https://fixmystreet.org/customising/language/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:28.151092"
+            "200": "2023-10-27 02:27:59.259806"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -637,7 +635,7 @@
     "https://git.fsfe.org/FSFE/fsfe-website/issues": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:24.668737"
+            "200": "2023-10-27 02:27:57.401442"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -649,7 +647,7 @@
     "https://git.fsfe.org/FSFE/fsfe-website/pulls": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:27.542722"
+            "200": "2023-10-27 02:27:58.734776"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -658,10 +656,34 @@
         },
         "url": "https://git.fsfe.org/FSFE/fsfe-website/pulls"
     },
+    "https://gitea.io/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:27:56.721621"
+        },
+        "used": {
+            "community-implementation-guide-standard": [
+                "criteria/code-in-the-open.md"
+            ]
+        },
+        "url": "https://gitea.io/"
+    },
+    "https://github.com/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:27:59.935525"
+        },
+        "used": {
+            "community-implementation-guide-standard": [
+                "criteria/code-in-the-open.md"
+            ]
+        },
+        "url": "https://github.com/"
+    },
     "https://github.com/Amsterdam/amsterdam.github.io/blob/master/CONTRIBUTING.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:31.868828"
+            "200": "2023-10-27 02:28:02.969880"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -673,7 +695,7 @@
     "https://github.com/Amsterdam/amsterdam.github.io/blob/master/guides/write-a-readme.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:32.528756"
+            "200": "2023-10-27 02:28:03.508846"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -685,7 +707,7 @@
     "https://github.com/HSLdevcom/digitransit-ui/blob/v2/docs/Architecture.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:39.136690"
+            "200": "2023-10-27 02:28:08.949385"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -697,7 +719,7 @@
     "https://github.com/OS2Forms/os2forms/tags": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:40.890925"
+            "200": "2023-10-27 02:28:10.466791"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -709,7 +731,7 @@
     "https://github.com/OpenRefine/OpenRefine/blob/master/GOVERNANCE.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:41.996720"
+            "200": "2023-10-27 02:28:11.053914"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -718,10 +740,22 @@
         },
         "url": "https://github.com/OpenRefine/OpenRefine/blob/master/GOVERNANCE.md"
     },
+    "https://github.com/Provincie-Zuid-Holland/Omgevingsbeleid-Frontend#objectives": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:28:13.578088"
+        },
+        "used": {
+            "community-implementation-guide-standard": [
+                "criteria/document-codebase-objectives.md"
+            ]
+        },
+        "url": "https://github.com/Provincie-Zuid-Holland/Omgevingsbeleid-Frontend#objectives"
+    },
     "https://github.com/Seravo/gnitpick": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:46.031080"
+            "200": "2023-10-27 02:28:15.131605"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -733,7 +767,7 @@
     "https://github.com/Signalen/backend/blob/master/.github/pull_request_template.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:46.650612"
+            "200": "2023-10-27 02:28:15.783035"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -745,7 +779,7 @@
     "https://github.com/alphagov/notifications-manuals/wiki": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:49.650143"
+            "200": "2023-10-27 02:28:17.837146"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -757,7 +791,7 @@
     "https://github.com/caramelomartins/awesome-linters": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:50.933070"
+            "200": "2023-10-27 02:28:19.307647"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -766,10 +800,22 @@
         },
         "url": "https://github.com/caramelomartins/awesome-linters"
     },
+    "https://github.com/facebook/docusaurus#license": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:28:26.298893"
+        },
+        "used": {
+            "community-implementation-guide-standard": [
+                "criteria/publish-with-an-open-license.md"
+            ]
+        },
+        "url": "https://github.com/facebook/docusaurus#license"
+    },
     "https://github.com/git/git/blob/master/Documentation/CodingGuidelines": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:57.539509"
+            "200": "2023-10-27 02:28:27.441867"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -779,10 +825,22 @@
         },
         "url": "https://github.com/git/git/blob/master/Documentation/CodingGuidelines"
     },
+    "https://github.com/govdirectory/website/blob/main/CONTRIBUTING.md#direction": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:28:28.545301"
+        },
+        "used": {
+            "community-implementation-guide-standard": [
+                "criteria/document-codebase-objectives.md"
+            ]
+        },
+        "url": "https://github.com/govdirectory/website/blob/main/CONTRIBUTING.md#direction"
+    },
     "https://github.com/licensee/licensee": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:02.340363"
+            "200": "2023-10-27 02:28:32.124041"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -794,7 +852,7 @@
     "https://github.com/ministero-salute/it-dgc-verificaC19-android/blob/develop/publiccode.yml": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:03.329770"
+            "200": "2023-10-27 02:28:32.976071"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -806,7 +864,7 @@
     "https://github.com/mosip/registration/releases": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:03.676588"
+            "200": "2023-10-27 02:28:33.271172"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -818,7 +876,7 @@
     "https://github.com/open-zaak/open-zaak/blob/main/CHANGELOG.rst": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:07.362570"
+            "200": "2023-10-27 02:28:36.796431"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -830,15 +888,9 @@
     "https://github.com/open-zaak/open-zaak/blob/main/CONTRIBUTING.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:07.739920"
+            "200": "2023-10-27 02:28:37.181608"
         },
         "used": {
-            "standard.publiccode.net": [
-                "docs/standard-for-public-code.html"
-            ],
-            "standard.publiccode.net-develop": [
-                "docs/standard-for-public-code.html"
-            ],
             "community-implementation-guide-standard": [
                 "criteria/use-a-coherent-style.md",
                 "criteria/welcome-contributors.md"
@@ -849,7 +901,7 @@
     "https://github.com/open-zaak/open-zaak/blob/main/SECURITY.rst": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:08.126526"
+            "200": "2023-10-27 02:28:37.668255"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -861,7 +913,7 @@
     "https://github.com/open-zaak/open-zaak/blob/main/publiccode.yaml": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:09.053619"
+            "200": "2023-10-27 02:28:38.262738"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -873,7 +925,7 @@
     "https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:11.239301"
+            "200": "2023-10-27 02:28:40.053289"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -885,7 +937,7 @@
     "https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/pages/pages-build-deployment": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:26.306219"
+            "200": "2023-10-27 02:28:53.927806"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -897,7 +949,7 @@
     "https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/pages/pages-build-deployment/badge.svg": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:26.894035"
+            "200": "2023-10-27 02:28:54.448966"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -909,7 +961,7 @@
     "https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/test.yml": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:27.223788"
+            "200": "2023-10-27 02:28:54.769715"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -921,7 +973,7 @@
     "https://github.com/publiccodenet/community-implementation-guide-standard/actions/workflows/test.yml/badge.svg": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:28.060224"
+            "200": "2023-10-27 02:28:55.460769"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -933,7 +985,7 @@
     "https://github.com/publiccodenet/community-implementation-guide-standard/issues": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:28.427892"
+            "200": "2023-10-27 02:28:55.826653"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -942,10 +994,25 @@
         },
         "url": "https://github.com/publiccodenet/community-implementation-guide-standard/issues"
     },
+    "https://github.com/publiccodenet/standard#standard-for-public-code": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:29:08.245403"
+        },
+        "used": {
+            "blog.publiccode.net": [
+                "_posts/2023-08-07-notes-from-community-call-3-august-2023.md"
+            ],
+            "community-implementation-guide-standard": [
+                "criteria/use-open-standards.md"
+            ]
+        },
+        "url": "https://github.com/publiccodenet/standard#standard-for-public-code"
+    },
     "https://github.com/publiccodenet/standard/graphs/contributors": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:48.113795"
+            "200": "2023-10-27 02:29:15.416970"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -957,7 +1024,7 @@
     "https://github.com/publiccodenet/standard/issues": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:48.464411"
+            "200": "2023-10-27 02:29:15.720081"
         },
         "used": {
             "standard.publiccode.net": [
@@ -983,7 +1050,7 @@
     "https://github.com/publiccodenet/standard/pulls": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:48.969018"
+            "200": "2023-10-27 02:29:16.850163"
         },
         "used": {
             "about.publiccode.net": [
@@ -998,7 +1065,7 @@
     "https://github.com/publiccodeyml/publiccode.yml/discussions": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:57.494994"
+            "200": "2023-10-27 02:29:23.978236"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1010,7 +1077,7 @@
     "https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:30:03.517927"
+            "200": "2023-10-27 02:29:29.003648"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1019,10 +1086,22 @@
         },
         "url": "https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md"
     },
+    "https://gitlab.com/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:27:56.832999"
+        },
+        "used": {
+            "community-implementation-guide-standard": [
+                "criteria/code-in-the-open.md"
+            ]
+        },
+        "url": "https://gitlab.com/"
+    },
     "https://gitlab.opencode.de/explore": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:24.847288"
+            "200": "2023-10-27 02:28:39.429033"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1034,7 +1113,7 @@
     "https://gitter.im/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:27.798971"
+            "200": "2023-10-27 02:28:41.670008"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1046,7 +1125,7 @@
     "https://governancegame.publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:07.887649"
+            "200": "2023-10-27 02:28:38.867519"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1058,7 +1137,7 @@
     "https://helmholtz.software/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:38.358683"
+            "200": "2023-10-27 02:28:12.182940"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1070,7 +1149,7 @@
     "https://hemingwayapp.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:26.440147"
+            "200": "2023-10-27 02:28:14.934803"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1082,7 +1161,7 @@
     "https://jitsi.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:30.866245"
+            "200": "2023-10-27 02:28:01.783407"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1094,7 +1173,7 @@
     "https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:48.351288"
+            "200": "2023-10-27 02:28:27.359788"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1106,7 +1185,7 @@
     "https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:48.864821"
+            "200": "2023-10-27 02:28:27.851167"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1118,7 +1197,7 @@
     "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:26.717010"
+            "200": "2023-10-27 02:28:02.837011"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1130,7 +1209,7 @@
     "https://languagetool.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:31.735008"
+            "200": "2023-10-27 02:28:03.225437"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1142,7 +1221,7 @@
     "https://link.springer.com/article/10.1007/s10997-007-9022-9": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:29.554180"
+            "200": "2023-10-27 02:28:02.683528"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1154,7 +1233,7 @@
     "https://lunar-eclipse-a5a.notion.site/Unit-7-Working-in-the-open-f6157a34cc494e90a7fede0e931b7640": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:31.221451"
+            "200": "2023-10-27 02:28:03.982495"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1166,7 +1245,7 @@
     "https://matrix.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:29.557897"
+            "200": "2023-10-27 02:28:03.857274"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1178,7 +1257,7 @@
     "https://mattermost.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:20.828999"
+            "200": "2023-10-27 02:27:53.809148"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1187,10 +1266,25 @@
         },
         "url": "https://mattermost.com/"
     },
+    "https://medium.com/@ElizAyer/dont-ask-forgiveness-radiate-intent-d36fd22393a3": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:28:04.396299"
+        },
+        "used": {
+            "blog.publiccode.net": [
+                "_posts/2020-02-17-learned-at-fosdem.md"
+            ],
+            "community-implementation-guide-standard": [
+                "criteria/code-in-the-open.md"
+            ]
+        },
+        "url": "https://medium.com/@ElizAyer/dont-ask-forgiveness-radiate-intent-d36fd22393a3"
+    },
     "https://offentligkod.se/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:35.699824"
+            "200": "2023-10-27 02:28:07.855641"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1202,7 +1296,7 @@
     "https://openfisca.org/doc/index.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:33.974423"
+            "200": "2023-10-27 02:28:07.775695"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1214,7 +1308,7 @@
     "https://openfisca.org/en/packages/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:34.846364"
+            "200": "2023-10-27 02:28:08.645147"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1226,7 +1320,7 @@
     "https://opensource.com/article/22/10/code-review": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:36.444547"
+            "200": "2023-10-27 02:28:10.108916"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1238,7 +1332,7 @@
     "https://os2.eu/produkt/os2rollekatalog": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:42.289603"
+            "200": "2023-10-27 02:28:12.112210"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1250,7 +1344,7 @@
     "https://ospo-alliance.org/ggi/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:35.887552"
+            "200": "2023-10-27 02:28:18.344428"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1262,7 +1356,7 @@
     "https://phabricator.wikimedia.org/maniphest/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:30.259596"
+            "200": "2023-10-27 02:28:02.177930"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1274,7 +1368,7 @@
     "https://poedit.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:41.397738"
+            "200": "2023-10-27 02:28:12.072664"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1283,10 +1377,28 @@
         },
         "url": "https://poedit.net/"
     },
+    "https://producingoss.com/en/vc.html#vc-vocabulary": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:28:14.008346"
+        },
+        "used": {
+            "standard.publiccode.net": [
+                "criteria/maintain-version-control.md"
+            ],
+            "standard.publiccode.net-develop": [
+                "criteria/maintain-version-control.md"
+            ],
+            "community-implementation-guide-standard": [
+                "criteria/maintain-version-control.md"
+            ]
+        },
+        "url": "https://producingoss.com/en/vc.html#vc-vocabulary"
+    },
     "https://publiccode-editor.developers.italia.it/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:20.668907"
+            "200": "2023-10-27 02:27:53.833744"
         },
         "used": {
             "blog.publiccode.net": [
@@ -1301,7 +1413,7 @@
     "https://publiccodenet.github.io/community-translations-standard/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:22.550591"
+            "200": "2023-10-27 02:27:55.626731"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1329,7 +1441,7 @@
     "https://publiccodenet.github.io/publiccodenet-url-check/badges/community-implementation-guide-standard.svg": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:27.341876"
+            "200": "2023-10-27 02:28:00.001222"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1341,7 +1453,7 @@
     "https://publiccodenet.github.io/publiccodenet-url-check/community-implementation-guide-standard-url-check-look.json": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:28.604211"
+            "200": "2023-10-27 02:28:01.087632"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1353,7 +1465,7 @@
     "https://readme.so/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:42.523667"
+            "200": "2023-10-27 02:28:13.258019"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1365,7 +1477,7 @@
     "https://readthedocs.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:39.401183"
+            "200": "2023-10-27 02:28:13.501190"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1377,7 +1489,7 @@
     "https://reuse.software/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:41.074915"
+            "200": "2023-10-27 02:28:11.768545"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1389,7 +1501,7 @@
     "https://rocket.chat/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:44.188057"
+            "200": "2023-10-27 02:28:14.485438"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1401,7 +1513,7 @@
     "https://rubygems.org": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:39.556343"
+            "200": "2023-10-27 02:28:15.550066"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1425,10 +1537,22 @@
         },
         "url": "https://rubygems.org"
     },
+    "https://saopen.ieee.org/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:27:55.052453"
+        },
+        "used": {
+            "community-implementation-guide-standard": [
+                "criteria/code-in-the-open.md"
+            ]
+        },
+        "url": "https://saopen.ieee.org/"
+    },
     "https://semver.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:40.960801"
+            "200": "2023-10-27 02:28:12.503999"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1446,7 +1570,7 @@
     "https://signalen.org": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:23.913512"
+            "200": "2023-10-27 02:27:57.407833"
         },
         "used": {
             "publiccode.net": [
@@ -1467,7 +1591,7 @@
     "https://skills.github.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:30:07.256114"
+            "200": "2023-10-27 02:29:31.910152"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1493,7 +1617,7 @@
     "https://softwarecollaborative.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:41.291628"
+            "200": "2023-10-27 02:28:12.811443"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1505,7 +1629,7 @@
     "https://solutions.dial.community/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:41.990522"
+            "200": "2023-10-27 02:28:13.290591"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1514,10 +1638,22 @@
         },
         "url": "https://solutions.dial.community/"
     },
+    "https://sourcehut.org": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:28:14.848891"
+        },
+        "used": {
+            "community-implementation-guide-standard": [
+                "criteria/code-in-the-open.md"
+            ]
+        },
+        "url": "https://sourcehut.org"
+    },
     "https://spec.openapis.org/oas/latest.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:43.684631"
+            "200": "2023-10-27 02:28:13.951693"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1529,7 +1665,7 @@
     "https://splasho.com/upgoer5/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:41.129128"
+            "200": "2023-10-27 02:28:14.471783"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1541,7 +1677,7 @@
     "https://standard.publiccode.net": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:26.926679"
+            "200": "2023-10-27 02:28:56.139508"
         },
         "used": {
             "publiccode.net": [
@@ -1573,7 +1709,7 @@
     "https://standard.publiccode.net/criteria/bundle-policy-and-source-code.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:28.407324"
+            "200": "2023-10-27 02:28:57.295310"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1593,7 +1729,7 @@
     "https://standard.publiccode.net/criteria/code-in-the-open.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:28.619224"
+            "200": "2023-10-27 02:28:57.452521"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1613,7 +1749,7 @@
     "https://standard.publiccode.net/criteria/document-codebase-maturity.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:28.998530"
+            "200": "2023-10-27 02:28:58.100036"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1633,7 +1769,7 @@
     "https://standard.publiccode.net/criteria/document-codebase-objectives.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:29.196590"
+            "200": "2023-10-27 02:28:58.272410"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1653,7 +1789,7 @@
     "https://standard.publiccode.net/criteria/document-the-code.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:29.571152"
+            "200": "2023-10-27 02:28:58.567188"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1673,7 +1809,7 @@
     "https://standard.publiccode.net/criteria/maintain-version-control.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:29.756993"
+            "200": "2023-10-27 02:28:58.749891"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1693,7 +1829,7 @@
     "https://standard.publiccode.net/criteria/make-contributing-easy.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:29.976012"
+            "200": "2023-10-27 02:28:59.042870"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1713,7 +1849,7 @@
     "https://standard.publiccode.net/criteria/make-the-codebase-findable.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:30.173344"
+            "200": "2023-10-27 02:28:59.187156"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1733,7 +1869,7 @@
     "https://standard.publiccode.net/criteria/make-the-codebase-reusable-and-portable.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:30.350098"
+            "200": "2023-10-27 02:28:59.340510"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1751,7 +1887,7 @@
     "https://standard.publiccode.net/criteria/publish-with-an-open-license.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:31.112649"
+            "200": "2023-10-27 02:29:00.221531"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1771,7 +1907,7 @@
     "https://standard.publiccode.net/criteria/require-review-of-contributions.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:31.303626"
+            "200": "2023-10-27 02:29:00.429167"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1794,7 +1930,7 @@
     "https://standard.publiccode.net/criteria/use-a-coherent-style.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:32.061779"
+            "200": "2023-10-27 02:29:01.083329"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1814,7 +1950,7 @@
     "https://standard.publiccode.net/criteria/use-continuous-integration.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:32.243236"
+            "200": "2023-10-27 02:29:01.246405"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1837,7 +1973,7 @@
     "https://standard.publiccode.net/criteria/use-open-standards.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:32.437513"
+            "200": "2023-10-27 02:29:01.459770"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1857,7 +1993,7 @@
     "https://standard.publiccode.net/criteria/use-plain-english.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:32.621152"
+            "200": "2023-10-27 02:29:01.611715"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1877,7 +2013,7 @@
     "https://standard.publiccode.net/criteria/welcome-contributors.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:32.808067"
+            "200": "2023-10-27 02:29:01.870753"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1888,16 +2024,31 @@
                 "docs/review-template.html",
                 "docs/standard-for-public-code.html"
             ],
+            "blog.publiccode.net": [
+                "_posts/2023-09-11-notes-from-community-call-7-september-2023.md"
+            ],
             "community-implementation-guide-standard": [
                 "criteria/welcome-contributors.md"
             ]
         },
         "url": "https://standard.publiccode.net/criteria/welcome-contributors.html"
     },
+    "https://theodi2022.wpengine.com/article/the-data-ethics-canvas-2021/#1674123020653-5e9f001c-5eb8": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:28:14.460518"
+        },
+        "used": {
+            "community-implementation-guide-standard": [
+                "criteria/document-codebase-objectives.md"
+            ]
+        },
+        "url": "https://theodi2022.wpengine.com/article/the-data-ethics-canvas-2021/#1674123020653-5e9f001c-5eb8"
+    },
     "https://translatewiki.net/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:43.531757"
+            "200": "2023-10-27 02:28:16.644836"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1909,7 +2060,7 @@
     "https://weblate.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:47.924657"
+            "200": "2023-10-27 02:28:15.569604"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1921,7 +2072,7 @@
     "https://welsh-revenue-authority.github.io/weeknotes/property-data-poc/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:31.256517"
+            "200": "2023-10-27 02:28:02.945425"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1933,7 +2084,7 @@
     "https://www.bpmnquickguide.com/view-bpmn-quick-guide/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:47.035301"
+            "200": "2023-10-27 02:28:19.764607"
         },
         "used": {
             "standard.publiccode.net": [
@@ -1948,10 +2099,22 @@
         },
         "url": "https://www.bpmnquickguide.com/view-bpmn-quick-guide/"
     },
+    "https://www.digg.se/regler-och-rekommendationer#/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:28:18.977415"
+        },
+        "used": {
+            "community-implementation-guide-standard": [
+                "criteria/bundle-policy-and-source-code.md"
+            ]
+        },
+        "url": "https://www.digg.se/regler-och-rekommendationer#/"
+    },
     "https://www.discourse.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:47.287379"
+            "200": "2023-10-27 02:28:17.512204"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1963,7 +2126,7 @@
     "https://www.fixmystreet.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:29:00.079245"
+            "200": "2023-10-27 02:28:30.062566"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1972,10 +2135,22 @@
         },
         "url": "https://www.fixmystreet.com/"
     },
+    "https://www.gitpod.io/": {
+        "checks": {
+            "status": 200,
+            "200": "2023-10-27 02:28:19.140998"
+        },
+        "used": {
+            "community-implementation-guide-standard": [
+                "criteria/code-in-the-open.md"
+            ]
+        },
+        "url": "https://www.gitpod.io/"
+    },
     "https://www.gnu.org/software/gettext/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:48.204530"
+            "200": "2023-10-27 02:28:19.580756"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -1987,7 +2162,7 @@
     "https://www.gov.uk/service-manual/agile-delivery": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:38.055746"
+            "200": "2023-10-27 02:28:03.130947"
         },
         "used": {
             "standard.publiccode.net": [
@@ -2005,7 +2180,7 @@
     "https://www.masterportal.org/maintainer-group-en.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:49.247252"
+            "200": "2023-10-27 02:28:20.168779"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -2017,7 +2192,7 @@
     "https://www.mkdocs.org/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:53.966174"
+            "200": "2023-10-27 02:28:26.519625"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -2029,7 +2204,7 @@
     "https://www.mumble.info/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:49.361385"
+            "200": "2023-10-27 02:28:20.367202"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -2041,7 +2216,7 @@
     "https://www.notifications.service.gov.uk/features/roadmap": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:44.555198"
+            "200": "2023-10-27 02:28:07.711855"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -2053,7 +2228,7 @@
     "https://www.transifex.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:53.126142"
+            "200": "2023-10-27 02:28:23.109114"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -2065,7 +2240,7 @@
     "https://www.w3.org/International/techniques/authoring-html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:29.593629"
+            "200": "2023-10-27 02:27:58.696607"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -2077,7 +2252,7 @@
     "https://www.w3.org/WAI/WCAG20/Understanding/reading-level.html": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:30.207753"
+            "200": "2023-10-27 02:27:59.909426"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -2089,7 +2264,7 @@
     "https://www.wikidata.org": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:54.686727"
+            "200": "2023-10-27 02:28:23.076164"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -2101,7 +2276,7 @@
     "https://www.youtube.com/watch?v=KVleNqyohNY": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:38.668316"
+            "200": "2023-10-27 02:28:11.503624"
         },
         "used": {
             "community-implementation-guide-standard": [
@@ -2113,7 +2288,7 @@
     "https://zulip.com/": {
         "checks": {
             "status": 200,
-            "200": "2023-10-26 02:28:53.162884"
+            "200": "2023-10-27 02:28:31.168010"
         },
         "used": {
             "community-implementation-guide-standard": [

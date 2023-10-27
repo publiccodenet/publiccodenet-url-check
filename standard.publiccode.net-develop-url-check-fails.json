@@ -1,24 +1,6 @@
 {
-    "urls": {
-        "https://www.reclameland.nl/drukken/folders)": {
-            "checks": {
-                "status": 404,
-                "fail": {
-                    "from": "2023-10-24 02:29:32.001016",
-                    "from-code": 404,
-                    "to": "2023-10-26 02:28:54.283761",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "standard.publiccode.net-develop": [
-                    "docs/printing-checklist.md"
-                ]
-            },
-            "url": "https://www.reclameland.nl/drukken/folders)"
-        }
-    },
+    "urls": {},
     "repos": {
-        "standard.publiccode.net-develop": "failing"
+        "standard.publiccode.net-develop": "passing"
     }
 }

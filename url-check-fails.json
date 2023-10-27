@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-10-22 02:30:19.443576",
                     "from-code": 0,
-                    "to": "2023-10-26 02:28:45.421590",
+                    "to": "2023-10-27 02:28:08.460078",
                     "to-code": 0
                 }
             },
@@ -18,54 +18,20 @@
             },
             "url": "https://getethermap.org/m/amsterdamswim"
         },
-        "https://maadix.net/": {
+        "https://magazinedigitalestad.nl/index.html#issue/1": {
             "checks": {
                 "status": 0,
-                "200": "2023-10-25 02:28:20.702528",
                 "fail": {
-                    "from": "2023-10-26 02:28:31.590249",
+                    "from": "2023-10-27 02:28:06.756531",
                     "from-code": 0
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/tool-management/index.md"
+                    "organization/annual-reports/annual-report-2019-2020.md"
                 ]
             },
-            "url": "https://maadix.net/"
-        },
-        "https://maadix.net/en": {
-            "checks": {
-                "status": 0,
-                "200": "2023-10-25 02:28:21.494493",
-                "fail": {
-                    "from": "2023-10-26 02:29:01.675191",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/tool-management/etherpad.md",
-                    "activities/tool-management/mailing-lists.md"
-                ]
-            },
-            "url": "https://maadix.net/en"
-        },
-        "https://maadix.net/en/terms-conditions": {
-            "checks": {
-                "status": 0,
-                "200": "2023-10-25 02:28:22.133087",
-                "fail": {
-                    "from": "2023-10-26 02:29:31.707323",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/tool-management/nextcloud.md"
-                ]
-            },
-            "url": "https://maadix.net/en/terms-conditions"
+            "url": "https://magazinedigitalestad.nl/index.html#issue/1"
         },
         "https://meet.community.publiccode.net/accountmanager/admin": {
             "checks": {
@@ -74,7 +40,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:50.903054",
                     "from-code": 0,
-                    "to": "2023-10-26 02:29:09.068095",
+                    "to": "2023-10-27 02:28:41.260496",
                     "to-code": 0
                 }
             },
@@ -92,7 +58,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:51.175738",
                     "from-code": 0,
-                    "to": "2023-10-26 02:29:09.506938",
+                    "to": "2023-10-27 02:28:41.567016",
                     "to-code": 0
                 }
             },
@@ -107,6 +73,21 @@
             },
             "url": "https://meet.community.publiccode.net/accountmanager/register/"
         },
+        "https://openstad.org)and": {
+            "checks": {
+                "status": 0,
+                "fail": {
+                    "from": "2023-10-27 02:28:13.151908",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-06-08-product-management-in-open-source.md"
+                ]
+            },
+            "url": "https://openstad.org)and"
+        },
         "https://streamyard.com/resources/docs/privacy/": {
             "checks": {
                 "status": 403,
@@ -114,7 +95,7 @@
                 "fail": {
                     "from": "2023-10-18 02:30:03.815157",
                     "from-code": 403,
-                    "to": "2023-10-26 02:28:44.351127",
+                    "to": "2023-10-27 02:28:16.663887",
                     "to-code": 403
                 }
             },
@@ -125,27 +106,85 @@
             },
             "url": "https://streamyard.com/resources/docs/privacy/"
         },
-        "https://www.reclameland.nl/drukken/folders)": {
+        "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=1&artikel=1&z=2019-07-01&g=2019-07-01": {
             "checks": {
-                "status": 404,
+                "status": 0,
                 "fail": {
-                    "from": "2023-10-24 02:29:32.001016",
-                    "from-code": 404,
-                    "to": "2023-10-26 02:28:54.283761",
-                    "to-code": 404
+                    "from": "2023-10-27 02:27:55.699069",
+                    "from-code": 0
                 }
             },
             "used": {
-                "standard.publiccode.net-develop": [
-                    "docs/printing-checklist.md"
+                "about.publiccode.net": [
+                    "organization/articles-of-association.md"
                 ]
             },
-            "url": "https://www.reclameland.nl/drukken/folders)"
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=1&artikel=1&z=2019-07-01&g=2019-07-01"
+        },
+        "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=2&artikel=35&z=2019-07-01&g=2019-07-01": {
+            "checks": {
+                "status": 0,
+                "fail": {
+                    "from": "2023-10-27 02:28:00.491161",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/articles-of-association.md"
+                ]
+            },
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=2&artikel=35&z=2019-07-01&g=2019-07-01"
+        },
+        "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=2&artikel=48&z=2019-07-01&g=2019-07-01": {
+            "checks": {
+                "status": 0,
+                "fail": {
+                    "from": "2023-10-27 02:28:04.804825",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/articles-of-association.md"
+                ]
+            },
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=2&artikel=48&z=2019-07-01&g=2019-07-01"
+        },
+        "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=9&afdeling=11&artikel=396&z=2019-07-01&g=2019-07-01": {
+            "checks": {
+                "status": 0,
+                "fail": {
+                    "from": "2023-10-27 02:28:09.061157",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/articles-of-association.md"
+                ]
+            },
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=9&afdeling=11&artikel=396&z=2019-07-01&g=2019-07-01"
+        },
+        "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=9&afdeling=8&artikel=392&z=2019-07-01&g=2019-07-01": {
+            "checks": {
+                "status": 0,
+                "fail": {
+                    "from": "2023-10-27 02:28:13.297281",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/articles-of-association.md"
+                ]
+            },
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=9&afdeling=8&artikel=392&z=2019-07-01&g=2019-07-01"
         }
     },
     "repos": {
         "standard.publiccode.net": "passing",
-        "standard.publiccode.net-develop": "failing",
+        "standard.publiccode.net-develop": "passing",
         "publiccode.net": "passing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
