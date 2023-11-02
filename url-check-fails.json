@@ -1,5 +1,24 @@
 {
     "urls": {
+        "https://ethicalexplorer.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-11-01 02:31:52.617278",
+                "fail": {
+                    "from": "2023-11-02 02:28:55.690208",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-12-02-summer-2020-newsletter.md"
+                ],
+                "community-implementation-guide-standard": [
+                    "criteria/document-codebase-objectives.md"
+                ]
+            },
+            "url": "https://ethicalexplorer.org/"
+        },
         "https://getethermap.org/m/amsterdamswim": {
             "checks": {
                 "status": 0,
@@ -7,7 +26,7 @@
                 "fail": {
                     "from": "2023-10-22 02:30:19.443576",
                     "from-code": 0,
-                    "to": "2023-11-01 02:32:01.898963",
+                    "to": "2023-11-02 02:29:08.329453",
                     "to-code": 0
                 }
             },
@@ -24,7 +43,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:06.756531",
                     "from-code": 0,
-                    "to": "2023-11-01 02:31:54.689939",
+                    "to": "2023-11-02 02:28:58.097613",
                     "to-code": 0
                 }
             },
@@ -42,7 +61,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:50.903054",
                     "from-code": 0,
-                    "to": "2023-11-01 02:32:15.900287",
+                    "to": "2023-11-02 02:29:30.150132",
                     "to-code": 0
                 }
             },
@@ -60,7 +79,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:51.175738",
                     "from-code": 0,
-                    "to": "2023-11-01 02:32:16.145708",
+                    "to": "2023-11-02 02:29:30.457766",
                     "to-code": 0
                 }
             },
@@ -82,7 +101,7 @@
                 "fail": {
                     "from": "2023-10-18 02:30:03.815157",
                     "from-code": 403,
-                    "to": "2023-11-01 02:32:04.723308",
+                    "to": "2023-11-02 02:29:11.854007",
                     "to-code": 403
                 }
             },
@@ -99,7 +118,7 @@
                 "fail": {
                     "from": "2023-10-27 02:27:55.699069",
                     "from-code": 0,
-                    "to": "2023-11-01 02:31:52.334240",
+                    "to": "2023-11-02 02:28:54.903456",
                     "to-code": 0
                 }
             },
@@ -116,7 +135,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:00.491161",
                     "from-code": 0,
-                    "to": "2023-11-01 02:31:56.698106",
+                    "to": "2023-11-02 02:29:00.303408",
                     "to-code": 0
                 }
             },
@@ -133,7 +152,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:04.804825",
                     "from-code": 0,
-                    "to": "2023-11-01 02:32:00.485336",
+                    "to": "2023-11-02 02:29:05.024348",
                     "to-code": 0
                 }
             },
@@ -150,7 +169,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:09.061157",
                     "from-code": 0,
-                    "to": "2023-11-01 02:32:04.266216",
+                    "to": "2023-11-02 02:29:09.669670",
                     "to-code": 0
                 }
             },
@@ -167,7 +186,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:13.297281",
                     "from-code": 0,
-                    "to": "2023-11-01 02:32:08.343320",
+                    "to": "2023-11-02 02:29:14.296197",
                     "to-code": 0
                 }
             },
@@ -185,7 +204,7 @@
         "publiccode.net": "passing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
-        "community-implementation-guide-standard": "passing",
+        "community-implementation-guide-standard": "failing",
         "bumperscripter": "passing"
     }
 }

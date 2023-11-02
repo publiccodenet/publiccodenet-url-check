@@ -1,5 +1,24 @@
 {
     "urls": {
+        "https://ethicalexplorer.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-11-01 02:31:52.617278",
+                "fail": {
+                    "from": "2023-11-02 02:28:55.690208",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-12-02-summer-2020-newsletter.md"
+                ],
+                "community-implementation-guide-standard": [
+                    "criteria/document-codebase-objectives.md"
+                ]
+            },
+            "url": "https://ethicalexplorer.org/"
+        },
         "https://getethermap.org/m/amsterdamswim": {
             "checks": {
                 "status": 0,
@@ -7,7 +26,7 @@
                 "fail": {
                     "from": "2023-10-22 02:30:19.443576",
                     "from-code": 0,
-                    "to": "2023-11-01 02:32:01.898963",
+                    "to": "2023-11-02 02:29:08.329453",
                     "to-code": 0
                 }
             },
@@ -25,7 +44,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:51.175738",
                     "from-code": 0,
-                    "to": "2023-11-01 02:32:16.145708",
+                    "to": "2023-11-02 02:29:30.457766",
                     "to-code": 0
                 }
             },
@@ -43,6 +62,7 @@
     },
     "repos": {
         "blog.publiccode.net": "failing",
+        "community-implementation-guide-standard": "failing",
         "about.publiccode.net": "failing"
     }
 }
