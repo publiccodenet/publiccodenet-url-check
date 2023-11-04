@@ -1,6 +1,27 @@
 {
-    "urls": {},
+    "urls": {
+        "https://github.com/open-zaak/open-zaak/blob/main/docs/introduction/open-source/public_code.md": {
+            "checks": {
+                "status": 404,
+                "200": "2023-11-03 02:29:32.256651",
+                "fail": {
+                    "from": "2023-11-04 02:30:22.651030",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "publiccode.net": [
+                    "codebases/openzaak.html"
+                ],
+                "about.publiccode.net": [
+                    "organization/annual-reports/annual-report-2021.md"
+                ]
+            },
+            "url": "https://github.com/open-zaak/open-zaak/blob/main/docs/introduction/open-source/public_code.md"
+        }
+    },
     "repos": {
-        "publiccode.net": "passing"
+        "publiccode.net": "failing",
+        "about.publiccode.net": "failing"
     }
 }
