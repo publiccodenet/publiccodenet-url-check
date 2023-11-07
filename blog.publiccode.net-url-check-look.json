@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-11-02 02:28:55.690208",
                     "from-code": 0,
-                    "to": "2023-11-06 02:31:58.495613",
+                    "to": "2023-11-07 02:30:41.362674",
                     "to-code": 0
                 }
             },
@@ -28,7 +28,7 @@
                 "fail": {
                     "from": "2023-10-22 02:30:19.443576",
                     "from-code": 0,
-                    "to": "2023-11-06 02:32:03.679940",
+                    "to": "2023-11-07 02:30:55.613966",
                     "to-code": 0
                 }
             },
@@ -39,6 +39,21 @@
             },
             "url": "https://getethermap.org/m/amsterdamswim"
         },
+        "https://hamish.dev/a-love-letter-to-the-parliamentary-counsel-of-the-world)": {
+            "checks": {
+                "status": 404,
+                "fail": {
+                    "from": "2023-11-07 02:30:51.507391",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2023-11-06-notes-from-community-call-2-november-2023.md"
+                ]
+            },
+            "url": "https://hamish.dev/a-love-letter-to-the-parliamentary-counsel-of-the-world)"
+        },
         "https://meet.community.publiccode.net/accountmanager/register/": {
             "checks": {
                 "status": 0,
@@ -46,7 +61,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:51.175738",
                     "from-code": 0,
-                    "to": "2023-11-06 02:32:14.979286",
+                    "to": "2023-11-07 02:31:09.296426",
                     "to-code": 0
                 }
             },
@@ -68,7 +83,7 @@
                 "fail": {
                     "from": "2023-11-04 02:29:50.158850",
                     "from-code": 0,
-                    "to": "2023-11-06 02:32:01.955548",
+                    "to": "2023-11-07 02:30:49.494927",
                     "to-code": 0
                 }
             },
@@ -78,6 +93,22 @@
                 ]
             },
             "url": "https://poddtoppen.se/podcast/1343814270/omsorgspodden/avsnitt-919-fran-almedalen-gastas-av-digitaliseringsdirektorn-i-sundsvall-och-ange"
+        },
+        "https://www.govtechsummit.eu/": {
+            "checks": {
+                "status": 406,
+                "200": "2023-11-06 02:32:14.247621",
+                "fail": {
+                    "from": "2023-11-07 02:31:03.150289",
+                    "from-code": 406
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2022-11-08-notes-from-community-call-3-november-2022.md"
+                ]
+            },
+            "url": "https://www.govtechsummit.eu/"
         }
     },
     "repos": {

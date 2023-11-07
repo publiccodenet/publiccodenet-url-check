@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-11-02 02:28:55.690208",
                     "from-code": 0,
-                    "to": "2023-11-06 02:31:58.495613",
+                    "to": "2023-11-07 02:30:41.362674",
                     "to-code": 0
                 }
             },
@@ -28,7 +28,7 @@
                 "fail": {
                     "from": "2023-10-22 02:30:19.443576",
                     "from-code": 0,
-                    "to": "2023-11-06 02:32:03.679940",
+                    "to": "2023-11-07 02:30:55.613966",
                     "to-code": 0
                 }
             },
@@ -46,7 +46,7 @@
                 "fail": {
                     "from": "2023-11-04 02:30:22.651030",
                     "from-code": 404,
-                    "to": "2023-11-06 02:32:20.858685",
+                    "to": "2023-11-07 02:31:14.105667",
                     "to-code": 404
                 }
             },
@@ -60,13 +60,28 @@
             },
             "url": "https://github.com/open-zaak/open-zaak/blob/main/docs/introduction/open-source/public_code.md"
         },
+        "https://hamish.dev/a-love-letter-to-the-parliamentary-counsel-of-the-world)": {
+            "checks": {
+                "status": 404,
+                "fail": {
+                    "from": "2023-11-07 02:30:51.507391",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2023-11-06-notes-from-community-call-2-november-2023.md"
+                ]
+            },
+            "url": "https://hamish.dev/a-love-letter-to-the-parliamentary-counsel-of-the-world)"
+        },
         "https://magazinedigitalestad.nl/index.html#issue/1": {
             "checks": {
                 "status": 0,
                 "fail": {
                     "from": "2023-10-27 02:28:06.756531",
                     "from-code": 0,
-                    "to": "2023-11-06 02:31:58.438531",
+                    "to": "2023-11-07 02:30:45.027919",
                     "to-code": 0
                 }
             },
@@ -84,7 +99,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:50.903054",
                     "from-code": 0,
-                    "to": "2023-11-06 02:32:14.756485",
+                    "to": "2023-11-07 02:31:08.965689",
                     "to-code": 0
                 }
             },
@@ -102,7 +117,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:51.175738",
                     "from-code": 0,
-                    "to": "2023-11-06 02:32:14.979286",
+                    "to": "2023-11-07 02:31:09.296426",
                     "to-code": 0
                 }
             },
@@ -124,7 +139,7 @@
                 "fail": {
                     "from": "2023-11-04 02:29:50.158850",
                     "from-code": 0,
-                    "to": "2023-11-06 02:32:01.955548",
+                    "to": "2023-11-07 02:30:49.494927",
                     "to-code": 0
                 }
             },
@@ -135,6 +150,22 @@
             },
             "url": "https://poddtoppen.se/podcast/1343814270/omsorgspodden/avsnitt-919-fran-almedalen-gastas-av-digitaliseringsdirektorn-i-sundsvall-och-ange"
         },
+        "https://rocket.chat/": {
+            "checks": {
+                "status": 406,
+                "200": "2023-11-06 02:32:06.039379",
+                "fail": {
+                    "from": "2023-11-07 02:30:54.950135",
+                    "from-code": 406
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/make-contributing-easy.md"
+                ]
+            },
+            "url": "https://rocket.chat/"
+        },
         "https://streamyard.com/resources/docs/privacy/": {
             "checks": {
                 "status": 403,
@@ -142,7 +173,7 @@
                 "fail": {
                     "from": "2023-10-18 02:30:03.815157",
                     "from-code": 403,
-                    "to": "2023-11-06 02:32:09.175457",
+                    "to": "2023-11-07 02:30:56.236673",
                     "to-code": 403
                 }
             },
@@ -153,13 +184,29 @@
             },
             "url": "https://streamyard.com/resources/docs/privacy/"
         },
+        "https://weblate.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-11-06 02:32:09.508226",
+                "fail": {
+                    "from": "2023-11-07 02:31:01.817468",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/make-the-codebase-reusable-and-portable.md"
+                ]
+            },
+            "url": "https://weblate.org/"
+        },
         "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=1&artikel=1&z=2019-07-01&g=2019-07-01": {
             "checks": {
                 "status": 0,
                 "fail": {
                     "from": "2023-10-27 02:27:55.699069",
                     "from-code": 0,
-                    "to": "2023-11-06 02:31:56.693519",
+                    "to": "2023-11-07 02:30:40.793254",
                     "to-code": 0
                 }
             },
@@ -176,7 +223,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:00.491161",
                     "from-code": 0,
-                    "to": "2023-11-06 02:32:00.188212",
+                    "to": "2023-11-07 02:30:46.187097",
                     "to-code": 0
                 }
             },
@@ -193,7 +240,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:04.804825",
                     "from-code": 0,
-                    "to": "2023-11-06 02:32:03.614534",
+                    "to": "2023-11-07 02:30:51.211247",
                     "to-code": 0
                 }
             },
@@ -210,7 +257,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:09.061157",
                     "from-code": 0,
-                    "to": "2023-11-06 02:32:06.786292",
+                    "to": "2023-11-07 02:30:56.150340",
                     "to-code": 0
                 }
             },
@@ -227,7 +274,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:13.297281",
                     "from-code": 0,
-                    "to": "2023-11-06 02:32:09.936027",
+                    "to": "2023-11-07 02:31:01.090818",
                     "to-code": 0
                 }
             },
@@ -237,6 +284,22 @@
                 ]
             },
             "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=9&afdeling=8&artikel=392&z=2019-07-01&g=2019-07-01"
+        },
+        "https://www.govtechsummit.eu/": {
+            "checks": {
+                "status": 406,
+                "200": "2023-11-06 02:32:14.247621",
+                "fail": {
+                    "from": "2023-11-07 02:31:03.150289",
+                    "from-code": 406
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2022-11-08-notes-from-community-call-3-november-2022.md"
+                ]
+            },
+            "url": "https://www.govtechsummit.eu/"
         }
     },
     "repos": {
