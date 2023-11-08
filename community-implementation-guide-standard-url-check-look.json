@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-11-02 02:28:55.690208",
                     "from-code": 0,
-                    "to": "2023-11-07 02:30:41.362674",
+                    "to": "2023-11-08 02:30:04.188279",
                     "to-code": 0
                 }
             },
@@ -20,38 +20,6 @@
                 ]
             },
             "url": "https://ethicalexplorer.org/"
-        },
-        "https://rocket.chat/": {
-            "checks": {
-                "status": 406,
-                "200": "2023-11-06 02:32:06.039379",
-                "fail": {
-                    "from": "2023-11-07 02:30:54.950135",
-                    "from-code": 406
-                }
-            },
-            "used": {
-                "community-implementation-guide-standard": [
-                    "criteria/make-contributing-easy.md"
-                ]
-            },
-            "url": "https://rocket.chat/"
-        },
-        "https://weblate.org/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-11-06 02:32:09.508226",
-                "fail": {
-                    "from": "2023-11-07 02:31:01.817468",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "community-implementation-guide-standard": [
-                    "criteria/make-the-codebase-reusable-and-portable.md"
-                ]
-            },
-            "url": "https://weblate.org/"
         }
     },
     "repos": {

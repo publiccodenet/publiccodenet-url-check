@@ -1,29 +1,28 @@
 {
     "urls": {
-        "https://github.com/open-zaak/open-zaak/blob/main/docs/introduction/open-source/public_code.md": {
+        "https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html": {
             "checks": {
                 "status": 404,
-                "200": "2023-11-03 02:29:32.256651",
+                "200": "2023-11-07 02:30:43.080196",
                 "fail": {
-                    "from": "2023-11-04 02:30:22.651030",
-                    "from-code": 404,
-                    "to": "2023-11-07 02:31:14.105667",
-                    "to-code": 404
+                    "from": "2023-11-08 02:30:04.126322",
+                    "from-code": 404
                 }
             },
             "used": {
                 "publiccode.net": [
-                    "codebases/openzaak.html"
+                    "codebases/index.html"
                 ],
-                "about.publiccode.net": [
-                    "organization/annual-reports/annual-report-2021.md"
+                "blog.publiccode.net": [
+                    "_posts/2020-02-21-notes-from-community-call-20-february-2020.md",
+                    "_posts/2021-02-04-signalen-is-in-incubation.md"
                 ]
             },
-            "url": "https://github.com/open-zaak/open-zaak/blob/main/docs/introduction/open-source/public_code.md"
+            "url": "https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html"
         }
     },
     "repos": {
         "publiccode.net": "failing",
-        "about.publiccode.net": "failing"
+        "blog.publiccode.net": "failing"
     }
 }

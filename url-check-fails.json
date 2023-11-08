@@ -1,5 +1,25 @@
 {
     "urls": {
+        "https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html": {
+            "checks": {
+                "status": 404,
+                "200": "2023-11-07 02:30:43.080196",
+                "fail": {
+                    "from": "2023-11-08 02:30:04.126322",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "publiccode.net": [
+                    "codebases/index.html"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2020-02-21-notes-from-community-call-20-february-2020.md",
+                    "_posts/2021-02-04-signalen-is-in-incubation.md"
+                ]
+            },
+            "url": "https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html"
+        },
         "https://ethicalexplorer.org/": {
             "checks": {
                 "status": 0,
@@ -7,7 +27,7 @@
                 "fail": {
                     "from": "2023-11-02 02:28:55.690208",
                     "from-code": 0,
-                    "to": "2023-11-07 02:30:41.362674",
+                    "to": "2023-11-08 02:30:04.188279",
                     "to-code": 0
                 }
             },
@@ -28,7 +48,7 @@
                 "fail": {
                     "from": "2023-10-22 02:30:19.443576",
                     "from-code": 0,
-                    "to": "2023-11-07 02:30:55.613966",
+                    "to": "2023-11-08 02:30:12.199735",
                     "to-code": 0
                 }
             },
@@ -46,14 +66,11 @@
                 "fail": {
                     "from": "2023-11-04 02:30:22.651030",
                     "from-code": 404,
-                    "to": "2023-11-07 02:31:14.105667",
+                    "to": "2023-11-08 02:30:40.092439",
                     "to-code": 404
                 }
             },
             "used": {
-                "publiccode.net": [
-                    "codebases/openzaak.html"
-                ],
                 "about.publiccode.net": [
                     "organization/annual-reports/annual-report-2021.md"
                 ]
@@ -65,7 +82,9 @@
                 "status": 404,
                 "fail": {
                     "from": "2023-11-07 02:30:51.507391",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-11-08 02:30:16.416856",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -81,7 +100,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:06.756531",
                     "from-code": 0,
-                    "to": "2023-11-07 02:30:45.027919",
+                    "to": "2023-11-08 02:30:08.083014",
                     "to-code": 0
                 }
             },
@@ -99,7 +118,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:50.903054",
                     "from-code": 0,
-                    "to": "2023-11-07 02:31:08.965689",
+                    "to": "2023-11-08 02:30:32.211615",
                     "to-code": 0
                 }
             },
@@ -117,7 +136,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:51.175738",
                     "from-code": 0,
-                    "to": "2023-11-07 02:31:09.296426",
+                    "to": "2023-11-08 02:30:32.703320",
                     "to-code": 0
                 }
             },
@@ -139,7 +158,7 @@
                 "fail": {
                     "from": "2023-11-04 02:29:50.158850",
                     "from-code": 0,
-                    "to": "2023-11-07 02:30:49.494927",
+                    "to": "2023-11-08 02:30:12.632663",
                     "to-code": 0
                 }
             },
@@ -150,22 +169,6 @@
             },
             "url": "https://poddtoppen.se/podcast/1343814270/omsorgspodden/avsnitt-919-fran-almedalen-gastas-av-digitaliseringsdirektorn-i-sundsvall-och-ange"
         },
-        "https://rocket.chat/": {
-            "checks": {
-                "status": 406,
-                "200": "2023-11-06 02:32:06.039379",
-                "fail": {
-                    "from": "2023-11-07 02:30:54.950135",
-                    "from-code": 406
-                }
-            },
-            "used": {
-                "community-implementation-guide-standard": [
-                    "criteria/make-contributing-easy.md"
-                ]
-            },
-            "url": "https://rocket.chat/"
-        },
         "https://streamyard.com/resources/docs/privacy/": {
             "checks": {
                 "status": 403,
@@ -173,7 +176,7 @@
                 "fail": {
                     "from": "2023-10-18 02:30:03.815157",
                     "from-code": 403,
-                    "to": "2023-11-07 02:30:56.236673",
+                    "to": "2023-11-08 02:30:19.889618",
                     "to-code": 403
                 }
             },
@@ -184,29 +187,13 @@
             },
             "url": "https://streamyard.com/resources/docs/privacy/"
         },
-        "https://weblate.org/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-11-06 02:32:09.508226",
-                "fail": {
-                    "from": "2023-11-07 02:31:01.817468",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "community-implementation-guide-standard": [
-                    "criteria/make-the-codebase-reusable-and-portable.md"
-                ]
-            },
-            "url": "https://weblate.org/"
-        },
         "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=1&artikel=1&z=2019-07-01&g=2019-07-01": {
             "checks": {
                 "status": 0,
                 "fail": {
                     "from": "2023-10-27 02:27:55.699069",
                     "from-code": 0,
-                    "to": "2023-11-07 02:30:40.793254",
+                    "to": "2023-11-08 02:30:03.862614",
                     "to-code": 0
                 }
             },
@@ -223,7 +210,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:00.491161",
                     "from-code": 0,
-                    "to": "2023-11-07 02:30:46.187097",
+                    "to": "2023-11-08 02:30:09.140235",
                     "to-code": 0
                 }
             },
@@ -240,7 +227,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:04.804825",
                     "from-code": 0,
-                    "to": "2023-11-07 02:30:51.211247",
+                    "to": "2023-11-08 02:30:13.569330",
                     "to-code": 0
                 }
             },
@@ -257,7 +244,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:09.061157",
                     "from-code": 0,
-                    "to": "2023-11-07 02:30:56.150340",
+                    "to": "2023-11-08 02:30:17.753212",
                     "to-code": 0
                 }
             },
@@ -274,7 +261,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:13.297281",
                     "from-code": 0,
-                    "to": "2023-11-07 02:31:01.090818",
+                    "to": "2023-11-08 02:30:21.950810",
                     "to-code": 0
                 }
             },
@@ -284,22 +271,6 @@
                 ]
             },
             "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=9&afdeling=8&artikel=392&z=2019-07-01&g=2019-07-01"
-        },
-        "https://www.govtechsummit.eu/": {
-            "checks": {
-                "status": 406,
-                "200": "2023-11-06 02:32:14.247621",
-                "fail": {
-                    "from": "2023-11-07 02:31:03.150289",
-                    "from-code": 406
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2022-11-08-notes-from-community-call-3-november-2022.md"
-                ]
-            },
-            "url": "https://www.govtechsummit.eu/"
         }
     },
     "repos": {
