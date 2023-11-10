@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-11-08 02:30:04.126322",
                     "from-code": 404,
-                    "to": "2023-11-09 02:30:55.005520",
+                    "to": "2023-11-10 02:29:57.222001",
                     "to-code": 404
                 }
             },
@@ -29,7 +29,7 @@
                 "fail": {
                     "from": "2023-11-02 02:28:55.690208",
                     "from-code": 0,
-                    "to": "2023-11-09 02:30:53.448328",
+                    "to": "2023-11-10 02:29:56.911370",
                     "to-code": 0
                 }
             },
@@ -50,7 +50,7 @@
                 "fail": {
                     "from": "2023-10-22 02:30:19.443576",
                     "from-code": 0,
-                    "to": "2023-11-09 02:31:05.637730",
+                    "to": "2023-11-10 02:30:05.147334",
                     "to-code": 0
                 }
             },
@@ -61,13 +61,29 @@
             },
             "url": "https://getethermap.org/m/amsterdamswim"
         },
+        "https://github.com/publiccodenet/blog/issues/new/choose": {
+            "checks": {
+                "status": 0,
+                "200": "2023-11-09 02:31:47.475731",
+                "fail": {
+                    "from": "2023-11-10 02:30:31.153978",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "CONTRIBUTING.md"
+                ]
+            },
+            "url": "https://github.com/publiccodenet/blog/issues/new/choose"
+        },
         "https://hamish.dev/a-love-letter-to-the-parliamentary-counsel-of-the-world)": {
             "checks": {
                 "status": 404,
                 "fail": {
                     "from": "2023-11-07 02:30:51.507391",
                     "from-code": 404,
-                    "to": "2023-11-09 02:31:08.416185",
+                    "to": "2023-11-10 02:30:09.878327",
                     "to-code": 404
                 }
             },
@@ -85,7 +101,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:51.175738",
                     "from-code": 0,
-                    "to": "2023-11-09 02:31:30.686957",
+                    "to": "2023-11-10 02:30:10.380718",
                     "to-code": 0
                 }
             },
@@ -107,7 +123,7 @@
                 "fail": {
                     "from": "2023-11-04 02:29:50.158850",
                     "from-code": 0,
-                    "to": "2023-11-09 02:31:04.106510",
+                    "to": "2023-11-10 02:30:06.744719",
                     "to-code": 0
                 }
             },
