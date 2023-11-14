@@ -12,7 +12,7 @@
 | [bumperscripter (main)](https://github.com/publiccodenet/bumperscripter/tree/main) | [![bumperscripter badge](badges/bumperscripter.svg)](bumperscripter-url-check-look.json) |
 | [publiccode.net (main)](https://github.com/publiccodenet/publiccode.net/tree/main) | [![publiccode.net badge](badges/publiccode.net.svg)](publiccode.net-url-check-look.json) |
 | [about.publiccode.net (main)](https://github.com/publiccodenet/about/tree/main) | [![about badge](badges/about.publiccode.net.svg)](about.publiccode.net-url-check-look.json) |
-| [blog.publiccode..net (main)](https://github.com/publiccodenet/blog/tree/main) | [![blog badge](badges/blog.publiccode.net.svg)](blog.publiccode.net-url-check-look.json) |
+| [blog.publiccode.net (main)](https://github.com/publiccodenet/blog/tree/main) | [![blog badge](badges/blog.publiccode.net.svg)](blog.publiccode.net-url-check-look.json) |
 
 ## Overall link check results
 
