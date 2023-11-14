@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-11-08 02:30:04.126322",
                     "from-code": 404,
-                    "to": "2023-11-14 02:31:03.868706",
+                    "to": "2023-11-14 08:28:16.549671",
                     "to-code": 404
                 }
             },
@@ -29,7 +29,7 @@
                 "fail": {
                     "from": "2023-11-02 02:28:55.690208",
                     "from-code": 0,
-                    "to": "2023-11-14 02:31:03.727251",
+                    "to": "2023-11-14 08:28:14.020768",
                     "to-code": 0
                 }
             },
@@ -50,7 +50,7 @@
                 "fail": {
                     "from": "2023-10-22 02:30:19.443576",
                     "from-code": 0,
-                    "to": "2023-11-14 02:31:11.548017",
+                    "to": "2023-11-14 08:28:22.010141",
                     "to-code": 0
                 }
             },
@@ -68,7 +68,7 @@
                 "fail": {
                     "from": "2023-11-04 02:30:22.651030",
                     "from-code": 404,
-                    "to": "2023-11-14 02:31:32.190862",
+                    "to": "2023-11-14 08:28:39.455002",
                     "to-code": 404
                 }
             },
@@ -85,7 +85,7 @@
                 "fail": {
                     "from": "2023-11-07 02:30:51.507391",
                     "from-code": 404,
-                    "to": "2023-11-14 02:31:14.014991",
+                    "to": "2023-11-14 08:28:28.195405",
                     "to-code": 404
                 }
             },
@@ -102,7 +102,7 @@
                 "fail": {
                     "from": "2023-10-27 02:28:06.756531",
                     "from-code": 0,
-                    "to": "2023-11-14 02:31:05.816217",
+                    "to": "2023-11-14 08:28:16.084291",
                     "to-code": 0
                 }
             },
@@ -120,7 +120,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:50.903054",
                     "from-code": 0,
-                    "to": "2023-11-14 02:31:18.701262",
+                    "to": "2023-11-14 08:28:29.399880",
                     "to-code": 0
                 }
             },
@@ -138,7 +138,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:51.175738",
                     "from-code": 0,
-                    "to": "2023-11-14 02:31:18.949220",
+                    "to": "2023-11-14 08:28:29.638783",
                     "to-code": 0
                 }
             },
@@ -153,6 +153,22 @@
             },
             "url": "https://meet.community.publiccode.net/accountmanager/register/"
         },
+        "https://mijnwerkgeversportaal.acumen.nl/index3.html": {
+            "checks": {
+                "status": 0,
+                "200": "2023-11-14 02:31:06.415919",
+                "fail": {
+                    "from": "2023-11-14 08:28:16.804043",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/staff-management/sick-leave.md"
+                ]
+            },
+            "url": "https://mijnwerkgeversportaal.acumen.nl/index3.html"
+        },
         "https://poddtoppen.se/podcast/1343814270/omsorgspodden/avsnitt-919-fran-almedalen-gastas-av-digitaliseringsdirektorn-i-sundsvall-och-ange": {
             "checks": {
                 "status": 0,
@@ -160,7 +176,7 @@
                 "fail": {
                     "from": "2023-11-04 02:29:50.158850",
                     "from-code": 0,
-                    "to": "2023-11-14 02:31:09.115686",
+                    "to": "2023-11-14 08:28:19.391000",
                     "to-code": 0
                 }
             },
@@ -178,7 +194,7 @@
                 "fail": {
                     "from": "2023-10-18 02:30:03.815157",
                     "from-code": 403,
-                    "to": "2023-11-14 02:31:15.076052",
+                    "to": "2023-11-14 08:28:24.058397",
                     "to-code": 403
                 }
             },
@@ -188,91 +204,6 @@
                 ]
             },
             "url": "https://streamyard.com/resources/docs/privacy/"
-        },
-        "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=1&artikel=1&z=2019-07-01&g=2019-07-01": {
-            "checks": {
-                "status": 0,
-                "fail": {
-                    "from": "2023-10-27 02:27:55.699069",
-                    "from-code": 0,
-                    "to": "2023-11-14 02:31:02.872188",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "organization/articles-of-association.md"
-                ]
-            },
-            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=1&artikel=1&z=2019-07-01&g=2019-07-01"
-        },
-        "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=2&artikel=35&z=2019-07-01&g=2019-07-01": {
-            "checks": {
-                "status": 0,
-                "fail": {
-                    "from": "2023-10-27 02:28:00.491161",
-                    "from-code": 0,
-                    "to": "2023-11-14 02:31:07.125954",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "organization/articles-of-association.md"
-                ]
-            },
-            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=2&artikel=35&z=2019-07-01&g=2019-07-01"
-        },
-        "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=2&artikel=48&z=2019-07-01&g=2019-07-01": {
-            "checks": {
-                "status": 0,
-                "fail": {
-                    "from": "2023-10-27 02:28:04.804825",
-                    "from-code": 0,
-                    "to": "2023-11-14 02:31:10.901840",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "organization/articles-of-association.md"
-                ]
-            },
-            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=2&artikel=48&z=2019-07-01&g=2019-07-01"
-        },
-        "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=9&afdeling=11&artikel=396&z=2019-07-01&g=2019-07-01": {
-            "checks": {
-                "status": 0,
-                "fail": {
-                    "from": "2023-10-27 02:28:09.061157",
-                    "from-code": 0,
-                    "to": "2023-11-14 02:31:14.682202",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "organization/articles-of-association.md"
-                ]
-            },
-            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=9&afdeling=11&artikel=396&z=2019-07-01&g=2019-07-01"
-        },
-        "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=9&afdeling=8&artikel=392&z=2019-07-01&g=2019-07-01": {
-            "checks": {
-                "status": 0,
-                "fail": {
-                    "from": "2023-10-27 02:28:13.297281",
-                    "from-code": 0,
-                    "to": "2023-11-14 02:31:18.478911",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "organization/articles-of-association.md"
-                ]
-            },
-            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=9&afdeling=8&artikel=392&z=2019-07-01&g=2019-07-01"
         }
     },
     "repos": {
