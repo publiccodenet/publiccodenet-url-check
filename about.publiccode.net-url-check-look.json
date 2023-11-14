@@ -1,39 +1,20 @@
 {
     "urls": {
-        "https://github.com/open-zaak/open-zaak/blob/main/docs/introduction/open-source/public_code.md": {
+        "https://groups.google.com/a/publiccode.net/g/invoices": {
             "checks": {
-                "status": 404,
-                "200": "2023-11-03 02:29:32.256651",
+                "status": 403,
+                "200": "2023-11-14 08:28:25.854181",
                 "fail": {
-                    "from": "2023-11-04 02:30:22.651030",
-                    "from-code": 404,
-                    "to": "2023-11-14 08:28:39.455002",
-                    "to-code": 404
+                    "from": "2023-11-14 12:43:21.010572",
+                    "from-code": 403
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "organization/annual-reports/annual-report-2021.md"
+                    "activities/financial-administration/payment-session.md"
                 ]
             },
-            "url": "https://github.com/open-zaak/open-zaak/blob/main/docs/introduction/open-source/public_code.md"
-        },
-        "https://magazinedigitalestad.nl/index.html#issue/1": {
-            "checks": {
-                "status": 0,
-                "fail": {
-                    "from": "2023-10-27 02:28:06.756531",
-                    "from-code": 0,
-                    "to": "2023-11-14 08:28:16.084291",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "organization/annual-reports/annual-report-2019-2020.md"
-                ]
-            },
-            "url": "https://magazinedigitalestad.nl/index.html#issue/1"
+            "url": "https://groups.google.com/a/publiccode.net/g/invoices"
         },
         "https://meet.community.publiccode.net/accountmanager/admin": {
             "checks": {
@@ -42,7 +23,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:50.903054",
                     "from-code": 0,
-                    "to": "2023-11-14 08:28:29.399880",
+                    "to": "2023-11-14 12:43:15.866739",
                     "to-code": 0
                 }
             },
@@ -53,53 +34,12 @@
             },
             "url": "https://meet.community.publiccode.net/accountmanager/admin"
         },
-        "https://meet.community.publiccode.net/accountmanager/register/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-10-19 02:29:45.618287",
-                "fail": {
-                    "from": "2023-10-20 02:28:51.175738",
-                    "from-code": 0,
-                    "to": "2023-11-14 08:28:29.638783",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/tool-management/jitsi-guides.md",
-                    "activities/tool-management/jitsi-meet.md"
-                ],
-                "blog.publiccode.net": [
-                    "_posts/2021-05-6-april-2021-newsletter.md"
-                ]
-            },
-            "url": "https://meet.community.publiccode.net/accountmanager/register/"
-        },
-        "https://mijnwerkgeversportaal.acumen.nl/index3.html": {
-            "checks": {
-                "status": 0,
-                "200": "2023-11-14 02:31:06.415919",
-                "fail": {
-                    "from": "2023-11-14 08:28:16.804043",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/staff-management/sick-leave.md"
-                ]
-            },
-            "url": "https://mijnwerkgeversportaal.acumen.nl/index3.html"
-        },
-        "https://streamyard.com/resources/docs/privacy/": {
+        "https://support.streamyard.com/hc/en-us/articles/15401585037204": {
             "checks": {
                 "status": 403,
-                "200": "2023-10-17 02:29:29.770600",
                 "fail": {
-                    "from": "2023-10-18 02:30:03.815157",
-                    "from-code": 403,
-                    "to": "2023-11-14 08:28:24.058397",
-                    "to-code": 403
+                    "from": "2023-11-14 12:43:07.279118",
+                    "from-code": 403
                 }
             },
             "used": {
@@ -107,11 +47,28 @@
                     "activities/tool-management/streamyard.md"
                 ]
             },
-            "url": "https://streamyard.com/resources/docs/privacy/"
+            "url": "https://support.streamyard.com/hc/en-us/articles/15401585037204"
+        },
+        "https://web.archive.org/web/20230919123059/https://about.publiccode.net/organization/members.html": {
+            "checks": {
+                "status": 0,
+                "200": "2023-11-14 08:28:40.753499",
+                "fail": {
+                    "from": "2023-11-14 12:43:07.192804",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/annual-reports/financial-report-2019-2020.md",
+                    "organization/annual-reports/financial-report-2021.md",
+                    "organization/annual-reports/financial-report-2022.md"
+                ]
+            },
+            "url": "https://web.archive.org/web/20230919123059/https://about.publiccode.net/organization/members.html"
         }
     },
     "repos": {
-        "about.publiccode.net": "failing",
-        "blog.publiccode.net": "failing"
+        "about.publiccode.net": "failing"
     }
 }

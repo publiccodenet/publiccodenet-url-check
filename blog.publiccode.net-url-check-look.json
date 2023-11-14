@@ -1,128 +1,23 @@
 {
     "urls": {
-        "https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html": {
+        "https://github.com/Dark-Matter-Labs/circulaw/blob/main/docs/circulaw-standard-for-public-code.html": {
             "checks": {
                 "status": 404,
-                "200": "2023-11-07 02:30:43.080196",
+                "200": "2023-11-14 08:28:17.686902",
                 "fail": {
-                    "from": "2023-11-08 02:30:04.126322",
-                    "from-code": 404,
-                    "to": "2023-11-14 08:28:16.549671",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "publiccode.net": [
-                    "codebases/index.html"
-                ],
-                "blog.publiccode.net": [
-                    "_posts/2020-02-21-notes-from-community-call-20-february-2020.md",
-                    "_posts/2021-02-04-signalen-is-in-incubation.md"
-                ]
-            },
-            "url": "https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html"
-        },
-        "https://ethicalexplorer.org/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-11-01 02:31:52.617278",
-                "fail": {
-                    "from": "2023-11-02 02:28:55.690208",
-                    "from-code": 0,
-                    "to": "2023-11-14 08:28:14.020768",
-                    "to-code": 0
+                    "from": "2023-11-14 12:43:00.499801",
+                    "from-code": 404
                 }
             },
             "used": {
                 "blog.publiccode.net": [
-                    "_posts/2020-12-02-summer-2020-newsletter.md"
-                ],
-                "community-implementation-guide-standard": [
-                    "criteria/document-codebase-objectives.md"
+                    "_posts/2023-09-11-notes-from-community-call-7-september-2023.md"
                 ]
             },
-            "url": "https://ethicalexplorer.org/"
-        },
-        "https://getethermap.org/m/amsterdamswim": {
-            "checks": {
-                "status": 0,
-                "200": "2023-10-21 02:26:07.410356",
-                "fail": {
-                    "from": "2023-10-22 02:30:19.443576",
-                    "from-code": 0,
-                    "to": "2023-11-14 08:28:22.010141",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-08-11-overdue-socially-distant-socializing.md"
-                ]
-            },
-            "url": "https://getethermap.org/m/amsterdamswim"
-        },
-        "https://hamish.dev/a-love-letter-to-the-parliamentary-counsel-of-the-world)": {
-            "checks": {
-                "status": 404,
-                "fail": {
-                    "from": "2023-11-07 02:30:51.507391",
-                    "from-code": 404,
-                    "to": "2023-11-14 08:28:28.195405",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-11-06-notes-from-community-call-2-november-2023.md"
-                ]
-            },
-            "url": "https://hamish.dev/a-love-letter-to-the-parliamentary-counsel-of-the-world)"
-        },
-        "https://meet.community.publiccode.net/accountmanager/register/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-10-19 02:29:45.618287",
-                "fail": {
-                    "from": "2023-10-20 02:28:51.175738",
-                    "from-code": 0,
-                    "to": "2023-11-14 08:28:29.638783",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/tool-management/jitsi-guides.md",
-                    "activities/tool-management/jitsi-meet.md"
-                ],
-                "blog.publiccode.net": [
-                    "_posts/2021-05-6-april-2021-newsletter.md"
-                ]
-            },
-            "url": "https://meet.community.publiccode.net/accountmanager/register/"
-        },
-        "https://poddtoppen.se/podcast/1343814270/omsorgspodden/avsnitt-919-fran-almedalen-gastas-av-digitaliseringsdirektorn-i-sundsvall-och-ange": {
-            "checks": {
-                "status": 0,
-                "200": "2023-11-03 02:29:14.613879",
-                "fail": {
-                    "from": "2023-11-04 02:29:50.158850",
-                    "from-code": 0,
-                    "to": "2023-11-14 08:28:19.391000",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-07-11-digital-and-technology-trends-from-almedalen-2023.md"
-                ]
-            },
-            "url": "https://poddtoppen.se/podcast/1343814270/omsorgspodden/avsnitt-919-fran-almedalen-gastas-av-digitaliseringsdirektorn-i-sundsvall-och-ange"
+            "url": "https://github.com/Dark-Matter-Labs/circulaw/blob/main/docs/circulaw-standard-for-public-code.html"
         }
     },
     "repos": {
-        "blog.publiccode.net": "failing",
-        "publiccode.net": "failing",
-        "community-implementation-guide-standard": "failing",
-        "about.publiccode.net": "failing"
+        "blog.publiccode.net": "failing"
     }
 }
