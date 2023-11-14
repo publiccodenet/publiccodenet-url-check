@@ -33,6 +33,7 @@
         "\\[subdomain\\]\\.publiccode\\.net": "template",
         "FILE_BASE}.html": "template",
         "http[s]\\?://archive\\.org/web/": "often times out",
+        "http[s]\\?://web\\.archive\\.org/web/": "often times out",
         "http[s]\\?://twitter\\.com": "302; does not serve scripts",
         "http[s]\\?://linkedin\\.com": "302; does not serve scripts",
         "http[s]\\?://www\\.linkedin\\.com": "999; does not serve scripts",
@@ -76,6 +77,8 @@
         "https://flickr.com/e/tFzM3d9XsB": "defunct, embedded in a .jpg",
         "http://www\\.instagram\\.com/lottedale": "429, embedded in .jpg",
         "https://mijnwerkgeversportaal\\.acumen\\.nl/": "timeouts",
+        "https://groups\\.google\\.com/./publiccode\\.net/g": "requires login",
+        "https://support\\.streamyard\\.com/": "gives 403 to curl",
         "http[s]\\?://www\\.figma\\.com": "gives 404 to curl"
     },
     "transforms" : {
