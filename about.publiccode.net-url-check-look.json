@@ -1,20 +1,20 @@
 {
     "urls": {
-        "https://groups.google.com/a/publiccode.net/g/invoices": {
+        "https://docs.google.com/spreadsheets/d/1l5-DuHCEq4cSF01vkUpZb806to-sqQ3BDcy2IAPpSMg/edit#gid=0": {
             "checks": {
-                "status": 403,
-                "200": "2023-11-14 08:28:25.854181",
+                "status": 500,
+                "200": "2023-11-14 12:43:11.366453",
                 "fail": {
-                    "from": "2023-11-14 12:43:21.010572",
-                    "from-code": 403
+                    "from": "2023-11-15 02:33:48.849262",
+                    "from-code": 500
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/financial-administration/payment-session.md"
+                    "activities/events/organizing-events.md"
                 ]
             },
-            "url": "https://groups.google.com/a/publiccode.net/g/invoices"
+            "url": "https://docs.google.com/spreadsheets/d/1l5-DuHCEq4cSF01vkUpZb806to-sqQ3BDcy2IAPpSMg/edit#gid=0"
         },
         "https://meet.community.publiccode.net/accountmanager/admin": {
             "checks": {
@@ -23,7 +23,7 @@
                 "fail": {
                     "from": "2023-10-20 02:28:50.903054",
                     "from-code": 0,
-                    "to": "2023-11-14 12:43:15.866739",
+                    "to": "2023-11-15 02:34:03.661924",
                     "to-code": 0
                 }
             },
@@ -33,39 +33,6 @@
                 ]
             },
             "url": "https://meet.community.publiccode.net/accountmanager/admin"
-        },
-        "https://support.streamyard.com/hc/en-us/articles/15401585037204": {
-            "checks": {
-                "status": 403,
-                "fail": {
-                    "from": "2023-11-14 12:43:07.279118",
-                    "from-code": 403
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/tool-management/streamyard.md"
-                ]
-            },
-            "url": "https://support.streamyard.com/hc/en-us/articles/15401585037204"
-        },
-        "https://web.archive.org/web/20230919123059/https://about.publiccode.net/organization/members.html": {
-            "checks": {
-                "status": 0,
-                "200": "2023-11-14 08:28:40.753499",
-                "fail": {
-                    "from": "2023-11-14 12:43:07.192804",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "organization/annual-reports/financial-report-2019-2020.md",
-                    "organization/annual-reports/financial-report-2021.md",
-                    "organization/annual-reports/financial-report-2022.md"
-                ]
-            },
-            "url": "https://web.archive.org/web/20230919123059/https://about.publiccode.net/organization/members.html"
         }
     },
     "repos": {
