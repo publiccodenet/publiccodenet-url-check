@@ -2,13 +2,13 @@
     "urls": {
         "https://www.citybycity.com/session/software-becomes-public-infrastructure": {
             "checks": {
-                "status": 405,
+                "status": 0,
                 "200": "2023-11-14 12:43:09.462582",
                 "fail": {
                     "from": "2023-11-15 02:33:56.778960",
                     "from-code": 405,
-                    "to": "2023-11-17 02:34:17.031841",
-                    "to-code": 405
+                    "to": "2023-11-18 02:32:09.470359",
+                    "to-code": 0
                 }
             },
             "used": {
