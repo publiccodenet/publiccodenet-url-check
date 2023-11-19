@@ -2,13 +2,13 @@
     "urls": {
         "https://www.citybycity.com/session/software-becomes-public-infrastructure": {
             "checks": {
-                "status": 0,
+                "status": 405,
                 "200": "2023-11-14 12:43:09.462582",
                 "fail": {
                     "from": "2023-11-15 02:33:56.778960",
                     "from-code": 405,
-                    "to": "2023-11-18 02:32:09.470359",
-                    "to-code": 0
+                    "to": "2023-11-19 02:35:16.949372",
+                    "to-code": 405
                 }
             },
             "used": {
@@ -17,6 +17,22 @@
                 ]
             },
             "url": "https://www.citybycity.com/session/software-becomes-public-infrastructure"
+        },
+        "https://www.meetup.com/Code-For-NL/events/268798380/": {
+            "checks": {
+                "status": 502,
+                "200": "2023-11-18 02:32:11.261280",
+                "fail": {
+                    "from": "2023-11-19 02:35:18.816971",
+                    "from-code": 502
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-02-21-notes-from-community-call-20-february-2020.md"
+                ]
+            },
+            "url": "https://www.meetup.com/Code-For-NL/events/268798380/"
         }
     },
     "repos": {
