@@ -1,22 +1,20 @@
 {
     "urls": {
-        "https://meet.community.publiccode.net/accountmanager/admin": {
+        "https://files.publiccode.net/nextcloud/index.php/s/kHPQ3ZS2nHgxA5S": {
             "checks": {
-                "status": 0,
-                "200": "2023-10-19 02:29:44.919230",
+                "status": 404,
+                "200": "2023-11-20 02:35:09.206252",
                 "fail": {
-                    "from": "2023-10-20 02:28:50.903054",
-                    "from-code": 0,
-                    "to": "2023-11-20 02:35:13.343065",
-                    "to-code": 0
+                    "from": "2023-11-20 13:07:57.782534",
+                    "from-code": 404
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/tool-management/jitsi-guides.md"
+                    "activities/live-streaming/post-production.md"
                 ]
             },
-            "url": "https://meet.community.publiccode.net/accountmanager/admin"
+            "url": "https://files.publiccode.net/nextcloud/index.php/s/kHPQ3ZS2nHgxA5S"
         }
     },
     "repos": {
