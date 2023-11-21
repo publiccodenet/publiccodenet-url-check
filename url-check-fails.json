@@ -6,7 +6,9 @@
                 "200": "2023-11-20 02:35:09.206252",
                 "fail": {
                     "from": "2023-11-20 13:07:57.782534",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2023-11-21 02:36:44.568992",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -16,22 +18,6 @@
             },
             "url": "https://files.publiccode.net/nextcloud/index.php/s/kHPQ3ZS2nHgxA5S"
         },
-        "https://openstad.org": {
-            "checks": {
-                "status": 0,
-                "200": "2023-11-20 02:34:59.314215",
-                "fail": {
-                    "from": "2023-11-20 13:07:54.232348",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-06-08-product-management-in-open-source.md"
-                ]
-            },
-            "url": "https://openstad.org"
-        },
         "https://www.citybycity.com/session/software-becomes-public-infrastructure": {
             "checks": {
                 "status": 405,
@@ -39,7 +25,7 @@
                 "fail": {
                     "from": "2023-11-15 02:33:56.778960",
                     "from-code": 405,
-                    "to": "2023-11-20 13:07:58.312510",
+                    "to": "2023-11-21 02:36:49.605087",
                     "to-code": 405
                 }
             },
