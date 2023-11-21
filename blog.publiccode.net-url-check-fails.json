@@ -1,22 +1,36 @@
 {
     "urls": {
-        "https://www.citybycity.com/session/software-becomes-public-infrastructure": {
+        "https://iso25000.com/index.php/en/iso-25000-standards/iso-25010": {
             "checks": {
-                "status": 405,
-                "200": "2023-11-14 12:43:09.462582",
+                "status": 0,
+                "200": "2023-11-21 02:36:36.450363",
                 "fail": {
-                    "from": "2023-11-15 02:33:56.778960",
-                    "from-code": 405,
-                    "to": "2023-11-21 02:36:49.605087",
-                    "to-code": 405
+                    "from": "2023-11-21 10:53:23.345009",
+                    "from-code": 0
                 }
             },
             "used": {
                 "blog.publiccode.net": [
-                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
+                    "_posts/2022-04-11-notes-from-community-call-7-april-2022.md"
                 ]
             },
-            "url": "https://www.citybycity.com/session/software-becomes-public-infrastructure"
+            "url": "https://iso25000.com/index.php/en/iso-25000-standards/iso-25010"
+        },
+        "https://openstad.org": {
+            "checks": {
+                "status": 0,
+                "200": "2023-11-21 02:36:44.170238",
+                "fail": {
+                    "from": "2023-11-21 10:53:33.011175",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-06-08-product-management-in-open-source.md"
+                ]
+            },
+            "url": "https://openstad.org"
         }
     },
     "repos": {
