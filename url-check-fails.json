@@ -1,22 +1,20 @@
 {
     "urls": {
-        "https://iso25000.com/index.php/en/iso-25000-standards/iso-25010": {
+        "https://solutions.dial.community/": {
             "checks": {
-                "status": 0,
-                "200": "2023-11-21 02:36:36.450363",
+                "status": 502,
+                "200": "2023-11-22 02:36:22.633910",
                 "fail": {
-                    "from": "2023-11-21 10:53:23.345009",
-                    "from-code": 0,
-                    "to": "2023-11-22 02:36:13.025949",
-                    "to-code": 0
+                    "from": "2023-11-23 02:33:00.825191",
+                    "from-code": 502
                 }
             },
             "used": {
-                "blog.publiccode.net": [
-                    "_posts/2022-04-11-notes-from-community-call-7-april-2022.md"
+                "community-implementation-guide-standard": [
+                    "criteria/make-the-codebase-findable.md"
                 ]
             },
-            "url": "https://iso25000.com/index.php/en/iso-25000-standards/iso-25010"
+            "url": "https://solutions.dial.community/"
         }
     },
     "repos": {
@@ -24,8 +22,8 @@
         "standard.publiccode.net-develop": "passing",
         "publiccode.net": "passing",
         "about.publiccode.net": "passing",
-        "blog.publiccode.net": "failing",
-        "community-implementation-guide-standard": "passing",
+        "blog.publiccode.net": "passing",
+        "community-implementation-guide-standard": "failing",
         "bumperscripter": "passing"
     }
 }

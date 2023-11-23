@@ -1,6 +1,23 @@
 {
-    "urls": {},
+    "urls": {
+        "https://solutions.dial.community/": {
+            "checks": {
+                "status": 502,
+                "200": "2023-11-22 02:36:22.633910",
+                "fail": {
+                    "from": "2023-11-23 02:33:00.825191",
+                    "from-code": 502
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/make-the-codebase-findable.md"
+                ]
+            },
+            "url": "https://solutions.dial.community/"
+        }
+    },
     "repos": {
-        "community-implementation-guide-standard": "passing"
+        "community-implementation-guide-standard": "failing"
     }
 }

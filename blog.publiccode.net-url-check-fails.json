@@ -1,25 +1,6 @@
 {
-    "urls": {
-        "https://iso25000.com/index.php/en/iso-25000-standards/iso-25010": {
-            "checks": {
-                "status": 0,
-                "200": "2023-11-21 02:36:36.450363",
-                "fail": {
-                    "from": "2023-11-21 10:53:23.345009",
-                    "from-code": 0,
-                    "to": "2023-11-22 02:36:13.025949",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2022-04-11-notes-from-community-call-7-april-2022.md"
-                ]
-            },
-            "url": "https://iso25000.com/index.php/en/iso-25000-standards/iso-25010"
-        }
-    },
+    "urls": {},
     "repos": {
-        "blog.publiccode.net": "failing"
+        "blog.publiccode.net": "passing"
     }
 }
