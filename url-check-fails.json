@@ -1,67 +1,12 @@
 {
-    "urls": {
-        "https://creativecommons.org/about/videos/creative-commons-kiwi": {
-            "checks": {
-                "status": 522,
-                "200": "2023-11-28 02:34:37.230893",
-                "fail": {
-                    "from": "2023-11-28 08:32:47.030930",
-                    "from-code": 522
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "criteria/publish-with-an-open-license.md"
-                ],
-                "standard.publiccode.net-develop": [
-                    "criteria/publish-with-an-open-license.md"
-                ],
-                "community-implementation-guide-standard": [
-                    "criteria/publish-with-an-open-license.md"
-                ]
-            },
-            "url": "https://creativecommons.org/about/videos/creative-commons-kiwi"
-        },
-        "https://podtail.nl/podcast/omsorgspodden/avsnitt-91-9-fran-almedalen-gastas-av-digitaliseri/": {
-            "checks": {
-                "status": 502,
-                "200": "2023-11-28 02:34:47.623878",
-                "fail": {
-                    "from": "2023-11-28 08:31:50.606029",
-                    "from-code": 502
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-07-11-digital-and-technology-trends-from-almedalen-2023.md"
-                ]
-            },
-            "url": "https://podtail.nl/podcast/omsorgspodden/avsnitt-91-9-fran-almedalen-gastas-av-digitaliseri/"
-        },
-        "https://solutions.dial.community/": {
-            "checks": {
-                "status": 502,
-                "200": "2023-11-28 02:34:52.087155",
-                "fail": {
-                    "from": "2023-11-28 08:31:54.528867",
-                    "from-code": 502
-                }
-            },
-            "used": {
-                "community-implementation-guide-standard": [
-                    "criteria/make-the-codebase-findable.md"
-                ]
-            },
-            "url": "https://solutions.dial.community/"
-        }
-    },
+    "urls": {},
     "repos": {
-        "standard.publiccode.net": "failing",
-        "standard.publiccode.net-develop": "failing",
+        "standard.publiccode.net": "passing",
+        "standard.publiccode.net-develop": "passing",
         "publiccode.net": "passing",
         "about.publiccode.net": "passing",
-        "blog.publiccode.net": "failing",
-        "community-implementation-guide-standard": "failing",
+        "blog.publiccode.net": "passing",
+        "community-implementation-guide-standard": "passing",
         "bumperscripter": "passing"
     }
 }

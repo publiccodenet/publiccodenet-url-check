@@ -1,47 +1,6 @@
 {
-    "urls": {
-        "https://creativecommons.org/about/videos/creative-commons-kiwi": {
-            "checks": {
-                "status": 522,
-                "200": "2023-11-28 02:34:37.230893",
-                "fail": {
-                    "from": "2023-11-28 08:32:47.030930",
-                    "from-code": 522
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "criteria/publish-with-an-open-license.md"
-                ],
-                "standard.publiccode.net-develop": [
-                    "criteria/publish-with-an-open-license.md"
-                ],
-                "community-implementation-guide-standard": [
-                    "criteria/publish-with-an-open-license.md"
-                ]
-            },
-            "url": "https://creativecommons.org/about/videos/creative-commons-kiwi"
-        },
-        "https://solutions.dial.community/": {
-            "checks": {
-                "status": 502,
-                "200": "2023-11-28 02:34:52.087155",
-                "fail": {
-                    "from": "2023-11-28 08:31:54.528867",
-                    "from-code": 502
-                }
-            },
-            "used": {
-                "community-implementation-guide-standard": [
-                    "criteria/make-the-codebase-findable.md"
-                ]
-            },
-            "url": "https://solutions.dial.community/"
-        }
-    },
+    "urls": {},
     "repos": {
-        "community-implementation-guide-standard": "failing",
-        "standard.publiccode.net": "failing",
-        "standard.publiccode.net-develop": "failing"
+        "community-implementation-guide-standard": "passing"
     }
 }

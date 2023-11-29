@@ -1,23 +1,6 @@
 {
-    "urls": {
-        "https://podtail.nl/podcast/omsorgspodden/avsnitt-91-9-fran-almedalen-gastas-av-digitaliseri/": {
-            "checks": {
-                "status": 502,
-                "200": "2023-11-28 02:34:47.623878",
-                "fail": {
-                    "from": "2023-11-28 08:31:50.606029",
-                    "from-code": 502
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-07-11-digital-and-technology-trends-from-almedalen-2023.md"
-                ]
-            },
-            "url": "https://podtail.nl/podcast/omsorgspodden/avsnitt-91-9-fran-almedalen-gastas-av-digitaliseri/"
-        }
-    },
+    "urls": {},
     "repos": {
-        "blog.publiccode.net": "failing"
+        "blog.publiccode.net": "passing"
     }
 }
