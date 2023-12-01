@@ -1,10 +1,27 @@
 {
-    "urls": {},
+    "urls": {
+        "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml": {
+            "checks": {
+                "status": 404,
+                "200": "2023-11-30 02:35:22.513777",
+                "fail": {
+                    "from": "2023-12-01 02:39:47.413058",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "README.md"
+                ]
+            },
+            "url": "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml"
+        }
+    },
     "repos": {
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
         "publiccode.net": "passing",
-        "about.publiccode.net": "passing",
+        "about.publiccode.net": "failing",
         "blog.publiccode.net": "passing",
         "community-implementation-guide-standard": "passing",
         "bumperscripter": "passing"
