@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-12-01 02:39:47.413058",
                     "from-code": 404,
-                    "to": "2023-12-04 02:35:13.469972",
+                    "to": "2023-12-05 02:35:50.000511",
                     "to-code": 404
                 }
             },
@@ -17,24 +17,6 @@
                 ]
             },
             "url": "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml"
-        },
-        "https://northsearegion.eu/score": {
-            "checks": {
-                "status": 500,
-                "200": "2023-12-01 02:39:07.624734",
-                "fail": {
-                    "from": "2023-12-02 02:30:04.356281",
-                    "from-code": 500,
-                    "to": "2023-12-04 02:34:46.207261",
-                    "to-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "organization/annual-reports/annual-report-2019-2020.md"
-                ]
-            },
-            "url": "https://northsearegion.eu/score"
         }
     },
     "repos": {

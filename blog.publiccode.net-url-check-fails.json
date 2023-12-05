@@ -1,6 +1,23 @@
 {
-    "urls": {},
+    "urls": {
+        "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-04 02:34:37.301250",
+                "fail": {
+                    "from": "2023-12-05 02:35:04.684069",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-02-14-a-love-letter-to-fosdem.md"
+                ]
+            },
+            "url": "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/"
+        }
+    },
     "repos": {
-        "blog.publiccode.net": "passing"
+        "blog.publiccode.net": "failing"
     }
 }
