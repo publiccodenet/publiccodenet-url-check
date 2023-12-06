@@ -1,21 +1,5 @@
 {
     "urls": {
-        "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-12-04 02:34:37.301250",
-                "fail": {
-                    "from": "2023-12-05 02:35:04.684069",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-02-14-a-love-letter-to-fosdem.md"
-                ]
-            },
-            "url": "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/"
-        },
         "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml": {
             "checks": {
                 "status": 404,
@@ -23,7 +7,7 @@
                 "fail": {
                     "from": "2023-12-01 02:39:47.413058",
                     "from-code": 404,
-                    "to": "2023-12-05 02:35:50.000511",
+                    "to": "2023-12-06 02:34:44.754945",
                     "to-code": 404
                 }
             },
@@ -34,29 +18,45 @@
             },
             "url": "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml"
         },
-        "https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/": {
+        "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen": {
             "checks": {
                 "status": 0,
-                "200": "2023-12-04 02:34:40.429793",
+                "200": "2023-12-05 02:35:21.035553",
                 "fail": {
-                    "from": "2023-12-05 02:35:35.777176",
+                    "from": "2023-12-06 02:34:21.558121",
                     "from-code": 0
                 }
             },
             "used": {
-                "publiccode.net": [
-                    "OSPO.md"
+                "about.publiccode.net": [
+                    "activities/staff-management/onboarding.md"
                 ]
             },
-            "url": "https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/"
+            "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen"
+        },
+        "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-05 02:35:21.537413",
+                "fail": {
+                    "from": "2023-12-06 02:34:36.589358",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/philanthropic-fundraising/donating-netherlands.md"
+                ]
+            },
+            "url": "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken"
         }
     },
     "repos": {
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
-        "publiccode.net": "failing",
+        "publiccode.net": "passing",
         "about.publiccode.net": "failing",
-        "blog.publiccode.net": "failing",
+        "blog.publiccode.net": "passing",
         "community-implementation-guide-standard": "passing",
         "bumperscripter": "passing"
     }
