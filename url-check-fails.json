@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-12-01 02:39:47.413058",
                     "from-code": 404,
-                    "to": "2023-12-06 02:34:44.754945",
+                    "to": "2023-12-07 02:34:48.951461",
                     "to-code": 404
                 }
             },
@@ -17,38 +17,6 @@
                 ]
             },
             "url": "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml"
-        },
-        "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen": {
-            "checks": {
-                "status": 0,
-                "200": "2023-12-05 02:35:21.035553",
-                "fail": {
-                    "from": "2023-12-06 02:34:21.558121",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/staff-management/onboarding.md"
-                ]
-            },
-            "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen"
-        },
-        "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken": {
-            "checks": {
-                "status": 0,
-                "200": "2023-12-05 02:35:21.537413",
-                "fail": {
-                    "from": "2023-12-06 02:34:36.589358",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/philanthropic-fundraising/donating-netherlands.md"
-                ]
-            },
-            "url": "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken"
         }
     },
     "repos": {
