@@ -1,6 +1,27 @@
 {
-    "urls": {},
+    "urls": {
+        "https://www.writethedocs.org/guide/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-08 02:35:15.175380",
+                "fail": {
+                    "from": "2023-12-09 02:31:21.933566",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "criteria/document-the-code.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "criteria/document-the-code.md"
+                ]
+            },
+            "url": "https://www.writethedocs.org/guide/"
+        }
+    },
     "repos": {
-        "standard.publiccode.net": "passing"
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing"
     }
 }

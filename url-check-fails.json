@@ -1,5 +1,69 @@
 {
     "urls": {
+        "http://docs.ckan.org/en/latest/contributing/pull-requests.html": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-08 02:34:51.494260",
+                "fail": {
+                    "from": "2023-12-09 02:32:29.216667",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/use-continuous-integration.md"
+                ]
+            },
+            "url": "http://docs.ckan.org/en/latest/contributing/pull-requests.html"
+        },
+        "https://creativecommons.org/licenses/by-nd/4.0/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-08 02:34:48.368098",
+                "fail": {
+                    "from": "2023-12-09 02:30:57.889535",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "contributor-guides/for-staff.md"
+                ]
+            },
+            "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+        },
+        "https://creativecommons.org/licenses/by/3.0/us/legalcode": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-08 02:34:48.443145",
+                "fail": {
+                    "from": "2023-12-09 02:31:27.981984",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/supporting-codebase-governance/exercise/index.md"
+                ]
+            },
+            "url": "https://creativecommons.org/licenses/by/3.0/us/legalcode"
+        },
+        "https://creativecommons.org/share-your-work/public-domain/cc0": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-08 02:34:49.080317",
+                "fail": {
+                    "from": "2023-12-09 02:31:58.219949",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "contributor-guides/for-staff.md"
+                ]
+            },
+            "url": "https://creativecommons.org/share-your-work/public-domain/cc0"
+        },
         "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml": {
             "checks": {
                 "status": 404,
@@ -7,7 +71,7 @@
                 "fail": {
                     "from": "2023-12-01 02:39:47.413058",
                     "from-code": 404,
-                    "to": "2023-12-08 02:35:40.525698",
+                    "to": "2023-12-09 02:31:35.980673",
                     "to-code": 404
                 }
             },
@@ -17,15 +81,66 @@
                 ]
             },
             "url": "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml"
+        },
+        "https://podcast.sustainoss.org/147": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-08 02:34:59.364134",
+                "fail": {
+                    "from": "2023-12-09 02:31:09.019548",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/value-and-impact/all-press.md"
+                ]
+            },
+            "url": "https://podcast.sustainoss.org/147"
+        },
+        "https://readthedocs.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-08 02:35:04.376887",
+                "fail": {
+                    "from": "2023-12-09 02:31:10.303422",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/document-the-code.md"
+                ]
+            },
+            "url": "https://readthedocs.org/"
+        },
+        "https://www.writethedocs.org/guide/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-08 02:35:15.175380",
+                "fail": {
+                    "from": "2023-12-09 02:31:21.933566",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "criteria/document-the-code.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "criteria/document-the-code.md"
+                ]
+            },
+            "url": "https://www.writethedocs.org/guide/"
         }
     },
     "repos": {
-        "standard.publiccode.net": "passing",
-        "standard.publiccode.net-develop": "passing",
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
         "publiccode.net": "passing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "passing",
-        "community-implementation-guide-standard": "passing",
+        "community-implementation-guide-standard": "failing",
         "bumperscripter": "passing"
     }
 }

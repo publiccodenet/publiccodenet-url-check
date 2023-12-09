@@ -1,6 +1,39 @@
 {
-    "urls": {},
+    "urls": {
+        "http://docs.ckan.org/en/latest/contributing/pull-requests.html": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-08 02:34:51.494260",
+                "fail": {
+                    "from": "2023-12-09 02:32:29.216667",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/use-continuous-integration.md"
+                ]
+            },
+            "url": "http://docs.ckan.org/en/latest/contributing/pull-requests.html"
+        },
+        "https://readthedocs.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-08 02:35:04.376887",
+                "fail": {
+                    "from": "2023-12-09 02:31:10.303422",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/document-the-code.md"
+                ]
+            },
+            "url": "https://readthedocs.org/"
+        }
+    },
     "repos": {
-        "community-implementation-guide-standard": "passing"
+        "community-implementation-guide-standard": "failing"
     }
 }
