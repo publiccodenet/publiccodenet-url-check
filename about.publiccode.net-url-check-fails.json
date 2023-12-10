@@ -1,52 +1,52 @@
 {
     "urls": {
-        "https://creativecommons.org/licenses/by-nd/4.0/": {
+        "https://business.gov.nl/regulation/leave-schemes/": {
             "checks": {
-                "status": 0,
-                "200": "2023-12-08 02:34:48.368098",
+                "status": 500,
+                "200": "2023-12-09 02:30:55.553408",
                 "fail": {
-                    "from": "2023-12-09 02:30:57.889535",
-                    "from-code": 0
+                    "from": "2023-12-10 02:34:56.905198",
+                    "from-code": 500
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "contributor-guides/for-staff.md"
+                    "activities/staff-information/parental-leave.md"
                 ]
             },
-            "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            "url": "https://business.gov.nl/regulation/leave-schemes/"
         },
-        "https://creativecommons.org/licenses/by/3.0/us/legalcode": {
+        "https://business.gov.nl/regulation/working-conditions-employees/": {
             "checks": {
-                "status": 0,
-                "200": "2023-12-08 02:34:48.443145",
+                "status": 500,
+                "200": "2023-12-09 02:30:56.428651",
                 "fail": {
-                    "from": "2023-12-09 02:31:27.981984",
-                    "from-code": 0
+                    "from": "2023-12-10 02:34:57.674945",
+                    "from-code": 500
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/supporting-codebase-governance/exercise/index.md"
+                    "activities/staff-management/sick-leave.md"
                 ]
             },
-            "url": "https://creativecommons.org/licenses/by/3.0/us/legalcode"
+            "url": "https://business.gov.nl/regulation/working-conditions-employees/"
         },
-        "https://creativecommons.org/share-your-work/public-domain/cc0": {
+        "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/": {
             "checks": {
-                "status": 0,
-                "200": "2023-12-08 02:34:49.080317",
+                "status": 500,
+                "200": "2023-12-09 02:30:57.698044",
                 "fail": {
-                    "from": "2023-12-09 02:31:58.219949",
-                    "from-code": 0
+                    "from": "2023-12-10 02:34:58.069813",
+                    "from-code": 500
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "contributor-guides/for-staff.md"
+                    "organization/governance-model.md"
                 ]
             },
-            "url": "https://creativecommons.org/share-your-work/public-domain/cc0"
+            "url": "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/"
         },
         "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml": {
             "checks": {
@@ -55,7 +55,7 @@
                 "fail": {
                     "from": "2023-12-01 02:39:47.413058",
                     "from-code": 404,
-                    "to": "2023-12-09 02:31:35.980673",
+                    "to": "2023-12-10 02:35:36.147729",
                     "to-code": 404
                 }
             },
@@ -65,22 +65,6 @@
                 ]
             },
             "url": "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml"
-        },
-        "https://podcast.sustainoss.org/147": {
-            "checks": {
-                "status": 0,
-                "200": "2023-12-08 02:34:59.364134",
-                "fail": {
-                    "from": "2023-12-09 02:31:09.019548",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/all-press.md"
-                ]
-            },
-            "url": "https://podcast.sustainoss.org/147"
         }
     },
     "repos": {
