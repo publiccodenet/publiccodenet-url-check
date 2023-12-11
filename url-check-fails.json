@@ -1,53 +1,5 @@
 {
     "urls": {
-        "https://business.gov.nl/regulation/leave-schemes/": {
-            "checks": {
-                "status": 500,
-                "200": "2023-12-09 02:30:55.553408",
-                "fail": {
-                    "from": "2023-12-10 02:34:56.905198",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/staff-information/parental-leave.md"
-                ]
-            },
-            "url": "https://business.gov.nl/regulation/leave-schemes/"
-        },
-        "https://business.gov.nl/regulation/working-conditions-employees/": {
-            "checks": {
-                "status": 500,
-                "200": "2023-12-09 02:30:56.428651",
-                "fail": {
-                    "from": "2023-12-10 02:34:57.674945",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/staff-management/sick-leave.md"
-                ]
-            },
-            "url": "https://business.gov.nl/regulation/working-conditions-employees/"
-        },
-        "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/": {
-            "checks": {
-                "status": 500,
-                "200": "2023-12-09 02:30:57.698044",
-                "fail": {
-                    "from": "2023-12-10 02:34:58.069813",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "organization/governance-model.md"
-                ]
-            },
-            "url": "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/"
-        },
         "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml": {
             "checks": {
                 "status": 404,
@@ -55,7 +7,7 @@
                 "fail": {
                     "from": "2023-12-01 02:39:47.413058",
                     "from-code": 404,
-                    "to": "2023-12-10 02:35:36.147729",
+                    "to": "2023-12-11 02:35:18.346584",
                     "to-code": 404
                 }
             },
