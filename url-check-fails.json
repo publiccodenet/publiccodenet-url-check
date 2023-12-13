@@ -1,5 +1,21 @@
 {
     "urls": {
+        "https://en.unesco.org/freeandopensourcesoftware": {
+            "checks": {
+                "status": 503,
+                "200": "2023-12-12 02:35:07.029340",
+                "fail": {
+                    "from": "2023-12-13 02:34:43.502960",
+                    "from-code": 503
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/understanding-our-users/enabling-policies.md"
+                ]
+            },
+            "url": "https://en.unesco.org/freeandopensourcesoftware"
+        },
         "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml": {
             "checks": {
                 "status": 404,
@@ -7,7 +23,7 @@
                 "fail": {
                     "from": "2023-12-01 02:39:47.413058",
                     "from-code": 404,
-                    "to": "2023-12-12 02:36:05.333379",
+                    "to": "2023-12-13 02:35:37.496611",
                     "to-code": 404
                 }
             },
