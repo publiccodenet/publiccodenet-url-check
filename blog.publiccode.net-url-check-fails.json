@@ -1,6 +1,23 @@
 {
-    "urls": {},
+    "urls": {
+        "https://openstad.org": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-13 02:35:00.843279",
+                "fail": {
+                    "from": "2023-12-14 02:33:55.958336",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-06-08-product-management-in-open-source.md"
+                ]
+            },
+            "url": "https://openstad.org"
+        }
+    },
     "repos": {
-        "blog.publiccode.net": "passing"
+        "blog.publiccode.net": "failing"
     }
 }
