@@ -1,71 +1,5 @@
 {
     "urls": {
-        "https://business.gov.nl/regulation/leave-schemes/": {
-            "checks": {
-                "status": 500,
-                "200": "2023-12-13 02:34:39.677165",
-                "fail": {
-                    "from": "2023-12-14 02:33:38.740967",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/staff-information/parental-leave.md"
-                ]
-            },
-            "url": "https://business.gov.nl/regulation/leave-schemes/"
-        },
-        "https://business.gov.nl/regulation/working-conditions-employees/": {
-            "checks": {
-                "status": 500,
-                "200": "2023-12-13 02:34:40.573791",
-                "fail": {
-                    "from": "2023-12-14 02:33:39.252955",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/staff-management/sick-leave.md"
-                ]
-            },
-            "url": "https://business.gov.nl/regulation/working-conditions-employees/"
-        },
-        "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/": {
-            "checks": {
-                "status": 500,
-                "200": "2023-12-13 02:34:41.291170",
-                "fail": {
-                    "from": "2023-12-14 02:33:39.653636",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "organization/governance-model.md"
-                ]
-            },
-            "url": "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/"
-        },
-        "https://en.unesco.org/freeandopensourcesoftware": {
-            "checks": {
-                "status": 503,
-                "200": "2023-12-12 02:35:07.029340",
-                "fail": {
-                    "from": "2023-12-13 02:34:43.502960",
-                    "from-code": 503,
-                    "to": "2023-12-14 02:33:41.314686",
-                    "to-code": 503
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/understanding-our-users/enabling-policies.md"
-                ]
-            },
-            "url": "https://en.unesco.org/freeandopensourcesoftware"
-        },
         "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml": {
             "checks": {
                 "status": 404,
@@ -73,7 +7,7 @@
                 "fail": {
                     "from": "2023-12-01 02:39:47.413058",
                     "from-code": 404,
-                    "to": "2023-12-14 02:34:20.194359",
+                    "to": "2023-12-15 02:36:06.606150",
                     "to-code": 404
                 }
             },
