@@ -1,39 +1,6 @@
 {
-    "urls": {
-        "https://processing.org": {
-            "checks": {
-                "status": 0,
-                "200": "2023-12-17 02:35:38.113707",
-                "fail": {
-                    "from": "2023-12-18 02:35:17.265599",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "bumperscripter": [
-                    "README.md"
-                ]
-            },
-            "url": "https://processing.org"
-        },
-        "https://processing.org/download/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-12-17 02:35:38.411893",
-                "fail": {
-                    "from": "2023-12-18 02:35:17.602258",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "bumperscripter": [
-                    "README.md"
-                ]
-            },
-            "url": "https://processing.org/download/"
-        }
-    },
+    "urls": {},
     "repos": {
-        "bumperscripter": "failing"
+        "bumperscripter": "passing"
     }
 }

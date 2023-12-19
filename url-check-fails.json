@@ -1,11 +1,30 @@
 {
     "urls": {
+        "https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/": {
+            "checks": {
+                "status": 404,
+                "200": "2023-12-17 02:35:23.270491",
+                "fail": {
+                    "from": "2023-12-19 02:34:07.260747",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "criteria/require-review-of-contributions.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "criteria/require-review-of-contributions.md"
+                ]
+            },
+            "url": "https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/"
+        },
         "https://en.unesco.org/freeandopensourcesoftware": {
             "checks": {
                 "status": 503,
                 "200": "2023-12-17 02:35:23.748202",
                 "fail": {
-                    "from": "2023-12-18 02:35:04.194835",
+                    "from": "2023-12-19 02:34:07.328470",
                     "from-code": 503
                 }
             },
@@ -23,7 +42,7 @@
                 "fail": {
                     "from": "2023-12-01 02:39:47.413058",
                     "from-code": 404,
-                    "to": "2023-12-18 02:35:52.061075",
+                    "to": "2023-12-19 02:34:55.571152",
                     "to-code": 404
                 }
             },
@@ -34,46 +53,30 @@
             },
             "url": "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml"
         },
-        "https://processing.org": {
+        "https://zulip.com/": {
             "checks": {
-                "status": 0,
-                "200": "2023-12-17 02:35:38.113707",
+                "status": 202,
+                "200": "2023-12-17 02:35:54.252864",
                 "fail": {
-                    "from": "2023-12-18 02:35:17.265599",
-                    "from-code": 0
+                    "from": "2023-12-19 02:34:42.268910",
+                    "from-code": 202
                 }
             },
             "used": {
-                "bumperscripter": [
-                    "README.md"
+                "community-implementation-guide-standard": [
+                    "criteria/make-contributing-easy.md"
                 ]
             },
-            "url": "https://processing.org"
-        },
-        "https://processing.org/download/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-12-17 02:35:38.411893",
-                "fail": {
-                    "from": "2023-12-18 02:35:17.602258",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "bumperscripter": [
-                    "README.md"
-                ]
-            },
-            "url": "https://processing.org/download/"
+            "url": "https://zulip.com/"
         }
     },
     "repos": {
-        "standard.publiccode.net": "passing",
-        "standard.publiccode.net-develop": "passing",
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
         "publiccode.net": "passing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "passing",
-        "community-implementation-guide-standard": "passing",
-        "bumperscripter": "failing"
+        "community-implementation-guide-standard": "failing",
+        "bumperscripter": "passing"
     }
 }

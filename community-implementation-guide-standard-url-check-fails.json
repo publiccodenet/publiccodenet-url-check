@@ -1,6 +1,23 @@
 {
-    "urls": {},
+    "urls": {
+        "https://zulip.com/": {
+            "checks": {
+                "status": 202,
+                "200": "2023-12-17 02:35:54.252864",
+                "fail": {
+                    "from": "2023-12-19 02:34:42.268910",
+                    "from-code": 202
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/make-contributing-easy.md"
+                ]
+            },
+            "url": "https://zulip.com/"
+        }
+    },
     "repos": {
-        "community-implementation-guide-standard": "passing"
+        "community-implementation-guide-standard": "failing"
     }
 }
