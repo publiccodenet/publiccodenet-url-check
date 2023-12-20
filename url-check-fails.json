@@ -1,40 +1,5 @@
 {
     "urls": {
-        "https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/": {
-            "checks": {
-                "status": 404,
-                "200": "2023-12-17 02:35:23.270491",
-                "fail": {
-                    "from": "2023-12-19 02:34:07.260747",
-                    "from-code": 404
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "criteria/require-review-of-contributions.md"
-                ],
-                "standard.publiccode.net-develop": [
-                    "criteria/require-review-of-contributions.md"
-                ]
-            },
-            "url": "https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/"
-        },
-        "https://en.unesco.org/freeandopensourcesoftware": {
-            "checks": {
-                "status": 503,
-                "200": "2023-12-17 02:35:23.748202",
-                "fail": {
-                    "from": "2023-12-19 02:34:07.328470",
-                    "from-code": 503
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/understanding-our-users/enabling-policies.md"
-                ]
-            },
-            "url": "https://en.unesco.org/freeandopensourcesoftware"
-        },
         "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml": {
             "checks": {
                 "status": 404,
@@ -42,7 +7,7 @@
                 "fail": {
                     "from": "2023-12-01 02:39:47.413058",
                     "from-code": 404,
-                    "to": "2023-12-19 02:34:55.571152",
+                    "to": "2023-12-20 02:20:07.759482",
                     "to-code": 404
                 }
             },
@@ -53,30 +18,46 @@
             },
             "url": "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml"
         },
-        "https://zulip.com/": {
+        "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen": {
             "checks": {
-                "status": 202,
-                "200": "2023-12-17 02:35:54.252864",
+                "status": 0,
+                "200": "2023-12-19 02:34:24.921452",
                 "fail": {
-                    "from": "2023-12-19 02:34:42.268910",
-                    "from-code": 202
+                    "from": "2023-12-20 02:19:43.687132",
+                    "from-code": 0
                 }
             },
             "used": {
-                "community-implementation-guide-standard": [
-                    "criteria/make-contributing-easy.md"
+                "about.publiccode.net": [
+                    "activities/staff-management/onboarding.md"
                 ]
             },
-            "url": "https://zulip.com/"
+            "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen"
+        },
+        "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-19 02:34:25.742347",
+                "fail": {
+                    "from": "2023-12-20 02:19:58.712769",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/philanthropic-fundraising/donating-netherlands.md"
+                ]
+            },
+            "url": "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken"
         }
     },
     "repos": {
-        "standard.publiccode.net": "failing",
-        "standard.publiccode.net-develop": "failing",
+        "standard.publiccode.net": "passing",
+        "standard.publiccode.net-develop": "passing",
         "publiccode.net": "passing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "passing",
-        "community-implementation-guide-standard": "failing",
+        "community-implementation-guide-standard": "passing",
         "bumperscripter": "passing"
     }
 }
