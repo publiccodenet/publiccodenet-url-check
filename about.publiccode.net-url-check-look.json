@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-12-01 02:39:47.413058",
                     "from-code": 404,
-                    "to": "2023-12-20 02:20:07.759482",
+                    "to": "2023-12-21 02:33:28.093128",
                     "to-code": 404
                 }
             },
@@ -18,37 +18,21 @@
             },
             "url": "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml"
         },
-        "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen": {
+        "https://www.digg.se/download/18.5b0eb5a018018072bd81c5cf/1657096012152/Policy%20f%C3%B6r%20utveckling%20av%20programvara.pdf": {
             "checks": {
                 "status": 0,
-                "200": "2023-12-19 02:34:24.921452",
+                "200": "2023-12-20 02:19:45.282232",
                 "fail": {
-                    "from": "2023-12-20 02:19:43.687132",
+                    "from": "2023-12-21 02:33:23.114321",
                     "from-code": 0
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/staff-management/onboarding.md"
+                    "activities/understanding-our-users/enabling-policies.md"
                 ]
             },
-            "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen"
-        },
-        "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken": {
-            "checks": {
-                "status": 0,
-                "200": "2023-12-19 02:34:25.742347",
-                "fail": {
-                    "from": "2023-12-20 02:19:58.712769",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/philanthropic-fundraising/donating-netherlands.md"
-                ]
-            },
-            "url": "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken"
+            "url": "https://www.digg.se/download/18.5b0eb5a018018072bd81c5cf/1657096012152/Policy%20f%C3%B6r%20utveckling%20av%20programvara.pdf"
         }
     },
     "repos": {

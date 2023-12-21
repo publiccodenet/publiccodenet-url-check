@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2023-12-01 02:39:47.413058",
                     "from-code": 404,
-                    "to": "2023-12-20 02:20:07.759482",
+                    "to": "2023-12-21 02:33:28.093128",
                     "to-code": 404
                 }
             },
@@ -18,46 +18,112 @@
             },
             "url": "https://github.com/publiccodenet/about/blob/develop/.github/workflows/link-check.yml"
         },
-        "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen": {
+        "https://schedule.mozillafestival.org/session/BRR3GV-1": {
             "checks": {
-                "status": 0,
-                "200": "2023-12-19 02:34:24.921452",
+                "status": 404,
+                "200": "2023-12-20 02:19:41.767599",
                 "fail": {
-                    "from": "2023-12-20 02:19:43.687132",
-                    "from-code": 0
+                    "from": "2023-12-21 02:32:48.605869",
+                    "from-code": 404
                 }
             },
             "used": {
-                "about.publiccode.net": [
-                    "activities/staff-management/onboarding.md"
+                "blog.publiccode.net": [
+                    "_posts/2023-03-06-notes-from-community-call-2 march-2023.md"
                 ]
             },
-            "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen"
+            "url": "https://schedule.mozillafestival.org/session/BRR3GV-1"
         },
-        "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken": {
+        "https://schedule.mozillafestival.org/session/CSH7RM-1": {
+            "checks": {
+                "status": 404,
+                "200": "2023-12-20 02:19:42.248873",
+                "fail": {
+                    "from": "2023-12-21 02:32:49.083946",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md",
+                    "_posts/2021-04-08-March-2021-newsletter.md"
+                ]
+            },
+            "url": "https://schedule.mozillafestival.org/session/CSH7RM-1"
+        },
+        "https://schedule.mozillafestival.org/session/TDHQ3D-1": {
+            "checks": {
+                "status": 404,
+                "200": "2023-12-20 02:19:42.664042",
+                "fail": {
+                    "from": "2023-12-21 02:32:49.563114",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md",
+                    "_posts/2021-04-08-March-2021-newsletter.md"
+                ]
+            },
+            "url": "https://schedule.mozillafestival.org/session/TDHQ3D-1"
+        },
+        "https://www.digg.se": {
             "checks": {
                 "status": 0,
-                "200": "2023-12-19 02:34:25.742347",
+                "200": "2023-12-20 02:19:44.762274",
                 "fail": {
-                    "from": "2023-12-20 02:19:58.712769",
+                    "from": "2023-12-21 02:32:52.551602",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "publiccode.net": [
+                    "codebases/open-source-project-template.html"
+                ]
+            },
+            "url": "https://www.digg.se"
+        },
+        "https://www.digg.se/download/18.5b0eb5a018018072bd81c5cf/1657096012152/Policy%20f%C3%B6r%20utveckling%20av%20programvara.pdf": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-20 02:19:45.282232",
+                "fail": {
+                    "from": "2023-12-21 02:33:23.114321",
                     "from-code": 0
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/philanthropic-fundraising/donating-netherlands.md"
+                    "activities/understanding-our-users/enabling-policies.md"
                 ]
             },
-            "url": "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken"
+            "url": "https://www.digg.se/download/18.5b0eb5a018018072bd81c5cf/1657096012152/Policy%20f%C3%B6r%20utveckling%20av%20programvara.pdf"
+        },
+        "https://www.digg.se/regler-och-rekommendationer#/": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-20 02:19:45.670022",
+                "fail": {
+                    "from": "2023-12-21 02:33:53.491535",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/bundle-policy-and-source-code.md"
+                ]
+            },
+            "url": "https://www.digg.se/regler-och-rekommendationer#/"
         }
     },
     "repos": {
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
-        "publiccode.net": "passing",
+        "publiccode.net": "failing",
         "about.publiccode.net": "failing",
-        "blog.publiccode.net": "passing",
-        "community-implementation-guide-standard": "passing",
+        "blog.publiccode.net": "failing",
+        "community-implementation-guide-standard": "failing",
         "bumperscripter": "passing"
     }
 }

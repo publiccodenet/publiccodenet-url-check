@@ -1,6 +1,23 @@
 {
-    "urls": {},
+    "urls": {
+        "https://www.digg.se": {
+            "checks": {
+                "status": 0,
+                "200": "2023-12-20 02:19:44.762274",
+                "fail": {
+                    "from": "2023-12-21 02:32:52.551602",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "publiccode.net": [
+                    "codebases/open-source-project-template.html"
+                ]
+            },
+            "url": "https://www.digg.se"
+        }
+    },
     "repos": {
-        "publiccode.net": "passing"
+        "publiccode.net": "failing"
     }
 }
