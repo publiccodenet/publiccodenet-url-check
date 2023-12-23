@@ -1,52 +1,52 @@
 {
     "urls": {
-        "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/": {
+        "https://business.gov.nl/regulation/leave-schemes/": {
             "checks": {
                 "status": 500,
-                "200": "2023-12-21 02:32:32.889620",
+                "200": "2023-12-22 02:31:35.921179",
                 "fail": {
-                    "from": "2023-12-22 02:31:36.999311",
+                    "from": "2023-12-23 02:29:01.670763",
                     "from-code": 500
                 }
             },
             "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-02-14-a-love-letter-to-fosdem.md"
+                "about.publiccode.net": [
+                    "activities/staff-information/parental-leave.md"
                 ]
             },
-            "url": "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/"
+            "url": "https://business.gov.nl/regulation/leave-schemes/"
         },
-        "https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/": {
+        "https://business.gov.nl/regulation/working-conditions-employees/": {
             "checks": {
                 "status": 500,
-                "200": "2023-12-21 02:32:37.297093",
+                "200": "2023-12-22 02:31:36.586490",
                 "fail": {
-                    "from": "2023-12-22 02:31:38.003332",
+                    "from": "2023-12-23 02:29:02.380572",
                     "from-code": 500
                 }
             },
             "used": {
-                "publiccode.net": [
-                    "OSPO.md"
+                "about.publiccode.net": [
+                    "activities/staff-management/sick-leave.md"
                 ]
             },
-            "url": "https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/"
+            "url": "https://business.gov.nl/regulation/working-conditions-employees/"
         },
-        "https://podtail.nl/podcast/omsorgspodden/avsnitt-91-9-fran-almedalen-gastas-av-digitaliseri/": {
+        "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/": {
             "checks": {
-                "status": 502,
-                "200": "2023-12-21 02:32:45.315878",
+                "status": 500,
+                "200": "2023-12-22 02:31:37.119995",
                 "fail": {
-                    "from": "2023-12-22 02:31:46.927321",
-                    "from-code": 502
+                    "from": "2023-12-23 02:29:02.780198",
+                    "from-code": 500
                 }
             },
             "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-07-11-digital-and-technology-trends-from-almedalen-2023.md"
+                "about.publiccode.net": [
+                    "organization/governance-model.md"
                 ]
             },
-            "url": "https://podtail.nl/podcast/omsorgspodden/avsnitt-91-9-fran-almedalen-gastas-av-digitaliseri/"
+            "url": "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/"
         },
         "https://schedule.mozillafestival.org/session/BRR3GV-1": {
             "checks": {
@@ -55,7 +55,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:48.605869",
                     "from-code": 404,
-                    "to": "2023-12-22 02:31:50.781614",
+                    "to": "2023-12-23 02:29:16.214437",
                     "to-code": 404
                 }
             },
@@ -73,7 +73,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:49.083946",
                     "from-code": 404,
-                    "to": "2023-12-22 02:31:51.277676",
+                    "to": "2023-12-23 02:29:16.712157",
                     "to-code": 404
                 }
             },
@@ -92,7 +92,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:49.563114",
                     "from-code": 404,
-                    "to": "2023-12-22 02:31:51.726683",
+                    "to": "2023-12-23 02:29:17.177919",
                     "to-code": 404
                 }
             },
@@ -111,7 +111,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:52.551602",
                     "from-code": 0,
-                    "to": "2023-12-22 02:31:53.250280",
+                    "to": "2023-12-23 02:29:19.549694",
                     "to-code": 0
                 }
             },
@@ -129,7 +129,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:23.114321",
                     "from-code": 0,
-                    "to": "2023-12-22 02:32:23.723469",
+                    "to": "2023-12-23 02:29:50.065642",
                     "to-code": 0
                 }
             },
@@ -147,7 +147,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:53.491535",
                     "from-code": 0,
-                    "to": "2023-12-22 02:32:54.003353",
+                    "to": "2023-12-23 02:30:20.345946",
                     "to-code": 0
                 }
             },

@@ -1,5 +1,53 @@
 {
     "urls": {
+        "https://business.gov.nl/regulation/leave-schemes/": {
+            "checks": {
+                "status": 500,
+                "200": "2023-12-22 02:31:35.921179",
+                "fail": {
+                    "from": "2023-12-23 02:29:01.670763",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/staff-information/parental-leave.md"
+                ]
+            },
+            "url": "https://business.gov.nl/regulation/leave-schemes/"
+        },
+        "https://business.gov.nl/regulation/working-conditions-employees/": {
+            "checks": {
+                "status": 500,
+                "200": "2023-12-22 02:31:36.586490",
+                "fail": {
+                    "from": "2023-12-23 02:29:02.380572",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/staff-management/sick-leave.md"
+                ]
+            },
+            "url": "https://business.gov.nl/regulation/working-conditions-employees/"
+        },
+        "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/": {
+            "checks": {
+                "status": 500,
+                "200": "2023-12-22 02:31:37.119995",
+                "fail": {
+                    "from": "2023-12-23 02:29:02.780198",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/governance-model.md"
+                ]
+            },
+            "url": "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/"
+        },
         "https://www.digg.se/download/18.5b0eb5a018018072bd81c5cf/1657096012152/Policy%20f%C3%B6r%20utveckling%20av%20programvara.pdf": {
             "checks": {
                 "status": 0,
@@ -7,7 +55,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:23.114321",
                     "from-code": 0,
-                    "to": "2023-12-22 02:32:23.723469",
+                    "to": "2023-12-23 02:29:50.065642",
                     "to-code": 0
                 }
             },
