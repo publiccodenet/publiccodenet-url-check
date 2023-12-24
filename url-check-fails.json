@@ -1,52 +1,23 @@
 {
     "urls": {
-        "https://business.gov.nl/regulation/leave-schemes/": {
+        "https://omgevingsbeleid.zuid-holland.nl/": {
             "checks": {
-                "status": 500,
-                "200": "2023-12-22 02:31:35.921179",
+                "status": 0,
+                "200": "2023-12-23 02:29:13.552493",
                 "fail": {
-                    "from": "2023-12-23 02:29:01.670763",
-                    "from-code": 500
+                    "from": "2023-12-24 02:33:30.747232",
+                    "from-code": 0
                 }
             },
             "used": {
-                "about.publiccode.net": [
-                    "activities/staff-information/parental-leave.md"
+                "publiccode.net": [
+                    "codebases/omgevingsbeleid.html"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
                 ]
             },
-            "url": "https://business.gov.nl/regulation/leave-schemes/"
-        },
-        "https://business.gov.nl/regulation/working-conditions-employees/": {
-            "checks": {
-                "status": 500,
-                "200": "2023-12-22 02:31:36.586490",
-                "fail": {
-                    "from": "2023-12-23 02:29:02.380572",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/staff-management/sick-leave.md"
-                ]
-            },
-            "url": "https://business.gov.nl/regulation/working-conditions-employees/"
-        },
-        "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/": {
-            "checks": {
-                "status": 500,
-                "200": "2023-12-22 02:31:37.119995",
-                "fail": {
-                    "from": "2023-12-23 02:29:02.780198",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "organization/governance-model.md"
-                ]
-            },
-            "url": "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/"
+            "url": "https://omgevingsbeleid.zuid-holland.nl/"
         },
         "https://schedule.mozillafestival.org/session/BRR3GV-1": {
             "checks": {
@@ -55,7 +26,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:48.605869",
                     "from-code": 404,
-                    "to": "2023-12-23 02:29:16.214437",
+                    "to": "2023-12-24 02:33:35.195172",
                     "to-code": 404
                 }
             },
@@ -73,7 +44,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:49.083946",
                     "from-code": 404,
-                    "to": "2023-12-23 02:29:16.712157",
+                    "to": "2023-12-24 02:33:35.668317",
                     "to-code": 404
                 }
             },
@@ -92,7 +63,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:49.563114",
                     "from-code": 404,
-                    "to": "2023-12-23 02:29:17.177919",
+                    "to": "2023-12-24 02:33:36.122021",
                     "to-code": 404
                 }
             },
@@ -111,7 +82,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:52.551602",
                     "from-code": 0,
-                    "to": "2023-12-23 02:29:19.549694",
+                    "to": "2023-12-24 02:33:38.813422",
                     "to-code": 0
                 }
             },
@@ -129,7 +100,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:23.114321",
                     "from-code": 0,
-                    "to": "2023-12-23 02:29:50.065642",
+                    "to": "2023-12-24 02:34:09.212735",
                     "to-code": 0
                 }
             },
@@ -147,7 +118,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:53.491535",
                     "from-code": 0,
-                    "to": "2023-12-23 02:30:20.345946",
+                    "to": "2023-12-24 02:34:39.502221",
                     "to-code": 0
                 }
             },
