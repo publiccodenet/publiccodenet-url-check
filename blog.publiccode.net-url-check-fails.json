@@ -1,22 +1,5 @@
 {
     "urls": {
-        "http://www.angelplasma.net/work/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-12-24 02:33:26.452093",
-                "fail": {
-                    "from": "2023-12-25 02:33:14.363265",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-12-02-summer-2020-newsletter.md",
-                    "_posts/2021-02-25-notes:-february-2021-foundation-for-public-code-community-call.md"
-                ]
-            },
-            "url": "http://www.angelplasma.net/work/"
-        },
         "https://schedule.mozillafestival.org/session/BRR3GV-1": {
             "checks": {
                 "status": 404,
@@ -24,7 +7,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:48.605869",
                     "from-code": 404,
-                    "to": "2023-12-25 02:33:16.219214",
+                    "to": "2023-12-26 02:29:59.708734",
                     "to-code": 404
                 }
             },
@@ -42,7 +25,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:49.083946",
                     "from-code": 404,
-                    "to": "2023-12-25 02:33:16.696322",
+                    "to": "2023-12-26 02:30:00.170134",
                     "to-code": 404
                 }
             },
@@ -61,7 +44,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:49.563114",
                     "from-code": 404,
-                    "to": "2023-12-25 02:33:17.101412",
+                    "to": "2023-12-26 02:30:00.466864",
                     "to-code": 404
                 }
             },
