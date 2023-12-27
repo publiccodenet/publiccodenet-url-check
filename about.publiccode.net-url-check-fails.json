@@ -1,21 +1,5 @@
 {
     "urls": {
-        "https://en.unesco.org/freeandopensourcesoftware": {
-            "checks": {
-                "status": 503,
-                "200": "2023-12-25 02:33:03.444082",
-                "fail": {
-                    "from": "2023-12-26 02:29:48.856706",
-                    "from-code": 503
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/understanding-our-users/enabling-policies.md"
-                ]
-            },
-            "url": "https://en.unesco.org/freeandopensourcesoftware"
-        },
         "https://www.digg.se/download/18.5b0eb5a018018072bd81c5cf/1657096012152/Policy%20f%C3%B6r%20utveckling%20av%20programvara.pdf": {
             "checks": {
                 "status": 0,
@@ -23,7 +7,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:23.114321",
                     "from-code": 0,
-                    "to": "2023-12-26 02:30:33.686214",
+                    "to": "2023-12-27 02:31:31.514273",
                     "to-code": 0
                 }
             },
