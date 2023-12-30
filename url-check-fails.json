@@ -1,21 +1,5 @@
 {
     "urls": {
-        "https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/": {
-            "checks": {
-                "status": 0,
-                "200": "2023-12-28 02:30:51.876189",
-                "fail": {
-                    "from": "2023-12-29 02:28:33.584355",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "community-implementation-guide-standard": [
-                    "criteria/publish-with-an-open-license.md"
-                ]
-            },
-            "url": "https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/"
-        },
         "https://schedule.mozillafestival.org/session/BRR3GV-1": {
             "checks": {
                 "status": 404,
@@ -23,7 +7,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:48.605869",
                     "from-code": 404,
-                    "to": "2023-12-29 02:28:48.611994",
+                    "to": "2023-12-30 02:30:41.593542",
                     "to-code": 404
                 }
             },
@@ -41,7 +25,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:49.083946",
                     "from-code": 404,
-                    "to": "2023-12-29 02:28:48.895309",
+                    "to": "2023-12-30 02:30:42.060533",
                     "to-code": 404
                 }
             },
@@ -60,7 +44,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:49.563114",
                     "from-code": 404,
-                    "to": "2023-12-29 02:28:49.292653",
+                    "to": "2023-12-30 02:30:42.336144",
                     "to-code": 404
                 }
             },
@@ -72,38 +56,6 @@
             },
             "url": "https://schedule.mozillafestival.org/session/TDHQ3D-1"
         },
-        "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen": {
-            "checks": {
-                "status": 0,
-                "200": "2023-12-28 02:31:11.734657",
-                "fail": {
-                    "from": "2023-12-29 02:28:51.106434",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/staff-management/onboarding.md"
-                ]
-            },
-            "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen"
-        },
-        "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken": {
-            "checks": {
-                "status": 0,
-                "200": "2023-12-28 02:31:12.427285",
-                "fail": {
-                    "from": "2023-12-29 02:29:06.126563",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/philanthropic-fundraising/donating-netherlands.md"
-                ]
-            },
-            "url": "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken"
-        },
         "https://www.digg.se": {
             "checks": {
                 "status": 0,
@@ -111,7 +63,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:52.551602",
                     "from-code": 0,
-                    "to": "2023-12-29 02:28:52.364555",
+                    "to": "2023-12-30 02:30:44.781599",
                     "to-code": 0
                 }
             },
@@ -129,7 +81,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:23.114321",
                     "from-code": 0,
-                    "to": "2023-12-29 02:29:22.862238",
+                    "to": "2023-12-30 02:31:15.280910",
                     "to-code": 0
                 }
             },
@@ -147,7 +99,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:53.491535",
                     "from-code": 0,
-                    "to": "2023-12-29 02:29:53.144319",
+                    "to": "2023-12-30 02:31:45.538483",
                     "to-code": 0
                 }
             },
