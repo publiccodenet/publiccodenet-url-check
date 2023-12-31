@@ -1,5 +1,40 @@
 {
     "urls": {
+        "https://go.microsoft.com/fwlink/?LinkId=733558": {
+            "checks": {
+                "status": 503,
+                "200": "2023-12-30 02:30:31.613606",
+                "fail": {
+                    "from": "2023-12-31 02:33:57.414941",
+                    "from-code": 503
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    ".vscode/tasks.json"
+                ],
+                "standard.publiccode.net-develop": [
+                    ".vscode/tasks.json"
+                ]
+            },
+            "url": "https://go.microsoft.com/fwlink/?LinkId=733558"
+        },
+        "https://podtail.nl/podcast/omsorgspodden/avsnitt-91-9-fran-almedalen-gastas-av-digitaliseri/": {
+            "checks": {
+                "status": 502,
+                "200": "2023-12-30 02:30:38.247116",
+                "fail": {
+                    "from": "2023-12-31 02:34:05.232799",
+                    "from-code": 502
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2023-07-11-digital-and-technology-trends-from-almedalen-2023.md"
+                ]
+            },
+            "url": "https://podtail.nl/podcast/omsorgspodden/avsnitt-91-9-fran-almedalen-gastas-av-digitaliseri/"
+        },
         "https://schedule.mozillafestival.org/session/BRR3GV-1": {
             "checks": {
                 "status": 404,
@@ -7,7 +42,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:48.605869",
                     "from-code": 404,
-                    "to": "2023-12-30 02:30:41.593542",
+                    "to": "2023-12-31 02:34:08.064452",
                     "to-code": 404
                 }
             },
@@ -25,7 +60,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:49.083946",
                     "from-code": 404,
-                    "to": "2023-12-30 02:30:42.060533",
+                    "to": "2023-12-31 02:34:08.593322",
                     "to-code": 404
                 }
             },
@@ -44,7 +79,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:49.563114",
                     "from-code": 404,
-                    "to": "2023-12-30 02:30:42.336144",
+                    "to": "2023-12-31 02:34:09.091639",
                     "to-code": 404
                 }
             },
@@ -63,7 +98,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:52.551602",
                     "from-code": 0,
-                    "to": "2023-12-30 02:30:44.781599",
+                    "to": "2023-12-31 02:34:13.088929",
                     "to-code": 0
                 }
             },
@@ -81,7 +116,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:23.114321",
                     "from-code": 0,
-                    "to": "2023-12-30 02:31:15.280910",
+                    "to": "2023-12-31 02:34:43.700622",
                     "to-code": 0
                 }
             },
@@ -99,7 +134,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:53.491535",
                     "from-code": 0,
-                    "to": "2023-12-30 02:31:45.538483",
+                    "to": "2023-12-31 02:35:14.133941",
                     "to-code": 0
                 }
             },
@@ -112,8 +147,8 @@
         }
     },
     "repos": {
-        "standard.publiccode.net": "passing",
-        "standard.publiccode.net-develop": "passing",
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
         "publiccode.net": "failing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
