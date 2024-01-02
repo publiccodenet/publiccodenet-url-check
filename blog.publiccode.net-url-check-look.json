@@ -1,20 +1,20 @@
 {
     "urls": {
-        "https://openstad.org": {
+        "https://podtail.nl/podcast/omsorgspodden/avsnitt-91-9-fran-almedalen-gastas-av-digitaliseri/": {
             "checks": {
-                "status": 0,
-                "200": "2023-12-31 02:34:12.074532",
+                "status": 502,
+                "200": "2024-01-01 02:38:51.508437",
                 "fail": {
-                    "from": "2024-01-01 02:38:57.335738",
-                    "from-code": 0
+                    "from": "2024-01-02 02:33:52.612889",
+                    "from-code": 502
                 }
             },
             "used": {
                 "blog.publiccode.net": [
-                    "_posts/2021-06-08-product-management-in-open-source.md"
+                    "_posts/2023-07-11-digital-and-technology-trends-from-almedalen-2023.md"
                 ]
             },
-            "url": "https://openstad.org"
+            "url": "https://podtail.nl/podcast/omsorgspodden/avsnitt-91-9-fran-almedalen-gastas-av-digitaliseri/"
         },
         "https://schedule.mozillafestival.org/session/BRR3GV-1": {
             "checks": {
@@ -23,7 +23,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:48.605869",
                     "from-code": 404,
-                    "to": "2024-01-01 02:38:55.165230",
+                    "to": "2024-01-02 02:33:56.624907",
                     "to-code": 404
                 }
             },
@@ -41,7 +41,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:49.083946",
                     "from-code": 404,
-                    "to": "2024-01-01 02:38:55.642983",
+                    "to": "2024-01-02 02:33:57.090335",
                     "to-code": 404
                 }
             },
@@ -60,7 +60,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:49.563114",
                     "from-code": 404,
-                    "to": "2024-01-01 02:38:55.997009",
+                    "to": "2024-01-02 02:33:57.390241",
                     "to-code": 404
                 }
             },
