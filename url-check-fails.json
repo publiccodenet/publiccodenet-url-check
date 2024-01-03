@@ -1,37 +1,5 @@
 {
     "urls": {
-        "https://en.unesco.org/freeandopensourcesoftware": {
-            "checks": {
-                "status": 503,
-                "200": "2024-01-01 02:38:41.339608",
-                "fail": {
-                    "from": "2024-01-02 02:33:44.322075",
-                    "from-code": 503
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/understanding-our-users/enabling-policies.md"
-                ]
-            },
-            "url": "https://en.unesco.org/freeandopensourcesoftware"
-        },
-        "https://podtail.nl/podcast/omsorgspodden/avsnitt-91-9-fran-almedalen-gastas-av-digitaliseri/": {
-            "checks": {
-                "status": 502,
-                "200": "2024-01-01 02:38:51.508437",
-                "fail": {
-                    "from": "2024-01-02 02:33:52.612889",
-                    "from-code": 502
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-07-11-digital-and-technology-trends-from-almedalen-2023.md"
-                ]
-            },
-            "url": "https://podtail.nl/podcast/omsorgspodden/avsnitt-91-9-fran-almedalen-gastas-av-digitaliseri/"
-        },
         "https://schedule.mozillafestival.org/session/BRR3GV-1": {
             "checks": {
                 "status": 404,
@@ -39,7 +7,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:48.605869",
                     "from-code": 404,
-                    "to": "2024-01-02 02:33:56.624907",
+                    "to": "2024-01-03 02:31:53.162672",
                     "to-code": 404
                 }
             },
@@ -57,7 +25,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:49.083946",
                     "from-code": 404,
-                    "to": "2024-01-02 02:33:57.090335",
+                    "to": "2024-01-03 02:31:53.630293",
                     "to-code": 404
                 }
             },
@@ -76,7 +44,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:49.563114",
                     "from-code": 404,
-                    "to": "2024-01-02 02:33:57.390241",
+                    "to": "2024-01-03 02:31:53.906331",
                     "to-code": 404
                 }
             },
@@ -95,7 +63,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:52.551602",
                     "from-code": 0,
-                    "to": "2024-01-02 02:34:00.454630",
+                    "to": "2024-01-03 02:31:55.736222",
                     "to-code": 0
                 }
             },
@@ -113,7 +81,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:23.114321",
                     "from-code": 0,
-                    "to": "2024-01-02 02:34:30.961340",
+                    "to": "2024-01-03 02:32:26.244440",
                     "to-code": 0
                 }
             },
@@ -131,7 +99,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:53.491535",
                     "from-code": 0,
-                    "to": "2024-01-02 02:35:01.250010",
+                    "to": "2024-01-03 02:32:56.525963",
                     "to-code": 0
                 }
             },
