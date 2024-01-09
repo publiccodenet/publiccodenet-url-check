@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-01-06 02:31:43.867747",
                     "from-code": 404,
-                    "to": "2024-01-08 02:35:12.528069",
+                    "to": "2024-01-09 02:35:16.822969",
                     "to-code": 404
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:23.114321",
                     "from-code": 0,
-                    "to": "2024-01-08 02:36:04.500925",
+                    "to": "2024-01-09 02:36:08.893968",
                     "to-code": 0
                 }
             },
@@ -37,6 +37,22 @@
             },
             "url": "https://www.digg.se/download/18.5b0eb5a018018072bd81c5cf/1657096012152/Policy%20f%C3%B6r%20utveckling%20av%20programvara.pdf"
         },
+        "https://www.fossjobs.net/": {
+            "checks": {
+                "status": 500,
+                "200": "2024-01-08 02:35:36.112814",
+                "fail": {
+                    "from": "2024-01-09 02:35:40.586174",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/recruitment/hiring-process.md"
+                ]
+            },
+            "url": "https://www.fossjobs.net/"
+        },
         "https://www.sdeps.eu/": {
             "checks": {
                 "status": 0,
@@ -44,7 +60,7 @@
                 "fail": {
                     "from": "2024-01-06 02:32:06.698778",
                     "from-code": 0,
-                    "to": "2024-01-08 02:35:37.550122",
+                    "to": "2024-01-09 02:35:42.310956",
                     "to-code": 0
                 }
             },
@@ -62,7 +78,7 @@
                 "fail": {
                     "from": "2024-01-06 02:32:07.467327",
                     "from-code": 0,
-                    "to": "2024-01-08 02:35:38.106320",
+                    "to": "2024-01-09 02:35:43.157475",
                     "to-code": 0
                 }
             },

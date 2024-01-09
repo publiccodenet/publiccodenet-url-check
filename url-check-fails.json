@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-01-06 02:31:43.867747",
                     "from-code": 404,
-                    "to": "2024-01-08 02:35:12.528069",
+                    "to": "2024-01-09 02:35:16.822969",
                     "to-code": 404
                 }
             },
@@ -19,62 +19,6 @@
             },
             "url": "https://datasift.github.io/gitflow/IntroducingGitFlow.html"
         },
-        "https://schedule.mozillafestival.org/session/BRR3GV-1": {
-            "checks": {
-                "status": 404,
-                "200": "2023-12-20 02:19:41.767599",
-                "fail": {
-                    "from": "2023-12-21 02:32:48.605869",
-                    "from-code": 404,
-                    "to": "2024-01-08 02:35:30.614888",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-03-06-notes-from-community-call-2 march-2023.md"
-                ]
-            },
-            "url": "https://schedule.mozillafestival.org/session/BRR3GV-1"
-        },
-        "https://schedule.mozillafestival.org/session/CSH7RM-1": {
-            "checks": {
-                "status": 404,
-                "200": "2023-12-20 02:19:42.248873",
-                "fail": {
-                    "from": "2023-12-21 02:32:49.083946",
-                    "from-code": 404,
-                    "to": "2024-01-08 02:35:31.241391",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md",
-                    "_posts/2021-04-08-March-2021-newsletter.md"
-                ]
-            },
-            "url": "https://schedule.mozillafestival.org/session/CSH7RM-1"
-        },
-        "https://schedule.mozillafestival.org/session/TDHQ3D-1": {
-            "checks": {
-                "status": 404,
-                "200": "2023-12-20 02:19:42.664042",
-                "fail": {
-                    "from": "2023-12-21 02:32:49.563114",
-                    "from-code": 404,
-                    "to": "2024-01-08 02:35:31.734241",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md",
-                    "_posts/2021-04-08-March-2021-newsletter.md"
-                ]
-            },
-            "url": "https://schedule.mozillafestival.org/session/TDHQ3D-1"
-        },
         "https://www.digg.se": {
             "checks": {
                 "status": 0,
@@ -82,7 +26,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:52.551602",
                     "from-code": 0,
-                    "to": "2024-01-08 02:35:33.883913",
+                    "to": "2024-01-09 02:35:38.405351",
                     "to-code": 0
                 }
             },
@@ -100,7 +44,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:23.114321",
                     "from-code": 0,
-                    "to": "2024-01-08 02:36:04.500925",
+                    "to": "2024-01-09 02:36:08.893968",
                     "to-code": 0
                 }
             },
@@ -118,7 +62,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:53.491535",
                     "from-code": 0,
-                    "to": "2024-01-08 02:36:34.895899",
+                    "to": "2024-01-09 02:36:39.262855",
                     "to-code": 0
                 }
             },
@@ -129,6 +73,22 @@
             },
             "url": "https://www.digg.se/regler-och-rekommendationer#/"
         },
+        "https://www.fossjobs.net/": {
+            "checks": {
+                "status": 500,
+                "200": "2024-01-08 02:35:36.112814",
+                "fail": {
+                    "from": "2024-01-09 02:35:40.586174",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/recruitment/hiring-process.md"
+                ]
+            },
+            "url": "https://www.fossjobs.net/"
+        },
         "https://www.sdeps.eu/": {
             "checks": {
                 "status": 0,
@@ -136,7 +96,7 @@
                 "fail": {
                     "from": "2024-01-06 02:32:06.698778",
                     "from-code": 0,
-                    "to": "2024-01-08 02:35:37.550122",
+                    "to": "2024-01-09 02:35:42.310956",
                     "to-code": 0
                 }
             },
@@ -154,7 +114,7 @@
                 "fail": {
                     "from": "2024-01-06 02:32:07.467327",
                     "from-code": 0,
-                    "to": "2024-01-08 02:35:38.106320",
+                    "to": "2024-01-09 02:35:43.157475",
                     "to-code": 0
                 }
             },
@@ -171,7 +131,7 @@
         "standard.publiccode.net-develop": "passing",
         "publiccode.net": "failing",
         "about.publiccode.net": "failing",
-        "blog.publiccode.net": "failing",
+        "blog.publiccode.net": "passing",
         "community-implementation-guide-standard": "failing",
         "bumperscripter": "passing"
     }
