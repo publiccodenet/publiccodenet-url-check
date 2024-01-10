@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-01-06 02:31:43.867747",
                     "from-code": 404,
-                    "to": "2024-01-09 02:35:16.822969",
+                    "to": "2024-01-10 02:34:39.867414",
                     "to-code": 404
                 }
             },
@@ -19,6 +19,54 @@
             },
             "url": "https://datasift.github.io/gitflow/IntroducingGitFlow.html"
         },
+        "https://en.unesco.org/freeandopensourcesoftware": {
+            "checks": {
+                "status": 503,
+                "200": "2024-01-09 02:35:19.794164",
+                "fail": {
+                    "from": "2024-01-10 02:34:42.898504",
+                    "from-code": 503
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/understanding-our-users/enabling-policies.md"
+                ]
+            },
+            "url": "https://en.unesco.org/freeandopensourcesoftware"
+        },
+        "https://podtail.nl/podcast/omsorgspodden/avsnitt-91-9-fran-almedalen-gastas-av-digitaliseri/": {
+            "checks": {
+                "status": 502,
+                "200": "2024-01-09 02:35:30.446539",
+                "fail": {
+                    "from": "2024-01-10 02:34:55.687743",
+                    "from-code": 502
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2023-07-11-digital-and-technology-trends-from-almedalen-2023.md"
+                ]
+            },
+            "url": "https://podtail.nl/podcast/omsorgspodden/avsnitt-91-9-fran-almedalen-gastas-av-digitaliseri/"
+        },
+        "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen": {
+            "checks": {
+                "status": 0,
+                "200": "2024-01-09 02:35:36.891308",
+                "fail": {
+                    "from": "2024-01-10 02:35:05.528390",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/staff-management/onboarding.md"
+                ]
+            },
+            "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen"
+        },
         "https://www.digg.se": {
             "checks": {
                 "status": 0,
@@ -26,7 +74,7 @@
                 "fail": {
                     "from": "2023-12-21 02:32:52.551602",
                     "from-code": 0,
-                    "to": "2024-01-09 02:35:38.405351",
+                    "to": "2024-01-10 02:35:03.468088",
                     "to-code": 0
                 }
             },
@@ -44,7 +92,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:23.114321",
                     "from-code": 0,
-                    "to": "2024-01-09 02:36:08.893968",
+                    "to": "2024-01-10 02:35:34.234491",
                     "to-code": 0
                 }
             },
@@ -62,7 +110,7 @@
                 "fail": {
                     "from": "2023-12-21 02:33:53.491535",
                     "from-code": 0,
-                    "to": "2024-01-09 02:36:39.262855",
+                    "to": "2024-01-10 02:36:04.654633",
                     "to-code": 0
                 }
             },
@@ -79,7 +127,9 @@
                 "200": "2024-01-08 02:35:36.112814",
                 "fail": {
                     "from": "2024-01-09 02:35:40.586174",
-                    "from-code": 500
+                    "from-code": 500,
+                    "to": "2024-01-10 02:35:05.285900",
+                    "to-code": 500
                 }
             },
             "used": {
@@ -96,7 +146,7 @@
                 "fail": {
                     "from": "2024-01-06 02:32:06.698778",
                     "from-code": 0,
-                    "to": "2024-01-09 02:35:42.310956",
+                    "to": "2024-01-10 02:35:07.990476",
                     "to-code": 0
                 }
             },
@@ -114,7 +164,7 @@
                 "fail": {
                     "from": "2024-01-06 02:32:07.467327",
                     "from-code": 0,
-                    "to": "2024-01-09 02:35:43.157475",
+                    "to": "2024-01-10 02:35:08.647277",
                     "to-code": 0
                 }
             },
@@ -131,7 +181,7 @@
         "standard.publiccode.net-develop": "passing",
         "publiccode.net": "failing",
         "about.publiccode.net": "failing",
-        "blog.publiccode.net": "passing",
+        "blog.publiccode.net": "failing",
         "community-implementation-guide-standard": "failing",
         "bumperscripter": "passing"
     }
