@@ -1,77 +1,20 @@
 {
     "urls": {
-        "https://datasift.github.io/gitflow/IntroducingGitFlow.html": {
+        "https://www.briskergroup.nl/en/": {
             "checks": {
-                "status": 404,
-                "200": "2024-01-05 02:34:32.192010",
+                "status": 403,
+                "200": "2024-01-11 02:35:59.802844",
                 "fail": {
-                    "from": "2024-01-06 02:31:43.867747",
-                    "from-code": 404,
-                    "to": "2024-01-11 02:35:24.408222",
-                    "to-code": 404
+                    "from": "2024-01-12 02:35:51.284446",
+                    "from-code": 403
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/documentation/index.md",
-                    "activities/documentation/merge-develop-into-main.md"
+                    "activities/tool-management/tentoo.md"
                 ]
             },
-            "url": "https://datasift.github.io/gitflow/IntroducingGitFlow.html"
-        },
-        "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen": {
-            "checks": {
-                "status": 0,
-                "200": "2024-01-09 02:35:36.891308",
-                "fail": {
-                    "from": "2024-01-10 02:35:05.528390",
-                    "from-code": 0,
-                    "to": "2024-01-11 02:35:40.249684",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/staff-management/onboarding.md"
-                ]
-            },
-            "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen"
-        },
-        "https://www.sdeps.eu/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-01-05 02:34:55.110036",
-                "fail": {
-                    "from": "2024-01-06 02:32:06.698778",
-                    "from-code": 0,
-                    "to": "2024-01-11 02:35:45.260728",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/all-press.md"
-                ]
-            },
-            "url": "https://www.sdeps.eu/"
-        },
-        "https://www.sdeps.eu/dont-call-it-alternative-call-it-normal/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-01-05 02:34:55.687896",
-                "fail": {
-                    "from": "2024-01-06 02:32:07.467327",
-                    "from-code": 0,
-                    "to": "2024-01-11 02:35:45.604538",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/all-press.md"
-                ]
-            },
-            "url": "https://www.sdeps.eu/dont-call-it-alternative-call-it-normal/"
+            "url": "https://www.briskergroup.nl/en/"
         }
     },
     "repos": {

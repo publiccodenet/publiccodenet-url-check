@@ -1,6 +1,23 @@
 {
-    "urls": {},
+    "urls": {
+        "https://sourcehut.org": {
+            "checks": {
+                "status": 0,
+                "200": "2024-01-11 02:35:38.420658",
+                "fail": {
+                    "from": "2024-01-12 02:35:48.805707",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/code-in-the-open.md"
+                ]
+            },
+            "url": "https://sourcehut.org"
+        }
+    },
     "repos": {
-        "community-implementation-guide-standard": "passing"
+        "community-implementation-guide-standard": "failing"
     }
 }
