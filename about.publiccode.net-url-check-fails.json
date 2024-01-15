@@ -1,41 +1,6 @@
 {
-    "urls": {
-        "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen": {
-            "checks": {
-                "status": 0,
-                "200": "2024-01-12 02:35:56.213846",
-                "fail": {
-                    "from": "2024-01-13 02:34:20.739618",
-                    "from-code": 0,
-                    "to": "2024-01-14 02:39:07.689414",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/staff-management/onboarding.md"
-                ]
-            },
-            "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen"
-        },
-        "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken": {
-            "checks": {
-                "status": 0,
-                "200": "2024-01-13 02:34:30.752885",
-                "fail": {
-                    "from": "2024-01-14 02:39:17.708250",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/philanthropic-fundraising/donating-netherlands.md"
-                ]
-            },
-            "url": "https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/gift-aftrekken"
-        }
-    },
+    "urls": {},
     "repos": {
-        "about.publiccode.net": "failing"
+        "about.publiccode.net": "passing"
     }
 }
