@@ -1,6 +1,23 @@
 {
-    "urls": {},
+    "urls": {
+        "https://nayafia.substack.com/p/22-working-in-public": {
+            "checks": {
+                "status": 403,
+                "200": "2024-01-15 02:38:26.732323",
+                "fail": {
+                    "from": "2024-01-16 02:35:55.482148",
+                    "from-code": 403
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-12-02-summer-2020-newsletter.md"
+                ]
+            },
+            "url": "https://nayafia.substack.com/p/22-working-in-public"
+        }
+    },
     "repos": {
-        "blog.publiccode.net": "passing"
+        "blog.publiccode.net": "failing"
     }
 }
