@@ -1,5 +1,21 @@
 {
     "urls": {
+        "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-01-20 02:33:18.254190",
+                "fail": {
+                    "from": "2024-01-21 02:39:02.237667",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-02-14-a-love-letter-to-fosdem.md"
+                ]
+            },
+            "url": "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/"
+        },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
                 "status": 403,
@@ -7,7 +23,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-01-20 02:33:26.864663",
+                    "to": "2024-01-21 02:39:11.953228",
                     "to-code": 403
                 }
             },
