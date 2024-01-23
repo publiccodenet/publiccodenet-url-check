@@ -1,23 +1,6 @@
 {
-    "urls": {
-        "https://en.unesco.org/freeandopensourcesoftware": {
-            "checks": {
-                "status": 503,
-                "200": "2024-01-21 02:39:03.752902",
-                "fail": {
-                    "from": "2024-01-22 02:39:24.935193",
-                    "from-code": 503
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/understanding-our-users/enabling-policies.md"
-                ]
-            },
-            "url": "https://en.unesco.org/freeandopensourcesoftware"
-        }
-    },
+    "urls": {},
     "repos": {
-        "about.publiccode.net": "failing"
+        "about.publiccode.net": "passing"
     }
 }

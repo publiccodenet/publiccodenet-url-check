@@ -1,6 +1,39 @@
 {
-    "urls": {},
+    "urls": {
+        "https://chat.civictech.se/home": {
+            "checks": {
+                "status": 502,
+                "200": "2024-01-22 02:39:21.782944",
+                "fail": {
+                    "from": "2024-01-23 02:36:51.777713",
+                    "from-code": 502
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/make-contributing-easy.md"
+                ]
+            },
+            "url": "https://chat.civictech.se/home"
+        },
+        "https://hemingwayapp.com/": {
+            "checks": {
+                "status": 500,
+                "200": "2024-01-22 02:39:33.964865",
+                "fail": {
+                    "from": "2024-01-23 02:37:00.413025",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/use-plain-english.md"
+                ]
+            },
+            "url": "https://hemingwayapp.com/"
+        }
+    },
     "repos": {
-        "community-implementation-guide-standard": "passing"
+        "community-implementation-guide-standard": "failing"
     }
 }
