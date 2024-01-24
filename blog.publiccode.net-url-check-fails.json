@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-01-23 02:37:02.643043",
+                    "to": "2024-01-24 02:36:52.341702",
                     "to-code": 403
                 }
             },
@@ -18,21 +18,37 @@
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
         },
-        "https://press.princeton.edu/books/paperback/9780691192888/hacking-diversity": {
+        "https://openstad.org": {
             "checks": {
                 "status": 0,
-                "200": "2024-01-22 02:39:38.829207",
+                "200": "2024-01-23 02:37:03.368540",
                 "fail": {
-                    "from": "2024-01-23 02:37:07.862247",
+                    "from": "2024-01-24 02:36:53.720874",
                     "from-code": 0
                 }
             },
             "used": {
                 "blog.publiccode.net": [
-                    "_posts/2020-12-02-summer-2020-newsletter.md"
+                    "_posts/2021-06-08-product-management-in-open-source.md"
                 ]
             },
-            "url": "https://press.princeton.edu/books/paperback/9780691192888/hacking-diversity"
+            "url": "https://openstad.org"
+        },
+        "https://openstad.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-01-23 02:37:04.296694",
+                "fail": {
+                    "from": "2024-01-24 02:37:24.090780",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-05-6-april-2021-newsletter.md"
+                ]
+            },
+            "url": "https://openstad.org/"
         }
     },
     "repos": {
