@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-01-23 02:36:51.777713",
                     "from-code": 502,
-                    "to": "2024-01-24 02:36:43.647756",
+                    "to": "2024-01-25 02:37:15.894423",
                     "to-code": 502
                 }
             },
@@ -25,7 +25,7 @@
                 "fail": {
                     "from": "2024-01-23 02:37:00.413025",
                     "from-code": 500,
-                    "to": "2024-01-24 02:36:51.318607",
+                    "to": "2024-01-25 02:37:25.286645",
                     "to-code": 500
                 }
             },
@@ -43,7 +43,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-01-24 02:36:52.341702",
+                    "to": "2024-01-25 02:37:27.444684",
                     "to-code": 403
                 }
             },
@@ -53,38 +53,6 @@
                 ]
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
-        },
-        "https://openstad.org": {
-            "checks": {
-                "status": 0,
-                "200": "2024-01-23 02:37:03.368540",
-                "fail": {
-                    "from": "2024-01-24 02:36:53.720874",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-06-08-product-management-in-open-source.md"
-                ]
-            },
-            "url": "https://openstad.org"
-        },
-        "https://openstad.org/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-01-23 02:37:04.296694",
-                "fail": {
-                    "from": "2024-01-24 02:37:24.090780",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-05-6-april-2021-newsletter.md"
-                ]
-            },
-            "url": "https://openstad.org/"
         }
     },
     "repos": {
