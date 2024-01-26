@@ -1,5 +1,21 @@
 {
     "urls": {
+        "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-01-25 02:37:17.168132",
+                "fail": {
+                    "from": "2024-01-26 02:29:10.674377",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-02-14-a-love-letter-to-fosdem.md"
+                ]
+            },
+            "url": "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/"
+        },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
                 "status": 403,
@@ -7,7 +23,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-01-25 02:37:27.444684",
+                    "to": "2024-01-26 02:29:17.854823",
                     "to-code": 403
                 }
             },
@@ -17,6 +33,22 @@
                 ]
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
+        },
+        "https://openstad.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-01-25 02:37:28.611546",
+                "fail": {
+                    "from": "2024-01-26 02:29:19.761023",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-05-6-april-2021-newsletter.md"
+                ]
+            },
+            "url": "https://openstad.org/"
         }
     },
     "repos": {
