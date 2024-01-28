@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-01-23 02:36:51.777713",
                     "from-code": 502,
-                    "to": "2024-01-27 02:25:08.846071",
+                    "to": "2024-01-28 02:27:26.566303",
                     "to-code": 502
                 }
             },
@@ -18,22 +18,6 @@
             },
             "url": "https://chat.civictech.se/home"
         },
-        "https://en.unesco.org/freeandopensourcesoftware": {
-            "checks": {
-                "status": 0,
-                "200": "2024-01-26 02:29:12.412132",
-                "fail": {
-                    "from": "2024-01-27 02:25:11.939547",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/understanding-our-users/enabling-policies.md"
-                ]
-            },
-            "url": "https://en.unesco.org/freeandopensourcesoftware"
-        },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
                 "status": 403,
@@ -41,7 +25,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-01-27 02:25:20.888285",
+                    "to": "2024-01-28 02:27:37.226340",
                     "to-code": 403
                 }
             },
@@ -57,7 +41,7 @@
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
         "publiccode.net": "passing",
-        "about.publiccode.net": "failing",
+        "about.publiccode.net": "passing",
         "blog.publiccode.net": "failing",
         "community-implementation-guide-standard": "failing",
         "bumperscripter": "passing"
