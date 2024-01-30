@@ -1,5 +1,21 @@
 {
     "urls": {
+        "https://guide-juridique-logiciel-libre.etalab.gouv.fr/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-01-29 02:28:03.460935",
+                "fail": {
+                    "from": "2024-01-30 02:27:35.554992",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2022-09-02-notes-from-community-call-1-september-2022.md"
+                ]
+            },
+            "url": "https://guide-juridique-logiciel-libre.etalab.gouv.fr/"
+        },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
                 "status": 403,
@@ -7,7 +23,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-01-29 02:27:40.164674",
+                    "to": "2024-01-30 02:27:06.182020",
                     "to-code": 403
                 }
             },

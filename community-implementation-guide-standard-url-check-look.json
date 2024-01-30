@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-01-23 02:36:51.777713",
                     "from-code": 502,
-                    "to": "2024-01-29 02:27:27.624106",
+                    "to": "2024-01-30 02:26:54.129574",
                     "to-code": 502
                 }
             },
@@ -17,6 +17,22 @@
                 ]
             },
             "url": "https://chat.civictech.se/home"
+        },
+        "https://hemingwayapp.com/": {
+            "checks": {
+                "status": 500,
+                "200": "2024-01-29 02:27:37.965937",
+                "fail": {
+                    "from": "2024-01-30 02:27:06.020988",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/use-plain-english.md"
+                ]
+            },
+            "url": "https://hemingwayapp.com/"
         }
     },
     "repos": {

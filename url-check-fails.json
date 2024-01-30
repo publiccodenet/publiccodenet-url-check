@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-01-23 02:36:51.777713",
                     "from-code": 502,
-                    "to": "2024-01-29 02:27:27.624106",
+                    "to": "2024-01-30 02:26:54.129574",
                     "to-code": 502
                 }
             },
@@ -18,21 +18,37 @@
             },
             "url": "https://chat.civictech.se/home"
         },
-        "https://en.unesco.org/freeandopensourcesoftware": {
+        "https://guide-juridique-logiciel-libre.etalab.gouv.fr/": {
             "checks": {
                 "status": 0,
-                "200": "2024-01-28 02:27:29.065365",
+                "200": "2024-01-29 02:28:03.460935",
                 "fail": {
-                    "from": "2024-01-29 02:27:30.728209",
+                    "from": "2024-01-30 02:27:35.554992",
                     "from-code": 0
                 }
             },
             "used": {
-                "about.publiccode.net": [
-                    "activities/understanding-our-users/enabling-policies.md"
+                "blog.publiccode.net": [
+                    "_posts/2022-09-02-notes-from-community-call-1-september-2022.md"
                 ]
             },
-            "url": "https://en.unesco.org/freeandopensourcesoftware"
+            "url": "https://guide-juridique-logiciel-libre.etalab.gouv.fr/"
+        },
+        "https://hemingwayapp.com/": {
+            "checks": {
+                "status": 500,
+                "200": "2024-01-29 02:27:37.965937",
+                "fail": {
+                    "from": "2024-01-30 02:27:06.020988",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/use-plain-english.md"
+                ]
+            },
+            "url": "https://hemingwayapp.com/"
         },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
@@ -41,7 +57,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-01-29 02:27:40.164674",
+                    "to": "2024-01-30 02:27:06.182020",
                     "to-code": 403
                 }
             },
@@ -57,7 +73,7 @@
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
         "publiccode.net": "passing",
-        "about.publiccode.net": "failing",
+        "about.publiccode.net": "passing",
         "blog.publiccode.net": "failing",
         "community-implementation-guide-standard": "failing",
         "bumperscripter": "passing"
