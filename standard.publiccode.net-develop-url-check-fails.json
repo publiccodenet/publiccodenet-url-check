@@ -1,6 +1,29 @@
 {
-    "urls": {},
+    "urls": {
+        "https://ec.europa.eu/digital-single-market/en/web-accessibility": {
+            "checks": {
+                "status": 0,
+                "200": "2024-01-30 02:27:20.606237",
+                "fail": {
+                    "from": "2024-01-31 02:28:20.493459",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "criteria/bundle-policy-and-source-code.md",
+                    "criteria/use-plain-english.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "criteria/bundle-policy-and-source-code.md",
+                    "criteria/use-plain-english.md"
+                ]
+            },
+            "url": "https://ec.europa.eu/digital-single-market/en/web-accessibility"
+        }
+    },
     "repos": {
-        "standard.publiccode.net-develop": "passing"
+        "standard.publiccode.net-develop": "failing",
+        "standard.publiccode.net": "failing"
     }
 }
