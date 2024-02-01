@@ -1,52 +1,37 @@
 {
     "urls": {
-        "https://ec.europa.eu/info/aid-development-cooperation-fundamental-rights/your-rights-eu/know-your-rights/equality/non-discrimination_en": {
+        "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971": {
             "checks": {
                 "status": 0,
-                "200": "2024-01-30 02:27:21.958357",
+                "200": "2024-01-31 02:27:59.434826",
                 "fail": {
-                    "from": "2024-01-31 02:28:24.982279",
+                    "from": "2024-02-01 02:30:17.781990",
                     "from-code": 0
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "organization/board-of-directors-meetings/2021-12-14-minutes.md"
+                    "activities/value-and-impact/policy-documents.md",
+                    "organization/annual-reports/annual-report-2019-2020.md"
                 ]
             },
-            "url": "https://ec.europa.eu/info/aid-development-cooperation-fundamental-rights/your-rights-eu/know-your-rights/equality/non-discrimination_en"
+            "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
         },
-        "https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens/how-my-personal-data-protected/how-data-my-religious-beliefs-sexual-orientation-health-political-views-protected_en": {
+        "https://en.unesco.org/freeandopensourcesoftware": {
             "checks": {
-                "status": 0,
-                "200": "2024-01-30 02:27:23.737295",
+                "status": 503,
+                "200": "2024-01-31 02:27:57.267222",
                 "fail": {
-                    "from": "2024-01-31 02:28:29.936420",
-                    "from-code": 0
+                    "from": "2024-02-01 02:30:06.032868",
+                    "from-code": 503
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/communication/using-chat.md"
+                    "activities/understanding-our-users/enabling-policies.md"
                 ]
             },
-            "url": "https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens/how-my-personal-data-protected/how-data-my-religious-beliefs-sexual-orientation-health-political-views-protected_en"
-        },
-        "https://ec.europa.eu/newsroom/joinup/newsletter-archives/18462": {
-            "checks": {
-                "status": 0,
-                "200": "2024-01-30 02:27:25.515343",
-                "fail": {
-                    "from": "2024-01-31 02:28:34.402938",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/all-press.md"
-                ]
-            },
-            "url": "https://ec.europa.eu/newsroom/joinup/newsletter-archives/18462"
+            "url": "https://en.unesco.org/freeandopensourcesoftware"
         }
     },
     "repos": {
