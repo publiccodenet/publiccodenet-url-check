@@ -1,22 +1,5 @@
 {
     "urls": {
-        "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971": {
-            "checks": {
-                "status": 0,
-                "200": "2024-01-31 02:27:59.434826",
-                "fail": {
-                    "from": "2024-02-01 02:30:17.781990",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/policy-documents.md",
-                    "organization/annual-reports/annual-report-2019-2020.md"
-                ]
-            },
-            "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
-        },
         "https://chat.civictech.se/home": {
             "checks": {
                 "status": 502,
@@ -24,7 +7,7 @@
                 "fail": {
                     "from": "2024-01-23 02:36:51.777713",
                     "from-code": 502,
-                    "to": "2024-02-01 02:30:03.133585",
+                    "to": "2024-02-02 02:27:40.994572",
                     "to-code": 502
                 }
             },
@@ -41,7 +24,9 @@
                 "200": "2024-01-31 02:27:57.267222",
                 "fail": {
                     "from": "2024-02-01 02:30:06.032868",
-                    "from-code": 503
+                    "from-code": 503,
+                    "to": "2024-02-02 02:27:43.966895",
+                    "to-code": 503
                 }
             },
             "used": {
@@ -58,7 +43,7 @@
                 "fail": {
                     "from": "2024-01-30 02:27:35.554992",
                     "from-code": 0,
-                    "to": "2024-02-01 02:30:36.715914",
+                    "to": "2024-02-02 02:28:27.651909",
                     "to-code": 0
                 }
             },
@@ -69,24 +54,6 @@
             },
             "url": "https://guide-juridique-logiciel-libre.etalab.gouv.fr/"
         },
-        "https://hemingwayapp.com/": {
-            "checks": {
-                "status": 500,
-                "200": "2024-01-29 02:27:37.965937",
-                "fail": {
-                    "from": "2024-01-30 02:27:06.020988",
-                    "from-code": 500,
-                    "to": "2024-02-01 02:30:09.833795",
-                    "to-code": 500
-                }
-            },
-            "used": {
-                "community-implementation-guide-standard": [
-                    "criteria/use-plain-english.md"
-                ]
-            },
-            "url": "https://hemingwayapp.com/"
-        },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
                 "status": 403,
@@ -94,7 +61,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-02-01 02:30:12.901547",
+                    "to": "2024-02-02 02:27:50.697416",
                     "to-code": 403
                 }
             },

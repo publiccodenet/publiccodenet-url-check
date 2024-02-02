@@ -1,29 +1,14 @@
 {
     "urls": {
-        "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971": {
-            "checks": {
-                "status": 0,
-                "200": "2024-01-31 02:27:59.434826",
-                "fail": {
-                    "from": "2024-02-01 02:30:17.781990",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/policy-documents.md",
-                    "organization/annual-reports/annual-report-2019-2020.md"
-                ]
-            },
-            "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
-        },
         "https://en.unesco.org/freeandopensourcesoftware": {
             "checks": {
                 "status": 503,
                 "200": "2024-01-31 02:27:57.267222",
                 "fail": {
                     "from": "2024-02-01 02:30:06.032868",
-                    "from-code": 503
+                    "from-code": 503,
+                    "to": "2024-02-02 02:27:43.966895",
+                    "to-code": 503
                 }
             },
             "used": {
