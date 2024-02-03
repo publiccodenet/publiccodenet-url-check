@@ -1,6 +1,31 @@
 {
-    "urls": {},
+    "urls": {
+        "https://www.bpmnquickguide.com/view-bpmn-quick-guide/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-02 02:28:07.660585",
+                "fail": {
+                    "from": "2024-02-03 02:24:26.497259",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "criteria/bundle-policy-and-source-code.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "criteria/bundle-policy-and-source-code.md"
+                ],
+                "community-implementation-guide-standard": [
+                    "criteria/bundle-policy-and-source-code.md"
+                ]
+            },
+            "url": "https://www.bpmnquickguide.com/view-bpmn-quick-guide/"
+        }
+    },
     "repos": {
-        "standard.publiccode.net": "passing"
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
+        "community-implementation-guide-standard": "failing"
     }
 }

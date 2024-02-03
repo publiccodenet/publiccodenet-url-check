@@ -1,22 +1,54 @@
 {
     "urls": {
-        "https://en.unesco.org/freeandopensourcesoftware": {
+        "https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08": {
             "checks": {
-                "status": 503,
-                "200": "2024-01-31 02:27:57.267222",
+                "status": 0,
+                "200": "2024-02-02 02:27:43.914065",
                 "fail": {
-                    "from": "2024-02-01 02:30:06.032868",
-                    "from-code": 503,
-                    "to": "2024-02-02 02:27:43.966895",
-                    "to-code": 503
+                    "from": "2024-02-03 02:24:03.337360",
+                    "from-code": 0
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/understanding-our-users/enabling-policies.md"
+                    "activities/value-and-impact/policy-documents.md",
+                    "organization/annual-reports/annual-report-2019-2020.md"
                 ]
             },
-            "url": "https://en.unesco.org/freeandopensourcesoftware"
+            "url": "https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08"
+        },
+        "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-02 02:27:45.410469",
+                "fail": {
+                    "from": "2024-02-03 02:24:33.418613",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/value-and-impact/policy-documents.md",
+                    "organization/annual-reports/annual-report-2019-2020.md"
+                ]
+            },
+            "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
+        },
+        "https://cloud.google.com/security/gdpr/": {
+            "checks": {
+                "status": 404,
+                "200": "2024-02-02 02:27:42.125116",
+                "fail": {
+                    "from": "2024-02-03 02:24:03.663262",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/tool-management/google-workspace.md"
+                ]
+            },
+            "url": "https://cloud.google.com/security/gdpr/"
         }
     },
     "repos": {

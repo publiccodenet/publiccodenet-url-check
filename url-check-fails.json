@@ -1,5 +1,39 @@
 {
     "urls": {
+        "https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-02 02:27:43.914065",
+                "fail": {
+                    "from": "2024-02-03 02:24:03.337360",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/value-and-impact/policy-documents.md",
+                    "organization/annual-reports/annual-report-2019-2020.md"
+                ]
+            },
+            "url": "https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08"
+        },
+        "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-02 02:27:45.410469",
+                "fail": {
+                    "from": "2024-02-03 02:24:33.418613",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/value-and-impact/policy-documents.md",
+                    "organization/annual-reports/annual-report-2019-2020.md"
+                ]
+            },
+            "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
+        },
         "https://chat.civictech.se/home": {
             "checks": {
                 "status": 502,
@@ -7,7 +41,7 @@
                 "fail": {
                     "from": "2024-01-23 02:36:51.777713",
                     "from-code": 502,
-                    "to": "2024-02-02 02:27:40.994572",
+                    "to": "2024-02-03 02:24:02.581245",
                     "to-code": 502
                 }
             },
@@ -18,23 +52,21 @@
             },
             "url": "https://chat.civictech.se/home"
         },
-        "https://en.unesco.org/freeandopensourcesoftware": {
+        "https://cloud.google.com/security/gdpr/": {
             "checks": {
-                "status": 503,
-                "200": "2024-01-31 02:27:57.267222",
+                "status": 404,
+                "200": "2024-02-02 02:27:42.125116",
                 "fail": {
-                    "from": "2024-02-01 02:30:06.032868",
-                    "from-code": 503,
-                    "to": "2024-02-02 02:27:43.966895",
-                    "to-code": 503
+                    "from": "2024-02-03 02:24:03.663262",
+                    "from-code": 404
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/understanding-our-users/enabling-policies.md"
+                    "activities/tool-management/google-workspace.md"
                 ]
             },
-            "url": "https://en.unesco.org/freeandopensourcesoftware"
+            "url": "https://cloud.google.com/security/gdpr/"
         },
         "https://guide-juridique-logiciel-libre.etalab.gouv.fr/": {
             "checks": {
@@ -43,7 +75,7 @@
                 "fail": {
                     "from": "2024-01-30 02:27:35.554992",
                     "from-code": 0,
-                    "to": "2024-02-02 02:28:27.651909",
+                    "to": "2024-02-03 02:24:49.124858",
                     "to-code": 0
                 }
             },
@@ -61,7 +93,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-02-02 02:27:50.697416",
+                    "to": "2024-02-03 02:24:12.183745",
                     "to-code": 403
                 }
             },
@@ -71,11 +103,33 @@
                 ]
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
+        },
+        "https://www.bpmnquickguide.com/view-bpmn-quick-guide/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-02 02:28:07.660585",
+                "fail": {
+                    "from": "2024-02-03 02:24:26.497259",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "criteria/bundle-policy-and-source-code.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "criteria/bundle-policy-and-source-code.md"
+                ],
+                "community-implementation-guide-standard": [
+                    "criteria/bundle-policy-and-source-code.md"
+                ]
+            },
+            "url": "https://www.bpmnquickguide.com/view-bpmn-quick-guide/"
         }
     },
     "repos": {
-        "standard.publiccode.net": "passing",
-        "standard.publiccode.net-develop": "passing",
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
         "publiccode.net": "passing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
