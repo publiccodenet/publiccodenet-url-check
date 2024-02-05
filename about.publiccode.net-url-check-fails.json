@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-02-04 02:28:45.374032",
+                    "to": "2024-02-05 02:32:23.911317",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-02-04 02:29:15.425271",
+                    "to": "2024-02-05 02:32:53.979013",
                     "to-code": 0
                 }
             },
@@ -45,7 +45,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.663262",
                     "from-code": 404,
-                    "to": "2024-02-04 02:28:45.634655",
+                    "to": "2024-02-05 02:32:22.233041",
                     "to-code": 404
                 }
             },
@@ -56,24 +56,29 @@
             },
             "url": "https://cloud.google.com/security/gdpr/"
         },
-        "https://en.unesco.org/freeandopensourcesoftware": {
+        "https://os2.eu/": {
             "checks": {
-                "status": 503,
-                "200": "2024-02-03 02:24:05.479836",
+                "status": 0,
+                "200": "2024-02-04 02:28:57.752182",
                 "fail": {
-                    "from": "2024-02-04 02:28:46.519747",
-                    "from-code": 503
+                    "from": "2024-02-05 02:32:59.971431",
+                    "from-code": 0
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/understanding-our-users/enabling-policies.md"
+                    "organization/affiliates.md",
+                    "organization/annual-reports/annual-report-2022.md"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2021-02-25-notes-february-2021-foundation-for-public-code-community-call.md"
                 ]
             },
-            "url": "https://en.unesco.org/freeandopensourcesoftware"
+            "url": "https://os2.eu/"
         }
     },
     "repos": {
-        "about.publiccode.net": "failing"
+        "about.publiccode.net": "failing",
+        "blog.publiccode.net": "failing"
     }
 }
