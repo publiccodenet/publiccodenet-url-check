@@ -1,31 +1,6 @@
 {
-    "urls": {
-        "https://directory.fsf.org/wiki/Main_Page": {
-            "checks": {
-                "status": 0,
-                "200": "2024-02-05 02:32:20.463620",
-                "fail": {
-                    "from": "2024-02-06 02:26:29.467545",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "criteria/make-the-codebase-findable.md"
-                ],
-                "standard.publiccode.net-develop": [
-                    "criteria/make-the-codebase-findable.md"
-                ],
-                "community-implementation-guide-standard": [
-                    "criteria/make-the-codebase-findable.md"
-                ]
-            },
-            "url": "https://directory.fsf.org/wiki/Main_Page"
-        }
-    },
+    "urls": {},
     "repos": {
-        "standard.publiccode.net-develop": "failing",
-        "standard.publiccode.net": "failing",
-        "community-implementation-guide-standard": "failing"
+        "standard.publiccode.net-develop": "passing"
     }
 }

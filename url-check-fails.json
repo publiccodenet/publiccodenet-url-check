@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-02-06 02:26:30.561608",
+                    "to": "2024-02-07 02:25:41.063856",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-02-06 02:27:00.640157",
+                    "to": "2024-02-07 02:26:11.139305",
                     "to-code": 0
                 }
             },
@@ -45,7 +45,7 @@
                 "fail": {
                     "from": "2024-01-23 02:36:51.777713",
                     "from-code": 502,
-                    "to": "2024-02-06 02:26:29.452089",
+                    "to": "2024-02-07 02:25:40.367827",
                     "to-code": 502
                 }
             },
@@ -63,7 +63,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.663262",
                     "from-code": 404,
-                    "to": "2024-02-06 02:26:30.535204",
+                    "to": "2024-02-07 02:25:41.950046",
                     "to-code": 404
                 }
             },
@@ -74,35 +74,15 @@
             },
             "url": "https://cloud.google.com/security/gdpr/"
         },
-        "https://directory.fsf.org/wiki/Main_Page": {
-            "checks": {
-                "status": 0,
-                "200": "2024-02-05 02:32:20.463620",
-                "fail": {
-                    "from": "2024-02-06 02:26:29.467545",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "criteria/make-the-codebase-findable.md"
-                ],
-                "standard.publiccode.net-develop": [
-                    "criteria/make-the-codebase-findable.md"
-                ],
-                "community-implementation-guide-standard": [
-                    "criteria/make-the-codebase-findable.md"
-                ]
-            },
-            "url": "https://directory.fsf.org/wiki/Main_Page"
-        },
         "https://en.unesco.org/freeandopensourcesoftware": {
             "checks": {
                 "status": 503,
                 "200": "2024-02-05 02:32:23.990777",
                 "fail": {
                     "from": "2024-02-06 02:26:32.098867",
-                    "from-code": 503
+                    "from-code": 503,
+                    "to": "2024-02-07 02:25:43.249792",
+                    "to-code": 503
                 }
             },
             "used": {
@@ -119,7 +99,7 @@
                 "fail": {
                     "from": "2024-01-30 02:27:35.554992",
                     "from-code": 0,
-                    "to": "2024-02-06 02:27:12.818604",
+                    "to": "2024-02-07 02:26:15.468291",
                     "to-code": 0
                 }
             },
@@ -130,21 +110,21 @@
             },
             "url": "https://guide-juridique-logiciel-libre.etalab.gouv.fr/"
         },
-        "https://medium.com/@paulbellows/10-lessons-on-digital-government-f8dae9883a5a": {
+        "https://moja.global": {
             "checks": {
-                "status": 429,
-                "200": "2024-02-05 02:32:31.316723",
+                "status": 202,
+                "200": "2024-02-06 02:26:39.470692",
                 "fail": {
-                    "from": "2024-02-06 02:26:40.614558",
-                    "from-code": 429
+                    "from": "2024-02-07 02:25:48.169266",
+                    "from-code": 202
                 }
             },
             "used": {
                 "blog.publiccode.net": [
-                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
+                    "_posts/2020-02-17-learned-at-fosdem.md"
                 ]
             },
-            "url": "https://medium.com/@paulbellows/10-lessons-on-digital-government-f8dae9883a5a"
+            "url": "https://moja.global"
         },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
@@ -153,7 +133,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-02-06 02:26:41.675154",
+                    "to": "2024-02-07 02:25:48.529293",
                     "to-code": 403
                 }
             },
@@ -163,11 +143,27 @@
                 ]
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
+        },
+        "https://stateofopencon.com/": {
+            "checks": {
+                "status": 500,
+                "200": "2024-02-06 02:26:46.286991",
+                "fail": {
+                    "from": "2024-02-07 02:25:54.007186",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2023-02-02-notes-from-community-call-3-february-2023.md"
+                ]
+            },
+            "url": "https://stateofopencon.com/"
         }
     },
     "repos": {
-        "standard.publiccode.net": "failing",
-        "standard.publiccode.net-develop": "failing",
+        "standard.publiccode.net": "passing",
+        "standard.publiccode.net-develop": "passing",
         "publiccode.net": "passing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
