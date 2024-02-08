@@ -1,5 +1,21 @@
 {
     "urls": {
+        "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-07 02:25:41.166247",
+                "fail": {
+                    "from": "2024-02-08 02:27:03.241835",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-02-14-a-love-letter-to-fosdem.md"
+                ]
+            },
+            "url": "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/"
+        },
         "https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08": {
             "checks": {
                 "status": 0,
@@ -7,7 +23,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-02-07 02:25:41.063856",
+                    "to": "2024-02-08 02:27:04.130342",
                     "to-code": 0
                 }
             },
@@ -26,7 +42,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-02-07 02:26:11.139305",
+                    "to": "2024-02-08 02:27:34.224786",
                     "to-code": 0
                 }
             },
@@ -45,7 +61,7 @@
                 "fail": {
                     "from": "2024-01-23 02:36:51.777713",
                     "from-code": 502,
-                    "to": "2024-02-07 02:25:40.367827",
+                    "to": "2024-02-08 02:27:01.787563",
                     "to-code": 502
                 }
             },
@@ -63,7 +79,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.663262",
                     "from-code": 404,
-                    "to": "2024-02-07 02:25:41.950046",
+                    "to": "2024-02-08 02:27:04.039062",
                     "to-code": 404
                 }
             },
@@ -74,24 +90,6 @@
             },
             "url": "https://cloud.google.com/security/gdpr/"
         },
-        "https://en.unesco.org/freeandopensourcesoftware": {
-            "checks": {
-                "status": 503,
-                "200": "2024-02-05 02:32:23.990777",
-                "fail": {
-                    "from": "2024-02-06 02:26:32.098867",
-                    "from-code": 503,
-                    "to": "2024-02-07 02:25:43.249792",
-                    "to-code": 503
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/understanding-our-users/enabling-policies.md"
-                ]
-            },
-            "url": "https://en.unesco.org/freeandopensourcesoftware"
-        },
         "https://guide-juridique-logiciel-libre.etalab.gouv.fr/": {
             "checks": {
                 "status": 0,
@@ -99,7 +97,7 @@
                 "fail": {
                     "from": "2024-01-30 02:27:35.554992",
                     "from-code": 0,
-                    "to": "2024-02-07 02:26:15.468291",
+                    "to": "2024-02-08 02:27:44.287432",
                     "to-code": 0
                 }
             },
@@ -110,22 +108,6 @@
             },
             "url": "https://guide-juridique-logiciel-libre.etalab.gouv.fr/"
         },
-        "https://moja.global": {
-            "checks": {
-                "status": 202,
-                "200": "2024-02-06 02:26:39.470692",
-                "fail": {
-                    "from": "2024-02-07 02:25:48.169266",
-                    "from-code": 202
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-02-17-learned-at-fosdem.md"
-                ]
-            },
-            "url": "https://moja.global"
-        },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
                 "status": 403,
@@ -133,7 +115,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-02-07 02:25:48.529293",
+                    "to": "2024-02-08 02:27:14.955275",
                     "to-code": 403
                 }
             },
@@ -144,27 +126,75 @@
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
         },
-        "https://stateofopencon.com/": {
+        "https://openforumeurope.org": {
             "checks": {
-                "status": 500,
-                "200": "2024-02-06 02:26:46.286991",
+                "status": 0,
+                "200": "2024-02-07 02:25:43.506248",
                 "fail": {
-                    "from": "2024-02-07 02:25:54.007186",
-                    "from-code": 500
+                    "from": "2024-02-08 02:27:33.469657",
+                    "from-code": 0
                 }
             },
             "used": {
                 "blog.publiccode.net": [
-                    "_posts/2023-02-02-notes-from-community-call-3-february-2023.md"
+                    "_posts/2024-01-30-episode-fifteen-of-lets-talk-about-public-code.md"
                 ]
             },
-            "url": "https://stateofopencon.com/"
+            "url": "https://openforumeurope.org"
+        },
+        "https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-07 02:25:45.155411",
+                "fail": {
+                    "from": "2024-02-08 02:28:03.484118",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "publiccode.net": [
+                    "OSPO.md"
+                ]
+            },
+            "url": "https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/"
+        },
+        "https://openforumeurope.org/some-thoughts-on-the-institutionalisation-of-software/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-07 02:25:46.675517",
+                "fail": {
+                    "from": "2024-02-08 02:28:33.512116",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2024-01-30-episode-fifteen-of-lets-talk-about-public-code.md"
+                ]
+            },
+            "url": "https://openforumeurope.org/some-thoughts-on-the-institutionalisation-of-software/"
+        },
+        "https://www.regiopoortwachters.nl/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-07 02:26:01.967203",
+                "fail": {
+                    "from": "2024-02-08 02:27:29.606396",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/staff-management/sick-leave.md"
+                ]
+            },
+            "url": "https://www.regiopoortwachters.nl/"
         }
     },
     "repos": {
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
-        "publiccode.net": "passing",
+        "publiccode.net": "failing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
         "community-implementation-guide-standard": "failing",

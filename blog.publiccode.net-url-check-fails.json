@@ -1,5 +1,21 @@
 {
     "urls": {
+        "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-07 02:25:41.166247",
+                "fail": {
+                    "from": "2024-02-08 02:27:03.241835",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-02-14-a-love-letter-to-fosdem.md"
+                ]
+            },
+            "url": "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/"
+        },
         "https://guide-juridique-logiciel-libre.etalab.gouv.fr/": {
             "checks": {
                 "status": 0,
@@ -7,7 +23,7 @@
                 "fail": {
                     "from": "2024-01-30 02:27:35.554992",
                     "from-code": 0,
-                    "to": "2024-02-07 02:26:15.468291",
+                    "to": "2024-02-08 02:27:44.287432",
                     "to-code": 0
                 }
             },
@@ -18,22 +34,6 @@
             },
             "url": "https://guide-juridique-logiciel-libre.etalab.gouv.fr/"
         },
-        "https://moja.global": {
-            "checks": {
-                "status": 202,
-                "200": "2024-02-06 02:26:39.470692",
-                "fail": {
-                    "from": "2024-02-07 02:25:48.169266",
-                    "from-code": 202
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-02-17-learned-at-fosdem.md"
-                ]
-            },
-            "url": "https://moja.global"
-        },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
                 "status": 403,
@@ -41,7 +41,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-02-07 02:25:48.529293",
+                    "to": "2024-02-08 02:27:14.955275",
                     "to-code": 403
                 }
             },
@@ -52,21 +52,37 @@
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
         },
-        "https://stateofopencon.com/": {
+        "https://openforumeurope.org": {
             "checks": {
-                "status": 500,
-                "200": "2024-02-06 02:26:46.286991",
+                "status": 0,
+                "200": "2024-02-07 02:25:43.506248",
                 "fail": {
-                    "from": "2024-02-07 02:25:54.007186",
-                    "from-code": 500
+                    "from": "2024-02-08 02:27:33.469657",
+                    "from-code": 0
                 }
             },
             "used": {
                 "blog.publiccode.net": [
-                    "_posts/2023-02-02-notes-from-community-call-3-february-2023.md"
+                    "_posts/2024-01-30-episode-fifteen-of-lets-talk-about-public-code.md"
                 ]
             },
-            "url": "https://stateofopencon.com/"
+            "url": "https://openforumeurope.org"
+        },
+        "https://openforumeurope.org/some-thoughts-on-the-institutionalisation-of-software/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-07 02:25:46.675517",
+                "fail": {
+                    "from": "2024-02-08 02:28:33.512116",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2024-01-30-episode-fifteen-of-lets-talk-about-public-code.md"
+                ]
+            },
+            "url": "https://openforumeurope.org/some-thoughts-on-the-institutionalisation-of-software/"
         }
     },
     "repos": {
