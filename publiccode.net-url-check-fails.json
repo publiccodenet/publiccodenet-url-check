@@ -1,23 +1,6 @@
 {
-    "urls": {
-        "https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-02-07 02:25:45.155411",
-                "fail": {
-                    "from": "2024-02-08 02:28:03.484118",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "publiccode.net": [
-                    "OSPO.md"
-                ]
-            },
-            "url": "https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/"
-        }
-    },
+    "urls": {},
     "repos": {
-        "publiccode.net": "failing"
+        "publiccode.net": "passing"
     }
 }
