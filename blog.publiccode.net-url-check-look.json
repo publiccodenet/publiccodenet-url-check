@@ -1,5 +1,21 @@
 {
     "urls": {
+        "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-11 02:29:13.228220",
+                "fail": {
+                    "from": "2024-02-12 02:28:07.451642",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-02-14-a-love-letter-to-fosdem.md"
+                ]
+            },
+            "url": "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/"
+        },
         "https://guide-juridique-logiciel-libre.etalab.gouv.fr/": {
             "checks": {
                 "status": 0,
@@ -7,7 +23,7 @@
                 "fail": {
                     "from": "2024-01-30 02:27:35.554992",
                     "from-code": 0,
-                    "to": "2024-02-11 02:29:43.154315",
+                    "to": "2024-02-12 02:28:39.053132",
                     "to-code": 0
                 }
             },
@@ -25,7 +41,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-02-11 02:29:22.867315",
+                    "to": "2024-02-12 02:28:15.446405",
                     "to-code": 403
                 }
             },
@@ -35,6 +51,38 @@
                 ]
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
+        },
+        "https://openforumeurope.org": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-11 02:29:14.461686",
+                "fail": {
+                    "from": "2024-02-12 02:28:38.003218",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2024-01-30-episode-fifteen-of-lets-talk-about-public-code.md"
+                ]
+            },
+            "url": "https://openforumeurope.org"
+        },
+        "https://openforumeurope.org/some-thoughts-on-the-institutionalisation-of-software/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-11 02:29:15.938669",
+                "fail": {
+                    "from": "2024-02-12 02:29:48.215357",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2024-01-30-episode-fifteen-of-lets-talk-about-public-code.md"
+                ]
+            },
+            "url": "https://openforumeurope.org/some-thoughts-on-the-institutionalisation-of-software/"
         }
     },
     "repos": {
