@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-02-12 02:28:07.384497",
+                    "to": "2024-02-13 02:27:09.425356",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-02-12 02:28:37.427154",
+                    "to": "2024-02-13 02:27:39.515261",
                     "to-code": 0
                 }
             },
@@ -45,7 +45,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.663262",
                     "from-code": 404,
-                    "to": "2024-02-12 02:28:08.495903",
+                    "to": "2024-02-13 02:27:10.035672",
                     "to-code": 404
                 }
             },
@@ -55,6 +55,53 @@
                 ]
             },
             "url": "https://cloud.google.com/security/gdpr/"
+        },
+        "https://github.com/openai/whisper)": {
+            "checks": {
+                "status": 404,
+                "fail": {
+                    "from": "2024-02-13 02:27:54.384120",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/live-streaming/post-production.md"
+                ]
+            },
+            "url": "https://github.com/openai/whisper)"
+        },
+        "https://opensource.pleio.nl": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-12 02:28:18.949112",
+                "fail": {
+                    "from": "2024-02-13 02:27:24.254087",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/value-and-impact/all-press.md"
+                ]
+            },
+            "url": "https://opensource.pleio.nl"
+        },
+        "https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-12 02:28:21.305709",
+                "fail": {
+                    "from": "2024-02-13 02:27:25.622179",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/value-and-impact/all-press.md"
+                ]
+            },
+            "url": "https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu"
         }
     },
     "repos": {
