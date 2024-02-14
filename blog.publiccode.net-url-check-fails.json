@@ -1,23 +1,5 @@
 {
     "urls": {
-        "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-02-11 02:29:13.228220",
-                "fail": {
-                    "from": "2024-02-12 02:28:07.451642",
-                    "from-code": 0,
-                    "to": "2024-02-13 02:27:08.887431",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-02-14-a-love-letter-to-fosdem.md"
-                ]
-            },
-            "url": "http://openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/"
-        },
         "https://guide-juridique-logiciel-libre.etalab.gouv.fr/": {
             "checks": {
                 "status": 0,
@@ -25,7 +7,7 @@
                 "fail": {
                     "from": "2024-01-30 02:27:35.554992",
                     "from-code": 0,
-                    "to": "2024-02-13 02:28:16.941698",
+                    "to": "2024-02-14 02:28:28.379911",
                     "to-code": 0
                 }
             },
@@ -43,7 +25,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-02-13 02:27:18.140647",
+                    "to": "2024-02-14 02:27:48.001853",
                     "to-code": 403
                 }
             },
@@ -53,72 +35,6 @@
                 ]
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
-        },
-        "https://openforumeurope.org": {
-            "checks": {
-                "status": 0,
-                "200": "2024-02-11 02:29:14.461686",
-                "fail": {
-                    "from": "2024-02-12 02:28:38.003218",
-                    "from-code": 0,
-                    "to": "2024-02-13 02:27:39.876023",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2024-01-30-episode-fifteen-of-lets-talk-about-public-code.md"
-                ]
-            },
-            "url": "https://openforumeurope.org"
-        },
-        "https://opensource.pleio.nl/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-02-12 02:28:19.602315",
-                "fail": {
-                    "from": "2024-02-13 02:27:24.610879",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-12-07-autumn-2020-newsletter.md"
-                ]
-            },
-            "url": "https://opensource.pleio.nl/"
-        },
-        "https://opensource.pleio.nl/blog/view/253b9ea5-07e8-46d5-ab88-9d0a7f68c4cc/productbeheer-in-open-source-jij-bent-verantwoordelijk).*": {
-            "checks": {
-                "status": 0,
-                "200": "2024-02-12 02:28:20.097410",
-                "fail": {
-                    "from": "2024-02-13 02:27:24.951916",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-06-08-product-management-in-open-source.md"
-                ]
-            },
-            "url": "https://opensource.pleio.nl/blog/view/253b9ea5-07e8-46d5-ab88-9d0a7f68c4cc/productbeheer-in-open-source-jij-bent-verantwoordelijk).*"
-        },
-        "https://opensource.pleio.nl/groups/view/57979222/open-source/blog/view/57979368/gemeenten-en-de-markt-bouwen-samen-de-openzaak-community": {
-            "checks": {
-                "status": 0,
-                "200": "2024-02-12 02:28:20.600252",
-                "fail": {
-                    "from": "2024-02-13 02:27:25.288145",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-12-07-autumn-2020-newsletter.md"
-                ]
-            },
-            "url": "https://opensource.pleio.nl/groups/view/57979222/open-source/blog/view/57979368/gemeenten-en-de-markt-bouwen-samen-de-openzaak-community"
         }
     },
     "repos": {
