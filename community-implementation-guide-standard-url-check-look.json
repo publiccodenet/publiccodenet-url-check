@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-01-23 02:36:51.777713",
                     "from-code": 502,
-                    "to": "2024-02-15 02:28:30.809994",
+                    "to": "2024-02-16 02:27:05.732737",
                     "to-code": 502
                 }
             },
@@ -17,6 +17,22 @@
                 ]
             },
             "url": "https://chat.civictech.se/home"
+        },
+        "https://theodi2022.wpengine.com/article/the-data-ethics-canvas-2021/#1674123020653-5e9f001c-5eb8": {
+            "checks": {
+                "status": 401,
+                "200": "2024-02-15 02:28:52.239579",
+                "fail": {
+                    "from": "2024-02-16 02:27:22.983043",
+                    "from-code": 401
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/document-codebase-objectives.md"
+                ]
+            },
+            "url": "https://theodi2022.wpengine.com/article/the-data-ethics-canvas-2021/#1674123020653-5e9f001c-5eb8"
         }
     },
     "repos": {
