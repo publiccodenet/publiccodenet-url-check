@@ -140,6 +140,8 @@
                 "remove trailing punctuation",
         "sed 's@\\(oeffentliche-it\\.de/[-a-zA-Z0-9/%\\.\\+]*\\)[)\\]]*$@\\1@g'":
                 "remove trailing punctuation",
+        "sed 's@\\(github\\.com/[-a-zA-Z0-9/%\\.\\+]*\\)[)\\]]*$@\\1@g'":
+                "remove trailing punctuation",
         "sed 's@\\(reclameland\\.nl/[-a-zA-Z0-9/%\\.\\+]*\\)[\\.)\\],:!\\?]*$@\\1@g'":
                 "remove trailing punctuation",
         "sed 's@\\(/publiccodenet/[-_a-zA-Z0-9/\\.\\+]*\\)[]\\._),:!\\?]*$@\\1@g'":
