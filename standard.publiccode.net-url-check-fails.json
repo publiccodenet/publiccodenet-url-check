@@ -7,15 +7,12 @@
                 "fail": {
                     "from": "2024-02-22 02:26:23.976255",
                     "from-code": 404,
-                    "to": "2024-02-26 02:30:42.786913",
+                    "to": "2024-02-27 02:25:51.948512",
                     "to-code": 404
                 }
             },
             "used": {
                 "standard.publiccode.net": [
-                    "CONTRIBUTING.md"
-                ],
-                "standard.publiccode.net-develop": [
                     "CONTRIBUTING.md"
                 ],
                 "bumperscripter": [
@@ -27,7 +24,6 @@
     },
     "repos": {
         "standard.publiccode.net": "failing",
-        "standard.publiccode.net-develop": "failing",
         "bumperscripter": "failing"
     }
 }
