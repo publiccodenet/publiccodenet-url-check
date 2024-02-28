@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-02-27 02:25:39.557545",
+                    "to": "2024-02-28 02:28:03.733255",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-02-27 02:26:09.637572",
+                    "to": "2024-02-28 02:28:33.794572",
                     "to-code": 0
                 }
             },
@@ -38,24 +38,6 @@
             },
             "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
         },
-        "https://civichall.org": {
-            "checks": {
-                "status": 0,
-                "200": "2024-02-25 02:28:11.083110",
-                "fail": {
-                    "from": "2024-02-26 02:30:28.646429",
-                    "from-code": 0,
-                    "to": "2024-02-27 02:25:38.892754",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/all-press.md"
-                ]
-            },
-            "url": "https://civichall.org"
-        },
         "https://demodam.org": {
             "checks": {
                 "status": 0,
@@ -63,7 +45,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:09.424943",
                     "from-code": 0,
-                    "to": "2024-02-27 02:25:42.387695",
+                    "to": "2024-02-28 02:28:05.369342",
                     "to-code": 0
                 }
             },
@@ -81,7 +63,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:19.440481",
                     "from-code": 0,
-                    "to": "2024-02-27 02:25:52.397638",
+                    "to": "2024-02-28 02:28:15.386425",
                     "to-code": 0
                 }
             },
@@ -92,13 +74,29 @@
             },
             "url": "https://demodam.org/en/"
         },
+        "https://en.unesco.org/freeandopensourcesoftware": {
+            "checks": {
+                "status": 0,
+                "200": "2024-02-27 02:25:41.525508",
+                "fail": {
+                    "from": "2024-02-28 02:28:04.959268",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/understanding-our-users/enabling-policies.md"
+                ]
+            },
+            "url": "https://en.unesco.org/freeandopensourcesoftware"
+        },
         "https://github.com/openai/whisper)": {
             "checks": {
                 "status": 404,
                 "fail": {
                     "from": "2024-02-13 02:27:54.384120",
                     "from-code": 404,
-                    "to": "2024-02-27 02:26:16.631110",
+                    "to": "2024-02-28 02:28:47.865431",
                     "to-code": 404
                 }
             },
@@ -116,7 +114,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.229532",
                     "from-code": 404,
-                    "to": "2024-02-27 02:25:44.179912",
+                    "to": "2024-02-28 02:28:07.233576",
                     "to-code": 404
                 }
             },
@@ -134,7 +132,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.690802",
                     "from-code": 404,
-                    "to": "2024-02-27 02:25:44.891007",
+                    "to": "2024-02-28 02:28:07.909908",
                     "to-code": 404
                 }
             },
@@ -152,7 +150,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:38.146057",
                     "from-code": 404,
-                    "to": "2024-02-27 02:25:45.624836",
+                    "to": "2024-02-28 02:28:08.573299",
                     "to-code": 404
                 }
             },
@@ -170,7 +168,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-02-27 02:25:47.869297",
+                    "to": "2024-02-28 02:28:11.340859",
                     "to-code": 403
                 }
             },
@@ -181,22 +179,6 @@
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
         },
-        "https://openstad.org": {
-            "checks": {
-                "status": 0,
-                "200": "2024-02-26 02:30:39.235735",
-                "fail": {
-                    "from": "2024-02-27 02:25:49.600059",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-06-08-product-management-in-open-source.md"
-                ]
-            },
-            "url": "https://openstad.org"
-        },
         "https://programm.froscon.org/2023/events/2960.html": {
             "checks": {
                 "status": 0,
@@ -204,7 +186,7 @@
                 "fail": {
                     "from": "2024-02-20 02:26:21.379212",
                     "from-code": 0,
-                    "to": "2024-02-27 02:25:51.036458",
+                    "to": "2024-02-28 02:28:14.355428",
                     "to-code": 0
                 }
             },
@@ -214,52 +196,15 @@
                 ]
             },
             "url": "https://programm.froscon.org/2023/events/2960.html"
-        },
-        "https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message": {
-            "checks": {
-                "status": 404,
-                "200": "2024-02-21 02:27:09.068982",
-                "fail": {
-                    "from": "2024-02-22 02:26:23.976255",
-                    "from-code": 404,
-                    "to": "2024-02-27 02:25:51.948512",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "CONTRIBUTING.md"
-                ],
-                "bumperscripter": [
-                    "CONTRIBUTING.md"
-                ]
-            },
-            "url": "https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message"
-        },
-        "https://www.djangoproject.com/conduct/enforcement-manual/": {
-            "checks": {
-                "status": 502,
-                "200": "2024-02-26 02:30:47.668477",
-                "fail": {
-                    "from": "2024-02-27 02:25:58.090233",
-                    "from-code": 502
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-06-26-notes-from-community-call-18-june-2020.md"
-                ]
-            },
-            "url": "https://www.djangoproject.com/conduct/enforcement-manual/"
         }
     },
     "repos": {
-        "standard.publiccode.net": "failing",
+        "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
         "publiccode.net": "passing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
         "community-implementation-guide-standard": "passing",
-        "bumperscripter": "failing"
+        "bumperscripter": "passing"
     }
 }

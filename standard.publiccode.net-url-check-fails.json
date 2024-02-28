@@ -1,29 +1,6 @@
 {
-    "urls": {
-        "https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message": {
-            "checks": {
-                "status": 404,
-                "200": "2024-02-21 02:27:09.068982",
-                "fail": {
-                    "from": "2024-02-22 02:26:23.976255",
-                    "from-code": 404,
-                    "to": "2024-02-27 02:25:51.948512",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "CONTRIBUTING.md"
-                ],
-                "bumperscripter": [
-                    "CONTRIBUTING.md"
-                ]
-            },
-            "url": "https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message"
-        }
-    },
+    "urls": {},
     "repos": {
-        "standard.publiccode.net": "failing",
-        "bumperscripter": "failing"
+        "standard.publiccode.net": "passing"
     }
 }

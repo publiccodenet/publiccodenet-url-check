@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:09.424943",
                     "from-code": 0,
-                    "to": "2024-02-27 02:25:42.387695",
+                    "to": "2024-02-28 02:28:05.369342",
                     "to-code": 0
                 }
             },
@@ -25,7 +25,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.229532",
                     "from-code": 404,
-                    "to": "2024-02-27 02:25:44.179912",
+                    "to": "2024-02-28 02:28:07.233576",
                     "to-code": 404
                 }
             },
@@ -43,7 +43,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-02-27 02:25:47.869297",
+                    "to": "2024-02-28 02:28:11.340859",
                     "to-code": 403
                 }
             },
@@ -54,22 +54,6 @@
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
         },
-        "https://openstad.org": {
-            "checks": {
-                "status": 0,
-                "200": "2024-02-26 02:30:39.235735",
-                "fail": {
-                    "from": "2024-02-27 02:25:49.600059",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-06-08-product-management-in-open-source.md"
-                ]
-            },
-            "url": "https://openstad.org"
-        },
         "https://programm.froscon.org/2023/events/2960.html": {
             "checks": {
                 "status": 0,
@@ -77,7 +61,7 @@
                 "fail": {
                     "from": "2024-02-20 02:26:21.379212",
                     "from-code": 0,
-                    "to": "2024-02-27 02:25:51.036458",
+                    "to": "2024-02-28 02:28:14.355428",
                     "to-code": 0
                 }
             },
@@ -87,22 +71,6 @@
                 ]
             },
             "url": "https://programm.froscon.org/2023/events/2960.html"
-        },
-        "https://www.djangoproject.com/conduct/enforcement-manual/": {
-            "checks": {
-                "status": 502,
-                "200": "2024-02-26 02:30:47.668477",
-                "fail": {
-                    "from": "2024-02-27 02:25:58.090233",
-                    "from-code": 502
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-06-26-notes-from-community-call-18-june-2020.md"
-                ]
-            },
-            "url": "https://www.djangoproject.com/conduct/enforcement-manual/"
         }
     },
     "repos": {
