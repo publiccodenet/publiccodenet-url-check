@@ -1,20 +1,20 @@
 {
     "urls": {
-        "https://basecamp.com/books/remote": {
+        "https://ccdcoe.org/exercises/locked-shields/": {
             "checks": {
-                "status": 403,
-                "200": "2024-02-28 02:28:04.850550",
+                "status": 0,
+                "200": "2024-02-29 02:26:04.399497",
                 "fail": {
-                    "from": "2024-02-29 02:26:03.975953",
-                    "from-code": 403
+                    "from": "2024-03-01 02:30:39.967715",
+                    "from-code": 0
                 }
             },
             "used": {
                 "blog.publiccode.net": [
-                    "_posts/2020-12-07-autumn-2020-newsletter.md"
+                    "_posts/2022-05-25-resilience-during-an-international-crisis.md"
                 ]
             },
-            "url": "https://basecamp.com/books/remote"
+            "url": "https://ccdcoe.org/exercises/locked-shields/"
         },
         "https://demodam.org": {
             "checks": {
@@ -23,7 +23,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:09.424943",
                     "from-code": 0,
-                    "to": "2024-02-29 02:26:04.611940",
+                    "to": "2024-03-01 02:30:35.489036",
                     "to-code": 0
                 }
             },
@@ -41,7 +41,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.229532",
                     "from-code": 404,
-                    "to": "2024-02-29 02:26:09.673743",
+                    "to": "2024-03-01 02:30:38.039787",
                     "to-code": 404
                 }
             },
@@ -59,7 +59,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-02-29 02:26:10.804386",
+                    "to": "2024-03-01 02:30:46.003584",
                     "to-code": 403
                 }
             },
@@ -77,7 +77,7 @@
                 "fail": {
                     "from": "2024-02-20 02:26:21.379212",
                     "from-code": 0,
-                    "to": "2024-02-29 02:26:12.978361",
+                    "to": "2024-03-01 02:30:48.709381",
                     "to-code": 0
                 }
             },

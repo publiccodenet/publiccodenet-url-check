@@ -1,5 +1,24 @@
 {
     "urls": {
+        "https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/": {
+            "checks": {
+                "status": 404,
+                "200": "2024-02-29 02:26:04.051158",
+                "fail": {
+                    "from": "2024-03-01 02:30:34.956907",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "criteria/require-review-of-contributions.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "criteria/require-review-of-contributions.md"
+                ]
+            },
+            "url": "https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/"
+        },
         "https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08": {
             "checks": {
                 "status": 0,
@@ -7,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-02-29 02:26:02.235538",
+                    "to": "2024-03-01 02:30:34.131383",
                     "to-code": 0
                 }
             },
@@ -26,7 +45,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-02-29 02:26:32.315840",
+                    "to": "2024-03-01 02:31:04.212553",
                     "to-code": 0
                 }
             },
@@ -38,21 +57,21 @@
             },
             "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
         },
-        "https://basecamp.com/books/remote": {
+        "https://ccdcoe.org/exercises/locked-shields/": {
             "checks": {
-                "status": 403,
-                "200": "2024-02-28 02:28:04.850550",
+                "status": 0,
+                "200": "2024-02-29 02:26:04.399497",
                 "fail": {
-                    "from": "2024-02-29 02:26:03.975953",
-                    "from-code": 403
+                    "from": "2024-03-01 02:30:39.967715",
+                    "from-code": 0
                 }
             },
             "used": {
                 "blog.publiccode.net": [
-                    "_posts/2020-12-07-autumn-2020-newsletter.md"
+                    "_posts/2022-05-25-resilience-during-an-international-crisis.md"
                 ]
             },
-            "url": "https://basecamp.com/books/remote"
+            "url": "https://ccdcoe.org/exercises/locked-shields/"
         },
         "https://demodam.org": {
             "checks": {
@@ -61,7 +80,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:09.424943",
                     "from-code": 0,
-                    "to": "2024-02-29 02:26:04.611940",
+                    "to": "2024-03-01 02:30:35.489036",
                     "to-code": 0
                 }
             },
@@ -79,7 +98,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:19.440481",
                     "from-code": 0,
-                    "to": "2024-02-29 02:26:14.628734",
+                    "to": "2024-03-01 02:30:45.502321",
                     "to-code": 0
                 }
             },
@@ -96,7 +115,7 @@
                 "fail": {
                     "from": "2024-02-13 02:27:54.384120",
                     "from-code": 404,
-                    "to": "2024-02-29 02:26:42.692615",
+                    "to": "2024-03-01 02:31:25.797752",
                     "to-code": 404
                 }
             },
@@ -114,7 +133,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.229532",
                     "from-code": 404,
-                    "to": "2024-02-29 02:26:09.673743",
+                    "to": "2024-03-01 02:30:38.039787",
                     "to-code": 404
                 }
             },
@@ -132,7 +151,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.690802",
                     "from-code": 404,
-                    "to": "2024-02-29 02:26:10.375992",
+                    "to": "2024-03-01 02:30:38.494304",
                     "to-code": 404
                 }
             },
@@ -150,7 +169,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:38.146057",
                     "from-code": 404,
-                    "to": "2024-02-29 02:26:11.128587",
+                    "to": "2024-03-01 02:30:38.949481",
                     "to-code": 404
                 }
             },
@@ -168,7 +187,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-02-29 02:26:10.804386",
+                    "to": "2024-03-01 02:30:46.003584",
                     "to-code": 403
                 }
             },
@@ -186,7 +205,7 @@
                 "fail": {
                     "from": "2024-02-20 02:26:21.379212",
                     "from-code": 0,
-                    "to": "2024-02-29 02:26:12.978361",
+                    "to": "2024-03-01 02:30:48.709381",
                     "to-code": 0
                 }
             },
@@ -199,8 +218,8 @@
         }
     },
     "repos": {
-        "standard.publiccode.net": "passing",
-        "standard.publiccode.net-develop": "passing",
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
         "publiccode.net": "passing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
