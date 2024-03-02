@@ -1,27 +1,6 @@
 {
-    "urls": {
-        "https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/": {
-            "checks": {
-                "status": 404,
-                "200": "2024-02-29 02:26:04.051158",
-                "fail": {
-                    "from": "2024-03-01 02:30:34.956907",
-                    "from-code": 404
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "criteria/require-review-of-contributions.md"
-                ],
-                "standard.publiccode.net-develop": [
-                    "criteria/require-review-of-contributions.md"
-                ]
-            },
-            "url": "https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/"
-        }
-    },
+    "urls": {},
     "repos": {
-        "standard.publiccode.net-develop": "failing",
-        "standard.publiccode.net": "failing"
+        "standard.publiccode.net-develop": "passing"
     }
 }
