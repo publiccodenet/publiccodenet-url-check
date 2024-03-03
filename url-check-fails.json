@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-03-02 02:24:36.312115",
+                    "to": "2024-03-03 02:28:06.552536",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-03-02 02:25:06.364661",
+                    "to": "2024-03-03 02:28:36.622780",
                     "to-code": 0
                 }
             },
@@ -38,6 +38,54 @@
             },
             "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
         },
+        "https://business.gov.nl/regulation/leave-schemes/": {
+            "checks": {
+                "status": 503,
+                "200": "2024-03-02 02:24:35.709950",
+                "fail": {
+                    "from": "2024-03-03 02:28:04.903136",
+                    "from-code": 503
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/staff-information/parental-leave.md"
+                ]
+            },
+            "url": "https://business.gov.nl/regulation/leave-schemes/"
+        },
+        "https://business.gov.nl/regulation/working-conditions-employees/": {
+            "checks": {
+                "status": 503,
+                "200": "2024-03-02 02:24:36.338786",
+                "fail": {
+                    "from": "2024-03-03 02:28:05.407811",
+                    "from-code": 503
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/staff-management/sick-leave.md"
+                ]
+            },
+            "url": "https://business.gov.nl/regulation/working-conditions-employees/"
+        },
+        "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/": {
+            "checks": {
+                "status": 503,
+                "200": "2024-03-02 02:24:36.821884",
+                "fail": {
+                    "from": "2024-03-03 02:28:05.792915",
+                    "from-code": 503
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/governance-model.md"
+                ]
+            },
+            "url": "https://business.gov.nl/starting-your-business/choosing-a-business-structure/association/"
+        },
         "https://demodam.org": {
             "checks": {
                 "status": 0,
@@ -45,7 +93,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:09.424943",
                     "from-code": 0,
-                    "to": "2024-03-02 02:24:39.797009",
+                    "to": "2024-03-03 02:28:10.152887",
                     "to-code": 0
                 }
             },
@@ -63,7 +111,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:19.440481",
                     "from-code": 0,
-                    "to": "2024-03-02 02:24:49.808908",
+                    "to": "2024-03-03 02:28:20.171424",
                     "to-code": 0
                 }
             },
@@ -74,29 +122,13 @@
             },
             "url": "https://demodam.org/en/"
         },
-        "https://doi.org/10.1016/j.evolhumbehav.2016.05.005": {
-            "checks": {
-                "status": 0,
-                "200": "2024-03-01 02:30:36.073818",
-                "fail": {
-                    "from": "2024-03-02 02:24:38.358604",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/supporting-codebase-governance/game/run-governance-game-workshop.md"
-                ]
-            },
-            "url": "https://doi.org/10.1016/j.evolhumbehav.2016.05.005"
-        },
         "https://github.com/openai/whisper)": {
             "checks": {
                 "status": 404,
                 "fail": {
                     "from": "2024-02-13 02:27:54.384120",
                     "from-code": 404,
-                    "to": "2024-03-02 02:25:41.718027",
+                    "to": "2024-03-03 02:28:41.372005",
                     "to-code": 404
                 }
             },
@@ -114,7 +146,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.229532",
                     "from-code": 404,
-                    "to": "2024-03-02 02:24:40.356475",
+                    "to": "2024-03-03 02:28:08.996122",
                     "to-code": 404
                 }
             },
@@ -132,7 +164,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.690802",
                     "from-code": 404,
-                    "to": "2024-03-02 02:24:41.070175",
+                    "to": "2024-03-03 02:28:09.684112",
                     "to-code": 404
                 }
             },
@@ -150,7 +182,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:38.146057",
                     "from-code": 404,
-                    "to": "2024-03-02 02:24:41.780865",
+                    "to": "2024-03-03 02:28:10.374352",
                     "to-code": 404
                 }
             },
@@ -168,7 +200,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-03-02 02:24:45.560455",
+                    "to": "2024-03-03 02:28:14.081583",
                     "to-code": 403
                 }
             },
@@ -186,7 +218,7 @@
                 "fail": {
                     "from": "2024-02-20 02:26:21.379212",
                     "from-code": 0,
-                    "to": "2024-03-02 02:24:47.062389",
+                    "to": "2024-03-03 02:28:16.090671",
                     "to-code": 0
                 }
             },
