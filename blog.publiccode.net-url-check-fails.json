@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:09.424943",
                     "from-code": 0,
-                    "to": "2024-03-04 03:07:18.974102",
+                    "to": "2024-03-05 02:27:01.517509",
                     "to-code": 0
                 }
             },
@@ -25,7 +25,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.229532",
                     "from-code": 404,
-                    "to": "2024-03-04 03:07:19.390483",
+                    "to": "2024-03-05 02:27:03.291691",
                     "to-code": 404
                 }
             },
@@ -43,7 +43,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-03-04 03:07:23.199837",
+                    "to": "2024-03-05 02:27:08.160796",
                     "to-code": 403
                 }
             },
@@ -54,22 +54,6 @@
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
         },
-        "https://openstad.org": {
-            "checks": {
-                "status": 0,
-                "200": "2024-03-03 02:28:14.547939",
-                "fail": {
-                    "from": "2024-03-04 03:07:24.411631",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-06-08-product-management-in-open-source.md"
-                ]
-            },
-            "url": "https://openstad.org"
-        },
         "https://programm.froscon.org/2023/events/2960.html": {
             "checks": {
                 "status": 0,
@@ -77,7 +61,7 @@
                 "fail": {
                     "from": "2024-02-20 02:26:21.379212",
                     "from-code": 0,
-                    "to": "2024-03-04 03:07:27.051918",
+                    "to": "2024-03-05 02:27:09.643247",
                     "to-code": 0
                 }
             },
@@ -88,13 +72,31 @@
             },
             "url": "https://programm.froscon.org/2023/events/2960.html"
         },
+        "https://score.community/t/score-developer-sprint-week-in-ghent-2020/806/22": {
+            "checks": {
+                "status": 404,
+                "200": "2024-03-04 03:07:30.884894",
+                "fail": {
+                    "from": "2024-03-05 02:27:13.250956",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-06-22-notes-from-community-call-3-june-2020.md"
+                ]
+            },
+            "url": "https://score.community/t/score-developer-sprint-week-in-ghent-2020/806/22"
+        },
         "https://www.themoderncoder.com/a-better-git-workflow-with-rebase/": {
             "checks": {
                 "status": 0,
                 "200": "2024-03-03 02:28:26.729361",
                 "fail": {
                     "from": "2024-03-04 03:07:40.464631",
-                    "from-code": 0
+                    "from-code": 0,
+                    "to": "2024-03-05 02:27:20.808678",
+                    "to-code": 0
                 }
             },
             "used": {
