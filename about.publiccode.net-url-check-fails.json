@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-03-05 02:26:58.926550",
+                    "to": "2024-03-06 02:26:11.566868",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-03-05 02:27:28.991611",
+                    "to": "2024-03-06 02:26:41.634400",
                     "to-code": 0
                 }
             },
@@ -45,7 +45,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:19.440481",
                     "from-code": 0,
-                    "to": "2024-03-05 02:27:11.531558",
+                    "to": "2024-03-06 02:26:22.920455",
                     "to-code": 0
                 }
             },
@@ -62,7 +62,7 @@
                 "fail": {
                     "from": "2024-02-13 02:27:54.384120",
                     "from-code": 404,
-                    "to": "2024-03-05 02:27:34.617474",
+                    "to": "2024-03-06 02:26:46.528902",
                     "to-code": 404
                 }
             },
@@ -80,7 +80,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.690802",
                     "from-code": 404,
-                    "to": "2024-03-05 02:27:03.983051",
+                    "to": "2024-03-06 02:26:13.506418",
                     "to-code": 404
                 }
             },
@@ -98,7 +98,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:38.146057",
                     "from-code": 404,
-                    "to": "2024-03-05 02:27:04.692075",
+                    "to": "2024-03-06 02:26:14.417415",
                     "to-code": 404
                 }
             },
@@ -109,23 +109,53 @@
             },
             "url": "https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?view"
         },
-        "https://www.themoderncoder.com/rewriting-git-history/": {
+        "https://meet.publiccode.net/FoundationCommunityCall": {
             "checks": {
                 "status": 0,
-                "200": "2024-03-03 02:28:26.850016",
+                "200": "2024-03-05 02:27:16.322121",
                 "fail": {
-                    "from": "2024-03-04 03:07:40.558451",
-                    "from-code": 0,
-                    "to": "2024-03-05 02:27:20.865071",
-                    "to-code": 0
+                    "from": "2024-03-06 02:26:27.035342",
+                    "from-code": 0
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/trainings/index.md"
+                    "activities/communication/running-community-call.md"
                 ]
             },
-            "url": "https://www.themoderncoder.com/rewriting-git-history/"
+            "url": "https://meet.publiccode.net/FoundationCommunityCall"
+        },
+        "https://meet.publiccode.net/StandardforPublicCode": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-05 02:27:16.618031",
+                "fail": {
+                    "from": "2024-03-06 02:26:57.134301",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/standard-maintenance/running-community-call.md"
+                ]
+            },
+            "url": "https://meet.publiccode.net/StandardforPublicCode"
+        },
+        "https://meet.publiccode.net/backlogpruning": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-05 02:27:16.927409",
+                "fail": {
+                    "from": "2024-03-06 02:27:27.170179",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/standard-maintenance/backlog-pruning.md"
+                ]
+            },
+            "url": "https://meet.publiccode.net/backlogpruning"
         }
     },
     "repos": {
