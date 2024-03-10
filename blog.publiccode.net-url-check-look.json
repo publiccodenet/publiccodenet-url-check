@@ -1,5 +1,21 @@
 {
     "urls": {
+        "https://basecamp.com/books/remote": {
+            "checks": {
+                "status": 403,
+                "200": "2024-03-09 02:23:57.345061",
+                "fail": {
+                    "from": "2024-03-10 02:30:04.092899",
+                    "from-code": 403
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-12-07-autumn-2020-newsletter.md"
+                ]
+            },
+            "url": "https://basecamp.com/books/remote"
+        },
         "https://demodam.org": {
             "checks": {
                 "status": 0,
@@ -7,7 +23,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:09.424943",
                     "from-code": 0,
-                    "to": "2024-03-09 02:23:52.115180",
+                    "to": "2024-03-10 02:30:01.867604",
                     "to-code": 0
                 }
             },
@@ -25,7 +41,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.229532",
                     "from-code": 404,
-                    "to": "2024-03-09 02:23:57.574369",
+                    "to": "2024-03-10 02:30:09.368529",
                     "to-code": 404
                 }
             },
@@ -43,7 +59,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-03-09 02:24:02.843055",
+                    "to": "2024-03-10 02:30:16.020234",
                     "to-code": 403
                 }
             },
@@ -54,6 +70,38 @@
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
         },
+        "https://omgevingsbeleid.zuid-holland.nl/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-09 02:24:04.315107",
+                "fail": {
+                    "from": "2024-03-10 02:30:15.490611",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
+                ]
+            },
+            "url": "https://omgevingsbeleid.zuid-holland.nl/"
+        },
+        "https://openstad.org": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-09 02:24:06.259620",
+                "fail": {
+                    "from": "2024-03-10 02:30:17.812450",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-06-08-product-management-in-open-source.md"
+                ]
+            },
+            "url": "https://openstad.org"
+        },
         "https://programm.froscon.org/2023/events/2960.html": {
             "checks": {
                 "status": 0,
@@ -61,7 +109,7 @@
                 "fail": {
                     "from": "2024-02-20 02:26:21.379212",
                     "from-code": 0,
-                    "to": "2024-03-09 02:24:04.545673",
+                    "to": "2024-03-10 02:30:15.176108",
                     "to-code": 0
                 }
             },
@@ -72,6 +120,22 @@
             },
             "url": "https://programm.froscon.org/2023/events/2960.html"
         },
+        "https://publicspaces.net/timetable/event/aanbod-en-vraag-op-elkaar-afstemmen/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-09 02:24:04.936985",
+                "fail": {
+                    "from": "2024-03-10 02:30:16.266422",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-04-08-March-2021-newsletter.md"
+                ]
+            },
+            "url": "https://publicspaces.net/timetable/event/aanbod-en-vraag-op-elkaar-afstemmen/"
+        },
         "https://score.community/t/score-developer-sprint-week-in-ghent-2020/806/22": {
             "checks": {
                 "status": 404,
@@ -79,7 +143,7 @@
                 "fail": {
                     "from": "2024-03-05 02:27:13.250956",
                     "from-code": 404,
-                    "to": "2024-03-09 02:24:08.023351",
+                    "to": "2024-03-10 02:30:28.305040",
                     "to-code": 404
                 }
             },
@@ -89,6 +153,22 @@
                 ]
             },
             "url": "https://score.community/t/score-developer-sprint-week-in-ghent-2020/806/22"
+        },
+        "https://www.softwareheritage.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-09 02:24:14.519462",
+                "fail": {
+                    "from": "2024-03-10 02:30:31.217521",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2023-08-07-notes-from-community-call-3-august-2023.md"
+                ]
+            },
+            "url": "https://www.softwareheritage.org/"
         }
     },
     "repos": {
