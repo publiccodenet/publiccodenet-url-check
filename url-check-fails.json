@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-03-10 02:30:04.608517",
+                    "to": "2024-03-11 02:28:50.620164",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-03-10 02:30:34.653968",
+                    "to": "2024-03-11 02:29:20.680862",
                     "to-code": 0
                 }
             },
@@ -38,22 +38,6 @@
             },
             "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
         },
-        "https://basecamp.com/books/remote": {
-            "checks": {
-                "status": 403,
-                "200": "2024-03-09 02:23:57.345061",
-                "fail": {
-                    "from": "2024-03-10 02:30:04.092899",
-                    "from-code": 403
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-12-07-autumn-2020-newsletter.md"
-                ]
-            },
-            "url": "https://basecamp.com/books/remote"
-        },
         "https://demodam.org": {
             "checks": {
                 "status": 0,
@@ -61,7 +45,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:09.424943",
                     "from-code": 0,
-                    "to": "2024-03-10 02:30:01.867604",
+                    "to": "2024-03-11 02:28:49.855486",
                     "to-code": 0
                 }
             },
@@ -79,7 +63,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:19.440481",
                     "from-code": 0,
-                    "to": "2024-03-10 02:30:11.879394",
+                    "to": "2024-03-11 02:28:59.878227",
                     "to-code": 0
                 }
             },
@@ -96,7 +80,7 @@
                 "fail": {
                     "from": "2024-02-13 02:27:54.384120",
                     "from-code": 404,
-                    "to": "2024-03-10 02:30:45.493196",
+                    "to": "2024-03-11 02:29:25.973553",
                     "to-code": 404
                 }
             },
@@ -114,7 +98,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.229532",
                     "from-code": 404,
-                    "to": "2024-03-10 02:30:09.368529",
+                    "to": "2024-03-11 02:28:55.284849",
                     "to-code": 404
                 }
             },
@@ -132,7 +116,7 @@
                 "fail": {
                     "from": "2024-03-06 02:26:27.035342",
                     "from-code": 0,
-                    "to": "2024-03-10 02:30:22.776893",
+                    "to": "2024-03-11 02:29:10.497443",
                     "to-code": 0
                 }
             },
@@ -150,7 +134,7 @@
                 "fail": {
                     "from": "2024-03-06 02:26:57.134301",
                     "from-code": 0,
-                    "to": "2024-03-10 02:30:52.815015",
+                    "to": "2024-03-11 02:29:40.535883",
                     "to-code": 0
                 }
             },
@@ -168,7 +152,7 @@
                 "fail": {
                     "from": "2024-03-06 02:27:27.170179",
                     "from-code": 0,
-                    "to": "2024-03-10 02:31:22.854414",
+                    "to": "2024-03-11 02:30:10.570886",
                     "to-code": 0
                 }
             },
@@ -186,7 +170,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-03-10 02:30:16.020234",
+                    "to": "2024-03-11 02:29:01.269269",
                     "to-code": 403
                 }
             },
@@ -197,38 +181,6 @@
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
         },
-        "https://omgevingsbeleid.zuid-holland.nl/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-03-09 02:24:04.315107",
-                "fail": {
-                    "from": "2024-03-10 02:30:15.490611",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
-                ]
-            },
-            "url": "https://omgevingsbeleid.zuid-holland.nl/"
-        },
-        "https://openstad.org": {
-            "checks": {
-                "status": 0,
-                "200": "2024-03-09 02:24:06.259620",
-                "fail": {
-                    "from": "2024-03-10 02:30:17.812450",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-06-08-product-management-in-open-source.md"
-                ]
-            },
-            "url": "https://openstad.org"
-        },
         "https://programm.froscon.org/2023/events/2960.html": {
             "checks": {
                 "status": 0,
@@ -236,7 +188,7 @@
                 "fail": {
                     "from": "2024-02-20 02:26:21.379212",
                     "from-code": 0,
-                    "to": "2024-03-10 02:30:15.176108",
+                    "to": "2024-03-11 02:29:02.632100",
                     "to-code": 0
                 }
             },
@@ -247,22 +199,6 @@
             },
             "url": "https://programm.froscon.org/2023/events/2960.html"
         },
-        "https://publicspaces.net/timetable/event/aanbod-en-vraag-op-elkaar-afstemmen/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-03-09 02:24:04.936985",
-                "fail": {
-                    "from": "2024-03-10 02:30:16.266422",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-04-08-March-2021-newsletter.md"
-                ]
-            },
-            "url": "https://publicspaces.net/timetable/event/aanbod-en-vraag-op-elkaar-afstemmen/"
-        },
         "https://score.community/t/score-developer-sprint-week-in-ghent-2020/806/22": {
             "checks": {
                 "status": 404,
@@ -270,7 +206,7 @@
                 "fail": {
                     "from": "2024-03-05 02:27:13.250956",
                     "from-code": 404,
-                    "to": "2024-03-10 02:30:28.305040",
+                    "to": "2024-03-11 02:29:05.040897",
                     "to-code": 404
                 }
             },
@@ -280,22 +216,6 @@
                 ]
             },
             "url": "https://score.community/t/score-developer-sprint-week-in-ghent-2020/806/22"
-        },
-        "https://www.softwareheritage.org/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-03-09 02:24:14.519462",
-                "fail": {
-                    "from": "2024-03-10 02:30:31.217521",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-08-07-notes-from-community-call-3-august-2023.md"
-                ]
-            },
-            "url": "https://www.softwareheritage.org/"
         }
     },
     "repos": {
