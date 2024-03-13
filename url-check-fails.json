@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-03-12 02:26:42.440008",
+                    "to": "2024-03-13 02:29:10.969959",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-03-12 02:27:12.512625",
+                    "to": "2024-03-13 02:29:41.072246",
                     "to-code": 0
                 }
             },
@@ -45,7 +45,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:09.424943",
                     "from-code": 0,
-                    "to": "2024-03-12 02:26:41.584355",
+                    "to": "2024-03-13 02:29:10.118130",
                     "to-code": 0
                 }
             },
@@ -63,7 +63,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:19.440481",
                     "from-code": 0,
-                    "to": "2024-03-12 02:26:51.602946",
+                    "to": "2024-03-13 02:29:20.137491",
                     "to-code": 0
                 }
             },
@@ -74,13 +74,48 @@
             },
             "url": "https://demodam.org/en/"
         },
+        "https://github.com/coreinfrastructure/best-practices-badge": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-12 02:27:00.571889",
+                "fail": {
+                    "from": "2024-03-13 02:29:34.353685",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "readers-guide.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "readers-guide.md"
+                ]
+            },
+            "url": "https://github.com/coreinfrastructure/best-practices-badge"
+        },
+        "https://github.com/fdeerenberg": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-12 02:27:05.267305",
+                "fail": {
+                    "from": "2024-03-13 02:29:51.326279",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/communication/get-new-illustration.md"
+                ]
+            },
+            "url": "https://github.com/fdeerenberg"
+        },
         "https://github.com/openai/whisper)": {
             "checks": {
                 "status": 404,
                 "fail": {
                     "from": "2024-02-13 02:27:54.384120",
                     "from-code": 404,
-                    "to": "2024-03-12 02:27:19.614558",
+                    "to": "2024-03-13 02:30:19.590602",
                     "to-code": 404
                 }
             },
@@ -98,7 +133,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.229532",
                     "from-code": 404,
-                    "to": "2024-03-12 02:26:47.380893",
+                    "to": "2024-03-13 02:29:16.554974",
                     "to-code": 404
                 }
             },
@@ -116,7 +151,7 @@
                 "fail": {
                     "from": "2024-03-06 02:26:27.035342",
                     "from-code": 0,
-                    "to": "2024-03-12 02:27:03.677957",
+                    "to": "2024-03-13 02:29:49.559693",
                     "to-code": 0
                 }
             },
@@ -134,7 +169,7 @@
                 "fail": {
                     "from": "2024-03-06 02:26:57.134301",
                     "from-code": 0,
-                    "to": "2024-03-12 02:27:33.711380",
+                    "to": "2024-03-13 02:30:19.601167",
                     "to-code": 0
                 }
             },
@@ -152,7 +187,7 @@
                 "fail": {
                     "from": "2024-03-06 02:27:27.170179",
                     "from-code": 0,
-                    "to": "2024-03-12 02:28:03.750896",
+                    "to": "2024-03-13 02:30:49.643233",
                     "to-code": 0
                 }
             },
@@ -170,7 +205,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-03-12 02:26:54.526435",
+                    "to": "2024-03-13 02:29:24.608564",
                     "to-code": 403
                 }
             },
@@ -188,7 +223,7 @@
                 "fail": {
                     "from": "2024-02-20 02:26:21.379212",
                     "from-code": 0,
-                    "to": "2024-03-12 02:26:55.042761",
+                    "to": "2024-03-13 02:29:28.213080",
                     "to-code": 0
                 }
             },
@@ -206,7 +241,7 @@
                 "fail": {
                     "from": "2024-03-05 02:27:13.250956",
                     "from-code": 404,
-                    "to": "2024-03-12 02:26:59.662646",
+                    "to": "2024-03-13 02:29:35.454890",
                     "to-code": 404
                 }
             },
@@ -219,8 +254,8 @@
         }
     },
     "repos": {
-        "standard.publiccode.net": "passing",
-        "standard.publiccode.net-develop": "passing",
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
         "publiccode.net": "passing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",

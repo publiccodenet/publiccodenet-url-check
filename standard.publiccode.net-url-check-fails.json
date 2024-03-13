@@ -1,6 +1,27 @@
 {
-    "urls": {},
+    "urls": {
+        "https://github.com/coreinfrastructure/best-practices-badge": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-12 02:27:00.571889",
+                "fail": {
+                    "from": "2024-03-13 02:29:34.353685",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "readers-guide.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "readers-guide.md"
+                ]
+            },
+            "url": "https://github.com/coreinfrastructure/best-practices-badge"
+        }
+    },
     "repos": {
-        "standard.publiccode.net": "passing"
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing"
     }
 }
