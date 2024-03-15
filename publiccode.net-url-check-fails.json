@@ -1,23 +1,6 @@
 {
-    "urls": {
-        "https://public.digital/2021/06/21/open-source-in-government-creating-the-conditions-for-success": {
-            "checks": {
-                "status": 404,
-                "200": "2024-03-12 02:26:57.716398",
-                "fail": {
-                    "from": "2024-03-14 02:27:37.075373",
-                    "from-code": 404
-                }
-            },
-            "used": {
-                "publiccode.net": [
-                    "OSPO.md"
-                ]
-            },
-            "url": "https://public.digital/2021/06/21/open-source-in-government-creating-the-conditions-for-success"
-        }
-    },
+    "urls": {},
     "repos": {
-        "publiccode.net": "failing"
+        "publiccode.net": "passing"
     }
 }

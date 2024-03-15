@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-03-14 02:27:21.759939",
+                    "to": "2024-03-15 02:28:27.615407",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-03-14 02:27:51.816421",
+                    "to": "2024-03-15 02:28:57.730970",
                     "to-code": 0
                 }
             },
@@ -38,6 +38,22 @@
             },
             "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
         },
+        "https://ccdcoe.org/exercises/locked-shields/": {
+            "checks": {
+                "status": 403,
+                "200": "2024-03-14 02:27:23.850565",
+                "fail": {
+                    "from": "2024-03-15 02:28:24.502500",
+                    "from-code": 403
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2022-05-25-resilience-during-an-international-crisis.md"
+                ]
+            },
+            "url": "https://ccdcoe.org/exercises/locked-shields/"
+        },
         "https://demodam.org": {
             "checks": {
                 "status": 0,
@@ -45,7 +61,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:09.424943",
                     "from-code": 0,
-                    "to": "2024-03-14 02:27:20.002731",
+                    "to": "2024-03-15 02:28:28.178366",
                     "to-code": 0
                 }
             },
@@ -63,7 +79,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:19.440481",
                     "from-code": 0,
-                    "to": "2024-03-14 02:27:30.018725",
+                    "to": "2024-03-15 02:28:38.192543",
                     "to-code": 0
                 }
             },
@@ -80,7 +96,7 @@
                 "fail": {
                     "from": "2024-02-13 02:27:54.384120",
                     "from-code": 404,
-                    "to": "2024-03-14 02:28:03.155221",
+                    "to": "2024-03-15 02:29:06.547478",
                     "to-code": 404
                 }
             },
@@ -98,7 +114,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.229532",
                     "from-code": 404,
-                    "to": "2024-03-14 02:27:24.942239",
+                    "to": "2024-03-15 02:28:31.187289",
                     "to-code": 404
                 }
             },
@@ -116,7 +132,7 @@
                 "fail": {
                     "from": "2024-03-06 02:26:27.035342",
                     "from-code": 0,
-                    "to": "2024-03-14 02:27:42.093818",
+                    "to": "2024-03-15 02:28:53.463588",
                     "to-code": 0
                 }
             },
@@ -134,7 +150,7 @@
                 "fail": {
                     "from": "2024-03-06 02:26:57.134301",
                     "from-code": 0,
-                    "to": "2024-03-14 02:28:12.112427",
+                    "to": "2024-03-15 02:29:23.498949",
                     "to-code": 0
                 }
             },
@@ -152,7 +168,7 @@
                 "fail": {
                     "from": "2024-03-06 02:27:27.170179",
                     "from-code": 0,
-                    "to": "2024-03-14 02:28:42.128537",
+                    "to": "2024-03-15 02:29:53.535058",
                     "to-code": 0
                 }
             },
@@ -170,7 +186,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-03-14 02:27:31.580459",
+                    "to": "2024-03-15 02:28:36.741215",
                     "to-code": 403
                 }
             },
@@ -188,7 +204,7 @@
                 "fail": {
                     "from": "2024-02-20 02:26:21.379212",
                     "from-code": 0,
-                    "to": "2024-03-14 02:27:34.980723",
+                    "to": "2024-03-15 02:28:41.503763",
                     "to-code": 0
                 }
             },
@@ -199,22 +215,6 @@
             },
             "url": "https://programm.froscon.org/2023/events/2960.html"
         },
-        "https://public.digital/2021/06/21/open-source-in-government-creating-the-conditions-for-success": {
-            "checks": {
-                "status": 404,
-                "200": "2024-03-12 02:26:57.716398",
-                "fail": {
-                    "from": "2024-03-14 02:27:37.075373",
-                    "from-code": 404
-                }
-            },
-            "used": {
-                "publiccode.net": [
-                    "OSPO.md"
-                ]
-            },
-            "url": "https://public.digital/2021/06/21/open-source-in-government-creating-the-conditions-for-success"
-        },
         "https://score.community/t/score-developer-sprint-week-in-ghent-2020/806/22": {
             "checks": {
                 "status": 404,
@@ -222,7 +222,7 @@
                 "fail": {
                     "from": "2024-03-05 02:27:13.250956",
                     "from-code": 404,
-                    "to": "2024-03-14 02:27:38.354332",
+                    "to": "2024-03-15 02:28:44.561844",
                     "to-code": 404
                 }
             },
@@ -237,7 +237,7 @@
     "repos": {
         "standard.publiccode.net": "passing",
         "standard.publiccode.net-develop": "passing",
-        "publiccode.net": "failing",
+        "publiccode.net": "passing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
         "community-implementation-guide-standard": "passing",
