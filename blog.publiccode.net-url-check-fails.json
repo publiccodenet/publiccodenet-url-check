@@ -1,21 +1,5 @@
 {
     "urls": {
-        "https://ccdcoe.org/exercises/locked-shields/": {
-            "checks": {
-                "status": 403,
-                "200": "2024-03-14 02:27:23.850565",
-                "fail": {
-                    "from": "2024-03-15 02:28:24.502500",
-                    "from-code": 403
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2022-05-25-resilience-during-an-international-crisis.md"
-                ]
-            },
-            "url": "https://ccdcoe.org/exercises/locked-shields/"
-        },
         "https://demodam.org": {
             "checks": {
                 "status": 0,
@@ -23,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:09.424943",
                     "from-code": 0,
-                    "to": "2024-03-15 02:28:28.178366",
+                    "to": "2024-03-16 02:26:22.397170",
                     "to-code": 0
                 }
             },
@@ -41,7 +25,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.229532",
                     "from-code": 404,
-                    "to": "2024-03-15 02:28:31.187289",
+                    "to": "2024-03-16 02:26:23.564970",
                     "to-code": 404
                 }
             },
@@ -59,7 +43,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-03-15 02:28:36.741215",
+                    "to": "2024-03-16 02:26:28.041480",
                     "to-code": 403
                 }
             },
@@ -70,6 +54,22 @@
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
         },
+        "https://open.spotify.com/show/3m7m3AtL0jf67NpQ9B9HRs": {
+            "checks": {
+                "status": 500,
+                "200": "2024-03-15 02:28:41.093110",
+                "fail": {
+                    "from": "2024-03-16 02:26:30.527002",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-09-23-episode-one-of-lets-talk-about-public-code.md"
+                ]
+            },
+            "url": "https://open.spotify.com/show/3m7m3AtL0jf67NpQ9B9HRs"
+        },
         "https://programm.froscon.org/2023/events/2960.html": {
             "checks": {
                 "status": 0,
@@ -77,7 +77,7 @@
                 "fail": {
                     "from": "2024-02-20 02:26:21.379212",
                     "from-code": 0,
-                    "to": "2024-03-15 02:28:41.503763",
+                    "to": "2024-03-16 02:26:32.017161",
                     "to-code": 0
                 }
             },
@@ -95,7 +95,7 @@
                 "fail": {
                     "from": "2024-03-05 02:27:13.250956",
                     "from-code": 404,
-                    "to": "2024-03-15 02:28:44.561844",
+                    "to": "2024-03-16 02:26:33.946442",
                     "to-code": 404
                 }
             },

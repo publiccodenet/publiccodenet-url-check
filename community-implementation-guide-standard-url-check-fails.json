@@ -1,6 +1,23 @@
 {
-    "urls": {},
+    "urls": {
+        "https://reuse.software/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-15 02:28:44.374148",
+                "fail": {
+                    "from": "2024-03-16 02:26:33.297896",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/publish-with-an-open-license.md"
+                ]
+            },
+            "url": "https://reuse.software/"
+        }
+    },
     "repos": {
-        "community-implementation-guide-standard": "passing"
+        "community-implementation-guide-standard": "failing"
     }
 }

@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-03-15 02:28:27.615407",
+                    "to": "2024-03-16 02:26:23.554878",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-03-15 02:28:57.730970",
+                    "to": "2024-03-16 02:26:53.618946",
                     "to-code": 0
                 }
             },
@@ -38,22 +38,6 @@
             },
             "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
         },
-        "https://ccdcoe.org/exercises/locked-shields/": {
-            "checks": {
-                "status": 403,
-                "200": "2024-03-14 02:27:23.850565",
-                "fail": {
-                    "from": "2024-03-15 02:28:24.502500",
-                    "from-code": 403
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2022-05-25-resilience-during-an-international-crisis.md"
-                ]
-            },
-            "url": "https://ccdcoe.org/exercises/locked-shields/"
-        },
         "https://demodam.org": {
             "checks": {
                 "status": 0,
@@ -61,7 +45,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:09.424943",
                     "from-code": 0,
-                    "to": "2024-03-15 02:28:28.178366",
+                    "to": "2024-03-16 02:26:22.397170",
                     "to-code": 0
                 }
             },
@@ -79,7 +63,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:19.440481",
                     "from-code": 0,
-                    "to": "2024-03-15 02:28:38.192543",
+                    "to": "2024-03-16 02:26:32.411190",
                     "to-code": 0
                 }
             },
@@ -96,7 +80,7 @@
                 "fail": {
                     "from": "2024-02-13 02:27:54.384120",
                     "from-code": 404,
-                    "to": "2024-03-15 02:29:06.547478",
+                    "to": "2024-03-16 02:26:48.846047",
                     "to-code": 404
                 }
             },
@@ -114,7 +98,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.229532",
                     "from-code": 404,
-                    "to": "2024-03-15 02:28:31.187289",
+                    "to": "2024-03-16 02:26:23.564970",
                     "to-code": 404
                 }
             },
@@ -132,7 +116,7 @@
                 "fail": {
                     "from": "2024-03-06 02:26:27.035342",
                     "from-code": 0,
-                    "to": "2024-03-15 02:28:53.463588",
+                    "to": "2024-03-16 02:26:38.378075",
                     "to-code": 0
                 }
             },
@@ -150,7 +134,7 @@
                 "fail": {
                     "from": "2024-03-06 02:26:57.134301",
                     "from-code": 0,
-                    "to": "2024-03-15 02:29:23.498949",
+                    "to": "2024-03-16 02:27:08.404831",
                     "to-code": 0
                 }
             },
@@ -168,7 +152,7 @@
                 "fail": {
                     "from": "2024-03-06 02:27:27.170179",
                     "from-code": 0,
-                    "to": "2024-03-15 02:29:53.535058",
+                    "to": "2024-03-16 02:27:38.439546",
                     "to-code": 0
                 }
             },
@@ -186,7 +170,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-03-15 02:28:36.741215",
+                    "to": "2024-03-16 02:26:28.041480",
                     "to-code": 403
                 }
             },
@@ -197,6 +181,22 @@
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
         },
+        "https://open.spotify.com/show/3m7m3AtL0jf67NpQ9B9HRs": {
+            "checks": {
+                "status": 500,
+                "200": "2024-03-15 02:28:41.093110",
+                "fail": {
+                    "from": "2024-03-16 02:26:30.527002",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-09-23-episode-one-of-lets-talk-about-public-code.md"
+                ]
+            },
+            "url": "https://open.spotify.com/show/3m7m3AtL0jf67NpQ9B9HRs"
+        },
         "https://programm.froscon.org/2023/events/2960.html": {
             "checks": {
                 "status": 0,
@@ -204,7 +204,7 @@
                 "fail": {
                     "from": "2024-02-20 02:26:21.379212",
                     "from-code": 0,
-                    "to": "2024-03-15 02:28:41.503763",
+                    "to": "2024-03-16 02:26:32.017161",
                     "to-code": 0
                 }
             },
@@ -215,6 +215,57 @@
             },
             "url": "https://programm.froscon.org/2023/events/2960.html"
         },
+        "https://publiccode.eu/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-15 02:28:43.275586",
+                "fail": {
+                    "from": "2024-03-16 02:26:32.431933",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/communication/pitching.md"
+                ]
+            },
+            "url": "https://publiccode.eu/"
+        },
+        "https://reuse.software/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-15 02:28:44.374148",
+                "fail": {
+                    "from": "2024-03-16 02:26:33.297896",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/publish-with-an-open-license.md"
+                ]
+            },
+            "url": "https://reuse.software/"
+        },
+        "https://reuse.software/spec/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-15 02:28:45.292612",
+                "fail": {
+                    "from": "2024-03-16 02:27:03.628805",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "criteria/publish-with-an-open-license.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "criteria/publish-with-an-open-license.md"
+                ]
+            },
+            "url": "https://reuse.software/spec/"
+        },
         "https://score.community/t/score-developer-sprint-week-in-ghent-2020/806/22": {
             "checks": {
                 "status": 404,
@@ -222,7 +273,7 @@
                 "fail": {
                     "from": "2024-03-05 02:27:13.250956",
                     "from-code": 404,
-                    "to": "2024-03-15 02:28:44.561844",
+                    "to": "2024-03-16 02:26:33.946442",
                     "to-code": 404
                 }
             },
@@ -235,12 +286,12 @@
         }
     },
     "repos": {
-        "standard.publiccode.net": "passing",
-        "standard.publiccode.net-develop": "passing",
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
         "publiccode.net": "passing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
-        "community-implementation-guide-standard": "passing",
+        "community-implementation-guide-standard": "failing",
         "bumperscripter": "passing"
     }
 }
