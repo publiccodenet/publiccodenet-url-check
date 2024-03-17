@@ -1,27 +1,6 @@
 {
-    "urls": {
-        "https://reuse.software/spec/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-03-15 02:28:45.292612",
-                "fail": {
-                    "from": "2024-03-16 02:27:03.628805",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "criteria/publish-with-an-open-license.md"
-                ],
-                "standard.publiccode.net-develop": [
-                    "criteria/publish-with-an-open-license.md"
-                ]
-            },
-            "url": "https://reuse.software/spec/"
-        }
-    },
+    "urls": {},
     "repos": {
-        "standard.publiccode.net-develop": "failing",
-        "standard.publiccode.net": "failing"
+        "standard.publiccode.net-develop": "passing"
     }
 }
