@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-03-21 02:29:35.736613",
+                    "to": "2024-03-22 02:27:28.869279",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-03-21 02:30:05.816567",
+                    "to": "2024-03-22 02:27:58.986405",
                     "to-code": 0
                 }
             },
@@ -45,7 +45,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:09.424943",
                     "from-code": 0,
-                    "to": "2024-03-21 02:29:34.913553",
+                    "to": "2024-03-22 02:27:30.617589",
                     "to-code": 0
                 }
             },
@@ -63,7 +63,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:19.440481",
                     "from-code": 0,
-                    "to": "2024-03-21 02:29:44.924958",
+                    "to": "2024-03-22 02:27:40.632250",
                     "to-code": 0
                 }
             },
@@ -80,7 +80,7 @@
                 "fail": {
                     "from": "2024-02-13 02:27:54.384120",
                     "from-code": 404,
-                    "to": "2024-03-21 02:30:03.501985",
+                    "to": "2024-03-22 02:28:06.966506",
                     "to-code": 404
                 }
             },
@@ -98,7 +98,7 @@
                 "fail": {
                     "from": "2024-02-15 02:28:37.229532",
                     "from-code": 404,
-                    "to": "2024-03-21 02:29:34.652579",
+                    "to": "2024-03-22 02:27:31.724340",
                     "to-code": 404
                 }
             },
@@ -116,7 +116,7 @@
                 "fail": {
                     "from": "2024-03-06 02:26:27.035342",
                     "from-code": 0,
-                    "to": "2024-03-21 02:29:49.982691",
+                    "to": "2024-03-22 02:27:55.342223",
                     "to-code": 0
                 }
             },
@@ -134,7 +134,7 @@
                 "fail": {
                     "from": "2024-03-06 02:26:57.134301",
                     "from-code": 0,
-                    "to": "2024-03-21 02:30:20.031934",
+                    "to": "2024-03-22 02:28:25.451801",
                     "to-code": 0
                 }
             },
@@ -152,7 +152,7 @@
                 "fail": {
                     "from": "2024-03-06 02:27:27.170179",
                     "from-code": 0,
-                    "to": "2024-03-21 02:30:50.070732",
+                    "to": "2024-03-22 02:28:55.487457",
                     "to-code": 0
                 }
             },
@@ -170,7 +170,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-03-21 02:29:40.802677",
+                    "to": "2024-03-22 02:27:37.078741",
                     "to-code": 403
                 }
             },
@@ -181,24 +181,6 @@
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
         },
-        "https://programm.froscon.org/2023/events/2960.html": {
-            "checks": {
-                "status": 0,
-                "200": "2024-02-19 02:29:47.738962",
-                "fail": {
-                    "from": "2024-02-20 02:26:21.379212",
-                    "from-code": 0,
-                    "to": "2024-03-21 02:29:42.782041",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-08-07-notes-from-community-call-3-august-2023.md"
-                ]
-            },
-            "url": "https://programm.froscon.org/2023/events/2960.html"
-        },
         "https://score.community/t/score-developer-sprint-week-in-ghent-2020/806/22": {
             "checks": {
                 "status": 404,
@@ -206,7 +188,7 @@
                 "fail": {
                     "from": "2024-03-05 02:27:13.250956",
                     "from-code": 404,
-                    "to": "2024-03-21 02:29:47.950595",
+                    "to": "2024-03-22 02:27:45.178921",
                     "to-code": 404
                 }
             },
@@ -216,6 +198,22 @@
                 ]
             },
             "url": "https://score.community/t/score-developer-sprint-week-in-ghent-2020/806/22"
+        },
+        "https://splasho.com/upgoer5/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-21 02:29:49.245473",
+                "fail": {
+                    "from": "2024-03-22 02:27:45.812722",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/use-plain-english.md"
+                ]
+            },
+            "url": "https://splasho.com/upgoer5/"
         }
     },
     "repos": {
@@ -224,7 +222,7 @@
         "publiccode.net": "passing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
-        "community-implementation-guide-standard": "passing",
+        "community-implementation-guide-standard": "failing",
         "bumperscripter": "passing"
     }
 }

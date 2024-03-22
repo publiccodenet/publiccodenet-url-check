@@ -1,6 +1,23 @@
 {
-    "urls": {},
+    "urls": {
+        "https://splasho.com/upgoer5/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-21 02:29:49.245473",
+                "fail": {
+                    "from": "2024-03-22 02:27:45.812722",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "community-implementation-guide-standard": [
+                    "criteria/use-plain-english.md"
+                ]
+            },
+            "url": "https://splasho.com/upgoer5/"
+        }
+    },
     "repos": {
-        "community-implementation-guide-standard": "passing"
+        "community-implementation-guide-standard": "failing"
     }
 }
