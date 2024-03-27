@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-03-26 02:29:51.062703",
+                    "to": "2024-03-27 02:27:31.602857",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-03-26 02:30:21.139672",
+                    "to": "2024-03-27 02:28:01.654059",
                     "to-code": 0
                 }
             },
@@ -45,7 +45,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:19.440481",
                     "from-code": 0,
-                    "to": "2024-03-26 02:30:01.818746",
+                    "to": "2024-03-27 02:27:43.152789",
                     "to-code": 0
                 }
             },
@@ -62,7 +62,7 @@
                 "fail": {
                     "from": "2024-02-13 02:27:54.384120",
                     "from-code": 404,
-                    "to": "2024-03-26 02:30:17.647867",
+                    "to": "2024-03-27 02:27:57.403907",
                     "to-code": 404
                 }
             },
@@ -73,24 +73,6 @@
             },
             "url": "https://github.com/openai/whisper)"
         },
-        "https://help.voys.nl/voys-app": {
-            "checks": {
-                "status": 404,
-                "200": "2024-03-22 02:27:40.474237",
-                "fail": {
-                    "from": "2024-03-23 02:26:50.601386",
-                    "from-code": 404,
-                    "to": "2024-03-26 02:29:58.759576",
-                    "to-code": 404
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/tool-management/voys.md"
-                ]
-            },
-            "url": "https://help.voys.nl/voys-app"
-        },
         "https://meet.publiccode.net/FoundationCommunityCall": {
             "checks": {
                 "status": 0,
@@ -98,7 +80,7 @@
                 "fail": {
                     "from": "2024-03-06 02:26:27.035342",
                     "from-code": 0,
-                    "to": "2024-03-26 02:30:06.665605",
+                    "to": "2024-03-27 02:27:46.306113",
                     "to-code": 0
                 }
             },
@@ -116,7 +98,7 @@
                 "fail": {
                     "from": "2024-03-06 02:26:57.134301",
                     "from-code": 0,
-                    "to": "2024-03-26 02:30:36.675774",
+                    "to": "2024-03-27 02:27:46.519096",
                     "to-code": 0
                 }
             },
@@ -134,7 +116,7 @@
                 "fail": {
                     "from": "2024-03-06 02:27:27.170179",
                     "from-code": 0,
-                    "to": "2024-03-26 02:31:06.707667",
+                    "to": "2024-03-27 02:27:46.736329",
                     "to-code": 0
                 }
             },
@@ -144,6 +126,22 @@
                 ]
             },
             "url": "https://meet.publiccode.net/backlogpruning"
+        },
+        "https://www.fossjobs.net/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-26 02:30:09.714916",
+                "fail": {
+                    "from": "2024-03-27 02:27:49.246091",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/recruitment/hiring-process.md"
+                ]
+            },
+            "url": "https://www.fossjobs.net/"
         }
     },
     "repos": {
