@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-03-27 02:27:31.602857",
+                    "to": "2024-03-28 09:15:10.215117",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-03-27 02:28:01.654059",
+                    "to": "2024-03-28 09:15:40.300478",
                     "to-code": 0
                 }
             },
@@ -45,7 +45,7 @@
                 "fail": {
                     "from": "2024-02-16 02:27:19.440481",
                     "from-code": 0,
-                    "to": "2024-03-27 02:27:43.152789",
+                    "to": "2024-03-28 09:15:15.255726",
                     "to-code": 0
                 }
             },
@@ -62,7 +62,7 @@
                 "fail": {
                     "from": "2024-02-13 02:27:54.384120",
                     "from-code": 404,
-                    "to": "2024-03-27 02:27:57.403907",
+                    "to": "2024-03-28 09:15:44.409937",
                     "to-code": 404
                 }
             },
@@ -80,7 +80,7 @@
                 "fail": {
                     "from": "2024-03-06 02:26:27.035342",
                     "from-code": 0,
-                    "to": "2024-03-27 02:27:46.306113",
+                    "to": "2024-03-28 09:15:29.423033",
                     "to-code": 0
                 }
             },
@@ -98,7 +98,7 @@
                 "fail": {
                     "from": "2024-03-06 02:26:57.134301",
                     "from-code": 0,
-                    "to": "2024-03-27 02:27:46.519096",
+                    "to": "2024-03-28 09:15:29.662610",
                     "to-code": 0
                 }
             },
@@ -116,7 +116,7 @@
                 "fail": {
                     "from": "2024-03-06 02:27:27.170179",
                     "from-code": 0,
-                    "to": "2024-03-27 02:27:46.736329",
+                    "to": "2024-03-28 09:15:29.900259",
                     "to-code": 0
                 }
             },
@@ -127,24 +127,68 @@
             },
             "url": "https://meet.publiccode.net/backlogpruning"
         },
-        "https://www.fossjobs.net/": {
+        "https://publiccodenet.github.io/community-translations-standard/": {
             "checks": {
-                "status": 0,
-                "200": "2024-03-26 02:30:09.714916",
+                "status": 404,
+                "200": "2024-03-27 02:27:32.438283",
                 "fail": {
-                    "from": "2024-03-27 02:27:49.246091",
-                    "from-code": 0
+                    "from": "2024-03-28 09:15:14.159804",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "_includes/translations.html",
+                    "docs/standard-for-public-code.html",
+                    "index.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "_includes/translations.html",
+                    "docs/standard-for-public-code.html",
+                    "index.md"
+                ],
+                "about.publiccode.net": [
+                    "organization/annual-reports/annual-report-2022.md"
+                ]
+            },
+            "url": "https://publiccodenet.github.io/community-translations-standard/"
+        },
+        "https://publiccodenet.github.io/community-translations-standard/README.html": {
+            "checks": {
+                "status": 404,
+                "200": "2024-03-27 02:27:32.508125",
+                "fail": {
+                    "from": "2024-03-28 09:15:14.228639",
+                    "from-code": 404
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/recruitment/hiring-process.md"
+                    "organization/annual-reports/annual-report-2021.md"
                 ]
             },
-            "url": "https://www.fossjobs.net/"
+            "url": "https://publiccodenet.github.io/community-translations-standard/README.html"
+        },
+        "https://publiccodenet.github.io/community-translations-standard/es/": {
+            "checks": {
+                "status": 404,
+                "200": "2024-03-27 02:27:32.561842",
+                "fail": {
+                    "from": "2024-03-28 09:15:14.299492",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/annual-reports/annual-report-2021.md"
+                ]
+            },
+            "url": "https://publiccodenet.github.io/community-translations-standard/es/"
         }
     },
     "repos": {
-        "about.publiccode.net": "failing"
+        "about.publiccode.net": "failing",
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing"
     }
 }
