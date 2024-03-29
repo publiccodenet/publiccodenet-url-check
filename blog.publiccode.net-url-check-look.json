@@ -1,5 +1,38 @@
 {
     "urls": {
+        "https://github.com/publiccodenet/governance-game/discussions": {
+            "checks": {
+                "status": 404,
+                "200": "2024-03-28 09:15:58.331488",
+                "fail": {
+                    "from": "2024-03-29 02:28:23.571656",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2022-09-15-printing-your-own-governance-game.md"
+                ]
+            },
+            "url": "https://github.com/publiccodenet/governance-game/discussions"
+        },
+        "https://github.com/publiccodenet/governance-game/issues/new": {
+            "checks": {
+                "status": 404,
+                "200": "2024-03-28 09:15:58.574486",
+                "fail": {
+                    "from": "2024-03-29 02:28:23.660039",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-03-17-a-look-at-our-codebase-governance-game.md",
+                    "_posts/2022-09-15-printing-your-own-governance-game.md"
+                ]
+            },
+            "url": "https://github.com/publiccodenet/governance-game/issues/new"
+        },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
                 "status": 403,
@@ -7,7 +40,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-03-28 09:15:14.848998",
+                    "to": "2024-03-29 02:27:51.932253",
                     "to-code": 403
                 }
             },
