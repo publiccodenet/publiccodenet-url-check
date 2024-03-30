@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-03-29 02:27:46.094947",
+                    "to": "2024-03-30 02:25:30.038182",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-03-29 02:28:16.360749",
+                    "to": "2024-03-30 02:26:00.202290",
                     "to-code": 0
                 }
             },
@@ -44,7 +44,9 @@
                 "200": "2024-03-28 09:15:58.331488",
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2024-03-30 02:26:04.131608",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -60,7 +62,9 @@
                 "200": "2024-03-28 09:15:58.574486",
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
-                    "from-code": 404
+                    "from-code": 404,
+                    "to": "2024-03-30 02:26:04.222257",
+                    "to-code": 404
                 }
             },
             "used": {
@@ -78,7 +82,7 @@
                 "fail": {
                     "from": "2024-03-28 09:16:15.109413",
                     "from-code": 404,
-                    "to": "2024-03-29 02:28:35.213588",
+                    "to": "2024-03-30 02:26:15.517242",
                     "to-code": 404
                 }
             },
@@ -99,7 +103,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-03-29 02:27:51.932253",
+                    "to": "2024-03-30 02:25:36.753417",
                     "to-code": 403
                 }
             },
@@ -117,7 +121,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.098794",
                     "from-code": 404,
-                    "to": "2024-03-29 02:27:49.061987",
+                    "to": "2024-03-30 02:25:31.974236",
                     "to-code": 404
                 }
             },
@@ -140,7 +144,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.159804",
                     "from-code": 404,
-                    "to": "2024-03-29 02:27:49.127125",
+                    "to": "2024-03-30 02:25:32.052921",
                     "to-code": 404
                 }
             },
@@ -157,6 +161,42 @@
                 ]
             },
             "url": "https://publiccodenet.github.io/community-translations-standard/"
+        },
+        "https://sdgs.un.org/goals": {
+            "checks": {
+                "status": 0,
+                "200": "2024-03-29 02:27:56.876171",
+                "fail": {
+                    "from": "2024-03-30 02:25:41.542936",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/annual-reports/annual-report-2022.md",
+                    "organization/sustainable-development-goals.md"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2022-10-13-DPGA-membership.md"
+                ]
+            },
+            "url": "https://sdgs.un.org/goals"
+        },
+        "https://www.meetup.com/Code-For-NL/events/268798380/": {
+            "checks": {
+                "status": 502,
+                "200": "2024-03-29 02:28:00.963006",
+                "fail": {
+                    "from": "2024-03-30 02:25:45.191413",
+                    "from-code": 502
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-02-21-notes-from-community-call-20-february-2020.md"
+                ]
+            },
+            "url": "https://www.meetup.com/Code-For-NL/events/268798380/"
         }
     },
     "repos": {
