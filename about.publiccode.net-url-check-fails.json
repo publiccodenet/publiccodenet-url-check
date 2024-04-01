@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-03-30 02:25:30.038182",
+                    "to": "2024-04-01 02:34:46.908440",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-03-30 02:26:00.202290",
+                    "to": "2024-04-01 02:35:17.066720",
                     "to-code": 0
                 }
             },
@@ -37,30 +37,9 @@
                 ]
             },
             "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
-        },
-        "https://sdgs.un.org/goals": {
-            "checks": {
-                "status": 0,
-                "200": "2024-03-29 02:27:56.876171",
-                "fail": {
-                    "from": "2024-03-30 02:25:41.542936",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "organization/annual-reports/annual-report-2022.md",
-                    "organization/sustainable-development-goals.md"
-                ],
-                "blog.publiccode.net": [
-                    "_posts/2022-10-13-DPGA-membership.md"
-                ]
-            },
-            "url": "https://sdgs.un.org/goals"
         }
     },
     "repos": {
-        "about.publiccode.net": "failing",
-        "blog.publiccode.net": "failing"
+        "about.publiccode.net": "failing"
     }
 }
