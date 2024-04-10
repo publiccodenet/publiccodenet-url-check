@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-04-09 02:29:17.561470",
+                    "to": "2024-04-10 02:30:09.324113",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-04-09 02:29:47.627858",
+                    "to": "2024-04-10 02:30:39.389274",
                     "to-code": 0
                 }
             },
@@ -38,6 +38,22 @@
             },
             "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
         },
+        "https://citiesfordigitalrights.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-04-09 02:29:18.164839",
+                "fail": {
+                    "from": "2024-04-10 02:30:11.286205",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2022-01-11-notes-from-community-call-6-january-2022.md"
+                ]
+            },
+            "url": "https://citiesfordigitalrights.org/"
+        },
         "https://github.com/publiccodenet/governance-game/discussions": {
             "checks": {
                 "status": 404,
@@ -45,7 +61,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-04-09 02:30:26.318192",
+                    "to": "2024-04-10 02:30:54.377307",
                     "to-code": 404
                 }
             },
@@ -63,7 +79,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-04-09 02:30:26.572468",
+                    "to": "2024-04-10 02:30:54.507256",
                     "to-code": 404
                 }
             },
@@ -82,7 +98,7 @@
                 "fail": {
                     "from": "2024-03-28 09:16:15.109413",
                     "from-code": 404,
-                    "to": "2024-04-09 02:30:48.295329",
+                    "to": "2024-04-10 02:31:09.942235",
                     "to-code": 404
                 }
             },
@@ -103,7 +119,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-04-09 02:29:22.350122",
+                    "to": "2024-04-10 02:30:17.598007",
                     "to-code": 403
                 }
             },
@@ -121,7 +137,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.098794",
                     "from-code": 404,
-                    "to": "2024-04-09 02:29:20.710105",
+                    "to": "2024-04-10 02:30:13.764018",
                     "to-code": 404
                 }
             },
@@ -144,7 +160,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.159804",
                     "from-code": 404,
-                    "to": "2024-04-09 02:29:20.839516",
+                    "to": "2024-04-10 02:30:13.843374",
                     "to-code": 404
                 }
             },
@@ -161,6 +177,22 @@
                 ]
             },
             "url": "https://publiccodenet.github.io/community-translations-standard/"
+        },
+        "https://www.djangoproject.com/conduct/enforcement-manual/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-04-09 02:29:35.288885",
+                "fail": {
+                    "from": "2024-04-10 02:30:30.071472",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-06-26-notes-from-community-call-18-june-2020.md"
+                ]
+            },
+            "url": "https://www.djangoproject.com/conduct/enforcement-manual/"
         }
     },
     "repos": {

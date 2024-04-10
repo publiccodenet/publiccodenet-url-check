@@ -1,5 +1,21 @@
 {
     "urls": {
+        "https://citiesfordigitalrights.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-04-09 02:29:18.164839",
+                "fail": {
+                    "from": "2024-04-10 02:30:11.286205",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2022-01-11-notes-from-community-call-6-january-2022.md"
+                ]
+            },
+            "url": "https://citiesfordigitalrights.org/"
+        },
         "https://github.com/publiccodenet/governance-game/discussions": {
             "checks": {
                 "status": 404,
@@ -7,7 +23,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-04-09 02:30:26.318192",
+                    "to": "2024-04-10 02:30:54.377307",
                     "to-code": 404
                 }
             },
@@ -25,7 +41,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-04-09 02:30:26.572468",
+                    "to": "2024-04-10 02:30:54.507256",
                     "to-code": 404
                 }
             },
@@ -44,7 +60,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-04-09 02:29:22.350122",
+                    "to": "2024-04-10 02:30:17.598007",
                     "to-code": 403
                 }
             },
@@ -54,6 +70,22 @@
                 ]
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
+        },
+        "https://www.djangoproject.com/conduct/enforcement-manual/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-04-09 02:29:35.288885",
+                "fail": {
+                    "from": "2024-04-10 02:30:30.071472",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-06-26-notes-from-community-call-18-june-2020.md"
+                ]
+            },
+            "url": "https://www.djangoproject.com/conduct/enforcement-manual/"
         }
     },
     "repos": {
