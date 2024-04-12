@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-04-11 02:31:01.007810",
+                    "to": "2024-04-12 02:33:14.783011",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-04-11 02:31:31.117584",
+                    "to": "2024-04-12 02:33:44.864251",
                     "to-code": 0
                 }
             },
@@ -45,7 +45,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-04-11 02:32:01.732872",
+                    "to": "2024-04-12 02:34:12.966256",
                     "to-code": 404
                 }
             },
@@ -63,7 +63,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-04-11 02:32:01.971518",
+                    "to": "2024-04-12 02:34:13.107114",
                     "to-code": 404
                 }
             },
@@ -82,7 +82,7 @@
                 "fail": {
                     "from": "2024-03-28 09:16:15.109413",
                     "from-code": 404,
-                    "to": "2024-04-11 02:32:21.223821",
+                    "to": "2024-04-12 02:34:27.204143",
                     "to-code": 404
                 }
             },
@@ -103,7 +103,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-04-11 02:31:07.886067",
+                    "to": "2024-04-12 02:33:21.496782",
                     "to-code": 403
                 }
             },
@@ -114,38 +114,6 @@
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
         },
-        "https://opensource.com/article/20/4/testing-code-coverage": {
-            "checks": {
-                "status": 0,
-                "200": "2024-04-10 02:30:18.627879",
-                "fail": {
-                    "from": "2024-04-11 02:31:08.644753",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-06-03-notes-from-community-call-7-may-2020.md"
-                ]
-            },
-            "url": "https://opensource.com/article/20/4/testing-code-coverage"
-        },
-        "https://publiccode.eu/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-04-10 02:30:23.599738",
-                "fail": {
-                    "from": "2024-04-11 02:31:13.088200",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/communication/pitching.md"
-                ]
-            },
-            "url": "https://publiccode.eu/"
-        },
         "https://publiccodenet.github.io/community-implementation-guide-standard/": {
             "checks": {
                 "status": 404,
@@ -153,7 +121,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.098794",
                     "from-code": 404,
-                    "to": "2024-04-11 02:31:03.629091",
+                    "to": "2024-04-12 02:33:18.507016",
                     "to-code": 404
                 }
             },
@@ -176,7 +144,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.159804",
                     "from-code": 404,
-                    "to": "2024-04-11 02:31:03.764369",
+                    "to": "2024-04-12 02:33:18.598613",
                     "to-code": 404
                 }
             },
@@ -193,25 +161,6 @@
                 ]
             },
             "url": "https://publiccodenet.github.io/community-translations-standard/"
-        },
-        "https://reuse.software/spec/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-04-10 02:30:23.973112",
-                "fail": {
-                    "from": "2024-04-11 02:31:13.432617",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "criteria/publish-with-an-open-license.md"
-                ],
-                "standard.publiccode.net-develop": [
-                    "criteria/publish-with-an-open-license.md"
-                ]
-            },
-            "url": "https://reuse.software/spec/"
         }
     },
     "repos": {
