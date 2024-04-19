@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-04-18 02:32:51.055962",
+                    "to": "2024-04-19 02:32:05.017887",
                     "to-code": 404
                 }
             },
@@ -25,7 +25,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-04-18 02:32:51.300058",
+                    "to": "2024-04-19 02:32:05.095007",
                     "to-code": 404
                 }
             },
@@ -37,6 +37,22 @@
             },
             "url": "https://github.com/publiccodenet/governance-game/issues/new"
         },
+        "https://medium.com/@paulbellows/10-lessons-on-digital-government-f8dae9883a5a": {
+            "checks": {
+                "status": 429,
+                "200": "2024-04-18 02:31:53.807511",
+                "fail": {
+                    "from": "2024-04-19 02:31:19.528724",
+                    "from-code": 429
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
+                ]
+            },
+            "url": "https://medium.com/@paulbellows/10-lessons-on-digital-government-f8dae9883a5a"
+        },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
                 "status": 403,
@@ -44,7 +60,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-04-18 02:31:51.987280",
+                    "to": "2024-04-19 02:31:18.990765",
                     "to-code": 403
                 }
             },
@@ -54,22 +70,6 @@
                 ]
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
-        },
-        "https://redhat.com/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-04-17 02:33:07.766327",
-                "fail": {
-                    "from": "2024-04-18 02:31:58.008954",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-12-15-episode-ten-of-lets-talk-about-public-code.md"
-                ]
-            },
-            "url": "https://redhat.com/"
         }
     },
     "repos": {
