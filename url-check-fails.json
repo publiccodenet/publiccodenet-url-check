@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-04-19 02:31:16.167051",
+                    "to": "2024-04-20 02:28:43.226310",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-04-19 02:31:46.235492",
+                    "to": "2024-04-20 02:29:13.299909",
                     "to-code": 0
                 }
             },
@@ -45,7 +45,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-04-19 02:32:05.017887",
+                    "to": "2024-04-20 02:29:41.331300",
                     "to-code": 404
                 }
             },
@@ -63,7 +63,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-04-19 02:32:05.095007",
+                    "to": "2024-04-20 02:29:41.561308",
                     "to-code": 404
                 }
             },
@@ -82,7 +82,7 @@
                 "fail": {
                     "from": "2024-03-28 09:16:15.109413",
                     "from-code": 404,
-                    "to": "2024-04-19 02:32:16.879764",
+                    "to": "2024-04-20 02:30:00.911991",
                     "to-code": 404
                 }
             },
@@ -96,22 +96,6 @@
             },
             "url": "https://github.com/publiccodenet/standard/releases/download/0.8.0/standard-checklist-0.8.0.pdf"
         },
-        "https://medium.com/@paulbellows/10-lessons-on-digital-government-f8dae9883a5a": {
-            "checks": {
-                "status": 429,
-                "200": "2024-04-18 02:31:53.807511",
-                "fail": {
-                    "from": "2024-04-19 02:31:19.528724",
-                    "from-code": 429
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md"
-                ]
-            },
-            "url": "https://medium.com/@paulbellows/10-lessons-on-digital-government-f8dae9883a5a"
-        },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
                 "status": 403,
@@ -119,7 +103,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-04-19 02:31:18.990765",
+                    "to": "2024-04-20 02:28:51.087299",
                     "to-code": 403
                 }
             },
@@ -137,7 +121,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.098794",
                     "from-code": 404,
-                    "to": "2024-04-19 02:31:16.362286",
+                    "to": "2024-04-20 02:28:47.899407",
                     "to-code": 404
                 }
             },
@@ -160,7 +144,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.159804",
                     "from-code": 404,
-                    "to": "2024-04-19 02:31:16.424916",
+                    "to": "2024-04-20 02:28:48.047642",
                     "to-code": 404
                 }
             },
@@ -177,6 +161,22 @@
                 ]
             },
             "url": "https://publiccodenet.github.io/community-translations-standard/"
+        },
+        "https://redhat.com/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-04-19 02:31:23.912016",
+                "fail": {
+                    "from": "2024-04-20 02:28:56.415589",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-12-15-episode-ten-of-lets-talk-about-public-code.md"
+                ]
+            },
+            "url": "https://redhat.com/"
         }
     },
     "repos": {
