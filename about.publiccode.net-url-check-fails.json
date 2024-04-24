@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-04-23 02:31:49.994677",
+                    "to": "2024-04-24 02:30:12.128832",
                     "to-code": 0
                 }
             },
@@ -26,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-04-23 02:32:20.079301",
+                    "to": "2024-04-24 02:30:42.225843",
                     "to-code": 0
                 }
             },
@@ -37,9 +37,64 @@
                 ]
             },
             "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
+        },
+        "https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842": {
+            "checks": {
+                "status": 0,
+                "200": "2024-04-23 02:32:05.024467",
+                "fail": {
+                    "from": "2024-04-24 02:30:35.324189",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "index.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "index.md"
+                ],
+                "about.publiccode.net": [
+                    "CONTRIBUTING.md",
+                    "activities/communication/sign-up.md",
+                    "activities/community-calls/index.md",
+                    "activities/events/process-contacts.md",
+                    "activities/live-streaming/post-production.md",
+                    "activities/staff-meetings/event-debrief.md",
+                    "activities/tool-management/odoo.md",
+                    "organization/contact-details.md"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2019-12-13-notes-from-community-call-5-december-2019.md",
+                    "_posts/2020-09-22-notes-from-community-call-3-september-2020.md",
+                    "_posts/2020-12-02-summer-2020-newsletter.md",
+                    "_posts/2021-01-25-notes-from-community-call-7-january-2021.md",
+                    "_posts/2021-06-08-newsletter-may-2021.md"
+                ]
+            },
+            "url": "https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842"
+        },
+        "https://odoo.publiccode.net/web/login": {
+            "checks": {
+                "status": 0,
+                "200": "2024-04-23 02:32:05.708237",
+                "fail": {
+                    "from": "2024-04-24 02:30:38.923069",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/tool-management/odoo.md"
+                ]
+            },
+            "url": "https://odoo.publiccode.net/web/login"
         }
     },
     "repos": {
-        "about.publiccode.net": "failing"
+        "about.publiccode.net": "failing",
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
+        "blog.publiccode.net": "failing"
     }
 }

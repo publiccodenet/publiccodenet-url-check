@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-04-23 02:32:43.346856",
+                    "to": "2024-04-24 02:31:07.912608",
                     "to-code": 404
                 }
             },
@@ -25,7 +25,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-04-23 02:32:43.480864",
+                    "to": "2024-04-24 02:31:08.096478",
                     "to-code": 404
                 }
             },
@@ -44,7 +44,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-04-23 02:31:56.892520",
+                    "to": "2024-04-24 02:30:16.851016",
                     "to-code": 403
                 }
             },
@@ -54,9 +54,48 @@
                 ]
             },
             "url": "https://nayafia.substack.com/p/22-working-in-public"
+        },
+        "https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842": {
+            "checks": {
+                "status": 0,
+                "200": "2024-04-23 02:32:05.024467",
+                "fail": {
+                    "from": "2024-04-24 02:30:35.324189",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "index.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "index.md"
+                ],
+                "about.publiccode.net": [
+                    "CONTRIBUTING.md",
+                    "activities/communication/sign-up.md",
+                    "activities/community-calls/index.md",
+                    "activities/events/process-contacts.md",
+                    "activities/live-streaming/post-production.md",
+                    "activities/staff-meetings/event-debrief.md",
+                    "activities/tool-management/odoo.md",
+                    "organization/contact-details.md"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2019-12-13-notes-from-community-call-5-december-2019.md",
+                    "_posts/2020-09-22-notes-from-community-call-3-september-2020.md",
+                    "_posts/2020-12-02-summer-2020-newsletter.md",
+                    "_posts/2021-01-25-notes-from-community-call-7-january-2021.md",
+                    "_posts/2021-06-08-newsletter-may-2021.md"
+                ]
+            },
+            "url": "https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842"
         }
     },
     "repos": {
-        "blog.publiccode.net": "failing"
+        "blog.publiccode.net": "failing",
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
+        "about.publiccode.net": "failing"
     }
 }
