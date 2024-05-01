@@ -1,21 +1,5 @@
 {
     "urls": {
-        "http://flrs.nl/contact": {
-            "checks": {
-                "status": 0,
-                "200": "2024-04-29 02:31:55.169682",
-                "fail": {
-                    "from": "2024-04-30 02:30:35.043965",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-12-02-summer-2020-newsletter.md"
-                ]
-            },
-            "url": "http://flrs.nl/contact"
-        },
         "https://github.com/publiccodenet/governance-game/discussions": {
             "checks": {
                 "status": 404,
@@ -23,7 +7,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-04-30 02:31:28.189075",
+                    "to": "2024-05-01 02:36:12.433064",
                     "to-code": 404
                 }
             },
@@ -41,7 +25,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-04-30 02:31:28.279975",
+                    "to": "2024-05-01 02:36:12.657302",
                     "to-code": 404
                 }
             },
@@ -53,22 +37,6 @@
             },
             "url": "https://github.com/publiccodenet/governance-game/issues/new"
         },
-        "https://jtc1info.org/": {
-            "checks": {
-                "status": 504,
-                "200": "2024-04-29 02:32:00.370287",
-                "fail": {
-                    "from": "2024-04-30 02:30:40.603954",
-                    "from-code": 504
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-10-09-notes-from-community-call-5-october-2023.md"
-                ]
-            },
-            "url": "https://jtc1info.org/"
-        },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
                 "status": 403,
@@ -76,7 +44,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-04-30 02:30:42.719857",
+                    "to": "2024-05-01 02:35:17.621308",
                     "to-code": 403
                 }
             },
@@ -94,7 +62,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-04-30 02:30:50.733226",
+                    "to": "2024-05-01 02:35:34.939903",
                     "to-code": 0
                 }
             },
@@ -124,24 +92,6 @@
                 ]
             },
             "url": "https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842"
-        },
-        "https://tunein.com/podcasts/Technology-Podcasts/Lets-talk-about-public-code-p1365579/": {
-            "checks": {
-                "status": 500,
-                "200": "2024-04-24 02:30:28.003428",
-                "fail": {
-                    "from": "2024-04-25 02:31:42.786621",
-                    "from-code": 500,
-                    "to": "2024-04-30 02:30:51.966594",
-                    "to-code": 500
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-09-23-episode-one-of-lets-talk-about-public-code.md"
-                ]
-            },
-            "url": "https://tunein.com/podcasts/Technology-Podcasts/Lets-talk-about-public-code-p1365579/"
         }
     },
     "repos": {

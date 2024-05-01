@@ -1,21 +1,5 @@
 {
     "urls": {
-        "http://flrs.nl/contact": {
-            "checks": {
-                "status": 0,
-                "200": "2024-04-29 02:31:55.169682",
-                "fail": {
-                    "from": "2024-04-30 02:30:35.043965",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-12-02-summer-2020-newsletter.md"
-                ]
-            },
-            "url": "http://flrs.nl/contact"
-        },
         "https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08": {
             "checks": {
                 "status": 0,
@@ -23,7 +7,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-04-30 02:30:35.722997",
+                    "to": "2024-05-01 02:35:11.755690",
                     "to-code": 0
                 }
             },
@@ -42,7 +26,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-04-30 02:31:05.781940",
+                    "to": "2024-05-01 02:35:41.835631",
                     "to-code": 0
                 }
             },
@@ -54,6 +38,22 @@
             },
             "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
         },
+        "https://docs.google.com/document/d/10J9i2komx8HnlPqQAMyby97ambdoU1VdHQccUO5WKYI/edit?usp=sharing": {
+            "checks": {
+                "status": 404,
+                "200": "2024-04-30 02:30:36.208375",
+                "fail": {
+                    "from": "2024-05-01 02:35:11.053969",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/recruitment/hiring-process.md"
+                ]
+            },
+            "url": "https://docs.google.com/document/d/10J9i2komx8HnlPqQAMyby97ambdoU1VdHQccUO5WKYI/edit?usp=sharing"
+        },
         "https://github.com/publiccodenet/governance-game/discussions": {
             "checks": {
                 "status": 404,
@@ -61,7 +61,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-04-30 02:31:28.189075",
+                    "to": "2024-05-01 02:36:12.433064",
                     "to-code": 404
                 }
             },
@@ -79,7 +79,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-04-30 02:31:28.279975",
+                    "to": "2024-05-01 02:36:12.657302",
                     "to-code": 404
                 }
             },
@@ -98,7 +98,7 @@
                 "fail": {
                     "from": "2024-03-28 09:16:15.109413",
                     "from-code": 404,
-                    "to": "2024-04-30 02:31:41.533833",
+                    "to": "2024-05-01 02:36:32.207702",
                     "to-code": 404
                 }
             },
@@ -112,21 +112,24 @@
             },
             "url": "https://github.com/publiccodenet/standard/releases/download/0.8.0/standard-checklist-0.8.0.pdf"
         },
-        "https://jtc1info.org/": {
+        "https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg": {
             "checks": {
-                "status": 504,
-                "200": "2024-04-29 02:32:00.370287",
+                "status": 404,
+                "200": "2024-04-30 02:30:39.282293",
                 "fail": {
-                    "from": "2024-04-30 02:30:40.603954",
-                    "from-code": 504
+                    "from": "2024-05-01 02:35:13.923424",
+                    "from-code": 404
                 }
             },
             "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-10-09-notes-from-community-call-5-october-2023.md"
+                "standard.publiccode.net": [
+                    "README.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "README.md"
                 ]
             },
-            "url": "https://jtc1info.org/"
+            "url": "https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg"
         },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
@@ -135,7 +138,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-04-30 02:30:42.719857",
+                    "to": "2024-05-01 02:35:17.621308",
                     "to-code": 403
                 }
             },
@@ -153,7 +156,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-04-30 02:30:50.733226",
+                    "to": "2024-05-01 02:35:34.939903",
                     "to-code": 0
                 }
             },
@@ -191,7 +194,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:38.923069",
                     "from-code": 0,
-                    "to": "2024-04-30 02:30:54.121754",
+                    "to": "2024-05-01 02:35:38.462040",
                     "to-code": 0
                 }
             },
@@ -209,7 +212,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.098794",
                     "from-code": 404,
-                    "to": "2024-04-30 02:30:39.498881",
+                    "to": "2024-05-01 02:35:14.670704",
                     "to-code": 404
                 }
             },
@@ -232,7 +235,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.159804",
                     "from-code": 404,
-                    "to": "2024-04-30 02:30:39.571552",
+                    "to": "2024-05-01 02:35:14.822730",
                     "to-code": 404
                 }
             },
@@ -249,24 +252,6 @@
                 ]
             },
             "url": "https://publiccodenet.github.io/community-translations-standard/"
-        },
-        "https://tunein.com/podcasts/Technology-Podcasts/Lets-talk-about-public-code-p1365579/": {
-            "checks": {
-                "status": 500,
-                "200": "2024-04-24 02:30:28.003428",
-                "fail": {
-                    "from": "2024-04-25 02:31:42.786621",
-                    "from-code": 500,
-                    "to": "2024-04-30 02:30:51.966594",
-                    "to-code": 500
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-09-23-episode-one-of-lets-talk-about-public-code.md"
-                ]
-            },
-            "url": "https://tunein.com/podcasts/Technology-Podcasts/Lets-talk-about-public-code-p1365579/"
         }
     },
     "repos": {
