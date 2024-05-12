@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-05-11 02:32:07.352872",
+                    "to": "2024-05-12 02:37:01.057387",
                     "to-code": 404
                 }
             },
@@ -25,7 +25,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-05-11 02:32:07.431905",
+                    "to": "2024-05-12 02:37:01.293329",
                     "to-code": 404
                 }
             },
@@ -37,22 +37,6 @@
             },
             "url": "https://github.com/publiccodenet/governance-game/issues/new"
         },
-        "https://jtc1info.org/": {
-            "checks": {
-                "status": 504,
-                "200": "2024-05-10 02:37:48.451803",
-                "fail": {
-                    "from": "2024-05-11 02:31:13.156900",
-                    "from-code": 504
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2023-10-09-notes-from-community-call-5-october-2023.md"
-                ]
-            },
-            "url": "https://jtc1info.org/"
-        },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
                 "status": 403,
@@ -60,7 +44,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-05-11 02:31:15.224865",
+                    "to": "2024-05-12 02:36:12.083337",
                     "to-code": 403
                 }
             },
@@ -78,7 +62,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-05-11 02:31:22.125301",
+                    "to": "2024-05-12 02:36:29.636055",
                     "to-code": 0
                 }
             },
