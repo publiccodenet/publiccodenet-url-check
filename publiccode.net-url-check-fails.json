@@ -1,6 +1,28 @@
 {
-    "urls": {},
+    "urls": {
+        "http://ns.useplus.org/ldf/xmp/1.0/": {
+            "checks": {
+                "status": 403,
+                "200": "2024-05-12 02:36:05.629801",
+                "fail": {
+                    "from": "2024-05-13 02:36:38.837803",
+                    "from-code": 403
+                }
+            },
+            "used": {
+                "publiccode.net": [
+                    "photos/codebases/omgevingsbeleid/omgevingsbeleid_thumb_g01.png"
+                ],
+                "blog.publiccode.net": [
+                    "assets/screenshot-episode-3.png",
+                    "assets/signalen_logo.png"
+                ]
+            },
+            "url": "http://ns.useplus.org/ldf/xmp/1.0/"
+        }
+    },
     "repos": {
-        "publiccode.net": "passing"
+        "publiccode.net": "failing",
+        "blog.publiccode.net": "failing"
     }
 }

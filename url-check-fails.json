@@ -1,5 +1,25 @@
 {
     "urls": {
+        "http://ns.useplus.org/ldf/xmp/1.0/": {
+            "checks": {
+                "status": 403,
+                "200": "2024-05-12 02:36:05.629801",
+                "fail": {
+                    "from": "2024-05-13 02:36:38.837803",
+                    "from-code": 403
+                }
+            },
+            "used": {
+                "publiccode.net": [
+                    "photos/codebases/omgevingsbeleid/omgevingsbeleid_thumb_g01.png"
+                ],
+                "blog.publiccode.net": [
+                    "assets/screenshot-episode-3.png",
+                    "assets/signalen_logo.png"
+                ]
+            },
+            "url": "http://ns.useplus.org/ldf/xmp/1.0/"
+        },
         "https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08": {
             "checks": {
                 "status": 0,
@@ -7,7 +27,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-05-12 02:36:04.845474",
+                    "to": "2024-05-13 02:36:38.631980",
                     "to-code": 0
                 }
             },
@@ -26,7 +46,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-05-12 02:36:34.948355",
+                    "to": "2024-05-13 02:37:08.683883",
                     "to-code": 0
                 }
             },
@@ -45,7 +65,7 @@
                 "fail": {
                     "from": "2024-05-01 02:35:11.053969",
                     "from-code": 404,
-                    "to": "2024-05-12 02:36:05.417400",
+                    "to": "2024-05-13 02:36:39.047824",
                     "to-code": 404
                 }
             },
@@ -63,7 +83,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-05-12 02:37:01.057387",
+                    "to": "2024-05-13 02:37:22.129052",
                     "to-code": 404
                 }
             },
@@ -81,7 +101,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-05-12 02:37:01.293329",
+                    "to": "2024-05-13 02:37:22.212916",
                     "to-code": 404
                 }
             },
@@ -100,7 +120,7 @@
                 "fail": {
                     "from": "2024-03-28 09:16:15.109413",
                     "from-code": 404,
-                    "to": "2024-05-12 02:37:21.093578",
+                    "to": "2024-05-13 02:37:35.570290",
                     "to-code": 404
                 }
             },
@@ -121,7 +141,7 @@
                 "fail": {
                     "from": "2024-05-01 02:35:13.923424",
                     "from-code": 404,
-                    "to": "2024-05-12 02:36:08.144513",
+                    "to": "2024-05-13 02:36:42.149527",
                     "to-code": 404
                 }
             },
@@ -142,7 +162,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-05-12 02:36:12.083337",
+                    "to": "2024-05-13 02:36:44.202403",
                     "to-code": 403
                 }
             },
@@ -160,7 +180,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-05-12 02:36:29.636055",
+                    "to": "2024-05-13 02:36:53.242183",
                     "to-code": 0
                 }
             },
@@ -198,7 +218,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:38.923069",
                     "from-code": 0,
-                    "to": "2024-05-12 02:36:33.205823",
+                    "to": "2024-05-13 02:36:56.674791",
                     "to-code": 0
                 }
             },
@@ -216,7 +236,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.098794",
                     "from-code": 404,
-                    "to": "2024-05-12 02:36:08.978568",
+                    "to": "2024-05-13 02:36:42.083778",
                     "to-code": 404
                 }
             },
@@ -239,7 +259,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.159804",
                     "from-code": 404,
-                    "to": "2024-05-12 02:36:09.151577",
+                    "to": "2024-05-13 02:36:42.140462",
                     "to-code": 404
                 }
             },
@@ -256,12 +276,28 @@
                 ]
             },
             "url": "https://publiccodenet.github.io/community-translations-standard/"
+        },
+        "https://www.publieksdiensten.nl/nieuws/gemeentedelers-samenwerken-aan-leefbaarheid-met-signalen": {
+            "checks": {
+                "status": 0,
+                "200": "2024-05-12 02:36:24.411924",
+                "fail": {
+                    "from": "2024-05-13 02:36:53.791436",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2021-06-08-newsletter-may-2021.md"
+                ]
+            },
+            "url": "https://www.publieksdiensten.nl/nieuws/gemeentedelers-samenwerken-aan-leefbaarheid-met-signalen"
         }
     },
     "repos": {
         "standard.publiccode.net": "failing",
         "standard.publiccode.net-develop": "failing",
-        "publiccode.net": "passing",
+        "publiccode.net": "failing",
         "about.publiccode.net": "failing",
         "blog.publiccode.net": "failing",
         "bumperscripter": "passing"
