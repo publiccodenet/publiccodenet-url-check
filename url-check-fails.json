@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-05-13 02:36:38.837803",
                     "from-code": 403,
-                    "to": "2024-05-14 02:33:45.462311",
+                    "to": "2024-05-15 02:37:42.374998",
                     "to-code": 403
                 }
             },
@@ -29,7 +29,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-05-14 02:33:46.184463",
+                    "to": "2024-05-15 02:37:42.133685",
                     "to-code": 0
                 }
             },
@@ -48,7 +48,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-05-14 02:34:16.260316",
+                    "to": "2024-05-15 02:38:12.192399",
                     "to-code": 0
                 }
             },
@@ -60,22 +60,6 @@
             },
             "url": "https://amsterdam.raadsinformatie.nl/document/9725293/1/09012f9783374971"
         },
-        "https://basecamp.com/books/remote": {
-            "checks": {
-                "status": 403,
-                "200": "2024-05-13 02:36:38.579655",
-                "fail": {
-                    "from": "2024-05-14 02:33:45.552394",
-                    "from-code": 403
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-12-07-autumn-2020-newsletter.md"
-                ]
-            },
-            "url": "https://basecamp.com/books/remote"
-        },
         "https://docs.google.com/document/d/10J9i2komx8HnlPqQAMyby97ambdoU1VdHQccUO5WKYI/edit?usp=sharing": {
             "checks": {
                 "status": 404,
@@ -83,7 +67,7 @@
                 "fail": {
                     "from": "2024-05-01 02:35:11.053969",
                     "from-code": 404,
-                    "to": "2024-05-14 02:33:45.609244",
+                    "to": "2024-05-15 02:37:42.734533",
                     "to-code": 404
                 }
             },
@@ -101,7 +85,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-05-14 02:34:37.683106",
+                    "to": "2024-05-15 02:38:48.574941",
                     "to-code": 404
                 }
             },
@@ -119,7 +103,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-05-14 02:34:37.770711",
+                    "to": "2024-05-15 02:38:48.710846",
                     "to-code": 404
                 }
             },
@@ -138,7 +122,7 @@
                 "fail": {
                     "from": "2024-03-28 09:16:15.109413",
                     "from-code": 404,
-                    "to": "2024-05-14 02:34:52.243372",
+                    "to": "2024-05-15 02:39:04.040028",
                     "to-code": 404
                 }
             },
@@ -159,7 +143,7 @@
                 "fail": {
                     "from": "2024-05-01 02:35:13.923424",
                     "from-code": 404,
-                    "to": "2024-05-14 02:33:48.768680",
+                    "to": "2024-05-15 02:37:46.070457",
                     "to-code": 404
                 }
             },
@@ -180,7 +164,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-05-14 02:33:52.692704",
+                    "to": "2024-05-15 02:37:48.688897",
                     "to-code": 403
                 }
             },
@@ -198,7 +182,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-05-14 02:33:59.950791",
+                    "to": "2024-05-15 02:38:02.878244",
                     "to-code": 0
                 }
             },
@@ -236,7 +220,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:38.923069",
                     "from-code": 0,
-                    "to": "2024-05-14 02:34:03.402303",
+                    "to": "2024-05-15 02:38:06.323787",
                     "to-code": 0
                 }
             },
@@ -254,7 +238,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.098794",
                     "from-code": 404,
-                    "to": "2024-05-14 02:33:48.435120",
+                    "to": "2024-05-15 02:37:46.282341",
                     "to-code": 404
                 }
             },
@@ -277,7 +261,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.159804",
                     "from-code": 404,
-                    "to": "2024-05-14 02:33:48.504355",
+                    "to": "2024-05-15 02:37:46.388501",
                     "to-code": 404
                 }
             },
@@ -295,23 +279,24 @@
             },
             "url": "https://publiccodenet.github.io/community-translations-standard/"
         },
-        "https://www.publieksdiensten.nl/nieuws/gemeentedelers-samenwerken-aan-leefbaarheid-met-signalen": {
+        "https://www.amsterdamuas.com/": {
             "checks": {
-                "status": 0,
-                "200": "2024-05-12 02:36:24.411924",
+                "status": 503,
+                "200": "2024-05-14 02:33:58.086618",
                 "fail": {
-                    "from": "2024-05-13 02:36:53.791436",
-                    "from-code": 0,
-                    "to": "2024-05-14 02:34:01.798278",
-                    "to-code": 0
+                    "from": "2024-05-15 02:37:55.619412",
+                    "from-code": 503
                 }
             },
             "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-06-08-newsletter-may-2021.md"
+                "standard.publiccode.net": [
+                    "AUTHORS.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "AUTHORS.md"
                 ]
             },
-            "url": "https://www.publieksdiensten.nl/nieuws/gemeentedelers-samenwerken-aan-leefbaarheid-met-signalen"
+            "url": "https://www.amsterdamuas.com/"
         }
     },
     "repos": {

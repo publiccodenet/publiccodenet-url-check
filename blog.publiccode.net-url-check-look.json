@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-05-13 02:36:38.837803",
                     "from-code": 403,
-                    "to": "2024-05-14 02:33:45.462311",
+                    "to": "2024-05-15 02:37:42.374998",
                     "to-code": 403
                 }
             },
@@ -22,22 +22,6 @@
             },
             "url": "http://ns.useplus.org/ldf/xmp/1.0/"
         },
-        "https://basecamp.com/books/remote": {
-            "checks": {
-                "status": 403,
-                "200": "2024-05-13 02:36:38.579655",
-                "fail": {
-                    "from": "2024-05-14 02:33:45.552394",
-                    "from-code": 403
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2020-12-07-autumn-2020-newsletter.md"
-                ]
-            },
-            "url": "https://basecamp.com/books/remote"
-        },
         "https://github.com/publiccodenet/governance-game/discussions": {
             "checks": {
                 "status": 404,
@@ -45,7 +29,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-05-14 02:34:37.683106",
+                    "to": "2024-05-15 02:38:48.574941",
                     "to-code": 404
                 }
             },
@@ -63,7 +47,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-05-14 02:34:37.770711",
+                    "to": "2024-05-15 02:38:48.710846",
                     "to-code": 404
                 }
             },
@@ -82,7 +66,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-05-14 02:33:52.692704",
+                    "to": "2024-05-15 02:37:48.688897",
                     "to-code": 403
                 }
             },
@@ -100,7 +84,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-05-14 02:33:59.950791",
+                    "to": "2024-05-15 02:38:02.878244",
                     "to-code": 0
                 }
             },
@@ -130,24 +114,6 @@
                 ]
             },
             "url": "https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842"
-        },
-        "https://www.publieksdiensten.nl/nieuws/gemeentedelers-samenwerken-aan-leefbaarheid-met-signalen": {
-            "checks": {
-                "status": 0,
-                "200": "2024-05-12 02:36:24.411924",
-                "fail": {
-                    "from": "2024-05-13 02:36:53.791436",
-                    "from-code": 0,
-                    "to": "2024-05-14 02:34:01.798278",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2021-06-08-newsletter-may-2021.md"
-                ]
-            },
-            "url": "https://www.publieksdiensten.nl/nieuws/gemeentedelers-samenwerken-aan-leefbaarheid-met-signalen"
         }
     },
     "repos": {
