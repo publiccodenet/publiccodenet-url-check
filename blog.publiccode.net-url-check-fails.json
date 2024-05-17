@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-05-13 02:36:38.837803",
                     "from-code": 403,
-                    "to": "2024-05-16 02:34:39.879359",
+                    "to": "2024-05-17 02:33:01.620609",
                     "to-code": 403
                 }
             },
@@ -29,7 +29,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-05-16 02:35:42.064990",
+                    "to": "2024-05-17 02:34:00.595445",
                     "to-code": 404
                 }
             },
@@ -47,7 +47,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-05-16 02:35:42.197940",
+                    "to": "2024-05-17 02:34:00.678112",
                     "to-code": 404
                 }
             },
@@ -59,6 +59,38 @@
             },
             "url": "https://github.com/publiccodenet/governance-game/issues/new"
         },
+        "https://github.com/publiccodenet/standard/commit/a02bfc0bee9b79484164edb6ffef9e7fa3c6543d": {
+            "checks": {
+                "status": 406,
+                "200": "2024-05-16 02:35:56.131260",
+                "fail": {
+                    "from": "2024-05-17 02:34:12.340468",
+                    "from-code": 406
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2022-09-02-notes-from-community-call-1-september-2022.md"
+                ]
+            },
+            "url": "https://github.com/publiccodenet/standard/commit/a02bfc0bee9b79484164edb6ffef9e7fa3c6543d"
+        },
+        "https://jtc1info.org/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-05-16 02:34:46.723435",
+                "fail": {
+                    "from": "2024-05-17 02:33:06.362008",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2023-10-09-notes-from-community-call-5-october-2023.md"
+                ]
+            },
+            "url": "https://jtc1info.org/"
+        },
         "https://nayafia.substack.com/p/22-working-in-public": {
             "checks": {
                 "status": 403,
@@ -66,7 +98,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-05-16 02:34:48.299362",
+                    "to": "2024-05-17 02:33:07.695218",
                     "to-code": 403
                 }
             },
@@ -84,7 +116,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-05-16 02:35:14.886574",
+                    "to": "2024-05-17 02:33:15.184287",
                     "to-code": 0
                 }
             },
