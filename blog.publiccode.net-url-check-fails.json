@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-05-13 02:36:38.837803",
                     "from-code": 403,
-                    "to": "2024-05-17 02:33:01.620609",
+                    "to": "2024-05-18 02:33:13.834815",
                     "to-code": 403
                 }
             },
@@ -29,7 +29,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-05-17 02:34:00.595445",
+                    "to": "2024-05-18 02:34:07.966905",
                     "to-code": 404
                 }
             },
@@ -47,7 +47,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-05-17 02:34:00.678112",
+                    "to": "2024-05-18 02:34:08.089377",
                     "to-code": 404
                 }
             },
@@ -59,29 +59,15 @@
             },
             "url": "https://github.com/publiccodenet/governance-game/issues/new"
         },
-        "https://github.com/publiccodenet/standard/commit/a02bfc0bee9b79484164edb6ffef9e7fa3c6543d": {
-            "checks": {
-                "status": 406,
-                "200": "2024-05-16 02:35:56.131260",
-                "fail": {
-                    "from": "2024-05-17 02:34:12.340468",
-                    "from-code": 406
-                }
-            },
-            "used": {
-                "blog.publiccode.net": [
-                    "_posts/2022-09-02-notes-from-community-call-1-september-2022.md"
-                ]
-            },
-            "url": "https://github.com/publiccodenet/standard/commit/a02bfc0bee9b79484164edb6ffef9e7fa3c6543d"
-        },
         "https://jtc1info.org/": {
             "checks": {
-                "status": 0,
+                "status": 502,
                 "200": "2024-05-16 02:34:46.723435",
                 "fail": {
                     "from": "2024-05-17 02:33:06.362008",
-                    "from-code": 0
+                    "from-code": 0,
+                    "to": "2024-05-18 02:33:18.943329",
+                    "to-code": 502
                 }
             },
             "used": {
@@ -98,7 +84,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-05-17 02:33:07.695218",
+                    "to": "2024-05-18 02:33:18.983222",
                     "to-code": 403
                 }
             },
@@ -116,7 +102,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-05-17 02:33:15.184287",
+                    "to": "2024-05-18 02:33:29.283080",
                     "to-code": 0
                 }
             },
@@ -146,6 +132,22 @@
                 ]
             },
             "url": "https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842"
+        },
+        "https://www.themoderncoder.com/a-better-git-workflow-with-rebase/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-05-17 02:33:20.341260",
+                "fail": {
+                    "from": "2024-05-18 02:33:31.614455",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "blog.publiccode.net": [
+                    "_posts/2020-12-07-autumn-2020-newsletter.md"
+                ]
+            },
+            "url": "https://www.themoderncoder.com/a-better-git-workflow-with-rebase/"
         }
     },
     "repos": {
