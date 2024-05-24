@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-05-13 02:36:38.837803",
                     "from-code": 403,
-                    "to": "2024-05-23 02:35:08.793925",
+                    "to": "2024-05-24 02:34:55.143905",
                     "to-code": 403
                 }
             },
@@ -21,6 +21,22 @@
                 ]
             },
             "url": "http://ns.useplus.org/ldf/xmp/1.0/"
+        },
+        "https://publiccode.net/codebase-stewardship": {
+            "checks": {
+                "status": 404,
+                "200": "2024-05-23 02:35:46.211651",
+                "fail": {
+                    "from": "2024-05-24 02:35:22.000261",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "publiccode.net": [
+                    "OSPO.md"
+                ]
+            },
+            "url": "https://publiccode.net/codebase-stewardship"
         }
     },
     "repos": {

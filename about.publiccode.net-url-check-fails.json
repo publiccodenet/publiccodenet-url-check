@@ -1,5 +1,21 @@
 {
     "urls": {
+        "http://publiccode.net/codebase-stewardship/": {
+            "checks": {
+                "status": 404,
+                "200": "2024-05-23 02:35:07.380271",
+                "fail": {
+                    "from": "2024-05-24 02:34:54.124598",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/creating-partnerships/partnership-template.md"
+                ]
+            },
+            "url": "http://publiccode.net/codebase-stewardship/"
+        },
         "https://amsterdam.raadsinformatie.nl/document/7880446/1/09012f9782a30a08": {
             "checks": {
                 "status": 0,
@@ -7,7 +23,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-05-23 02:35:08.614655",
+                    "to": "2024-05-24 02:34:54.981929",
                     "to-code": 0
                 }
             },
@@ -26,7 +42,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-05-23 02:35:38.717814",
+                    "to": "2024-05-24 02:35:25.045119",
                     "to-code": 0
                 }
             },
@@ -45,7 +61,7 @@
                 "fail": {
                     "from": "2024-05-01 02:35:11.053969",
                     "from-code": 404,
-                    "to": "2024-05-23 02:35:08.825523",
+                    "to": "2024-05-24 02:34:55.386197",
                     "to-code": 404
                 }
             },
@@ -63,7 +79,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-05-23 02:35:31.922530",
+                    "to": "2024-05-24 02:35:10.917682",
                     "to-code": 0
                 }
             },
@@ -101,7 +117,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:38.923069",
                     "from-code": 0,
-                    "to": "2024-05-23 02:35:35.499838",
+                    "to": "2024-05-24 02:35:14.384015",
                     "to-code": 0
                 }
             },
@@ -112,23 +128,256 @@
             },
             "url": "https://odoo.publiccode.net/web/login"
         },
-        "https://www.themoderncoder.com/rewriting-git-history/": {
+        "https://publiccode.net/OSPO": {
             "checks": {
-                "status": 0,
-                "200": "2024-05-17 02:33:20.447158",
+                "status": 404,
+                "200": "2024-05-23 02:35:44.638060",
                 "fail": {
-                    "from": "2024-05-18 02:33:31.835999",
-                    "from-code": 0,
-                    "to": "2024-05-23 02:35:29.170675",
-                    "to-code": 0
+                    "from": "2024-05-24 02:35:21.070039",
+                    "from-code": 404
                 }
             },
             "used": {
                 "about.publiccode.net": [
-                    "activities/trainings/index.md"
+                    "activities/communication/pitching.md"
                 ]
             },
-            "url": "https://www.themoderncoder.com/rewriting-git-history/"
+            "url": "https://publiccode.net/OSPO"
+        },
+        "https://publiccode.net/careers": {
+            "checks": {
+                "status": 404,
+                "200": "2024-05-23 02:35:44.886453",
+                "fail": {
+                    "from": "2024-05-24 02:35:21.283345",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "activities/recruitment/hiring-process.md",
+                    "activities/recruitment/index.md",
+                    "contributor-guides/for-individuals.md",
+                    "organization/staff.md"
+                ]
+            },
+            "url": "https://publiccode.net/careers"
+        },
+        "https://publiccode.net/careers/": {
+            "checks": {
+                "status": 404,
+                "200": "2024-05-23 02:35:45.110817",
+                "fail": {
+                    "from": "2024-05-24 02:35:21.354541",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "roles/index.md"
+                ]
+            },
+            "url": "https://publiccode.net/careers/"
+        },
+        "https://publiccode.net/careers/community": {
+            "checks": {
+                "status": 404,
+                "200": "2024-05-23 02:35:45.509482",
+                "fail": {
+                    "from": "2024-05-24 02:35:21.584273",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "roles/community.md",
+                    "roles/index.md"
+                ]
+            },
+            "url": "https://publiccode.net/careers/community"
+        },
+        "https://publiccode.net/careers/intern": {
+            "checks": {
+                "status": 404,
+                "200": "2024-05-23 02:35:45.645187",
+                "fail": {
+                    "from": "2024-05-24 02:35:21.662696",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "roles/index.md",
+                    "roles/intern.md"
+                ]
+            },
+            "url": "https://publiccode.net/careers/intern"
+        },
+        "https://publiccode.net/careers/product-marketing": {
+            "checks": {
+                "status": 404,
+                "200": "2024-05-23 02:35:45.794290",
+                "fail": {
+                    "from": "2024-05-24 02:35:21.731696",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "roles/index.md",
+                    "roles/product-marketing.md"
+                ]
+            },
+            "url": "https://publiccode.net/careers/product-marketing"
+        },
+        "https://publiccode.net/careers/quality": {
+            "checks": {
+                "status": 404,
+                "200": "2024-05-23 02:35:45.918075",
+                "fail": {
+                    "from": "2024-05-24 02:35:21.841869",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "roles/index.md",
+                    "roles/quality.md"
+                ]
+            },
+            "url": "https://publiccode.net/careers/quality"
+        },
+        "https://publiccode.net/careers/support": {
+            "checks": {
+                "status": 404,
+                "200": "2024-05-23 02:35:46.060848",
+                "fail": {
+                    "from": "2024-05-24 02:35:21.922835",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "roles/index.md",
+                    "roles/support.md"
+                ]
+            },
+            "url": "https://publiccode.net/careers/support"
+        },
+        "https://publiccode.net/codebase-stewardship/": {
+            "checks": {
+                "status": 404,
+                "200": "2024-05-23 02:35:46.467980",
+                "fail": {
+                    "from": "2024-05-24 02:35:22.073170",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "index.md"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2020-10-02-we-support-the-sustainable-development-goals.md",
+                    "_posts/2021-06-08-product-management-in-open-source.md",
+                    "_posts/2021-07-28-digital-public-goods.md"
+                ]
+            },
+            "url": "https://publiccode.net/codebase-stewardship/"
+        },
+        "https://publiccode.net/codebases/": {
+            "checks": {
+                "status": 404,
+                "200": "2024-05-23 02:35:46.605391",
+                "fail": {
+                    "from": "2024-05-24 02:35:22.137600",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "CONTRIBUTING.md",
+                    "activities/codebase-auditing/open-audits.md",
+                    "activities/codebase-stewardship/odoo-codebases.md",
+                    "activities/releasing-the-standard/index.md"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2021-02-04-signalen-is-in-incubation.md",
+                    "_posts/2021-02-11-notes-from-community-call-4-february-2021.md",
+                    "_posts/2021-03-04-newsletter-dec-2020-to-feb-2021.md",
+                    "_posts/2021-05-6-april-2021-newsletter.md",
+                    "_posts/2021-06-08-newsletter-may-2021.md",
+                    "_posts/2021-07-19-newsletter-june-2021.md"
+                ]
+            },
+            "url": "https://publiccode.net/codebases/"
+        },
+        "https://publiccode.net/codebases/omgevingsbeleid.html": {
+            "checks": {
+                "status": 404,
+                "200": "2024-05-23 02:35:46.726765",
+                "fail": {
+                    "from": "2024-05-24 02:35:22.213155",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/annual-reports/annual-report-2019-2020.md",
+                    "organization/annual-reports/annual-report-2021.md"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2022-09-02-notes-from-community-call-1-september-2022.md"
+                ]
+            },
+            "url": "https://publiccode.net/codebases/omgevingsbeleid.html"
+        },
+        "https://publiccode.net/codebases/openzaak.html": {
+            "checks": {
+                "status": 404,
+                "200": "2024-05-23 02:35:47.055235",
+                "fail": {
+                    "from": "2024-05-24 02:35:22.396502",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/annual-reports/annual-report-2019-2020.md",
+                    "organization/annual-reports/annual-report-2021.md"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2020-10-02-we-support-the-sustainable-development-goals.md",
+                    "_posts/2020-10-12-notes-from-community-call-1-october-2020.md",
+                    "_posts/2020-12-02-summer-2020-newsletter.md",
+                    "_posts/2021-04-08-March-2021-newsletter.md",
+                    "_posts/2022-09-02-notes-from-community-call-1-september-2022.md"
+                ]
+            },
+            "url": "https://publiccode.net/codebases/openzaak.html"
+        },
+        "https://publiccode.net/codebases/signalen.html": {
+            "checks": {
+                "status": 404,
+                "200": "2024-05-23 02:35:47.174896",
+                "fail": {
+                    "from": "2024-05-24 02:35:22.463183",
+                    "from-code": 404
+                }
+            },
+            "used": {
+                "about.publiccode.net": [
+                    "organization/annual-reports/annual-report-2019-2020.md",
+                    "organization/annual-reports/annual-report-2021.md"
+                ],
+                "blog.publiccode.net": [
+                    "_posts/2020-10-02-we-support-the-sustainable-development-goals.md",
+                    "_posts/2020-12-02-summer-2020-newsletter.md",
+                    "_posts/2021-04-08-March-2021-newsletter.md",
+                    "_posts/2022-09-02-notes-from-community-call-1-september-2022.md"
+                ]
+            },
+            "url": "https://publiccode.net/codebases/signalen.html"
         },
         "https://www.zichtadviseurs.nl/zakelijk": {
             "checks": {
@@ -137,7 +386,7 @@
                 "fail": {
                     "from": "2024-05-21 02:35:11.787939",
                     "from-code": 403,
-                    "to": "2024-05-23 02:35:29.576468",
+                    "to": "2024-05-24 02:35:14.407452",
                     "to-code": 403
                 }
             },
