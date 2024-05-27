@@ -1,8 +1,12 @@
 {
     "http://evermeet.cx/ffmpeg/": {
         "checks": {
-            "status": 200,
-            "200": "2024-05-26 02:37:22.432120"
+            "status": 0,
+            "200": "2024-05-26 02:37:22.432120",
+            "fail": {
+                "from": "2024-05-27 02:36:16.068197",
+                "from-code": 0
+            }
         },
         "used": {
             "bumperscripter": [
@@ -14,7 +18,7 @@
     "http://ffmpeg.org": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:23.903365"
+            "200": "2024-05-27 02:36:18.028818"
         },
         "used": {
             "bumperscripter": [
@@ -26,7 +30,7 @@
     "http://ffmpeg.org/": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:25.187783"
+            "200": "2024-05-27 02:36:18.993561"
         },
         "used": {
             "bumperscripter": [
@@ -38,7 +42,7 @@
     "http://freemusicarchive.org/": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:18.059071"
+            "200": "2024-05-27 02:36:13.199554"
         },
         "used": {
             "bumperscripter": [
@@ -50,7 +54,7 @@
     "http://freemusicarchive.org/music/Komiku/Its_time_for_adventure__vol_2/Komiku_-_Its_time_for_adventure_vol_2_-_02_Chill_Out_Theme": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:18.750904"
+            "200": "2024-05-27 02:36:13.732116"
         },
         "used": {
             "bumperscripter": [
@@ -62,7 +66,7 @@
     "http://x265.org": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:17.753181"
+            "200": "2024-05-27 02:36:13.237330"
         },
         "used": {
             "bumperscripter": [
@@ -74,7 +78,7 @@
     "https://commons.wikimedia.org/wiki/File:Spain_Metro_tunnel.webm": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:16.641970"
+            "200": "2024-05-27 02:36:12.492199"
         },
         "used": {
             "bumperscripter": [
@@ -86,7 +90,7 @@
     "https://commons.wikimedia.org/wiki/File:Trains_icons_(evolution)_SVG.svg": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:17.034638"
+            "200": "2024-05-27 02:36:13.339579"
         },
         "used": {
             "bumperscripter": [
@@ -98,7 +102,7 @@
     "https://commons.wikimedia.org/wiki/User:Offnfopt": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:17.353514"
+            "200": "2024-05-27 02:36:13.848102"
         },
         "used": {
             "bumperscripter": [
@@ -110,7 +114,7 @@
     "https://commons.wikimedia.org/wiki/User:Sameboat": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:17.614499"
+            "200": "2024-05-27 02:36:14.100584"
         },
         "used": {
             "bumperscripter": [
@@ -122,7 +126,7 @@
     "https://creativecommons.org/publicdomain/zero/1.0": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:19.836673"
+            "200": "2024-05-27 02:36:14.388330"
         },
         "used": {
             "bumperscripter": [
@@ -134,7 +138,7 @@
     "https://creativecommons.org/publicdomain/zero/1.0/": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:20.135009"
+            "200": "2024-05-27 02:36:14.477208"
         },
         "used": {
             "about.publiccode.net": [
@@ -150,7 +154,7 @@
     "https://en.wikipedia.org/wiki/User:Richtom80": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:21.415403"
+            "200": "2024-05-27 02:36:16.819608"
         },
         "used": {
             "bumperscripter": [
@@ -162,7 +166,7 @@
     "https://ffmpeg.org/download.html": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:26.450623"
+            "200": "2024-05-27 02:36:19.999204"
         },
         "used": {
             "bumperscripter": [
@@ -174,7 +178,7 @@
     "https://freemusicarchive.org/music/Komiku/": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:19.131229"
+            "200": "2024-05-27 02:36:14.003485"
         },
         "used": {
             "bumperscripter": [
@@ -186,7 +190,7 @@
     "https://freemusicarchive.org/music/Komiku/Its_time_for_adventure__vol_2/Komiku_-_Its_time_for_adventure_vol_2_-_02_Chill_Out_Theme": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:19.577512"
+            "200": "2024-05-27 02:36:14.376875"
         },
         "used": {
             "bumperscripter": [
@@ -198,7 +202,7 @@
     "https://github.com/gohai/processing-video/releases/download/v1.0.2/video.zip": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:57.817447"
+            "200": "2024-05-27 02:36:49.365605"
         },
         "used": {
             "bumperscripter": [
@@ -210,7 +214,7 @@
     "https://github.com/hamoid/video_export_processing": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:58.460728"
+            "200": "2024-05-27 02:36:49.567578"
         },
         "used": {
             "bumperscripter": [
@@ -222,7 +226,7 @@
     "https://github.com/publiccodenet/bumperscripter.git": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:38:21.020953"
+            "200": "2024-05-27 02:37:05.025697"
         },
         "used": {
             "bumperscripter": [
@@ -234,7 +238,7 @@
     "https://github.com/publiccodenet/bumperscripter/issues": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:38:21.260424"
+            "200": "2024-05-27 02:37:05.085629"
         },
         "used": {
             "bumperscripter": [
@@ -246,7 +250,7 @@
     "https://guides.github.com/introduction/flow/": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:38:58.583216"
+            "200": "2024-05-27 02:37:28.685123"
         },
         "used": {
             "bumperscripter": [
@@ -258,7 +262,7 @@
     "https://help.github.com/articles/creating-an-issue/": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:38:58.958766"
+            "200": "2024-05-27 02:37:28.822550"
         },
         "used": {
             "bumperscripter": [
@@ -270,7 +274,7 @@
     "https://nvie.com/posts/a-successful-git-branching-model/": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:26.137637"
+            "200": "2024-05-27 02:36:20.466993"
         },
         "used": {
             "standard.publiccode.net": [
@@ -288,7 +292,7 @@
     "https://processing.org": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:30.878761"
+            "200": "2024-05-27 02:36:22.568462"
         },
         "used": {
             "bumperscripter": [
@@ -300,7 +304,7 @@
     "https://processing.org/download/": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:31.113457"
+            "200": "2024-05-27 02:36:22.740298"
         },
         "used": {
             "bumperscripter": [
@@ -312,7 +316,7 @@
     "https://publiccode.net/": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:53.474592"
+            "200": "2024-05-27 02:36:37.331224"
         },
         "used": {
             "standard.publiccode.net": [
@@ -341,7 +345,7 @@
     "https://publiccodenet.github.io/publiccodenet-url-check/badges/bumperscripter.svg": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:24.250195"
+            "200": "2024-05-27 02:36:17.659457"
         },
         "used": {
             "bumperscripter": [
@@ -353,7 +357,7 @@
     "https://publiccodenet.github.io/publiccodenet-url-check/url-check-fails.json": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:25.112858"
+            "200": "2024-05-27 02:36:17.981953"
         },
         "used": {
             "bumperscripter": [
@@ -365,7 +369,7 @@
     "https://skills.github.com/": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:38:59.942613"
+            "200": "2024-05-27 02:37:29.238970"
         },
         "used": {
             "standard.publiccode.net": [
@@ -388,7 +392,7 @@
     "https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:33.127067"
+            "200": "2024-05-27 02:36:25.036597"
         },
         "used": {
             "standard.publiccode.net-develop": [
@@ -403,7 +407,7 @@
     "https://timrodenbroeker.de/processing-tutorial-video-export/": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:37.404986"
+            "200": "2024-05-27 02:36:27.500360"
         },
         "used": {
             "bumperscripter": [
@@ -415,7 +419,7 @@
     "https://www.contributor-covenant.org": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:34.294285"
+            "200": "2024-05-27 02:36:26.432991"
         },
         "used": {
             "about.publiccode.net": [
@@ -430,7 +434,7 @@
     "https://www.contributor-covenant.org/version/1/4/code-of-conduct.html": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:34.754879"
+            "200": "2024-05-27 02:36:26.779849"
         },
         "used": {
             "about.publiccode.net": [
@@ -445,7 +449,7 @@
     "https://www.youtube.com/watch?v=kcxd5kHGD1Y": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:34.429179"
+            "200": "2024-05-27 02:36:27.787059"
         },
         "used": {
             "bumperscripter": [
@@ -457,7 +461,7 @@
     "https://www.youtube.com/watch?v=uddEVGifIs4": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:36.690293"
+            "200": "2024-05-27 02:36:29.715428"
         },
         "used": {
             "blog.publiccode.net": [
@@ -472,7 +476,7 @@
     "https://www.youtube.com/watch?v=yMtP64yFKn0": {
         "checks": {
             "status": 200,
-            "200": "2024-05-26 02:37:38.351595"
+            "200": "2024-05-27 02:36:31.320158"
         },
         "used": {
             "bumperscripter": [
