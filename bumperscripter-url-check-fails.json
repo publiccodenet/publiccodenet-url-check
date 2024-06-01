@@ -1,23 +1,6 @@
 {
-    "urls": {
-        "http://evermeet.cx/ffmpeg/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-05-30 02:37:27.008363",
-                "fail": {
-                    "from": "2024-05-31 02:36:53.632233",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "bumperscripter": [
-                    "README.md"
-                ]
-            },
-            "url": "http://evermeet.cx/ffmpeg/"
-        }
-    },
+    "urls": {},
     "repos": {
-        "bumperscripter": "failing"
+        "bumperscripter": "passing"
     }
 }
