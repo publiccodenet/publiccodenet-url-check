@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-05-24 02:34:54.124598",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:22.347990",
+                    "to": "2024-06-12 02:39:06.402953",
                     "to-code": 404
                 }
             },
@@ -25,7 +25,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-06-11 02:38:25.164472",
+                    "to": "2024-06-12 02:39:07.034248",
                     "to-code": 0
                 }
             },
@@ -44,7 +44,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-06-11 02:38:55.203664",
+                    "to": "2024-06-12 02:39:37.113444",
                     "to-code": 0
                 }
             },
@@ -63,7 +63,7 @@
                 "fail": {
                     "from": "2024-05-01 02:35:11.053969",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:23.689399",
+                    "to": "2024-06-12 02:39:07.826622",
                     "to-code": 410
                 }
             },
@@ -81,7 +81,7 @@
                 "fail": {
                     "from": "2024-06-02 02:39:24.024297",
                     "from-code": 410,
-                    "to": "2024-06-11 02:38:32.319303",
+                    "to": "2024-06-12 02:39:16.331874",
                     "to-code": 410
                 }
             },
@@ -92,126 +92,6 @@
             },
             "url": "https://docs.google.com/spreadsheets/d/1khdHvzk241xmkiih_4fTLj9QVdTIiK8TelBrg9QX_3k/edit#gid=0):"
         },
-        "https://joinup.ec.europa.eu/collection/open-source-observatory-osor": {
-            "checks": {
-                "status": 403,
-                "200": "2024-05-28 02:36:29.159478",
-                "fail": {
-                    "from": "2024-05-29 02:37:59.761022",
-                    "from-code": 403,
-                    "to": "2024-06-11 02:38:34.469507",
-                    "to-code": 403
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/all-press.md"
-                ],
-                "blog.publiccode.net": [
-                    "_posts/2021-05-6-april-2021-newsletter.md"
-                ]
-            },
-            "url": "https://joinup.ec.europa.eu/collection/open-source-observatory-osor"
-        },
-        "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-release-standard-public-code": {
-            "checks": {
-                "status": 403,
-                "200": "2024-05-28 02:36:34.560484",
-                "fail": {
-                    "from": "2024-05-29 02:38:00.069594",
-                    "from-code": 403,
-                    "to": "2024-06-11 02:38:34.744190",
-                    "to-code": 403
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/all-press.md"
-                ],
-                "blog.publiccode.net": [
-                    "_posts/2020-11-23-notes-from-community-call-5-november-2020.md"
-                ]
-            },
-            "url": "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-release-standard-public-code"
-        },
-        "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/supporting-oss-communities-public-sector": {
-            "checks": {
-                "status": 403,
-                "200": "2024-05-28 02:36:35.845190",
-                "fail": {
-                    "from": "2024-05-29 02:38:00.146138",
-                    "from-code": 403,
-                    "to": "2024-06-11 02:38:34.780617",
-                    "to-code": 403
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "organization/annual-reports/annual-report-2019-2020.md"
-                ]
-            },
-            "url": "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/supporting-oss-communities-public-sector"
-        },
-        "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/we-liberated-our-own-data-silos-market": {
-            "checks": {
-                "status": 403,
-                "200": "2024-05-28 02:36:37.592700",
-                "fail": {
-                    "from": "2024-05-29 02:38:00.205758",
-                    "from-code": 403,
-                    "to": "2024-06-11 02:38:34.817499",
-                    "to-code": 403
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/value-and-impact/all-press.md"
-                ],
-                "blog.publiccode.net": [
-                    "_posts/2021-05-6-april-2021-newsletter.md"
-                ]
-            },
-            "url": "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/we-liberated-our-own-data-silos-market"
-        },
-        "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/open-source-software-country-intelligence": {
-            "checks": {
-                "status": 403,
-                "200": "2024-05-28 02:36:39.041745",
-                "fail": {
-                    "from": "2024-05-29 02:38:00.260479",
-                    "from-code": 403,
-                    "to": "2024-06-11 02:38:34.869142",
-                    "to-code": 403
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "activities/understanding-our-users/enabling-policies.md"
-                ]
-            },
-            "url": "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/open-source-software-country-intelligence"
-        },
-        "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/specific-resources#section-32": {
-            "checks": {
-                "status": 403,
-                "200": "2024-05-28 02:36:42.719822",
-                "fail": {
-                    "from": "2024-05-29 02:38:00.366429",
-                    "from-code": 403,
-                    "to": "2024-06-11 02:38:34.946461",
-                    "to-code": 403
-                }
-            },
-            "used": {
-                "about.publiccode.net": [
-                    "organization/annual-reports/annual-report-2019-2020.md"
-                ],
-                "blog.publiccode.net": [
-                    "_posts/2020-12-02-summer-2020-newsletter.md"
-                ]
-            },
-            "url": "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/specific-resources#section-32"
-        },
         "https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842": {
             "checks": {
                 "status": 0,
@@ -219,7 +99,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-06-11 02:38:36.650348",
+                    "to": "2024-06-12 02:39:21.628332",
                     "to-code": 0
                 }
             },
@@ -257,7 +137,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:38.923069",
                     "from-code": 0,
-                    "to": "2024-06-11 02:38:40.041996",
+                    "to": "2024-06-12 02:39:25.034750",
                     "to-code": 0
                 }
             },
@@ -275,7 +155,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.070039",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:45.187858",
+                    "to": "2024-06-12 02:39:30.899893",
                     "to-code": 404
                 }
             },
@@ -293,7 +173,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.283345",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:45.296108",
+                    "to": "2024-06-12 02:39:31.042352",
                     "to-code": 404
                 }
             },
@@ -314,7 +194,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.354541",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:45.357715",
+                    "to": "2024-06-12 02:39:31.111827",
                     "to-code": 404
                 }
             },
@@ -332,7 +212,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.584273",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:45.551930",
+                    "to": "2024-06-12 02:39:31.315581",
                     "to-code": 404
                 }
             },
@@ -351,7 +231,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.662696",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:45.613632",
+                    "to": "2024-06-12 02:39:31.386179",
                     "to-code": 404
                 }
             },
@@ -370,7 +250,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.731696",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:45.660607",
+                    "to": "2024-06-12 02:39:31.448647",
                     "to-code": 404
                 }
             },
@@ -389,7 +269,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.841869",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:45.706985",
+                    "to": "2024-06-12 02:39:31.524082",
                     "to-code": 404
                 }
             },
@@ -408,7 +288,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.922835",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:45.752896",
+                    "to": "2024-06-12 02:39:31.591658",
                     "to-code": 404
                 }
             },
@@ -427,7 +307,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.073170",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:45.849036",
+                    "to": "2024-06-12 02:39:31.716576",
                     "to-code": 404
                 }
             },
@@ -450,7 +330,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.137600",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:45.900554",
+                    "to": "2024-06-12 02:39:31.775548",
                     "to-code": 404
                 }
             },
@@ -479,7 +359,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.213155",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:45.959203",
+                    "to": "2024-06-12 02:39:31.847938",
                     "to-code": 404
                 }
             },
@@ -501,7 +381,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.396502",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:46.048994",
+                    "to": "2024-06-12 02:39:31.970304",
                     "to-code": 404
                 }
             },
@@ -527,7 +407,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.463183",
                     "from-code": 404,
-                    "to": "2024-06-11 02:38:46.087199",
+                    "to": "2024-06-12 02:39:32.029096",
                     "to-code": 404
                 }
             },
@@ -552,7 +432,7 @@
                 "fail": {
                     "from": "2024-05-21 02:35:11.787939",
                     "from-code": 403,
-                    "to": "2024-06-11 02:38:39.424880",
+                    "to": "2024-06-12 02:39:25.189698",
                     "to-code": 403
                 }
             },
@@ -566,8 +446,8 @@
     },
     "repos": {
         "about.publiccode.net": "failing",
-        "blog.publiccode.net": "failing",
         "standard.publiccode.net": "failing",
-        "standard.publiccode.net-develop": "failing"
+        "standard.publiccode.net-develop": "failing",
+        "blog.publiccode.net": "failing"
     }
 }
