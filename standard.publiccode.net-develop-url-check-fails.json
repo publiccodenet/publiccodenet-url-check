@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-03-28 09:16:15.109413",
                     "from-code": 404,
-                    "to": "2024-06-21 02:40:20.134397",
+                    "to": "2024-06-22 02:37:18.398163",
                     "to-code": 404
                 }
             },
@@ -28,7 +28,7 @@
                 "fail": {
                     "from": "2024-05-01 02:35:13.923424",
                     "from-code": 404,
-                    "to": "2024-06-21 02:38:49.880800",
+                    "to": "2024-06-22 02:36:03.949501",
                     "to-code": 404
                 }
             },
@@ -49,7 +49,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-06-21 02:39:01.069435",
+                    "to": "2024-06-22 02:36:16.857514",
                     "to-code": 0
                 }
             },
@@ -87,7 +87,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.098794",
                     "from-code": 404,
-                    "to": "2024-06-21 02:38:50.002017",
+                    "to": "2024-06-22 02:36:04.363401",
                     "to-code": 404
                 }
             },
@@ -110,7 +110,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.159804",
                     "from-code": 404,
-                    "to": "2024-06-21 02:38:50.087861",
+                    "to": "2024-06-22 02:36:04.441293",
                     "to-code": 404
                 }
             },
@@ -127,25 +127,6 @@
                 ]
             },
             "url": "https://publiccodenet.github.io/community-translations-standard/"
-        },
-        "https://reuse.software/spec/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-06-20 02:38:32.840405",
-                "fail": {
-                    "from": "2024-06-21 02:38:57.529556",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "criteria/publish-with-an-open-license.md"
-                ],
-                "standard.publiccode.net-develop": [
-                    "criteria/publish-with-an-open-license.md"
-                ]
-            },
-            "url": "https://reuse.software/spec/"
         }
     },
     "repos": {
