@@ -1,5 +1,44 @@
 {
     "urls": {
+        "http://creativecommons.org/ns#": {
+            "checks": {
+                "status": 522,
+                "200": "2024-07-09 02:40:14.463334",
+                "fail": {
+                    "from": "2024-07-10 02:40:57.073348",
+                    "from-code": 522
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "assets/codebase.svg",
+                    "assets/collaboration.svg",
+                    "assets/collaborative-development.svg",
+                    "assets/eco-system.svg",
+                    "assets/unlock.svg"
+                ],
+                "standard.publiccode.net-develop": [
+                    "assets/codebase.svg",
+                    "assets/collaboration.svg",
+                    "assets/collaborative-development.svg",
+                    "assets/eco-system.svg",
+                    "assets/unlock.svg"
+                ],
+                "about.publiccode.net": [
+                    "activities/explaining-codebase-stewardship/codebase-community.svg",
+                    "activities/explaining-codebase-stewardship/codebase-product.svg",
+                    "activities/explaining-codebase-stewardship/codebase-quality.svg",
+                    "activities/explaining-codebase-stewardship/codebase-stewardship.svg",
+                    "activities/explaining-codebase-stewardship/codebase-support.svg",
+                    "activities/explaining-codebase-stewardship/codebases-scale.svg",
+                    "activities/explaining-codebase-stewardship/components.svg",
+                    "activities/explaining-codebase-stewardship/shared-codebase.svg",
+                    "activities/explaining-codebase-stewardship/shared-components.svg",
+                    "activities/live-streaming/preview-image.svg"
+                ]
+            },
+            "url": "http://creativecommons.org/ns#"
+        },
         "http://publiccode.net/codebase-stewardship/": {
             "checks": {
                 "status": 404,
@@ -7,7 +46,7 @@
                 "fail": {
                     "from": "2024-05-24 02:34:54.124598",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:14.470560",
+                    "to": "2024-07-10 02:40:57.083099",
                     "to-code": 404
                 }
             },
@@ -25,7 +64,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:03.337360",
                     "from-code": 0,
-                    "to": "2024-07-09 02:40:15.158600",
+                    "to": "2024-07-10 02:40:59.087121",
                     "to-code": 0
                 }
             },
@@ -44,7 +83,7 @@
                 "fail": {
                     "from": "2024-02-03 02:24:33.418613",
                     "from-code": 0,
-                    "to": "2024-07-09 02:40:45.229910",
+                    "to": "2024-07-10 02:41:29.184809",
                     "to-code": 0
                 }
             },
@@ -63,7 +102,7 @@
                 "fail": {
                     "from": "2024-05-01 02:35:11.053969",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:16.048293",
+                    "to": "2024-07-10 02:40:58.686539",
                     "to-code": 410
                 }
             },
@@ -81,7 +120,7 @@
                 "fail": {
                     "from": "2024-06-02 02:39:24.024297",
                     "from-code": 410,
-                    "to": "2024-07-09 02:40:27.474055",
+                    "to": "2024-07-10 02:41:09.667790",
                     "to-code": 410
                 }
             },
@@ -99,7 +138,7 @@
                 "fail": {
                     "from": "2024-06-19 02:39:44.669466",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:27.054119",
+                    "to": "2024-07-10 02:41:17.922124",
                     "to-code": 404
                 }
             },
@@ -117,7 +156,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-07-09 02:40:28.860391",
+                    "to": "2024-07-10 02:41:20.860648",
                     "to-code": 0
                 }
             },
@@ -155,7 +194,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:38.923069",
                     "from-code": 0,
-                    "to": "2024-07-09 02:40:32.264102",
+                    "to": "2024-07-10 02:41:24.457371",
                     "to-code": 0
                 }
             },
@@ -173,7 +212,7 @@
                 "fail": {
                     "from": "2024-07-02 02:39:26.877570",
                     "from-code": 403,
-                    "to": "2024-07-09 02:40:25.536178",
+                    "to": "2024-07-10 02:41:10.857126",
                     "to-code": 403
                 }
             },
@@ -191,7 +230,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.070039",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:37.960462",
+                    "to": "2024-07-10 02:41:33.800249",
                     "to-code": 404
                 }
             },
@@ -209,7 +248,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.283345",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:38.100768",
+                    "to": "2024-07-10 02:41:34.065387",
                     "to-code": 404
                 }
             },
@@ -230,7 +269,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.354541",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:38.163352",
+                    "to": "2024-07-10 02:41:34.196740",
                     "to-code": 404
                 }
             },
@@ -248,7 +287,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.584273",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:38.454184",
+                    "to": "2024-07-10 02:41:34.587486",
                     "to-code": 404
                 }
             },
@@ -267,7 +306,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.662696",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:38.512870",
+                    "to": "2024-07-10 02:41:34.736790",
                     "to-code": 404
                 }
             },
@@ -286,7 +325,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.731696",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:38.583171",
+                    "to": "2024-07-10 02:41:34.875302",
                     "to-code": 404
                 }
             },
@@ -305,7 +344,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.841869",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:38.656067",
+                    "to": "2024-07-10 02:41:35.011643",
                     "to-code": 404
                 }
             },
@@ -324,7 +363,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.922835",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:38.726462",
+                    "to": "2024-07-10 02:41:35.220093",
                     "to-code": 404
                 }
             },
@@ -343,7 +382,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.073170",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:38.928547",
+                    "to": "2024-07-10 02:41:35.468406",
                     "to-code": 404
                 }
             },
@@ -366,7 +405,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.137600",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:38.987072",
+                    "to": "2024-07-10 02:41:35.510476",
                     "to-code": 404
                 }
             },
@@ -395,7 +434,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.213155",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:39.055796",
+                    "to": "2024-07-10 02:41:35.660481",
                     "to-code": 404
                 }
             },
@@ -417,7 +456,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.396502",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:39.188961",
+                    "to": "2024-07-10 02:41:35.919770",
                     "to-code": 404
                 }
             },
@@ -443,7 +482,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.463183",
                     "from-code": 404,
-                    "to": "2024-07-09 02:40:39.252219",
+                    "to": "2024-07-10 02:41:36.047116",
                     "to-code": 404
                 }
             },
@@ -468,7 +507,7 @@
                 "fail": {
                     "from": "2024-05-21 02:35:11.787939",
                     "from-code": 403,
-                    "to": "2024-07-09 02:40:32.883722",
+                    "to": "2024-07-10 02:41:19.818022",
                     "to-code": 403
                 }
             },
