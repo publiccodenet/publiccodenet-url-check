@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-03-28 09:16:15.109413",
                     "from-code": 404,
-                    "to": "2024-08-05 02:45:32.244455",
+                    "to": "2024-08-06 02:44:04.523485",
                     "to-code": 404
                 }
             },
@@ -28,7 +28,7 @@
                 "fail": {
                     "from": "2024-05-01 02:35:13.923424",
                     "from-code": 404,
-                    "to": "2024-08-05 02:44:18.362260",
+                    "to": "2024-08-06 02:42:40.514911",
                     "to-code": 404
                 }
             },
@@ -49,7 +49,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-08-05 02:44:37.373054",
+                    "to": "2024-08-06 02:43:00.038502",
                     "to-code": 0
                 }
             },
@@ -87,7 +87,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.098794",
                     "from-code": 404,
-                    "to": "2024-08-05 02:44:18.852138",
+                    "to": "2024-08-06 02:42:41.137020",
                     "to-code": 404
                 }
             },
@@ -110,7 +110,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.159804",
                     "from-code": 404,
-                    "to": "2024-08-05 02:44:18.984601",
+                    "to": "2024-08-06 02:42:41.330047",
                     "to-code": 404
                 }
             },
@@ -127,25 +127,6 @@
                 ]
             },
             "url": "https://publiccodenet.github.io/community-translations-standard/"
-        },
-        "https://www.omg.org/spec/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-08-04 02:45:25.766371",
-                "fail": {
-                    "from": "2024-08-05 02:44:34.413827",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "criteria/bundle-policy-and-source-code.md"
-                ],
-                "standard.publiccode.net-develop": [
-                    "criteria/bundle-policy-and-source-code.md"
-                ]
-            },
-            "url": "https://www.omg.org/spec/"
         }
     },
     "repos": {
