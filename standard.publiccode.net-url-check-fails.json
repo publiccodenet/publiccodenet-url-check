@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-03-28 09:16:15.109413",
                     "from-code": 404,
-                    "to": "2024-08-12 02:47:41.728575",
+                    "to": "2024-08-13 02:46:46.336170",
                     "to-code": 404
                 }
             },
@@ -21,6 +21,25 @@
             },
             "url": "https://github.com/publiccodenet/standard/releases/download/0.8.0/standard-checklist-0.8.0.pdf"
         },
+        "https://go.microsoft.com/fwlink/?LinkId=733558": {
+            "checks": {
+                "status": 500,
+                "200": "2024-08-12 02:46:02.477989",
+                "fail": {
+                    "from": "2024-08-13 02:45:28.915003",
+                    "from-code": 500
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    ".vscode/tasks.json"
+                ],
+                "standard.publiccode.net-develop": [
+                    ".vscode/tasks.json"
+                ]
+            },
+            "url": "https://go.microsoft.com/fwlink/?LinkId=733558"
+        },
         "https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg": {
             "checks": {
                 "status": 404,
@@ -28,7 +47,7 @@
                 "fail": {
                     "from": "2024-05-01 02:35:13.923424",
                     "from-code": 404,
-                    "to": "2024-08-12 02:46:03.743200",
+                    "to": "2024-08-13 02:45:30.389931",
                     "to-code": 404
                 }
             },
@@ -49,7 +68,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-08-12 02:46:22.502032",
+                    "to": "2024-08-13 02:45:48.960137",
                     "to-code": 0
                 }
             },
@@ -87,7 +106,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.098794",
                     "from-code": 404,
-                    "to": "2024-08-12 02:46:04.123288",
+                    "to": "2024-08-13 02:45:30.087579",
                     "to-code": 404
                 }
             },
@@ -110,7 +129,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.159804",
                     "from-code": 404,
-                    "to": "2024-08-12 02:46:04.237099",
+                    "to": "2024-08-13 02:45:30.208176",
                     "to-code": 404
                 }
             },
