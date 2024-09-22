@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-03-28 09:16:15.109413",
                     "from-code": 404,
-                    "to": "2024-09-21 02:51:55.194233",
+                    "to": "2024-09-22 03:00:52.362366",
                     "to-code": 404
                 }
             },
@@ -28,7 +28,7 @@
                 "fail": {
                     "from": "2024-08-13 02:45:28.915003",
                     "from-code": 500,
-                    "to": "2024-09-21 02:50:35.661965",
+                    "to": "2024-09-22 02:59:19.929736",
                     "to-code": 500
                 }
             },
@@ -49,7 +49,7 @@
                 "fail": {
                     "from": "2024-05-01 02:35:13.923424",
                     "from-code": 404,
-                    "to": "2024-09-21 02:50:36.248668",
+                    "to": "2024-09-22 02:59:20.112892",
                     "to-code": 404
                 }
             },
@@ -70,7 +70,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-09-21 03:00:16.953167",
+                    "to": "2024-09-22 03:08:54.794259",
                     "to-code": 0
                 }
             },
@@ -108,7 +108,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.098794",
                     "from-code": 404,
-                    "to": "2024-09-21 02:50:36.919355",
+                    "to": "2024-09-22 02:59:20.513947",
                     "to-code": 404
                 }
             },
@@ -131,7 +131,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.159804",
                     "from-code": 404,
-                    "to": "2024-09-21 02:50:37.049621",
+                    "to": "2024-09-22 02:59:20.575012",
                     "to-code": 404
                 }
             },
@@ -149,6 +149,25 @@
             },
             "url": "https://publiccodenet.github.io/community-translations-standard/"
         },
+        "https://reuse.software/spec/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-09-21 02:50:48.104834",
+                "fail": {
+                    "from": "2024-09-22 02:59:29.755044",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "criteria/publish-with-an-open-license.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "criteria/publish-with-an-open-license.md"
+                ]
+            },
+            "url": "https://reuse.software/spec/"
+        },
         "https://write.publiccode.net/pads/Community-Call-Standard-for-Public-Code": {
             "checks": {
                 "status": 0,
@@ -156,7 +175,7 @@
                 "fail": {
                     "from": "2024-09-11 02:59:59.709935",
                     "from-code": 0,
-                    "to": "2024-09-21 03:01:11.339579",
+                    "to": "2024-09-22 03:09:40.426779",
                     "to-code": 0
                 }
             },
