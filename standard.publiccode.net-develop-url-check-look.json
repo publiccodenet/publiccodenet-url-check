@@ -6,7 +6,9 @@
                 "200": "2024-10-06 03:01:59.225788",
                 "fail": {
                     "from": "2024-10-07 03:00:32.539239",
-                    "from-code": 0
+                    "from-code": 0,
+                    "to": "2024-10-08 03:00:55.448548",
+                    "to-code": 0
                 }
             },
             "used": {
@@ -26,7 +28,7 @@
                 "fail": {
                     "from": "2024-03-28 09:16:15.109413",
                     "from-code": 404,
-                    "to": "2024-10-07 03:02:11.330927",
+                    "to": "2024-10-08 03:02:12.866683",
                     "to-code": 404
                 }
             },
@@ -42,13 +44,13 @@
         },
         "https://go.microsoft.com/fwlink/?LinkId=733558": {
             "checks": {
-                "status": 500,
+                "status": 403,
                 "200": "2024-08-12 02:46:02.477989",
                 "fail": {
                     "from": "2024-08-13 02:45:28.915003",
                     "from-code": 500,
-                    "to": "2024-10-07 03:00:32.766919",
-                    "to-code": 500
+                    "to": "2024-10-08 03:00:56.778356",
+                    "to-code": 403
                 }
             },
             "used": {
@@ -68,7 +70,7 @@
                 "fail": {
                     "from": "2024-05-01 02:35:13.923424",
                     "from-code": 404,
-                    "to": "2024-10-07 03:00:34.180838",
+                    "to": "2024-10-08 03:00:57.037202",
                     "to-code": 404
                 }
             },
@@ -89,7 +91,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-10-07 03:10:09.825494",
+                    "to": "2024-10-08 03:10:37.448978",
                     "to-code": 0
                 }
             },
@@ -127,7 +129,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.098794",
                     "from-code": 404,
-                    "to": "2024-10-07 03:00:33.894284",
+                    "to": "2024-10-08 03:00:57.700336",
                     "to-code": 404
                 }
             },
@@ -150,7 +152,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.159804",
                     "from-code": 404,
-                    "to": "2024-10-07 03:00:33.970213",
+                    "to": "2024-10-08 03:00:57.844331",
                     "to-code": 404
                 }
             },
@@ -168,25 +170,6 @@
             },
             "url": "https://publiccodenet.github.io/community-translations-standard/"
         },
-        "https://reuse.software/spec/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-10-06 03:02:09.199718",
-                "fail": {
-                    "from": "2024-10-07 03:00:43.293674",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "criteria/publish-with-an-open-license.md"
-                ],
-                "standard.publiccode.net-develop": [
-                    "criteria/publish-with-an-open-license.md"
-                ]
-            },
-            "url": "https://reuse.software/spec/"
-        },
         "https://write.publiccode.net/pads/Community-Call-Standard-for-Public-Code": {
             "checks": {
                 "status": 0,
@@ -194,7 +177,7 @@
                 "fail": {
                     "from": "2024-09-11 02:59:59.709935",
                     "from-code": 0,
-                    "to": "2024-10-07 03:10:56.080460",
+                    "to": "2024-10-08 03:11:32.297244",
                     "to-code": 0
                 }
             },
