@@ -1,5 +1,62 @@
 {
     "urls": {
+        "http://purl.org/dc/elements/1.1/": {
+            "checks": {
+                "status": 503,
+                "200": "2024-10-08 03:12:03.412863",
+                "fail": {
+                    "from": "2024-10-09 03:08:40.310524",
+                    "from-code": 503
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "assets/codebase.svg",
+                    "assets/collaboration.svg",
+                    "assets/collaborative-development.svg",
+                    "assets/eco-system.svg",
+                    "assets/unlock.svg"
+                ],
+                "standard.publiccode.net-develop": [
+                    "assets/codebase.svg",
+                    "assets/collaboration.svg",
+                    "assets/collaborative-development.svg",
+                    "assets/eco-system.svg",
+                    "assets/unlock.svg"
+                ],
+                "publiccode.net": [
+                    "images/DPGA.png",
+                    "photos/codebases/circulaw/CircuLaw-logo.png",
+                    "photos/codebases/omgevingsbeleid/omgevingsbeleid_thumb_g01.png"
+                ],
+                "about.publiccode.net": [
+                    "activities/explaining-codebase-stewardship/codebase-community.svg",
+                    "activities/explaining-codebase-stewardship/codebase-product.svg",
+                    "activities/explaining-codebase-stewardship/codebase-quality.svg",
+                    "activities/explaining-codebase-stewardship/codebase-stewardship.svg",
+                    "activities/explaining-codebase-stewardship/codebase-support.svg",
+                    "activities/explaining-codebase-stewardship/codebases-scale.svg",
+                    "activities/explaining-codebase-stewardship/components.svg",
+                    "activities/explaining-codebase-stewardship/shared-codebase.svg",
+                    "activities/explaining-codebase-stewardship/shared-components.svg",
+                    "activities/live-streaming/preview-image.svg"
+                ],
+                "blog.publiccode.net": [
+                    "assets/DPGA.png",
+                    "assets/pdf-rain.png",
+                    "assets/screenshot-episode-12.png",
+                    "assets/screenshot-episode-13.png",
+                    "assets/screenshot-episode-16.png",
+                    "assets/screenshot-episode-3.png",
+                    "assets/screenshot-episode-5.png",
+                    "assets/screenshot-episode-6.png",
+                    "assets/screenshot-episode-7.png",
+                    "assets/screenshot-episode-8.png",
+                    "assets/signalen_logo.png"
+                ]
+            },
+            "url": "http://purl.org/dc/elements/1.1/"
+        },
         "https://publiccode.net/codebase-stewardship": {
             "checks": {
                 "status": 404,
@@ -7,7 +64,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.000261",
                     "from-code": 404,
-                    "to": "2024-10-08 03:10:53.115768",
+                    "to": "2024-10-09 03:07:33.908350",
                     "to-code": 404
                 }
             },
@@ -20,6 +77,10 @@
         }
     },
     "repos": {
-        "publiccode.net": "failing"
+        "publiccode.net": "failing",
+        "standard.publiccode.net": "failing",
+        "standard.publiccode.net-develop": "failing",
+        "about.publiccode.net": "failing",
+        "blog.publiccode.net": "failing"
     }
 }
