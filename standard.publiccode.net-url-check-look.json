@@ -1,101 +1,5 @@
 {
     "urls": {
-        "http://purl.org/dc/dcmitype/StillImage": {
-            "checks": {
-                "status": 503,
-                "200": "2024-10-08 03:12:02.335949",
-                "fail": {
-                    "from": "2024-10-09 03:08:39.099015",
-                    "from-code": 503
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "assets/codebase.svg",
-                    "assets/collaboration.svg",
-                    "assets/collaborative-development.svg",
-                    "assets/eco-system.svg",
-                    "assets/unlock.svg"
-                ],
-                "standard.publiccode.net-develop": [
-                    "assets/codebase.svg",
-                    "assets/collaboration.svg",
-                    "assets/collaborative-development.svg",
-                    "assets/eco-system.svg",
-                    "assets/unlock.svg"
-                ],
-                "about.publiccode.net": [
-                    "activities/explaining-codebase-stewardship/codebase-community.svg",
-                    "activities/explaining-codebase-stewardship/codebase-product.svg",
-                    "activities/explaining-codebase-stewardship/codebase-quality.svg",
-                    "activities/explaining-codebase-stewardship/codebase-stewardship.svg",
-                    "activities/explaining-codebase-stewardship/codebase-support.svg",
-                    "activities/explaining-codebase-stewardship/codebases-scale.svg",
-                    "activities/explaining-codebase-stewardship/components.svg",
-                    "activities/explaining-codebase-stewardship/shared-codebase.svg",
-                    "activities/explaining-codebase-stewardship/shared-components.svg",
-                    "activities/live-streaming/preview-image.svg"
-                ]
-            },
-            "url": "http://purl.org/dc/dcmitype/StillImage"
-        },
-        "http://purl.org/dc/elements/1.1/": {
-            "checks": {
-                "status": 503,
-                "200": "2024-10-08 03:12:03.412863",
-                "fail": {
-                    "from": "2024-10-09 03:08:40.310524",
-                    "from-code": 503
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "assets/codebase.svg",
-                    "assets/collaboration.svg",
-                    "assets/collaborative-development.svg",
-                    "assets/eco-system.svg",
-                    "assets/unlock.svg"
-                ],
-                "standard.publiccode.net-develop": [
-                    "assets/codebase.svg",
-                    "assets/collaboration.svg",
-                    "assets/collaborative-development.svg",
-                    "assets/eco-system.svg",
-                    "assets/unlock.svg"
-                ],
-                "publiccode.net": [
-                    "images/DPGA.png",
-                    "photos/codebases/circulaw/CircuLaw-logo.png",
-                    "photos/codebases/omgevingsbeleid/omgevingsbeleid_thumb_g01.png"
-                ],
-                "about.publiccode.net": [
-                    "activities/explaining-codebase-stewardship/codebase-community.svg",
-                    "activities/explaining-codebase-stewardship/codebase-product.svg",
-                    "activities/explaining-codebase-stewardship/codebase-quality.svg",
-                    "activities/explaining-codebase-stewardship/codebase-stewardship.svg",
-                    "activities/explaining-codebase-stewardship/codebase-support.svg",
-                    "activities/explaining-codebase-stewardship/codebases-scale.svg",
-                    "activities/explaining-codebase-stewardship/components.svg",
-                    "activities/explaining-codebase-stewardship/shared-codebase.svg",
-                    "activities/explaining-codebase-stewardship/shared-components.svg",
-                    "activities/live-streaming/preview-image.svg"
-                ],
-                "blog.publiccode.net": [
-                    "assets/DPGA.png",
-                    "assets/pdf-rain.png",
-                    "assets/screenshot-episode-12.png",
-                    "assets/screenshot-episode-13.png",
-                    "assets/screenshot-episode-16.png",
-                    "assets/screenshot-episode-3.png",
-                    "assets/screenshot-episode-5.png",
-                    "assets/screenshot-episode-6.png",
-                    "assets/screenshot-episode-7.png",
-                    "assets/screenshot-episode-8.png",
-                    "assets/signalen_logo.png"
-                ]
-            },
-            "url": "http://purl.org/dc/elements/1.1/"
-        },
         "https://digitalminister.tw/": {
             "checks": {
                 "status": 0,
@@ -103,7 +7,7 @@
                 "fail": {
                     "from": "2024-10-07 03:00:32.539239",
                     "from-code": 0,
-                    "to": "2024-10-09 02:57:48.852650",
+                    "to": "2024-10-10 02:56:49.404997",
                     "to-code": 0
                 }
             },
@@ -124,7 +28,7 @@
                 "fail": {
                     "from": "2024-03-28 09:16:15.109413",
                     "from-code": 404,
-                    "to": "2024-10-09 02:58:44.488078",
+                    "to": "2024-10-10 02:58:09.096320",
                     "to-code": 404
                 }
             },
@@ -145,7 +49,7 @@
                 "fail": {
                     "from": "2024-08-13 02:45:28.915003",
                     "from-code": 500,
-                    "to": "2024-10-09 02:57:45.822247",
+                    "to": "2024-10-10 02:56:49.515005",
                     "to-code": 500
                 }
             },
@@ -166,7 +70,7 @@
                 "fail": {
                     "from": "2024-05-01 02:35:13.923424",
                     "from-code": 404,
-                    "to": "2024-10-09 02:57:47.381278",
+                    "to": "2024-10-10 02:56:49.958525",
                     "to-code": 404
                 }
             },
@@ -187,7 +91,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-10-09 03:07:23.167079",
+                    "to": "2024-10-10 03:06:31.323459",
                     "to-code": 0
                 }
             },
@@ -225,7 +129,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.098794",
                     "from-code": 404,
-                    "to": "2024-10-09 02:57:47.268292",
+                    "to": "2024-10-10 02:56:50.347795",
                     "to-code": 404
                 }
             },
@@ -248,7 +152,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.159804",
                     "from-code": 404,
-                    "to": "2024-10-09 02:57:47.339605",
+                    "to": "2024-10-10 02:56:50.491280",
                     "to-code": 404
                 }
             },
@@ -273,7 +177,7 @@
                 "fail": {
                     "from": "2024-09-11 02:59:59.709935",
                     "from-code": 0,
-                    "to": "2024-10-09 03:08:09.053192",
+                    "to": "2024-10-10 03:07:25.346642",
                     "to-code": 0
                 }
             },
@@ -296,7 +200,6 @@
         "standard.publiccode.net": "failing",
         "standard.publiccode.net-develop": "failing",
         "about.publiccode.net": "failing",
-        "publiccode.net": "failing",
         "blog.publiccode.net": "failing"
     }
 }
