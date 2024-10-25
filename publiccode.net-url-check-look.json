@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-10-11 03:07:05.713919",
                     "from-code": 0,
-                    "to": "2024-10-24 03:07:55.083231",
+                    "to": "2024-10-25 03:11:09.837874",
                     "to-code": 0
                 }
             },
@@ -66,7 +66,7 @@
                 "fail": {
                     "from": "2024-10-22 02:57:46.929730",
                     "from-code": 404,
-                    "to": "2024-10-24 02:56:31.517057",
+                    "to": "2024-10-25 02:59:34.182445",
                     "to-code": 404
                 }
             },
@@ -90,22 +90,6 @@
             },
             "url": "https://digitalpublicgoods.net/registry/standard-for-public-code.html"
         },
-        "https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/": {
-            "checks": {
-                "status": 500,
-                "200": "2024-10-23 02:56:39.316252",
-                "fail": {
-                    "from": "2024-10-24 02:56:31.096986",
-                    "from-code": 500
-                }
-            },
-            "used": {
-                "publiccode.net": [
-                    "OSPO.md"
-                ]
-            },
-            "url": "https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/"
-        },
         "https://publiccode.net/codebase-stewardship": {
             "checks": {
                 "status": 404,
@@ -113,7 +97,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.000261",
                     "from-code": 404,
-                    "to": "2024-10-24 03:06:19.671666",
+                    "to": "2024-10-25 03:09:30.464735",
                     "to-code": 404
                 }
             },
