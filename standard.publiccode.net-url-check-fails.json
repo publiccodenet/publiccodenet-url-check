@@ -7,7 +7,7 @@
                 "fail": {
                     "from": "2024-10-11 03:06:35.550691",
                     "from-code": 0,
-                    "to": "2024-10-27 03:13:27.092316",
+                    "to": "2024-10-28 03:12:57.322995",
                     "to-code": 0
                 }
             },
@@ -48,7 +48,7 @@
                 "fail": {
                     "from": "2024-10-11 03:07:05.713919",
                     "from-code": 0,
-                    "to": "2024-10-27 03:13:57.535644",
+                    "to": "2024-10-28 03:13:27.366680",
                     "to-code": 0
                 }
             },
@@ -107,7 +107,7 @@
                 "fail": {
                     "from": "2024-10-22 02:57:46.929730",
                     "from-code": 404,
-                    "to": "2024-10-27 03:02:20.301965",
+                    "to": "2024-10-28 03:02:05.551241",
                     "to-code": 404
                 }
             },
@@ -138,7 +138,7 @@
                 "fail": {
                     "from": "2024-03-28 09:16:15.109413",
                     "from-code": 404,
-                    "to": "2024-10-27 03:03:41.227866",
+                    "to": "2024-10-28 03:03:03.143655",
                     "to-code": 404
                 }
             },
@@ -159,7 +159,7 @@
                 "fail": {
                     "from": "2024-08-13 02:45:28.915003",
                     "from-code": 500,
-                    "to": "2024-10-27 03:02:18.411829",
+                    "to": "2024-10-28 03:02:04.242441",
                     "to-code": 500
                 }
             },
@@ -180,7 +180,7 @@
                 "fail": {
                     "from": "2024-05-01 02:35:13.923424",
                     "from-code": 404,
-                    "to": "2024-10-27 03:02:18.945398",
+                    "to": "2024-10-28 03:02:05.341501",
                     "to-code": 404
                 }
             },
@@ -201,7 +201,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-10-27 03:12:01.829558",
+                    "to": "2024-10-28 03:11:41.665385",
                     "to-code": 0
                 }
             },
@@ -239,7 +239,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.098794",
                     "from-code": 404,
-                    "to": "2024-10-27 03:02:19.829996",
+                    "to": "2024-10-28 03:02:04.803717",
                     "to-code": 404
                 }
             },
@@ -262,7 +262,7 @@
                 "fail": {
                     "from": "2024-03-28 09:15:14.159804",
                     "from-code": 404,
-                    "to": "2024-10-27 03:02:19.989331",
+                    "to": "2024-10-28 03:02:04.877245",
                     "to-code": 404
                 }
             },
@@ -280,25 +280,6 @@
             },
             "url": "https://publiccodenet.github.io/community-translations-standard/"
         },
-        "https://reuse.software/spec/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-10-26 02:53:24.006487",
-                "fail": {
-                    "from": "2024-10-27 03:02:30.347594",
-                    "from-code": 0
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "criteria/publish-with-an-open-license.md"
-                ],
-                "standard.publiccode.net-develop": [
-                    "criteria/publish-with-an-open-license.md"
-                ]
-            },
-            "url": "https://reuse.software/spec/"
-        },
         "https://write.publiccode.net/pads/Community-Call-Standard-for-Public-Code": {
             "checks": {
                 "status": 0,
@@ -306,7 +287,7 @@
                 "fail": {
                     "from": "2024-09-11 02:59:59.709935",
                     "from-code": 0,
-                    "to": "2024-10-27 03:12:57.013920",
+                    "to": "2024-10-28 03:12:27.304986",
                     "to-code": 0
                 }
             },
@@ -323,6 +304,25 @@
                 ]
             },
             "url": "https://write.publiccode.net/pads/Community-Call-Standard-for-Public-Code"
+        },
+        "https://www.omg.org/spec/": {
+            "checks": {
+                "status": 0,
+                "200": "2024-10-27 03:02:39.774947",
+                "fail": {
+                    "from": "2024-10-28 03:02:19.656734",
+                    "from-code": 0
+                }
+            },
+            "used": {
+                "standard.publiccode.net": [
+                    "criteria/bundle-policy-and-source-code.md"
+                ],
+                "standard.publiccode.net-develop": [
+                    "criteria/bundle-policy-and-source-code.md"
+                ]
+            },
+            "url": "https://www.omg.org/spec/"
         }
     },
     "repos": {
