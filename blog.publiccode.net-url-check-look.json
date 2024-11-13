@@ -1,64 +1,5 @@
 {
     "urls": {
-        "http://purl.org/dc/elements/1.1/": {
-            "checks": {
-                "status": 0,
-                "200": "2024-10-10 03:07:56.775175",
-                "fail": {
-                    "from": "2024-10-11 03:07:05.713919",
-                    "from-code": 0,
-                    "to": "2024-11-12 03:04:46.887289",
-                    "to-code": 0
-                }
-            },
-            "used": {
-                "standard.publiccode.net": [
-                    "assets/codebase.svg",
-                    "assets/collaboration.svg",
-                    "assets/collaborative-development.svg",
-                    "assets/eco-system.svg",
-                    "assets/unlock.svg"
-                ],
-                "standard.publiccode.net-develop": [
-                    "assets/codebase.svg",
-                    "assets/collaboration.svg",
-                    "assets/collaborative-development.svg",
-                    "assets/eco-system.svg",
-                    "assets/unlock.svg"
-                ],
-                "publiccode.net": [
-                    "images/DPGA.png",
-                    "photos/codebases/circulaw/CircuLaw-logo.png",
-                    "photos/codebases/omgevingsbeleid/omgevingsbeleid_thumb_g01.png"
-                ],
-                "about.publiccode.net": [
-                    "activities/explaining-codebase-stewardship/codebase-community.svg",
-                    "activities/explaining-codebase-stewardship/codebase-product.svg",
-                    "activities/explaining-codebase-stewardship/codebase-quality.svg",
-                    "activities/explaining-codebase-stewardship/codebase-stewardship.svg",
-                    "activities/explaining-codebase-stewardship/codebase-support.svg",
-                    "activities/explaining-codebase-stewardship/codebases-scale.svg",
-                    "activities/explaining-codebase-stewardship/components.svg",
-                    "activities/explaining-codebase-stewardship/shared-codebase.svg",
-                    "activities/explaining-codebase-stewardship/shared-components.svg",
-                    "activities/live-streaming/preview-image.svg"
-                ],
-                "blog.publiccode.net": [
-                    "assets/DPGA.png",
-                    "assets/pdf-rain.png",
-                    "assets/screenshot-episode-12.png",
-                    "assets/screenshot-episode-13.png",
-                    "assets/screenshot-episode-16.png",
-                    "assets/screenshot-episode-3.png",
-                    "assets/screenshot-episode-5.png",
-                    "assets/screenshot-episode-6.png",
-                    "assets/screenshot-episode-7.png",
-                    "assets/screenshot-episode-8.png",
-                    "assets/signalen_logo.png"
-                ]
-            },
-            "url": "http://purl.org/dc/elements/1.1/"
-        },
         "https://collaboration.publiccode.net/": {
             "checks": {
                 "status": 0,
@@ -66,7 +7,7 @@
                 "fail": {
                     "from": "2024-09-11 02:49:39.501464",
                     "from-code": 0,
-                    "to": "2024-11-12 02:53:18.629679",
+                    "to": "2024-11-13 02:56:37.505648",
                     "to-code": 0
                 }
             },
@@ -87,7 +28,7 @@
                 "fail": {
                     "from": "2024-09-11 02:50:39.903605",
                     "from-code": 0,
-                    "to": "2024-11-12 02:54:18.703197",
+                    "to": "2024-11-13 02:57:37.581132",
                     "to-code": 0
                 }
             },
@@ -105,7 +46,7 @@
                 "fail": {
                     "from": "2024-09-11 02:51:10.277749",
                     "from-code": 0,
-                    "to": "2024-11-12 02:54:49.043373",
+                    "to": "2024-11-13 02:58:07.617733",
                     "to-code": 0
                 }
             },
@@ -126,7 +67,7 @@
                 "fail": {
                     "from": "2024-09-11 02:51:40.317062",
                     "from-code": 0,
-                    "to": "2024-11-12 02:55:19.080665",
+                    "to": "2024-11-13 02:58:37.855030",
                     "to-code": 0
                 }
             },
@@ -144,7 +85,7 @@
                 "fail": {
                     "from": "2024-09-11 02:52:40.653159",
                     "from-code": 0,
-                    "to": "2024-11-12 02:56:19.127583",
+                    "to": "2024-11-13 02:59:37.923539",
                     "to-code": 0
                 }
             },
@@ -162,7 +103,7 @@
                 "fail": {
                     "from": "2024-09-11 02:53:41.024771",
                     "from-code": 0,
-                    "to": "2024-11-12 02:57:19.202403",
+                    "to": "2024-11-13 03:00:38.086517",
                     "to-code": 0
                 }
             },
@@ -180,7 +121,7 @@
                 "fail": {
                     "from": "2024-09-14 02:49:42.530788",
                     "from-code": 404,
-                    "to": "2024-11-12 02:53:34.573528",
+                    "to": "2024-11-13 02:56:56.627452",
                     "to-code": 404
                 }
             },
@@ -198,7 +139,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.571656",
                     "from-code": 404,
-                    "to": "2024-11-12 02:54:08.023724",
+                    "to": "2024-11-13 02:57:25.833469",
                     "to-code": 404
                 }
             },
@@ -216,7 +157,7 @@
                 "fail": {
                     "from": "2024-03-29 02:28:23.660039",
                     "from-code": 404,
-                    "to": "2024-11-12 02:54:08.216931",
+                    "to": "2024-11-13 02:57:25.961365",
                     "to-code": 404
                 }
             },
@@ -235,7 +176,7 @@
                 "fail": {
                     "from": "2024-06-19 02:39:45.000625",
                     "from-code": 404,
-                    "to": "2024-11-12 03:01:20.379374",
+                    "to": "2024-11-13 03:04:38.611776",
                     "to-code": 0
                 }
             },
@@ -253,7 +194,7 @@
                 "fail": {
                     "from": "2024-06-19 02:39:45.351646",
                     "from-code": 404,
-                    "to": "2024-11-12 03:01:50.600894",
+                    "to": "2024-11-13 03:05:08.649107",
                     "to-code": 0
                 }
             },
@@ -271,7 +212,7 @@
                 "fail": {
                     "from": "2024-06-19 02:39:45.680044",
                     "from-code": 404,
-                    "to": "2024-11-12 03:02:20.623553",
+                    "to": "2024-11-13 03:05:38.685886",
                     "to-code": 0
                 }
             },
@@ -289,7 +230,7 @@
                 "fail": {
                     "from": "2024-01-16 02:35:55.482148",
                     "from-code": 403,
-                    "to": "2024-11-12 02:53:11.552197",
+                    "to": "2024-11-13 02:56:35.064657",
                     "to-code": 403
                 }
             },
@@ -307,7 +248,7 @@
                 "fail": {
                     "from": "2024-04-24 02:30:35.324189",
                     "from-code": 0,
-                    "to": "2024-11-12 03:02:51.916893",
+                    "to": "2024-11-13 03:06:09.166163",
                     "to-code": 0
                 }
             },
@@ -345,7 +286,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.149407",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:05.899742",
+                    "to": "2024-11-13 03:06:19.986301",
                     "to-code": 404
                 }
             },
@@ -363,7 +304,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.433763",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:06.471237",
+                    "to": "2024-11-13 03:06:20.251154",
                     "to-code": 404
                 }
             },
@@ -381,7 +322,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:21.512730",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:06.645685",
+                    "to": "2024-11-13 03:06:20.322637",
                     "to-code": 404
                 }
             },
@@ -399,7 +340,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.073170",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:07.820591",
+                    "to": "2024-11-13 03:06:21.038762",
                     "to-code": 404
                 }
             },
@@ -422,7 +363,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.137600",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:07.866427",
+                    "to": "2024-11-13 03:06:21.191793",
                     "to-code": 404
                 }
             },
@@ -451,7 +392,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.213155",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:08.015206",
+                    "to": "2024-11-13 03:06:21.272742",
                     "to-code": 404
                 }
             },
@@ -473,7 +414,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.290289",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:08.151470",
+                    "to": "2024-11-13 03:06:21.370839",
                     "to-code": 404
                 }
             },
@@ -491,7 +432,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.396502",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:08.300973",
+                    "to": "2024-11-13 03:06:21.452531",
                     "to-code": 404
                 }
             },
@@ -517,7 +458,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.463183",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:08.450690",
+                    "to": "2024-11-13 03:06:21.532521",
                     "to-code": 404
                 }
             },
@@ -542,7 +483,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.544332",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:08.596473",
+                    "to": "2024-11-13 03:06:21.606081",
                     "to-code": 404
                 }
             },
@@ -562,7 +503,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.630204",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:08.736063",
+                    "to": "2024-11-13 03:06:21.688584",
                     "to-code": 404
                 }
             },
@@ -584,7 +525,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.687479",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:08.869450",
+                    "to": "2024-11-13 03:06:21.768802",
                     "to-code": 404
                 }
             },
@@ -621,7 +562,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.757293",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:09.003812",
+                    "to": "2024-11-13 03:06:21.917041",
                     "to-code": 404
                 }
             },
@@ -641,7 +582,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.830582",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:09.141190",
+                    "to": "2024-11-13 03:06:21.996569",
                     "to-code": 404
                 }
             },
@@ -674,7 +615,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.893078",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:09.281697",
+                    "to": "2024-11-13 03:06:22.078344",
                     "to-code": 404
                 }
             },
@@ -713,7 +654,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:22.975501",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:09.421102",
+                    "to": "2024-11-13 03:06:22.146670",
                     "to-code": 404
                 }
             },
@@ -759,7 +700,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:23.121300",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:09.700159",
+                    "to": "2024-11-13 03:06:22.334479",
                     "to-code": 404
                 }
             },
@@ -777,7 +718,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:23.185784",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:09.829407",
+                    "to": "2024-11-13 03:06:22.414074",
                     "to-code": 404
                 }
             },
@@ -799,7 +740,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:23.249490",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:09.956616",
+                    "to": "2024-11-13 03:06:22.492556",
                     "to-code": 404
                 }
             },
@@ -819,7 +760,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:23.321411",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:10.160391",
+                    "to": "2024-11-13 03:06:22.576361",
                     "to-code": 404
                 }
             },
@@ -839,7 +780,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:23.384420",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:10.304789",
+                    "to": "2024-11-13 03:06:22.657058",
                     "to-code": 404
                 }
             },
@@ -872,7 +813,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:23.456870",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:10.463028",
+                    "to": "2024-11-13 03:06:22.736350",
                     "to-code": 404
                 }
             },
@@ -926,7 +867,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:23.528470",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:10.611334",
+                    "to": "2024-11-13 03:06:22.811646",
                     "to-code": 404
                 }
             },
@@ -979,7 +920,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:23.606250",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:10.743964",
+                    "to": "2024-11-13 03:06:22.905269",
                     "to-code": 404
                 }
             },
@@ -999,7 +940,7 @@
                 "fail": {
                     "from": "2024-05-24 02:35:23.672285",
                     "from-code": 404,
-                    "to": "2024-11-12 03:03:10.896465",
+                    "to": "2024-11-13 03:06:23.000272",
                     "to-code": 404
                 }
             },
@@ -1013,9 +954,8 @@
     },
     "repos": {
         "blog.publiccode.net": "failing",
+        "about.publiccode.net": "failing",
         "standard.publiccode.net": "failing",
-        "standard.publiccode.net-develop": "failing",
-        "publiccode.net": "failing",
-        "about.publiccode.net": "failing"
+        "standard.publiccode.net-develop": "failing"
     }
 }
